@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>MiniDict</title>
 
-<!-- 重新引入 Baloo 2 胖胖字體 -->
+<!-- 胖胖字體 -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&display=swap" rel="stylesheet">
@@ -32,6 +32,10 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
 .tools{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:center;margin:14px auto 0;background:#FFFFFF;border-radius:999px;padding:6px 12px;width:fit-content;max-width:100%}
 .tbtn{border-radius:999px;background:#DADBF6;padding:5px 14px;font-size:.95rem;font-weight:800}
 #status{color:#3F7F7B;font-size:.9rem}
+
+/* 確保檔案輸入框隱形但不被瀏覽器禁用 */
+.hidden-file{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0;opacity:0}
+
 .stage{margin-top:22px;min-height:260px}
 .card{background:#FFFFFF;border-radius:32px;padding:22px 20px}
 .emoji{font-size:4.5rem;line-height:1;text-align:center;display:block}
@@ -43,64 +47,4 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
 .meta{font-family:Helvetica,Arial,sans-serif;text-align:center;margin-top:6px;color:#3F7F7B;font-size:1.15rem}
 .pos{display:inline-block;background:#BFE2D3;border-radius:999px;padding:1px 12px;margin-left:8px;font-size:1rem;color:#0F6F6B}
 .zh{text-align:center;font-size:2rem;font-weight:800;margin:14px 0 4px}
-.ex{margin-top:16px;background:#F0D3CB;border-radius:20px;padding:12px 14px;display:flex;gap:10px;align-items:center}
-.ex p{margin:0}
-.ex .en{font-size:1.2rem;font-weight:800}
-.ex .cn{opacity:.8;margin-top:2px}
-.msg{text-align:center;padding:26px 12px}
-.sugs{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-top:14px}
-.near{margin-top:24px;background:#FFFFFF;border-radius:28px;padding:14px 14px 18px}
-.near h2{margin:0 0 10px;font-size:1.05rem;text-align:center}
-.chips{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
-.chip{border-radius:999px;padding:7px 14px;font-size:1.05rem;font-weight:800;background:#DADBF6}
-.chip:nth-child(3n+1){background:#F0D3CB}.chip:nth-child(3n+2){background:#BFE2D3}.chip:nth-child(3n){background:#DADBF6}
-.chip.now{background:#3F42C8;color:#FFFFFF}
-</style>
-</head>
-<body>
-<main>
-  <svg class="logo" viewBox="0 0 120 94" aria-hidden="true"><path d="M18 64A40 40 0 0 1 92 42" fill="none" stroke="#3F42C8" stroke-width="9" stroke-linecap="round"/><rect x="38" y="34" width="32" height="34" rx="14" fill="#E3B3A8" transform="rotate(-18 54 51)"/><circle cx="90" cy="64" r="8" fill="#EE7650"/><rect x="30" y="77" width="62" height="9" rx="4.5" fill="#BFE2D3"/></svg>
-  <h1>MiniDict</h1>
-  
-  <div class="search">
-    <input id="q" type="search" placeholder="輸入英文單字，例如 apple" autocomplete="off" autocapitalize="none" spellcheck="false">
-    <button class="go" id="go">查詢</button>
-  </div>
-
-  <div class="tools">
-    <button class="tbtn" id="imp" type="button">📂 匯入單字</button>
-    <button class="tbtn" id="clear" type="button" style="display:none">🧹 清除匯入</button>
-    <input id="file" type="file" accept=".csv,.json,.txt" style="display:none">
-    <span id="status"></span>
-  </div>
-  
-  <section class="stage" id="stage"></section>
-  <section class="near" id="near" style="display:none">
-    <h2>附近的單字</h2>
-    <div class="chips" id="chips"></div>
-  </section>
-</main>
-
-<script>
-if (!Array.prototype.find) {
-  Array.prototype.find = function(predicate) {
-    for (var i = 0; i < this.length; i++) {
-      if (predicate(this[i], i, this)) return this[i];
-    }
-    return undefined;
-  };
-}
-
-var WORDS = [
-["grape", "/ɡrep/", "n.", "葡萄", "I like grapes.", "我喜歡葡萄。", "🍇"],
-["because", "/bɪˈkɔz/", "conj.", "因為", "I am happy because it is Friday.", "因為今天是星期五，所以我很快樂。", ""],
-["walk", "/wɔk/", "v.", "走路", "We walk to school.", "我們走路去學校。", ""],
-["hello", "/həˈlo/", "interj.", "哈囉，你好", "Hello, Amy!", "哈囉，艾咪！", "👋"],
-["key", "/kiː/", "n.", "鑰匙", "I have a key in my pocket.", "我口袋裡有一把鑰匙。", "🔑"],
-["candy bar", "/ˈkæn.di bɑːr/", "n.", "糖果棒，巧克力棒", "Do you want a candy bar?", "你想要一根糖果棒嗎？", "🍫"],
-["comic book", "/ˈkɑː.mɪk bʊk/", "n.", "漫畫書", "He is reading an interesting comic book.", "他正在讀一本有趣的漫畫書。", "📚"],
-["comb", "/koʊm/", "n.", "扁梳", "She uses a comb to fix her hair.", "她用扁梳整理頭髮。", "🪮"],
-["coin", "/kɔɪn/", "n.", "硬幣", "There is a shiny coin on the table.", "桌上有一枚閃亮的硬幣。", "🪙"],
-["brush", "/brʌʃ/", "n.", "毛刷，髮刷", "I need a hair brush.", "我需要一把髮刷。", "🖌️"],
-["tissue", "/ˈtɪʃ.uː/", "n.", "面紙，紙巾", "Can I have a tissue, please?", "可以給我一張面紙嗎？", "🧻"],
-["watch", "/wɑːtʃ/", "n.", "手錶", "Look at my new watch.", "看我的新手錶。", "
+.ex{margin-top:16px;background:#F0D3CB;border-radius:20px;padding:12px
