@@ -4,45 +4,69 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>MiniDict</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&display=swap" rel="stylesheet">
 <style>
-/* 針對舊版 iOS 9 退回固定色值，避免 CSS 變數失效導致白屏 */
+:root{
+  --bg:#F8F4EC;--ink:#0F6F6B;--soft:#3F7F7B;--card:#FFFFFF;--rim:#FFFFFF;--red:#3F42C8;--redink:#FFFFFF;--butter:#EE7650;--mint:#BFE2D3;--pink:#F0D3CB;--lav:#DADBF6;--field:#FFFFFF;
+  box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){--bg:#10282A;--ink:#E6F4EF;--soft:#A9CFC6;--card:#1B3E3D;--rim:#1B3E3D;--red:#8C8FFF;--redink:#10282A;--butter:#F08A66;--mint:#2E6B5D;--pink:#6B4A45;--lav:#3A3F8F;--field:#163534;color-scheme:dark}
+}
+:root[data-theme="dark"]{--bg:#10282A;--ink:#E6F4EF;--soft:#A9CFC6;--card:#1B3E3D;--rim:#1B3E3D;--red:#8C8FFF;--redink:#10282A;--butter:#F08A66;--mint:#2E6B5D;--pink:#6B4A45;--lav:#3A3F8F;--field:#163534;color-scheme:dark}
 *{box-sizing:border-box}
 html{height:100%}
-body{margin:0;min-height:100%;background:#F8F4EC;color:#0F6F6B;
-  font-family:"Hiragino Maru Gothic ProN","PingFang TC","Microsoft JhengHei","Noto Sans TC",Helvetica,Arial,sans-serif}
+body{margin:0;min-height:100%;background:var(--bg);color:var(--ink);
+  font-family:"Baloo 2","jf-openhuninn","Hiragino Maru Gothic ProN","PingFang TC","Microsoft JhengHei","Noto Sans TC",system-ui,sans-serif}
+  .l0{color:#E8504A}.l1{color:#3FA46A}.l2{color:#4B7BE0}.l3{color:#F2A22E}.l4{color:#8E6FD8}
 main{max-width:640px;margin:0 auto;padding:20px 16px 40px}
 .logo{display:block;margin:4px auto 0;width:112px;height:auto}
-h1{margin:0 auto 20px;text-align:center;font-size:2.8rem;font-weight:bold;line-height:1.1;color:#0F6F6B}
+h1{margin:0 auto 20px;text-align:center;font-size:2.8rem;font-weight:800;letter-spacing:.01em;line-height:1.1;color:var(--ink)}
 .search{display:flex;gap:8px}
-.search input{flex:1;min-width:0;font:inherit;font-size:1.25rem;padding:12px 20px;border:4px solid #FFFFFF;border-radius:999px;background:#FFFFFF;color:#0F6F6B;-webkit-appearance:none}
-button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:none}
-.go{background:#3F42C8;color:#FFFFFF;border-radius:999px;padding:10px 22px;font-size:1.1rem;font-weight:bold}
-.tools{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:center;margin:14px auto 0;background:#FFFFFF;border-radius:999px;padding:6px 12px;width:fit-content;max-width:100%}
-.tbtn{border-radius:999px;background:#DADBF6;padding:5px 14px;font-size:.95rem;font-weight:bold}
-#status{color:#3F7F7B;font-size:.9rem}
+.search input{flex:1;min-width:0;font:inherit;font-size:1.25rem;padding:12px 20px;border:4px solid var(--rim);border-radius:999px;background:var(--field);color:var(--ink)}
+.search input::placeholder{color:var(--soft)}
+button{font:inherit;cursor:pointer;color:var(--ink);border:0}
+button:focus-visible,input:focus-visible{outline:4px solid var(--red);outline-offset:2px}
+.go{background:var(--red);color:var(--redink);border-radius:999px;padding:0 22px;font-size:1.1rem;font-weight:800}
+.go:active,.say:active{transform:scale(.95)}
+.tools{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:center;margin:14px auto 0;background:var(--card);border-radius:999px;padding:6px 12px;width:fit-content;max-width:100%}
+.tbtn{border-radius:999px;background:var(--lav);padding:5px 14px;font-size:.95rem;font-weight:800}
+.tbtn:active{transform:scale(.95)}
+.tbtn[hidden]{display:none}
+#status{color:var(--soft);font-size:.9rem}
 .stage{margin-top:22px;min-height:260px}
-.card{background:#FFFFFF;border-radius:32px;padding:22px 20px}
-.emoji{font-size:4.5rem;line-height:1;text-align:center;display:block}
-.pic{display:block;margin:0 auto;width:120px;height:120px;object-fit:contain}
+.card{background:var(--card);border-radius:32px;padding:22px 20px}
+.emoji{font-size:4.5rem;line-height:1;text-align:center;display:block;animation:pop .35s ease-out}
+@keyframes pop{from{transform:scale(.6) rotate(-10deg)}to{transform:scale(1) rotate(0)}}
+.emoji[hidden],.pic[hidden]{display:none}
+.pic{display:block;margin:0 auto;width:120px;height:120px;object-fit:contain;animation:pop .35s ease-out}
 .wordrow{display:flex;align-items:center;justify-content:center;gap:12px;margin-top:10px;flex-wrap:wrap}
-.word{font-size:2.6rem;font-weight:bold;margin:0;word-break:break-word;text-align:center}
-.say{background:#EE7650;border-radius:50%;width:52px;height:52px;font-size:1.5rem;flex:none}
+.word{font-size:2.6rem;font-weight:900;margin:0;word-break:break-word;text-align:center}
+.say{background:var(--butter);border-radius:50%;width:52px;height:52px;font-size:1.5rem;flex:none}
 .say.small{width:42px;height:42px;font-size:1.15rem}
-.meta{font-family:Helvetica,Arial,sans-serif;text-align:center;margin-top:6px;color:#3F7F7B;font-size:1.15rem}
-.pos{display:inline-block;background:#BFE2D3;border-radius:999px;padding:1px 12px;margin-left:8px;font-size:1rem;color:#0F6F6B}
-.zh{text-align:center;font-size:2rem;font-weight:bold;margin:14px 0 4px}
-.ex{margin-top:16px;background:#F0D3CB;border-radius:20px;padding:12px 14px;display:flex;gap:10px;align-items:center}
+.meta{font-family:system-ui,"Segoe UI","Noto Sans",sans-serif;text-align:center;margin-top:6px;color:var(--soft);font-size:1.15rem}
+.pos{display:inline-block;background:var(--mint);border-radius:999px;padding:1px 12px;margin-left:8px;font-size:1rem;color:var(--ink)}
+.zh{text-align:center;font-size:2rem;font-weight:800;margin:14px 0 4px}
+.ex{margin-top:16px;background:var(--pink);border-radius:20px;padding:12px 14px;display:flex;gap:10px;align-items:center}
 .ex p{margin:0}
-.ex .en{font-size:1.2rem;font-weight:bold}
+.ex .en{font-size:1.2rem;font-weight:800}
 .ex .cn{opacity:.8;margin-top:2px}
 .msg{text-align:center;padding:26px 12px}
+.msg .emoji{animation:none}
+.msg p{font-size:1.2rem;margin:10px 0 0}
 .sugs{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-top:14px}
-.near{margin-top:24px;background:#FFFFFF;border-radius:28px;padding:14px 14px 18px}
+.near{margin-top:24px;background:var(--card);border-radius:28px;padding:14px 14px 18px}
+.near[hidden]{display:none}
 .near h2{margin:0 0 10px;font-size:1.05rem;text-align:center}
 .chips{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
-.chip{border-radius:999px;padding:7px 14px;font-size:1.05rem;font-weight:bold;background:#DADBF6}
-.chip:nth-child(3n+1){background:#F0D3CB}.chip:nth-child(3n+2){background:#BFE2D3}.chip:nth-child(3n){background:#DADBF6}
-.chip.now{background:#3F42C8;color:#FFFFFF}
+.chip{border-radius:999px;padding:7px 14px;font-size:1.05rem;font-weight:800;background:var(--lav)}
+.chip:nth-child(3n+1){background:var(--pink)}.chip:nth-child(3n+2){background:var(--mint)}.chip:nth-child(3n){background:var(--lav)}
+.chip.now{background:var(--red);color:var(--redink)}
+.chip:active{transform:scale(.95)}
+@media (prefers-reduced-motion:reduce){.emoji,.pic{animation:none}}
+@media (max-width:420px){.word{font-size:2.2rem}.zh{font-size:1.7rem}h1{font-size:2.4rem}}
 </style>
 </head>
 <body>
@@ -50,34 +74,29 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
   <svg class="logo" viewBox="0 0 120 94" aria-hidden="true"><path d="M18 64A40 40 0 0 1 92 42" fill="none" stroke="#3F42C8" stroke-width="9" stroke-linecap="round"/><rect x="38" y="34" width="32" height="34" rx="14" fill="#E3B3A8" transform="rotate(-18 54 51)"/><circle cx="90" cy="64" r="8" fill="#EE7650"/><rect x="30" y="77" width="62" height="9" rx="4.5" fill="#BFE2D3"/></svg>
   <h1>MiniDict</h1>
   <div class="search">
-    <input id="q" type="search" placeholder="輸入英文單字，例如 apple" autocomplete="off" autocapitalize="none" spellcheck="false">
+    <input id="q" type="search" placeholder="輸入英文單字，例如 apple" autocomplete="off" autocapitalize="none" spellcheck="false" aria-label="輸入英文單字">
     <button class="go" id="go">查詢</button>
   </div>
   <div class="tools">
     <button class="tbtn" id="imp" type="button">📂 匯入單字</button>
-    <button class="tbtn" id="clear" type="button" style="display:none">🧹 清除匯入</button>
-    <input id="file" type="file" accept=".csv,.json,.txt" style="display:none">
+    <button class="tbtn" id="clear" type="button" hidden>🧹 清除匯入</button>
+    <input id="file" type="file" accept=".csv,.json,.txt,text/csv,application/json" hidden>
     <span id="status"></span>
   </div>
-  <section class="stage" id="stage"></section>
-  <section class="near" id="near" style="display:none">
+  <section class="stage" id="stage" aria-live="polite"></section>
+  <section class="near" id="near" hidden>
     <h2>附近的單字</h2>
     <div class="chips" id="chips"></div>
   </section>
 </main>
 
 <script>
-/* 相容性 Polyfill：補足舊版 Safari 缺乏的方法 */
-if (!Array.prototype.find) {
-  Array.prototype.find = function(predicate) {
-    for (var i = 0; i < this.length; i++) {
-      if (predicate(this[i], i, this)) return this[i];
-    }
-    return undefined;
-  };
-}
-
-var WORDS = [
+/* ===== 單字資料開始：要增加單字，只要替換這一整段 =====
+   每一行格式（順序就是下方「附近的單字」的前後順序）：
+   ["單字", "音標", "詞性", "中文意思", "英文例句", "例句中文", "表情符號", "圖片"],
+   「表情符號」留空會依詞性給預設圖示；「圖片」可省略，可填檔名（放在 IMG_BASE 資料夾）、網址或 data: 圖片資料。
+   注意：每行最後要有逗號，文字要用英文雙引號包起來。 */
+const WORDS = [
 ["grape", "/ɡrep/", "n.", "葡萄", "I like grapes.", "我喜歡葡萄。", "🍇"],
 ["because", "/bɪˈkɔz/", "conj.", "因為", "I am happy because it is Friday.", "因為今天是星期五，所以我很快樂。", ""],
 ["walk", "/wɔk/", "v.", "走路", "We walk to school.", "我們走路去學校。", ""],
@@ -247,4 +266,287 @@ var WORDS = [
 ["four", "/fɔːr/", "num.", "四", "A dog has four legs.", "狗有四條腿。", "4️⃣"],
 ["five", "/faɪv/", "num.", "五", "Give me a high five!", "跟我擊掌一下！", "5️⃣"],
 ["six", "/sɪks/", "num.", "六", "Six eggs are in the basket.", "籃子裡有六顆蛋。", "6️⃣"],
-["seven",
+["seven", "/ˈsev.ən/", "num.", "七", "A week has seven days.", "一個星期有七天。", "7️⃣"],
+["eight", "/eɪt/", "num.", "八", "An octopus has eight arms.", "章魚有八隻觸手。", "8️⃣"],
+["nine", "/naɪn/", "num.", "九", "Count from one to nine.", "從一數到九。", "9️⃣"],
+["ten", "/ten/", "num.", "十", "Ten fingers help me type.", "十隻手指頭幫我打字。", "🔟"],
+["eleven", "/ɪˈlev.ən/", "num.", "十一", "He scored eleven points.", "他得到了十一分。", "1️⃣1️⃣"],
+["twelve", "/twelv/", "num.", "十二", "There are twelve months in a year.", "一年有十二個月。", "1️⃣2️⃣"],
+["twenty", "/ˈtwen.ti/", "num.", "二十", "Twenty kids attend the party.", "二十個小朋友參加了派對。", "2️⃣0️⃣"],
+["hundred", "/ˈhʌn.drəd/", "num.", "一百", "One hundred cents make a dollar.", "一百分是一美元。", "💯"],
+["day", "/deɪ/", "n.", "白天；日子", "Have a wonderful day!", "祝你有美好的一天！", "☀️"],
+["night", "/naɪt/", "n.", "夜晚", "Stars shine at night.", "星星在夜晚閃閃發光。", "🌙"],
+["morning", "/ˈmɔːr.nɪŋ/", "n.", "早晨，上午", "Good morning, everyone!", "大家早安！", "🌅"],
+["afternoon", "/ˌæf.tɚˈnuːn/", "n.", "下午", "We have sports in the afternoon.", "我們下午有體育課。", "🌇"],
+["evening", "/ˈiːv.nɪŋ/", "n.", "傍晚，晚上", "We eat dinner in the evening.", "我們在傍晚吃晚餐。", "🌆"],
+["today", "/təˈdeɪ/", "n./adv.", "今天", "Today is sunny and warm.", "今天天氣晴朗溫暖。", "📅"],
+["tomorrow", "/təˈmɔːr.oʊ/", "n./adv.", "明天", "See you at school tomorrow.", "明天學校見。", "📅"],
+["yesterday", "/ˈjes.tɚ.deɪ/", "n./adv.", "昨天", "Yesterday was Sunday.", "昨天是星期日。", "📅"],
+["week", "/wiːk/", "n.", "星期，週", "See you next week.", "下週見。", "🗓️"],
+["year", "/jɪr/", "n.", "年", "Happy New Year!", "新年快樂！", "🎉"],
+["time", "/taɪm/", "n.", "時間", "What time is it now?", "現在幾點了？", "⏰"],
+["car", "/kɑːr/", "n.", "汽車", "Dad drives his blue car.", "爸爸開著他的藍色汽車。", "🚗"],
+["bus", "/bʌs/", "n.", "公車", "The yellow bus stops here.", "黃色公車停在這裡。", "🚌"],
+["bike", "/baɪk/", "n.", "腳踏車", "I ride my bike in the park.", "我在公園裡騎腳踏車。", "🚲"],
+["train", "/treɪn/", "n.", "火車", "The high-speed train is fast.", "高鐵速度很快。", "🚆"],
+["boat", "/boʊt/", "n.", "小船", "Row your boat gently.", "輕輕地划著你的小船。", "🛶"],
+["ship", "/ʃɪp/", "n.", "大輪船", "A large ship is at the harbor.", "一艘大輪船停在港口。", "🚢"],
+["plane", "/pleɪn/", "n.", "飛機", "The plane flies high in the clouds.", "飛機在高高的雲層中飛行。", "✈️"],
+["zoo", "/zuː/", "n.", "動物園", "We see monkeys at the zoo.", "我們在動物園看到猴子。", "🦁"],
+["store", "/stɔːr/", "n.", "商店", "Buy bread at the corner store.", "在轉角的商店買麵包。", "🏬"],
+["hospital", "/ˈhɑː.spɪ.t̬əl/", "n.", "醫院", "The doctor works in a hospital.", "醫生在醫院工作。", "🏥"],
+["library", "/ˈlaɪ.brer.i/", "n.", "圖書館", "Be quiet in the school library.", "在學校圖書館裡要保持安靜。", "📚"],
+["toy store", "/ˈtɔɪ ˌstɔːr/", "n.", "玩具店", "Kids love the toy store.", "孩子們都喜愛玩具店。", "🧸"],
+["see", "/siː/", "v.", "看見", "I can see birds outside.", "我看得到外面的鳥兒。", "👀"],
+["look", "/lʊk/", "v.", "看，注視", "Look at the colorful rainbow.", "看看那道美麗的彩虹。", "👀"],
+["hear", "/hɪr/", "v.", "聽見", "Can you hear the music?", "你聽得到音樂嗎？", "👂"],
+["listen", "/ˈlɪs.ən/", "v.", "傾聽", "Listen carefully to the teacher.", "仔細聽老師說話。", "🎧"],
+["eat", "/iːt/", "v.", "吃", "Eat your vegetables for health.", "多吃蔬菜有益健康。", "🍽️"],
+["drink", "/drɪŋk/", "v.", "喝", "Drink warm milk before sleep.", "睡前喝杯溫牛奶。", "🥛"],
+["sleep", "/sliːp/", "v.", "睡覺", "Cats sleep for many hours.", "貓咪每天睡很多個小時。", "😴"],
+["wake", "/weɪk/", "v.", "醒來", "Wake up early in the morning.", "早上早早醒來。", "⏰"],
+["play", "/pleɪ/", "v.", "玩耍，演奏", "We play games together.", "我們一起玩遊戲。", "🎮"],
+["run", "/rʌn/", "v.", "跑步", "Run fast to catch the ball.", "跑快一點去接球。", "🏃"],
+["jump", "/dʒʌmp/", "v.", "跳躍", "Rabbits jump very high.", "兔子跳得很高。", "🦘"],
+["swim", "/swɪm/", "v.", "游泳", "Fishes swim in the ocean.", "魚兒在大海裡游泳。", "🏊"],
+["fly", "/flaɪ/", "v.", "飛行", "Kites fly in the windy sky.", "風箏在有風的天空中飛翔。", "🪁"],
+["read", "/riːd/", "v.", "閱讀", "I read fairy tales every night.", "我每晚讀童話故事。", "📖"],
+["write", "/raɪt/", "v.", "書寫", "Write your name on this paper.", "在這張紙上寫下你的名字。", "✍️"],
+["sing", "/sɪŋ/", "v.", "唱歌", "Birds sing in the spring.", "鳥兒在春天歌唱。", "🎤"],
+["dance", "/dæns/", "v.", "跳舞", "She loves to dance with friends.", "她喜歡和朋友一起跳舞。", "💃"],
+["draw", "/drɑː/", "v.", "畫畫", "Draw a big yellow sun.", "畫一個大大的黃色太陽。", "🎨"],
+["open", "/ˈoʊ.pən/", "v.", "打開", "Open your English workbook.", "打開你的英文作業本。", "📖"],
+["close", "/kloʊz/", "v.", "關閉", "Please close the window.", "請把窗戶關上。", "🚪"],
+["stand", "/stænd/", "v.", "站立", "Stand up straight, please.", "請站直立挺。", "🧍"],
+["sit", "/sɪt/", "v.", "坐下", "Sit down on your chair.", "在椅子上坐好。", "🪑"],
+["touch", "/tʌtʃ/", "v.", "觸摸，碰", "Don't touch the wet paint.", "不要碰未乾的油漆。", "👉"],
+["go", "/ɡoʊ/", "v.", "去，前往", "Let's go to the park.", "我們去公園吧。", "🚶"],
+["come", "/kʌm/", "v.", "來", "Come here and take a look.", "過來這裡看看。", "👋"],
+["give", "/ɡɪv/", "v.", "給予", "Give me a big warm hug.", "給我一個大大的溫暖擁抱。", "🫂"],
+["take", "/teɪk/", "v.", "拿取，攜帶", "Take your umbrella with you.", "隨身帶上你的雨傘。", "🎒"],
+["help", "/help/", "v.", "幫助", "Help others when they need it.", "在別人需要時伸出援手。", "🤝"],
+["make", "/meɪk/", "v.", "製作，做", "Make a cute greeting card.", "做一張可愛的卡片。", "✂️"],
+["wash", "/wɑːʃ/", "v.", "清洗", "Wash your hands before eating.", "吃東西前要洗手。", "🧼"],
+["like", "/laɪk/", "v.", "喜歡", "I like sweet green grapes.", "我喜歡甜甜的綠葡萄。", "🍇"],
+["love", "/lʌv/", "v.", "愛，喜愛", "Parents love their children.", "父母深愛他們的孩子。", "❤️"],
+["want", "/wɑːnt/", "v.", "想要", "Do you want some warm milk?", "你想要喝點溫牛奶嗎？", "🥛"],
+["say", "/seɪ/", "v.", "說", "Say hello to your friends.", "向你的朋友們打招呼說哈囉。", "💬"],
+["tell", "/tel/", "v.", "告訴", "Tell me a bedtime story.", "告訴我一個睡前故事吧。", "🗣️"],
+["ask", "/æsk/", "v.", "詢問", "Ask the teacher if you have doubts.", "有疑惑時可以詢問老師。", "🙋"],
+["answer", "/ˈæn.sɚ/", "v./n.", "回答；答案", "Raise your hand to answer.", "舉手回答問題。", "✋"],
+["know", "/noʊ/", "v.", "知道，認識", "I know the answer to this riddle.", "我知道這個謎語的答案。", "💡"],
+["think", "/θɪŋk/", "v.", "思考，想", "Think before you speak.", "開口說話前先思考。", "🤔"],
+["find", "/faɪnd/", "v.", "找到", "Can you find my lost pencil?", "你能找到我遺失的鉛筆嗎？", "🔍"],
+["stop", "/stɑːp/", "v.", "停止", "Stop at the red traffic light.", "紅燈時請停下來。", "🛑"],
+["wait", "/weɪt/", "v.", "等待", "Wait for the green light.", "耐心等待綠燈。", "⏳"],
+["smile", "/smaɪl/", "v./n.", "微笑", "Smile and take a photo.", "微笑拍張照吧。", "😊"],
+["cry", "/kraɪ/", "v.", "哭泣", "Don't cry; everything is fine.", "別哭，一切都會很好的。", "😢"],
+["laugh", "/læf/", "v.", "笑", "Funny clowns make us laugh.", "滑稽的小丑逗得我們大笑。", "😄"],
+["wear", "/wer/", "v.", "穿，戴", "Wear a warm coat today.", "今天穿件暖和的外套吧。", "🧥"],
+["buy", "/baɪ/", "v.", "買", "Let's buy apples at the market.", "我們在市場買些蘋果吧。", "🛒"],
+["clean", "/kliːn/", "v./adj.", "打掃；乾淨的", "Clean your desk before leaving.", "離開前把桌子收拾乾淨。", "🧹"],
+["climb", "/klaɪm/", "v.", "攀爬", "Monkeys climb tall trees.", "猴子攀爬高高的樹木。", "🧗"],
+["catch", "/kætʃ/", "v.", "接住，抓住", "Catch the soft ball.", "接住這顆軟球。", "⚾"],
+["throw", "/θroʊ/", "v.", "丟，投擲", "Throw the ball to Tom.", "把球丟給湯姆。", "🏐"],
+["ride", "/raɪd/", "v.", "騎乘", "Ride a bicycle safely.", "安全地騎腳踏車。", "🚲"],
+["drive", "/draɪv/", "v.", "駕駛，開車", "Drive slowly on rainy days.", "下雨天要慢速開車。", "🚗"],
+["study", "/ˈstʌd.i/", "v.", "研讀，學習", "Students study hard at school.", "學生在學校努力學習。", "📖"],
+["learn", "/lɝːn/", "v.", "學會", "Learn new English words every day.", "每天學習新的英文單字。", "🧠"],
+["meet", "/miːt/", "v.", "遇見，見面", "Nice to meet you!", "很高興見到你！", "🤝"],
+["happy", "/ˈhæp.i/", "adj.", "快樂的", "We are happy to play outside.", "在戶外玩我們很快樂。", "😊"],
+["sad", "/sæd/", "adj.", "難過的", "Why are you sad today?", "你今天為什麼看起來很難過？", "😢"],
+["angry", "/ˈæŋ.ɡri/", "adj.", "生氣的", "Take deep breaths when angry.", "生氣時請深呼吸。", "😠"],
+["tired", "/ˈtaɪ.ɚd/", "adj.", "疲累的", "I am tired after running.", "跑步後我覺得很累。", "🥱"],
+["hungry", "/ˈhʌŋ.ɡri/", "adj.", "飢餓的", "I feel hungry before dinner.", "吃晚飯前我感到很餓。", "😋"],
+["thirsty", "/ˈθɝː.sti/", "adj.", "口渴的", "Drink water when thirsty.", "口渴時記得喝水。", "🥤"],
+["hot", "/hɑːt/", "adj.", "炎熱的，熱的", "Summer days are sunny and hot.", "夏天的日子晴朗炎熱。", "🥵"],
+["cold", "/koʊld/", "adj.", "寒冷的，冰涼的", "Winter nights are very cold.", "冬天的夜晚十分寒冷。", "🥶"],
+["warm", "/wɔːrm/", "adj.", "溫暖的", "Drink a cup of warm tea.", "喝一杯溫暖的茶。", "☕"],
+["cool", "/kuːl/", "adj.", "涼爽的；酷的", "Autumn has cool gentle breezes.", "秋天有涼爽微風。", "😎"],
+["big", "/bɪɡ/", "adj.", "大的", "Elephants have big ears.", "大象有大大的耳朵。", "🐘"],
+["small", "/smɑːl/", "adj.", "小的", "Mice have small pink noses.", "老鼠有小巧粉嫩的鼻子。", "🐁"],
+["tall", "/tɑːl/", "adj.", "高的", "Giraffes are very tall animals.", "長頸鹿是非常高大的動物。", "🦒"],
+["short", "/ʃɔːrt/", "adj.", "矮的，短的", "He wore short blue pants.", "他穿著藍色短褲。", "🩳"],
+["long", "/lɑːŋ/", "adj.", "長長的", "The train track is long.", "火車軌道長長的。", "📏"],
+["fast", "/fæst/", "adj./adv.", "快速的", "Cheetahs run very fast.", "獵豹奔跑速度非常快。", "🐆"],
+["slow", "/sloʊ/", "adj.", "緩慢的", "Turtles walk with slow steps.", "烏龜邁著緩慢的步伐。", "🐢"],
+["good", "/ɡʊd/", "adj.", "好的，棒的", "You did a good job!", "你做得非常好！", "👍"],
+["bad", "/bæd/", "adj.", "壞的，差的", "Smoking is bad for your health.", "抽菸對健康不好。", "👎"],
+["new", "/nuː/", "adj.", "嶄新的", "Look at my new schoolbag.", "看看我的新書包。", "✨"],
+["old", "/oʊld/", "adj.", "年邁的；舊的", "The old tree gives cool shade.", "老樹提供了涼爽的樹蔭。", "👴"],
+["dirty", "/ˈdɝː.t̬i/", "adj.", "骯髒的", "Wash dirty sports shoes.", "把骯髒的運動鞋洗乾淨。", "🧦"],
+["pretty", "/ˈprɪt.i/", "adj.", "漂亮的", "She picked pretty pink flowers.", "她採摘了漂亮的粉紅花朵。", "🌸"],
+["cute", "/kjuːt/", "adj.", "可愛的", "The little kitten is cute.", "那隻小貓咪非常可愛。", "🐱"],
+["strong", "/strɑːŋ/", "adj.", "強壯的", "Lions have strong paws.", "獅子擁有強壯的腳掌。", "💪"],
+["weak", "/wiːk/", "adj.", "虛弱的", "He felt weak when sick.", "他生病時感到虛弱無力。", "🤒"],
+["quiet", "/ˈkwaɪ.ət/", "adj.", "安靜的", "Please keep quiet in library.", "圖書館內請保持安靜。", "🤫"],
+["noisy", "/ˈnɔɪ.zi/", "adj.", "吵鬧的", "The busy street is noisy.", "熱鬧的街道很吵鬧。", "📢"],
+["sweet", "/swiːt/", "adj.", "甜的，芳香的", "Ripe strawberries taste sweet.", "成熟的草莓嚐起來甜甜的。", "🍓"],
+["sour", "/saʊ.ɚ/", "adj.", "酸的", "Lemons taste sour and sharp.", "檸檬嚐起來酸溜溜的。", "🍋"],
+["heavy", "/ˈhev.i/", "adj.", "沉重的", "This big suitcase is heavy.", "這個大行李箱非常沉重。", "🧳"],
+["light", "/laɪt/", "adj./n.", "輕盈的；光線", "Feathers are very light.", "羽毛非常輕盈。", "🪶"],
+["bright", "/braɪt/", "adj.", "明亮的", "The sun is bright at noon.", "正午的陽光格外明亮。", "☀️"],
+["dark", "/dɑːrk/", "adj.", "黑暗的", "The night is dark and quiet.", "夜晚又黑又安靜。", "🌑"],
+["easy", "/ˈiː.zi/", "adj.", "容易的", "This English riddle is easy.", "這個英文謎語很容易。", "👌"],
+["hard", "/hɑːrd/", "adj.", "困難的；堅硬的", "Math problems can be hard.", "有些數學題目可能很難。", "🧩"],
+["busy", "/ˈbɪz.i/", "adj.", "忙碌的", "Bees are busy collecting honey.", "蜜蜂忙著採蜜。", "🐝"],
+["ready", "/ˈred.i/", "adj.", "準備好的", "Are you ready for the game?", "你準備好要開始遊戲了嗎？", "🏁"],
+["full", "/fʊl/", "adj.", "飽足的；滿的", "I am full after eating lunch.", "吃完午餐後我好飽。", "🌕"],
+["empty", "/ˈemp.ti/", "adj.", "空的", "The cup is completely empty.", "這個杯子完全是空的。", "🥛"],
+["kind", "/kaɪnd/", "adj.", "善良親切的", "Our teacher is very kind.", "我們的老師為人非常親切。", "😇"],
+["smart", "/smɑːrt/", "adj.", "聰明的", "Dolphins are smart animals.", "海豚是聰明的動物。", "🐬"],
+["in", "/ɪn/", "prep.", "在...裡面", "The pencil is in the box.", "鉛筆在盒子裡面。", "📥"],
+["on", "/ɑːn/", "prep.", "在...上面", "The book is on the desk.", "書本在桌子上。", "🔛"],
+];
+/* ===== 單字資料結束 ===== */
+
+const $ = id => document.getElementById(id);
+const stage = $('stage'), q = $('q');
+/* 圖片資料夾：自己部署時，把圖片放在這個資料夾，單字資料的「圖片」欄只填檔名，例如 "apple.png" */
+const IMG_BASE = 'img/';
+/* 沒有專屬表情符號時，依詞性使用的預設圖示，可自行修改 */
+const POS_ICON = {'n.':'📝','v.':'🏃','adj.':'✨','adv.':'🎈','prep.':'📍','pron.':'👤','conj.':'🔗','num.':'🔢'};
+const STORE_KEY = 'kidsdict-imported-v1';
+function toEntry(r){
+  const s = i => String(r[i] == null ? '' : r[i]).trim();
+  return {w:s(0), ph:s(1), pos:s(2), zh:s(3), ex:s(4), exzh:s(5), em:s(6) || POS_ICON[s(2).split('/')[0]] || '📝', img:s(7)};
+}
+let DB = [];
+let imported = [];
+try{ imported = JSON.parse(localStorage.getItem(STORE_KEY) || '[]'); if(!Array.isArray(imported)) imported = []; }catch(e){ imported = []; }
+function rebuild(){
+  const map = new Map();
+  WORDS.concat(imported).forEach(r => { const e = toEntry(r); if(e.w) map.set(e.w.toLowerCase(), e); });
+  DB = Array.from(map.values());
+  $('near').hidden = true;
+  $('clear').hidden = !imported.length;
+  $('status').textContent = imported.length ? `共 ${DB.length} 個單字（匯入 ${imported.length} 個）` : `共 ${DB.length} 個單字`;
+}
+function parseCSV(t){
+  t = t.replace(/^\uFEFF/, '');
+  const rows = []; let row = [], cur = '', q = false;
+  for(let i = 0; i < t.length; i++){
+    const ch = t[i];
+    if(q){ if(ch === '"'){ if(t[i+1] === '"'){ cur += '"'; i++; } else q = false; } else cur += ch; }
+    else if(ch === '"') q = true;
+    else if(ch === ','){ row.push(cur); cur = ''; }
+    else if(ch === '\n' || ch === '\r'){ if(ch === '\r' && t[i+1] === '\n') i++; row.push(cur); cur = ''; rows.push(row); row = []; }
+    else cur += ch;
+  }
+  if(cur !== '' || row.length){ row.push(cur); rows.push(row); }
+  return rows;
+}
+const KEYS = [['w','word','單字'],['ph','phonetic','音標'],['pos','詞性'],['zh','meaning','中文意思'],['ex','example','英文例句'],['exzh','例句中文'],['em','emoji','表情符號'],['img','image','圖片']];
+const objRow = o => KEYS.map(ks => { const k = ks.find(k => o[k] !== undefined); return k ? o[k] : ''; });
+function pic(d){
+  const emo = `<span class="emoji" aria-hidden="true"${d.img ? ' hidden' : ''}>${esc(d.em)}</span>`;
+  if(!d.img) return emo;
+  const src = /^(data:|https?:|\/)/.test(d.img) ? d.img : IMG_BASE + d.img;
+  return `<img class="pic" src="${esc(src)}" alt="" onerror="this.hidden=true;this.nextElementSibling.hidden=false">` + emo;
+}
+
+function speak(text){
+  try{
+    const s = window.speechSynthesis; if(!s) return;
+    s.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = 'en-US'; u.rate = 0.8; u.pitch = 1.1;
+    const v = s.getVoices().find(v => /^en[-_]US/i.test(v.lang));
+    if(v) u.voice = v;
+    s.speak(u);
+  }catch(e){}
+}
+function esc(t){ return String(t).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+function showWord(d){
+  q.value = d.w;
+  stage.innerHTML = `<article class="card">
+    ${pic(d)}
+    <div class="wordrow"><h3 class="word">${esc(d.w)}</h3>
+      <button class="say" id="sayw" aria-label="聽發音">🔊</button></div>
+    <div class="meta">${esc(d.ph)}<span class="pos">${esc(d.pos)}</span></div>
+    <div class="zh">${esc(d.zh)}</div>
+    <div class="ex"><button class="say small" id="saye" aria-label="聽例句">🔊</button>
+      <div><p class="en">${esc(d.ex)}</p><p class="cn">${esc(d.exzh)}</p></div></div>
+  </article>`;
+  $('sayw').onclick = () => speak(d.w);
+  $('saye').onclick = () => speak(d.ex);
+  renderNear(d);
+  try{ stage.scrollIntoView({block:'nearest'}); }catch(e){}
+  speak(d.w);
+}
+function renderNear(d){
+  const i = DB.indexOf(d);
+  if(i < 0) return;
+  const box = $('chips'); box.innerHTML = '';
+  DB.slice(Math.max(0, i - 10), i + 11).forEach(x => {
+    const b = chip(x);
+    if(x === d) b.classList.add('now');
+    box.appendChild(b);
+  });
+  $('near').hidden = false;
+}
+function showMsg(emoji, text, list){
+  $('near').hidden = true;
+  stage.innerHTML = `<div class="card msg"><span class="emoji">${emoji}</span><p>${text}</p>
+    ${list && list.length ? '<div class="sugs"></div>' : ''}</div>`;
+  if(list && list.length){
+    const box = stage.querySelector('.sugs');
+    list.forEach(d => box.appendChild(chip(d)));
+  }
+}
+function chip(d){
+  const b = document.createElement('button');
+  b.className = 'chip'; b.textContent = d.w;
+  b.onclick = () => showWord(d);
+  return b;
+}
+function search(){
+  const t = q.value.trim().toLowerCase();
+  if(!t){ showMsg('🔍','先輸入一個英文單字吧！'); return; }
+  const hit = DB.find(d => d.w === t);
+  if(hit){ showWord(hit); return; }
+  const near = DB.filter(d => d.w.startsWith(t) || d.zh.includes(t)).slice(0,8);
+  if(near.length === 1){ showWord(near[0]); return; }
+  if(near.length){ showMsg('🤔','你是想找這些字嗎？', near); return; }
+  showMsg('🐣','這個字還沒有收進來，試試下面的單字，或檢查拼字。');
+}
+$('go').onclick = search;
+q.addEventListener('keydown', e => { if(e.key === 'Enter') search(); });
+$('imp').onclick = () => $('file').click();
+$('file').addEventListener('change', async e => {
+  const f = e.target.files[0]; e.target.value = '';
+  if(!f) return;
+  try{
+    const text = await f.text();
+    let rows;
+    if(/\.json$/i.test(f.name) || /^\s*[\[{]/.test(text)){
+      let data = JSON.parse(text);
+      if(!Array.isArray(data)) data = data.words || [];
+      rows = data.map(o => Array.isArray(o) ? o : objRow(o));
+    } else {
+      rows = parseCSV(text);
+    }
+    rows = rows.map(r => r.map(x => String(x == null ? '' : x).trim())).filter(r => r[0] && !/^(單字|word)$/i.test(r[0])).slice(0, 5000);
+    if(!rows.length){ showMsg('😵','檔案裡沒有找到單字，請確認格式。'); return; }
+    imported = rows;
+    let saved = true;
+    try{ localStorage.setItem(STORE_KEY, JSON.stringify(imported)); }catch(err){ saved = false; }
+    rebuild();
+    showMsg('🎉', `匯入完成，共 ${rows.length} 個單字！` + (saved ? '' : '（這個瀏覽器無法保存，關掉頁面後要重新匯入）'));
+  }catch(err){
+    showMsg('😵','讀取失敗，請確認檔案是 CSV 或 JSON 格式。');
+  }
+});
+$('clear').onclick = () => {
+  imported = [];
+  try{ localStorage.removeItem(STORE_KEY); }catch(err){}
+  rebuild();
+  showMsg('🧹','已清除匯入的單字，回到內建單字。');
+};
+rebuild();
+showMsg('🐣','你好！輸入英文單字，我來告訴你意思和怎麼唸。');
+if(window.speechSynthesis) window.speechSynthesis.getVoices();
+</script>
+</body>
+</html>
