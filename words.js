@@ -1,4 +1,4 @@
-const wordsData = [
+const WORDS = [
   {
     "單字": "a",
     "音標": "/eɪ/",
@@ -21770,3 +21770,6 @@ const wordsData = [
     "圖片": ""
   }
 ];
+
+var DB = WORDS;
+var wordsData = WORDS;
