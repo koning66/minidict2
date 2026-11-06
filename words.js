@@ -1,4 +1,4 @@
-const WORDS = [
+var WORDS = [
   {
     "單字": "a",
     "音標": "/eɪ/",
@@ -21771,5 +21771,5 @@ const WORDS = [
   }
 ];
 
-var DB = WORDS;
-var wordsData = WORDS;
+DB = WORDS;
+wordsData = WORDS;
