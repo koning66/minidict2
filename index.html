@@ -5,12 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>MiniDict</title>
 
-<!-- 胖胖字體 -->
+<!-- 胖胖字體 Baloo 2 -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&display=swap" rel="stylesheet">
 
-<!-- iPad / iPhone 加入主畫面桌面圖示設定 -->
+<!-- iPad / iPhone 桌面圖示設定 -->
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
@@ -33,8 +33,7 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
 .tbtn{border-radius:999px;background:#DADBF6;padding:5px 14px;font-size:.95rem;font-weight:800}
 #status{color:#3F7F7B;font-size:.9rem}
 
-/* 確保檔案輸入框隱形但不被瀏覽器禁用 */
-.hidden-file{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0;opacity:0}
+#file{position:fixed;top:-1000px;left:-1000px;opacity:0}
 
 .stage{margin-top:22px;min-height:260px}
 .card{background:#FFFFFF;border-radius:32px;padding:22px 20px}
@@ -46,5 +45,4 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
 .say.small{width:42px;height:42px;font-size:1.15rem}
 .meta{font-family:Helvetica,Arial,sans-serif;text-align:center;margin-top:6px;color:#3F7F7B;font-size:1.15rem}
 .pos{display:inline-block;background:#BFE2D3;border-radius:999px;padding:1px 12px;margin-left:8px;font-size:1rem;color:#0F6F6B}
-.zh{text-align:center;font-size:2rem;font-weight:800;margin:14px 0 4px}
-.ex{margin-top:16px;background:#F0D3CB;border-radius:20px;padding:12px
+.zh{text-align:center;font-size:2rem;font-weight:800;margin:1
