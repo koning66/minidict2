@@ -1,5 +1,13 @@
 var WORDS = [
   {
+    "w": "a",
+    "ph": "/eɪ/",
+    "pos": "art.",
+    "zh": "一個",
+    "ex": "I see a little cat.",
+    "exzh": "我看見一隻小貓。",
+    "emoji": "🐱",
+    "pic": "",
     "單字": "a",
     "音標": "/eɪ/",
     "詞性": "art.",
@@ -10,6 +18,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "a few",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is a few.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "a few",
     "音標": "",
     "詞性": "",
@@ -20,6 +36,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "a little",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is a little.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "a little",
     "音標": "",
     "詞性": "",
@@ -30,6 +54,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "a lot",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is a lot.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "a lot",
     "音標": "",
     "詞性": "",
@@ -40,6 +72,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "a.m.",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is a.m..",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "a.m.",
     "音標": "",
     "詞性": "",
@@ -50,6 +90,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "able",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is able.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "able",
     "音標": "",
     "詞性": "",
@@ -60,6 +108,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "about",
+    "ph": "/əˈbaʊt/",
+    "pos": "prep./adv.",
+    "zh": "關於；大約",
+    "ex": "Tell me about your pet.",
+    "exzh": "跟我聊聊你的寵物吧。",
+    "emoji": "🐶",
+    "pic": "",
     "單字": "about",
     "音標": "/əˈbaʊt/",
     "詞性": "prep./adv.",
@@ -70,6 +126,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "above",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is above.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "above",
     "音標": "",
     "詞性": "",
@@ -80,6 +144,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "abroad",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is abroad.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "abroad",
     "音標": "",
     "詞性": "",
@@ -90,6 +162,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "absent",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is absent.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "absent",
     "音標": "",
     "詞性": "",
@@ -100,6 +180,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "accept",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is accept.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "accept",
     "音標": "",
     "詞性": "",
@@ -110,6 +198,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "accident",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is accident.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "accident",
     "音標": "",
     "詞性": "",
@@ -120,6 +216,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "across",
+    "ph": "/əˈkrɑːs/",
+    "pos": "prep.",
+    "zh": "橫越，穿過",
+    "ex": "Walk across the street safely.",
+    "exzh": "安全地走過街道。",
+    "emoji": "🚶",
+    "pic": "",
     "單字": "across",
     "音標": "/əˈkrɑːs/",
     "詞性": "prep.",
@@ -130,6 +234,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "act",
+    "ph": "/ækt/",
+    "pos": "v.",
+    "zh": "扮演，行動",
+    "ex": "Act out the story dialogue.",
+    "exzh": "把故事裡的對話演出來。",
+    "emoji": "🎭",
+    "pic": "",
     "單字": "act",
     "音標": "/ækt/",
     "詞性": "v.",
@@ -140,6 +252,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "action",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is action.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "action",
     "音標": "",
     "詞性": "",
@@ -150,6 +270,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "active",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is active.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "active",
     "音標": "",
     "詞性": "",
@@ -160,6 +288,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "activity",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is activity.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "activity",
     "音標": "",
     "詞性": "",
@@ -170,6 +306,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "actor",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is actor.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "actor",
     "音標": "",
     "詞性": "",
@@ -180,6 +324,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "actress",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is actress.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "actress",
     "音標": "",
     "詞性": "",
@@ -190,6 +342,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "actually",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is actually.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "actually",
     "音標": "",
     "詞性": "",
@@ -200,6 +360,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "add",
+    "ph": "/æd/",
+    "pos": "v.",
+    "zh": "添加，相加",
+    "ex": "Add three and four to get seven.",
+    "exzh": "三加四等於七。",
+    "emoji": "➕",
+    "pic": "",
     "單字": "add",
     "音標": "/æd/",
     "詞性": "v.",
@@ -210,6 +378,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "address",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is address.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "address",
     "音標": "",
     "詞性": "",
@@ -220,6 +396,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "admire",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is admire.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "admire",
     "音標": "",
     "詞性": "",
@@ -230,6 +414,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "adult",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is adult.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "adult",
     "音標": "",
     "詞性": "",
@@ -240,6 +432,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "advertisement",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is advertisement.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "advertisement",
     "音標": "",
     "詞性": "",
@@ -250,6 +450,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "advice",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is advice.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "advice",
     "音標": "",
     "詞性": "",
@@ -260,6 +468,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "advise",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is advise.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "advise",
     "音標": "",
     "詞性": "",
@@ -270,6 +486,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "affect",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is affect.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "affect",
     "音標": "",
     "詞性": "",
@@ -280,6 +504,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "afraid",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is afraid.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "afraid",
     "音標": "",
     "詞性": "",
@@ -290,6 +522,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "after",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is after.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "after",
     "音標": "",
     "詞性": "",
@@ -300,6 +540,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "afternoon",
+    "ph": "/ˌæf.tɚˈnuːn/",
+    "pos": "n.",
+    "zh": "下午",
+    "ex": "We have sports in the afternoon.",
+    "exzh": "我們下午有體育課。",
+    "emoji": "🌇",
+    "pic": "",
     "單字": "afternoon",
     "音標": "/ˌæf.tɚˈnuːn/",
     "詞性": "n.",
@@ -310,6 +558,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "again",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is again.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "again",
     "音標": "",
     "詞性": "",
@@ -320,6 +576,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "against",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is against.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "against",
     "音標": "",
     "詞性": "",
@@ -330,6 +594,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "age",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is age.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "age",
     "音標": "",
     "詞性": "",
@@ -340,6 +612,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ago",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ago.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ago",
     "音標": "",
     "詞性": "",
@@ -350,6 +630,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "agree",
+    "ph": "/əˈɡriː/",
+    "pos": "v.",
+    "zh": "同意",
+    "ex": "We all agree with your idea.",
+    "exzh": "我們都同意你的想法。",
+    "emoji": "🤝",
+    "pic": "",
     "單字": "agree",
     "音標": "/əˈɡriː/",
     "詞性": "v.",
@@ -360,6 +648,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ahead",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ahead.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ahead",
     "音標": "",
     "詞性": "",
@@ -370,6 +666,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "aim",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is aim.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "aim",
     "音標": "",
     "詞性": "",
@@ -380,6 +684,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "air",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is air.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "air",
     "音標": "",
     "詞性": "",
@@ -390,6 +702,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "air conditioner",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is air conditioner.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "air conditioner",
     "音標": "",
     "詞性": "",
@@ -400,6 +720,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "airlines",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is airlines.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "airlines",
     "音標": "",
     "詞性": "",
@@ -410,6 +738,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "airplane",
+    "ph": "/ˈer.pleɪn/",
+    "pos": "n.",
+    "zh": "飛機",
+    "ex": "The airplane flies high above the clouds.",
+    "exzh": "飛機在高高的雲層上方飛行。",
+    "emoji": "✈️",
+    "pic": "",
     "單字": "airplane",
     "音標": "/ˈer.pleɪn/",
     "詞性": "n.",
@@ -420,6 +756,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "airport",
+    "ph": "/ˈer.pɔːrt/",
+    "pos": "n.",
+    "zh": "機場",
+    "ex": "Planes take off at the airport.",
+    "exzh": "飛機在機場跑道起飛。",
+    "emoji": "🛫",
+    "pic": "",
     "單字": "airport",
     "音標": "/ˈer.pɔːrt/",
     "詞性": "n.",
@@ -430,6 +774,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "alarm",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is alarm.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "alarm",
     "音標": "",
     "詞性": "",
@@ -440,6 +792,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "album",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is album.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "album",
     "音標": "",
     "詞性": "",
@@ -450,6 +810,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "alike",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is alike.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "alike",
     "音標": "",
     "詞性": "",
@@ -460,6 +828,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "alive",
+    "ph": "/əˈlaɪv/",
+    "pos": "adj.",
+    "zh": "活著的",
+    "ex": "The delicate plant is still alive.",
+    "exzh": "這株嬌嫩的植物依然活得好好的。",
+    "emoji": "🌱",
+    "pic": "",
     "單字": "alive",
     "音標": "/əˈlaɪv/",
     "詞性": "adj.",
@@ -470,6 +846,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "all",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is all.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "all",
     "音標": "",
     "詞性": "",
@@ -480,6 +864,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "alligator",
+    "ph": "/ˈæl.ə.ɡeɪ.t̬ɚ/",
+    "pos": "n.",
+    "zh": "短吻鱷",
+    "ex": "Look at the big alligator.",
+    "exzh": "看看那隻大短吻鱷。",
+    "emoji": "🐊",
+    "pic": "",
     "單字": "alligator",
     "音標": "/ˈæl.ə.ɡeɪ.t̬ɚ/",
     "詞性": "n.",
@@ -490,6 +882,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "allow",
+    "ph": "/əˈlaʊ/",
+    "pos": "v.",
+    "zh": "允許",
+    "ex": "Mom allows me to play games.",
+    "exzh": "媽媽允許我玩遊戲。",
+    "emoji": "👌",
+    "pic": "",
     "單字": "allow",
     "音標": "/əˈlaʊ/",
     "詞性": "v.",
@@ -500,6 +900,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "almost",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is almost.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "almost",
     "音標": "",
     "詞性": "",
@@ -510,6 +918,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "alone",
+    "ph": "/əˈloʊn/",
+    "pos": "adj.",
+    "zh": "獨自一人的",
+    "ex": "Never swim alone in deep rivers.",
+    "exzh": "千萬不要獨自一人在深河裡游泳。",
+    "emoji": "⚠️",
+    "pic": "",
     "單字": "alone",
     "音標": "/əˈloʊn/",
     "詞性": "adj.",
@@ -520,6 +936,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "along",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is along.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "along",
     "音標": "",
     "詞性": "",
@@ -530,6 +954,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "aloud",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is aloud.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "aloud",
     "音標": "",
     "詞性": "",
@@ -540,6 +972,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "alphabet",
+    "ph": "/ˈæl.fə.bet/",
+    "pos": "n.",
+    "zh": "英文字母表",
+    "ex": "Sing the English alphabet song.",
+    "exzh": "唱一首英文字母歌吧。",
+    "emoji": "🔤",
+    "pic": "",
     "單字": "alphabet",
     "音標": "/ˈæl.fə.bet/",
     "詞性": "n.",
@@ -550,6 +990,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "already",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is already.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "already",
     "音標": "",
     "詞性": "",
@@ -560,6 +1008,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "also",
+    "ph": "/ˈɔːl.soʊ/",
+    "pos": "adv.",
+    "zh": "也，並且",
+    "ex": "He can also play the piano.",
+    "exzh": "他也會彈鋼琴。",
+    "emoji": "🎹",
+    "pic": "",
     "單字": "also",
     "音標": "/ˈɔːl.soʊ/",
     "詞性": "adv.",
@@ -570,6 +1026,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "altogether",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is altogether.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "altogether",
     "音標": "",
     "詞性": "",
@@ -580,6 +1044,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "always",
+    "ph": "/ˈɔːl.weɪz/",
+    "pos": "adv.",
+    "zh": "總是",
+    "ex": "Always be polite to others.",
+    "exzh": "對待他人總是要有禮貌。",
+    "emoji": "😇",
+    "pic": "",
     "單字": "always",
     "音標": "/ˈɔːl.weɪz/",
     "詞性": "adv.",
@@ -590,6 +1062,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "am",
+    "ph": "/æm/",
+    "pos": "v.",
+    "zh": "是（主詞為 I）",
+    "ex": "I am ready for school.",
+    "exzh": "我準備好上學了。",
+    "emoji": "🎒",
+    "pic": "",
     "單字": "am",
     "音標": "/æm/",
     "詞性": "v.",
@@ -600,6 +1080,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ambulance",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ambulance.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ambulance",
     "音標": "",
     "詞性": "",
@@ -610,6 +1098,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "America",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is America.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "America",
     "音標": "",
     "詞性": "",
@@ -620,6 +1116,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "American",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is American.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "American",
     "音標": "",
     "詞性": "",
@@ -630,6 +1134,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "among",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is among.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "among",
     "音標": "",
     "詞性": "",
@@ -640,6 +1152,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "amount",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is amount.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "amount",
     "音標": "",
     "詞性": "",
@@ -650,6 +1170,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "an",
+    "ph": "/æn/",
+    "pos": "art.",
+    "zh": "一個（用於元音前）",
+    "ex": "She eats an orange.",
+    "exzh": "她吃了一顆柳橙。",
+    "emoji": "🍊",
+    "pic": "",
     "單字": "an",
     "音標": "/æn/",
     "詞性": "art.",
@@ -660,6 +1188,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ancient",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ancient.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ancient",
     "音標": "",
     "詞性": "",
@@ -670,6 +1206,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "and",
+    "ph": "/ænd/",
+    "pos": "conj.",
+    "zh": "和，而且",
+    "ex": "You and I are good friends.",
+    "exzh": "你和我是好朋友。",
+    "emoji": "🤝",
+    "pic": "",
     "單字": "and",
     "音標": "/ænd/",
     "詞性": "conj.",
@@ -680,6 +1224,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "angel",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is angel.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "angel",
     "音標": "",
     "詞性": "",
@@ -690,6 +1242,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "anger",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is anger.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "anger",
     "音標": "",
     "詞性": "",
@@ -700,6 +1260,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "angry",
+    "ph": "/ˈæŋ.ɡri/",
+    "pos": "adj.",
+    "zh": "生氣的",
+    "ex": "Take deep breaths when angry.",
+    "exzh": "生氣時請深呼吸。",
+    "emoji": "😠",
+    "pic": "",
     "單字": "angry",
     "音標": "/ˈæŋ.ɡri/",
     "詞性": "adj.",
@@ -710,6 +1278,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "animal",
+    "ph": "/ˈæn.ə.məl/",
+    "pos": "n.",
+    "zh": "動物",
+    "ex": "Lions and tigers are animals.",
+    "exzh": "獅子和老虎是動物。",
+    "emoji": "🐾",
+    "pic": "",
     "單字": "animal",
     "音標": "/ˈæn.ə.məl/",
     "詞性": "n.",
@@ -720,6 +1296,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ankle",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ankle.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ankle",
     "音標": "",
     "詞性": "",
@@ -730,6 +1314,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "another",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is another.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "another",
     "音標": "",
     "詞性": "",
@@ -740,6 +1332,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "answer",
+    "ph": "/ˈæn.sɚ/",
+    "pos": "v./n.",
+    "zh": "回答；答案",
+    "ex": "Raise your hand to answer.",
+    "exzh": "舉手回答問題。",
+    "emoji": "✋",
+    "pic": "",
     "單字": "answer",
     "音標": "/ˈæn.sɚ/",
     "詞性": "v./n.",
@@ -750,6 +1350,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ant",
+    "ph": "/ænt/",
+    "pos": "n.",
+    "zh": "螞蟻",
+    "ex": "Little ants carry sweet sugar.",
+    "exzh": "小螞蟻搬運甜甜的糖。",
+    "emoji": "🐜",
+    "pic": "",
     "單字": "ant",
     "音標": "/ænt/",
     "詞性": "n.",
@@ -760,6 +1368,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "any",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is any.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "any",
     "音標": "",
     "詞性": "",
@@ -770,6 +1386,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "anyone",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is anyone.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "anyone",
     "音標": "",
     "詞性": "",
@@ -780,6 +1404,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "anything",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is anything.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "anything",
     "音標": "",
     "詞性": "",
@@ -790,6 +1422,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "anywhere",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is anywhere.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "anywhere",
     "音標": "",
     "詞性": "",
@@ -800,6 +1440,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "apartment",
+    "ph": "/əˈpɑːrt.mənt/",
+    "pos": "n.",
+    "zh": "公寓大樓",
+    "ex": "Our apartment has three rooms.",
+    "exzh": "我們的公寓有三個房間。",
+    "emoji": "🏢",
+    "pic": "",
     "單字": "apartment",
     "音標": "/əˈpɑːrt.mənt/",
     "詞性": "n.",
@@ -810,6 +1458,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "apologize",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is apologize.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "apologize",
     "音標": "",
     "詞性": "",
@@ -820,6 +1476,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "appear",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is appear.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "appear",
     "音標": "",
     "詞性": "",
@@ -830,6 +1494,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "apple",
+    "ph": "/ˈæp.əl/",
+    "pos": "n.",
+    "zh": "蘋果",
+    "ex": "An apple a day keeps the doctor away.",
+    "exzh": "一天一蘋果，醫生遠離我。",
+    "emoji": "🍎",
+    "pic": "",
     "單字": "apple",
     "音標": "/ˈæp.əl/",
     "詞性": "n.",
@@ -840,6 +1512,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "appreciate",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is appreciate.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "appreciate",
     "音標": "",
     "詞性": "",
@@ -850,6 +1530,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "April",
+    "ph": "/ˈeɪ.prəl/",
+    "pos": "n.",
+    "zh": "四月",
+    "ex": "April showers bring flowers.",
+    "exzh": "四月的陣雨滋潤了花朵。",
+    "emoji": "🌧️",
+    "pic": "",
     "單字": "April",
     "音標": "/ˈeɪ.prəl/",
     "詞性": "n.",
@@ -860,6 +1548,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "are",
+    "ph": "/ɑːr/",
+    "pos": "v.",
+    "zh": "是（主詞為 you/we/they）",
+    "ex": "They are playing tag.",
+    "exzh": "他們正在玩捉迷藏。",
+    "emoji": "🏃",
+    "pic": "",
     "單字": "are",
     "音標": "/ɑːr/",
     "詞性": "v.",
@@ -870,6 +1566,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "area",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is area.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "area",
     "音標": "",
     "詞性": "",
@@ -880,6 +1584,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "argue",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is argue.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "argue",
     "音標": "",
     "詞性": "",
@@ -890,6 +1602,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "arm",
+    "ph": "/ɑːrm/",
+    "pos": "n.",
+    "zh": "手臂",
+    "ex": "Raise your right arm.",
+    "exzh": "舉起你的右手。",
+    "emoji": "💪",
+    "pic": "",
     "單字": "arm",
     "音標": "/ɑːrm/",
     "詞性": "n.",
@@ -900,6 +1620,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "armchair",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is armchair.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "armchair",
     "音標": "",
     "詞性": "",
@@ -910,6 +1638,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "army",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is army.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "army",
     "音標": "",
     "詞性": "",
@@ -920,6 +1656,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "around",
+    "ph": "/əˈraʊnd/",
+    "pos": "prep./adv.",
+    "zh": "圍繞，周圍",
+    "ex": "Run around the playground.",
+    "exzh": "繞著操場跑步。",
+    "emoji": "🏃",
+    "pic": "",
     "單字": "around",
     "音標": "/əˈraʊnd/",
     "詞性": "prep./adv.",
@@ -930,6 +1674,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "arrange",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is arrange.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "arrange",
     "音標": "",
     "詞性": "",
@@ -940,6 +1692,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "arrive",
+    "ph": "/əˈraɪv/",
+    "pos": "v.",
+    "zh": "到達，抵達",
+    "ex": "The yellow school bus arrives at eight.",
+    "exzh": "黃色校車在上午八點準時抵達學校。",
+    "emoji": "🚌",
+    "pic": "",
     "單字": "arrive",
     "音標": "/əˈraɪv/",
     "詞性": "v.",
@@ -950,6 +1710,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "art",
+    "ph": "/ɑːrt/",
+    "pos": "n.",
+    "zh": "美術，藝術",
+    "ex": "Draw animals in art class.",
+    "exzh": "在美術課上畫出各種可愛動物。",
+    "emoji": "🎨",
+    "pic": "",
     "單字": "art",
     "音標": "/ɑːrt/",
     "詞性": "n.",
@@ -960,6 +1728,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "artist",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is artist.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "artist",
     "音標": "",
     "詞性": "",
@@ -970,6 +1746,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "as",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is as.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "as",
     "音標": "",
     "詞性": "",
@@ -980,6 +1764,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ask",
+    "ph": "/æsk/",
+    "pos": "v.",
+    "zh": "詢問",
+    "ex": "Ask the teacher if you have doubts.",
+    "exzh": "有疑惑時可以詢問老師。",
+    "emoji": "🙋",
+    "pic": "",
     "單字": "ask",
     "音標": "/æsk/",
     "詞性": "v.",
@@ -990,6 +1782,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "asleep",
+    "ph": "/əˈsliːp/",
+    "pos": "adj.",
+    "zh": "睡著的",
+    "ex": "The baby is fast asleep in crib.",
+    "exzh": "小嬰兒在嬰兒床上沉沉睡著了。",
+    "emoji": "👶",
+    "pic": "",
     "單字": "asleep",
     "音標": "/əˈsliːp/",
     "詞性": "adj.",
@@ -1000,6 +1800,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "assistant",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is assistant.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "assistant",
     "音標": "",
     "詞性": "",
@@ -1010,6 +1818,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "assume",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is assume.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "assume",
     "音標": "",
     "詞性": "",
@@ -1020,6 +1836,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "at",
+    "ph": "/æt/",
+    "pos": "prep.",
+    "zh": "在（特定地點/時間）",
+    "ex": "School begins at eight.",
+    "exzh": "學校八點開始上課。",
+    "emoji": "⏰",
+    "pic": "",
     "單字": "at",
     "音標": "/æt/",
     "詞性": "prep.",
@@ -1030,6 +1854,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "attack",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is attack.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "attack",
     "音標": "",
     "詞性": "",
@@ -1040,6 +1872,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "attention",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is attention.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "attention",
     "音標": "",
     "詞性": "",
@@ -1050,6 +1890,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "August",
+    "ph": "/ɑːˈɡʌst/",
+    "pos": "n.",
+    "zh": "八月",
+    "ex": "Family trips during sunny August.",
+    "exzh": "陽光普照的八月全家出遊。",
+    "emoji": "🏖️",
+    "pic": "",
     "單字": "August",
     "音標": "/ɑːˈɡʌst/",
     "詞性": "n.",
@@ -1060,6 +1908,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "aunt",
+    "ph": "/ænt/",
+    "pos": "n.",
+    "zh": "阿姨，姑姑，嬸嬸",
+    "ex": "Aunt brought us delicious fruit.",
+    "exzh": "阿姨給我們帶來了美味的水果。",
+    "emoji": "👩",
+    "pic": "",
     "單字": "aunt",
     "音標": "/ænt/",
     "詞性": "n.",
@@ -1070,6 +1926,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "autumn",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is autumn.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "autumn",
     "音標": "",
     "詞性": "",
@@ -1080,6 +1944,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "available",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is available.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "available",
     "音標": "",
     "詞性": "",
@@ -1090,6 +1962,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "avoid",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is avoid.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "avoid",
     "音標": "",
     "詞性": "",
@@ -1100,6 +1980,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "awake",
+    "ph": "/əˈweɪk/",
+    "pos": "adj.",
+    "zh": "清醒的",
+    "ex": "Wide awake early before dawn.",
+    "exzh": "破曉前就早早清醒了過來。",
+    "emoji": "👀",
+    "pic": "",
     "單字": "awake",
     "音標": "/əˈweɪk/",
     "詞性": "adj.",
@@ -1110,6 +1998,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "away",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is away.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "away",
     "音標": "",
     "詞性": "",
@@ -1120,6 +2016,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "baby",
+    "ph": "/ˈbeɪ.bi/",
+    "pos": "n.",
+    "zh": "嬰兒",
+    "ex": "The baby is sleeping.",
+    "exzh": "小嬰兒正在睡覺。",
+    "emoji": "👶",
+    "pic": "",
     "單字": "baby",
     "音標": "/ˈbeɪ.bi/",
     "詞性": "n.",
@@ -1130,6 +2034,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "baby sitter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is baby sitter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "baby sitter",
     "音標": "",
     "詞性": "",
@@ -1140,6 +2052,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "back",
+    "ph": "/bæk/",
+    "pos": "n.",
+    "zh": "背部",
+    "ex": "Keep your back straight when sitting.",
+    "exzh": "坐著時保持背部挺直。",
+    "emoji": "🧍",
+    "pic": "",
     "單字": "back",
     "音標": "/bæk/",
     "詞性": "n.",
@@ -1150,6 +2070,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "backpack",
+    "ph": "/ˈbæk.pæk/",
+    "pos": "n.",
+    "zh": "雙肩後背包",
+    "ex": "Zip up your school backpack.",
+    "exzh": "拉上你上學用的雙肩後背包拉鍊。",
+    "emoji": "🎒",
+    "pic": "",
     "單字": "backpack",
     "音標": "/ˈbæk.pæk/",
     "詞性": "n.",
@@ -1160,6 +2088,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "backward",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is backward.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "backward",
     "音標": "",
     "詞性": "",
@@ -1170,6 +2106,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bacon",
+    "ph": "/ˈbeɪ.kən/",
+    "pos": "n.",
+    "zh": "培根",
+    "ex": "Crispy bacon smells delicious.",
+    "exzh": "香脆的培根聞起來非常誘人。",
+    "emoji": "🥓",
+    "pic": "",
     "單字": "bacon",
     "音標": "/ˈbeɪ.kən/",
     "詞性": "n.",
@@ -1180,6 +2124,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bad",
+    "ph": "/bæd/",
+    "pos": "adj.",
+    "zh": "壞的，差的",
+    "ex": "Smoking is bad for your health.",
+    "exzh": "抽菸對健康不好。",
+    "emoji": "👎",
+    "pic": "",
     "單字": "bad",
     "音標": "/bæd/",
     "詞性": "adj.",
@@ -1190,6 +2142,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "badminton",
+    "ph": "/ˈbæd.mɪn.tən/",
+    "pos": "n.",
+    "zh": "羽毛球",
+    "ex": "Play badminton in gymnasium.",
+    "exzh": "在體育館裡打羽毛球。",
+    "emoji": "🏸",
+    "pic": "",
     "單字": "badminton",
     "音標": "/ˈbæd.mɪn.tən/",
     "詞性": "n.",
@@ -1200,6 +2160,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bag",
+    "ph": "/bæɡ/",
+    "pos": "n.",
+    "zh": "書包，袋子",
+    "ex": "Put your books in the bag.",
+    "exzh": "把書放進書包裡。",
+    "emoji": "🎒",
+    "pic": "",
     "單字": "bag",
     "音標": "/bæɡ/",
     "詞性": "n.",
@@ -1210,6 +2178,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bake",
+    "ph": "/beɪk/",
+    "pos": "v.",
+    "zh": "烘烤",
+    "ex": "Bake chocolate cookies today.",
+    "exzh": "今天一起烤巧克力餅乾吧。",
+    "emoji": "🍪",
+    "pic": "",
     "單字": "bake",
     "音標": "/beɪk/",
     "詞性": "v.",
@@ -1220,6 +2196,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bakery",
+    "ph": "/ˈbeɪ.kɚ.i/",
+    "pos": "n.",
+    "zh": "麵包店",
+    "ex": "The bakery smells of hot bread.",
+    "exzh": "麵包店飄出熱騰騰的麵包香。",
+    "emoji": "🥖",
+    "pic": "",
     "單字": "bakery",
     "音標": "/ˈbeɪ.kɚ.i/",
     "詞性": "n.",
@@ -1230,6 +2214,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "balcony",
+    "ph": "/ˈbæl.kə.ni/",
+    "pos": "n.",
+    "zh": "陽台",
+    "ex": "Potted plants sit on balcony.",
+    "exzh": "盆栽植物整齊放在陽台上。",
+    "emoji": "🪴",
+    "pic": "",
     "單字": "balcony",
     "音標": "/ˈbæl.kə.ni/",
     "詞性": "n.",
@@ -1240,6 +2232,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ball",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ball.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ball",
     "音標": "",
     "詞性": "",
@@ -1250,6 +2250,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "balloon",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is balloon.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "balloon",
     "音標": "",
     "詞性": "",
@@ -1260,6 +2268,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "banana",
+    "ph": "/bəˈnæn.ə/",
+    "pos": "n.",
+    "zh": "香蕉",
+    "ex": "Monkeys love bananas.",
+    "exzh": "猴子喜愛香蕉。",
+    "emoji": "🍌",
+    "pic": "",
     "單字": "banana",
     "音標": "/bəˈnæn.ə/",
     "詞性": "n.",
@@ -1270,6 +2286,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "band",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is band.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "band",
     "音標": "",
     "詞性": "",
@@ -1280,6 +2304,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "band-aid",
+    "ph": "/ˈbænd.eɪd/",
+    "pos": "n.",
+    "zh": "OK繃，創可貼",
+    "ex": "Stick a cute band-aid on scraped finger.",
+    "exzh": "在擦傷的手指上貼一張可愛OK繃。",
+    "emoji": "🩹",
+    "pic": "",
     "單字": "band-aid",
     "音標": "/ˈbænd.eɪd/",
     "詞性": "n.",
@@ -1290,6 +2322,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bandage",
+    "ph": "/ˈbæn.dɪdʒ/",
+    "pos": "n.",
+    "zh": "繃帶",
+    "ex": "Wrap a clean white bandage on sprain.",
+    "exzh": "用乾淨的白繃帶包紮扭傷部位。",
+    "emoji": "🩹",
+    "pic": "",
     "單字": "bandage",
     "音標": "/ˈbæn.dɪdʒ/",
     "詞性": "n.",
@@ -1300,6 +2340,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bank",
+    "ph": "/bæŋk/",
+    "pos": "n.",
+    "zh": "銀行",
+    "ex": "People keep money safe in bank.",
+    "exzh": "人們在銀行安全地存錢。",
+    "emoji": "🏦",
+    "pic": "",
     "單字": "bank",
     "音標": "/bæŋk/",
     "詞性": "n.",
@@ -1310,6 +2358,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "barbecue",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is barbecue.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "barbecue",
     "音標": "",
     "詞性": "",
@@ -1320,6 +2376,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "barber",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is barber.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "barber",
     "音標": "",
     "詞性": "",
@@ -1330,6 +2394,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bark",
+    "ph": "/bɑːrk/",
+    "pos": "v./n.",
+    "zh": "吠叫",
+    "ex": "Dogs bark when happy.",
+    "exzh": "狗狗開心時會輕快吠叫。",
+    "emoji": "🐶",
+    "pic": "",
     "單字": "bark",
     "音標": "/bɑːrk/",
     "詞性": "v./n.",
@@ -1340,6 +2412,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "base",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is base.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "base",
     "音標": "",
     "詞性": "",
@@ -1350,6 +2430,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "baseball",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is baseball.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "baseball",
     "音標": "",
     "詞性": "",
@@ -1360,6 +2448,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "basement",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is basement.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "basement",
     "音標": "",
     "詞性": "",
@@ -1370,6 +2466,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "basic",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is basic.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "basic",
     "音標": "",
     "詞性": "",
@@ -1380,6 +2484,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "basket",
+    "ph": "/ˈbæs.kɪt/",
+    "pos": "n.",
+    "zh": "籃子",
+    "ex": "A basket full of ripe fruit.",
+    "exzh": "一個裝滿了成熟新鮮水果的竹籃。",
+    "emoji": "🧺",
+    "pic": "",
     "單字": "basket",
     "音標": "/ˈbæs.kɪt/",
     "詞性": "n.",
@@ -1390,6 +2502,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "basketball",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is basketball.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "basketball",
     "音標": "",
     "詞性": "",
@@ -1400,6 +2520,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bat",
+    "ph": "/bæt/",
+    "pos": "n.",
+    "zh": "蝙蝠；球棒",
+    "ex": "Bats fly at night.",
+    "exzh": "蝙蝠在夜晚飛行。",
+    "emoji": "🦇",
+    "pic": "",
     "單字": "bat",
     "音標": "/bæt/",
     "詞性": "n.",
@@ -1410,6 +2538,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bath",
+    "ph": "/bæθ/",
+    "pos": "n.",
+    "zh": "泡澡，浴盆",
+    "ex": "Take a warm relaxing bath.",
+    "exzh": "洗個舒服溫暖的熱水澡吧。",
+    "emoji": "🛁",
+    "pic": "",
     "單字": "bath",
     "音標": "/bæθ/",
     "詞性": "n.",
@@ -1420,6 +2556,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bathe",
+    "ph": "/beɪð/",
+    "pos": "v.",
+    "zh": "洗澡",
+    "ex": "Bathe the dirty dog cleanly.",
+    "exzh": "把骯髒的小狗洗得乾乾淨淨。",
+    "emoji": "🛁",
+    "pic": "",
     "單字": "bathe",
     "音標": "/beɪð/",
     "詞性": "v.",
@@ -1430,6 +2574,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bathroom",
+    "ph": "/ˈbæθ.ruːm/",
+    "pos": "n.",
+    "zh": "浴室，廁所",
+    "ex": "Wash hands in the bathroom.",
+    "exzh": "去浴室洗洗手。",
+    "emoji": "🛁",
+    "pic": "",
     "單字": "bathroom",
     "音標": "/ˈbæθ.ruːm/",
     "詞性": "n.",
@@ -1440,6 +2592,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "battery",
+    "ph": "/ˈbæt̬.ɚ.i/",
+    "pos": "n.",
+    "zh": "電池",
+    "ex": "Put a new battery into clock.",
+    "exzh": "為牆上的時鐘換上一顆全新電池。",
+    "emoji": "🔋",
+    "pic": "",
     "單字": "battery",
     "音標": "/ˈbæt̬.ɚ.i/",
     "詞性": "n.",
@@ -1450,6 +2610,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "be",
+    "ph": "/biː/",
+    "pos": "v.",
+    "zh": "是，成為",
+    "ex": "Be quiet in class.",
+    "exzh": "課堂上請保持安靜。",
+    "emoji": "🤫",
+    "pic": "",
     "單字": "be",
     "音標": "/biː/",
     "詞性": "v.",
@@ -1460,6 +2628,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "beach",
+    "ph": "/biːtʃ/",
+    "pos": "n.",
+    "zh": "海灘",
+    "ex": "Let's collect seashells on the beach.",
+    "exzh": "我們去海灘撿貝殼吧。",
+    "emoji": "🏖️",
+    "pic": "",
     "單字": "beach",
     "音標": "/biːtʃ/",
     "詞性": "n.",
@@ -1470,6 +2646,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bean",
+    "ph": "/biːn/",
+    "pos": "n.",
+    "zh": "豆子",
+    "ex": "Green beans are full of fiber.",
+    "exzh": "四季豆富含膳食纖維。",
+    "emoji": "🫘",
+    "pic": "",
     "單字": "bean",
     "音標": "/biːn/",
     "詞性": "n.",
@@ -1480,6 +2664,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bear",
+    "ph": "/ber/",
+    "pos": "n.",
+    "zh": "熊",
+    "ex": "A big brown bear catches fish.",
+    "exzh": "一隻大棕熊在抓魚。",
+    "emoji": "🐻",
+    "pic": "",
     "單字": "bear",
     "音標": "/ber/",
     "詞性": "n.",
@@ -1490,6 +2682,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "beard",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is beard.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "beard",
     "音標": "",
     "詞性": "",
@@ -1500,6 +2700,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "beat",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is beat.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "beat",
     "音標": "",
     "詞性": "",
@@ -1510,6 +2718,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "beautiful",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is beautiful.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "beautiful",
     "音標": "",
     "詞性": "",
@@ -1520,6 +2736,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "beauty",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is beauty.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "beauty",
     "音標": "",
     "詞性": "",
@@ -1530,6 +2754,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "beaver",
+    "ph": "/ˈbiː.vɚ/",
+    "pos": "n.",
+    "zh": "海狸，河狸",
+    "ex": "Busy beavers build wooden dams.",
+    "exzh": "忙碌的海狸用樹枝築起水壩。",
+    "emoji": "🦫",
+    "pic": "",
     "單字": "beaver",
     "音標": "/ˈbiː.vɚ/",
     "詞性": "n.",
@@ -1540,6 +2772,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "because",
+    "ph": "/bɪˈkɔz/",
+    "pos": "conj.",
+    "zh": "因為",
+    "ex": "I am happy because it is Friday.",
+    "exzh": "因為今天是星期五，所以我很快樂。",
+    "emoji": "",
+    "pic": "",
     "單字": "because",
     "音標": "/bɪˈkɔz/",
     "詞性": "conj.",
@@ -1550,6 +2790,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "become",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is become.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "become",
     "音標": "",
     "詞性": "",
@@ -1560,6 +2808,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bed",
+    "ph": "/bed/",
+    "pos": "n.",
+    "zh": "床",
+    "ex": "Go to bed early tonight.",
+    "exzh": "今晚早點上床睡覺。",
+    "emoji": "🛏️",
+    "pic": "",
     "單字": "bed",
     "音標": "/bed/",
     "詞性": "n.",
@@ -1570,6 +2826,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bedroom",
+    "ph": "/ˈbed.ruːm/",
+    "pos": "n.",
+    "zh": "臥室",
+    "ex": "My bedroom is cozy.",
+    "exzh": "我的臥室很舒適。",
+    "emoji": "🛏️",
+    "pic": "",
     "單字": "bedroom",
     "音標": "/ˈbed.ruːm/",
     "詞性": "n.",
@@ -1580,6 +2844,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bee",
+    "ph": "/biː/",
+    "pos": "n.",
+    "zh": "蜜蜂",
+    "ex": "The bee buzzes around flower.",
+    "exzh": "蜜蜂在花朵旁嗡嗡叫。",
+    "emoji": "🐝",
+    "pic": "",
     "單字": "bee",
     "音標": "/biː/",
     "詞性": "n.",
@@ -1590,6 +2862,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "beef",
+    "ph": "/biːf/",
+    "pos": "n.",
+    "zh": "牛肉",
+    "ex": "We had hot beef noodle soup.",
+    "exzh": "我們吃了熱騰騰的牛肉麵。",
+    "emoji": "🥩",
+    "pic": "",
     "單字": "beef",
     "音標": "/biːf/",
     "詞性": "n.",
@@ -1600,6 +2880,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "been",
+    "ph": "/bɪn/",
+    "pos": "v.",
+    "zh": "是（過去分詞）",
+    "ex": "Have you been to Taipei?",
+    "exzh": "你去過台北嗎？",
+    "emoji": "🏙️",
+    "pic": "",
     "單字": "been",
     "音標": "/bɪn/",
     "詞性": "v.",
@@ -1610,6 +2898,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "beer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is beer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "beer",
     "音標": "",
     "詞性": "",
@@ -1620,6 +2916,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "beetle",
+    "ph": "/ˈbiː.t̬əl/",
+    "pos": "n.",
+    "zh": "甲蟲",
+    "ex": "The horned beetle has a shiny black shell.",
+    "exzh": "獨角仙甲蟲有著光亮的黑色外殼。",
+    "emoji": "🪲",
+    "pic": "",
     "單字": "beetle",
     "音標": "/ˈbiː.t̬əl/",
     "詞性": "n.",
@@ -1630,6 +2934,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "before",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is before.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "before",
     "音標": "",
     "詞性": "",
@@ -1640,6 +2952,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "begin",
+    "ph": "/bɪˈɡɪn/",
+    "pos": "v.",
+    "zh": "開始",
+    "ex": "Let class begin right now.",
+    "exzh": "讓課堂現在馬上開始吧。",
+    "emoji": "🔔",
+    "pic": "",
     "單字": "begin",
     "音標": "/bɪˈɡɪn/",
     "詞性": "v.",
@@ -1650,6 +2970,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "beginner",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is beginner.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "beginner",
     "音標": "",
     "詞性": "",
@@ -1660,6 +2988,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "beginning",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is beginning.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "beginning",
     "音標": "",
     "詞性": "",
@@ -1670,6 +3006,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "behave",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is behave.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "behave",
     "音標": "",
     "詞性": "",
@@ -1680,6 +3024,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "behind",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is behind.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "behind",
     "音標": "",
     "詞性": "",
@@ -1690,6 +3042,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "believe",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is believe.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "believe",
     "音標": "",
     "詞性": "",
@@ -1700,6 +3060,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bell",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bell.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bell",
     "音標": "",
     "詞性": "",
@@ -1710,6 +3078,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "belong",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is belong.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "belong",
     "音標": "",
     "詞性": "",
@@ -1720,6 +3096,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "below",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is below.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "below",
     "音標": "",
     "詞性": "",
@@ -1730,6 +3114,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "belt",
+    "ph": "/belt/",
+    "pos": "n.",
+    "zh": "皮帶，腰帶",
+    "ex": "Fasten your leather belt.",
+    "exzh": "繫緊你的皮帶。",
+    "emoji": "🪢",
+    "pic": "",
     "單字": "belt",
     "音標": "/belt/",
     "詞性": "n.",
@@ -1740,6 +3132,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bench",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bench.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bench",
     "音標": "",
     "詞性": "",
@@ -1750,6 +3150,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "beside",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is beside.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "beside",
     "音標": "",
     "詞性": "",
@@ -1760,6 +3168,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "besides",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is besides.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "besides",
     "音標": "",
     "詞性": "",
@@ -1770,6 +3186,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "between",
+    "ph": "/bɪˈtwiːn/",
+    "pos": "prep.",
+    "zh": "在...之間",
+    "ex": "Sit between Mom and Dad.",
+    "exzh": "坐在媽媽和爸爸中間。",
+    "emoji": "👨‍👩‍👦",
+    "pic": "",
     "單字": "between",
     "音標": "/bɪˈtwiːn/",
     "詞性": "prep.",
@@ -1780,6 +3204,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "beyond",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is beyond.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "beyond",
     "音標": "",
     "詞性": "",
@@ -1790,6 +3222,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bicycle",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bicycle.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bicycle",
     "音標": "",
     "詞性": "",
@@ -1800,6 +3240,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "big",
+    "ph": "/bɪɡ/",
+    "pos": "adj.",
+    "zh": "大的",
+    "ex": "Elephants have big ears.",
+    "exzh": "大象有大大的耳朵。",
+    "emoji": "🐘",
+    "pic": "",
     "單字": "big",
     "音標": "/bɪɡ/",
     "詞性": "adj.",
@@ -1810,6 +3258,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bike",
+    "ph": "/baɪk/",
+    "pos": "n.",
+    "zh": "腳踏車",
+    "ex": "I ride my bike in the park.",
+    "exzh": "我在公園裡騎腳踏車。",
+    "emoji": "🚲",
+    "pic": "",
     "單字": "bike",
     "音標": "/baɪk/",
     "詞性": "n.",
@@ -1820,6 +3276,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bill",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bill.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bill",
     "音標": "",
     "詞性": "",
@@ -1830,6 +3294,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bin",
+    "ph": "/bɪn/",
+    "pos": "n.",
+    "zh": "垃圾箱，儲物箱",
+    "ex": "Drop empty cans into the recycle bin.",
+    "exzh": "把空鐵罐投入資源回收箱。",
+    "emoji": "🗑️",
+    "pic": "",
     "單字": "bin",
     "音標": "/bɪn/",
     "詞性": "n.",
@@ -1840,6 +3312,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "biology",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is biology.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "biology",
     "音標": "",
     "詞性": "",
@@ -1850,6 +3330,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bird",
+    "ph": "/bɝːd/",
+    "pos": "n.",
+    "zh": "鳥",
+    "ex": "A small bird sings in the tree.",
+    "exzh": "一隻小鳥在樹上唱歌。",
+    "emoji": "🐦",
+    "pic": "",
     "單字": "bird",
     "音標": "/bɝːd/",
     "詞性": "n.",
@@ -1860,6 +3348,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "birthday",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is birthday.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "birthday",
     "音標": "",
     "詞性": "",
@@ -1870,6 +3366,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "biscuit",
+    "ph": "/ˈbɪs.kɪt/",
+    "pos": "n.",
+    "zh": "小餅乾，比司吉",
+    "ex": "Dunk crunchy biscuits in milk.",
+    "exzh": "把香脆的小餅乾浸泡在牛奶裡吃。",
+    "emoji": "🍪",
+    "pic": "",
     "單字": "biscuit",
     "音標": "/ˈbɪs.kɪt/",
     "詞性": "n.",
@@ -1880,6 +3384,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bite",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bite.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bite",
     "音標": "",
     "詞性": "",
@@ -1890,6 +3402,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bitter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bitter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bitter",
     "音標": "",
     "詞性": "",
@@ -1900,6 +3420,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "black",
+    "ph": "/blæk/",
+    "pos": "adj./n.",
+    "zh": "黑色的；黑色",
+    "ex": "The cat is black.",
+    "exzh": "那隻貓是黑色的。",
+    "emoji": "⬛",
+    "pic": "",
     "單字": "black",
     "音標": "/blæk/",
     "詞性": "adj./n.",
@@ -1910,6 +3438,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "blackboard",
+    "ph": "/ˈblæk.bɔːrd/",
+    "pos": "n.",
+    "zh": "黑板",
+    "ex": "Write with white chalk on board.",
+    "exzh": "用白粉筆在黑板上寫字。",
+    "emoji": "⬛",
+    "pic": "",
     "單字": "blackboard",
     "音標": "/ˈblæk.bɔːrd/",
     "詞性": "n.",
@@ -1920,6 +3456,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "blame",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is blame.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "blame",
     "音標": "",
     "詞性": "",
@@ -1930,6 +3474,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "blank",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is blank.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "blank",
     "音標": "",
     "詞性": "",
@@ -1940,6 +3492,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "blanket",
+    "ph": "/ˈblæŋ.kɪt/",
+    "pos": "n.",
+    "zh": "毛毯，被子",
+    "ex": "Cover yourself with a warm blanket.",
+    "exzh": "天冷時給自己蓋上一條溫暖毛毯。",
+    "emoji": "🛏️",
+    "pic": "",
     "單字": "blanket",
     "音標": "/ˈblæŋ.kɪt/",
     "詞性": "n.",
@@ -1950,6 +3510,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bless",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bless.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bless",
     "音標": "",
     "詞性": "",
@@ -1960,6 +3528,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "blind",
+    "ph": "/blaɪnd/",
+    "pos": "adj.",
+    "zh": "失明的",
+    "ex": "Guide dogs assist blind walkers.",
+    "exzh": "導盲犬協助視障朋友行走。",
+    "emoji": "🦮",
+    "pic": "",
     "單字": "blind",
     "音標": "/blaɪnd/",
     "詞性": "adj.",
@@ -1970,6 +3546,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "block",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is block.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "block",
     "音標": "",
     "詞性": "",
@@ -1980,6 +3564,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "blood",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is blood.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "blood",
     "音標": "",
     "詞性": "",
@@ -1990,6 +3582,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "blouse",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is blouse.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "blouse",
     "音標": "",
     "詞性": "",
@@ -2000,6 +3600,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "blow",
+    "ph": "/bloʊ/",
+    "pos": "v.",
+    "zh": "吹拂，吹氣",
+    "ex": "Blow out birthday candles.",
+    "exzh": "吹熄蛋糕上的生日蠟燭。",
+    "emoji": "🎂",
+    "pic": "",
     "單字": "blow",
     "音標": "/bloʊ/",
     "詞性": "v.",
@@ -2010,6 +3618,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "blue",
+    "ph": "/bluː/",
+    "pos": "adj./n.",
+    "zh": "藍色的；藍色",
+    "ex": "The sky is blue today.",
+    "exzh": "今天的天空很藍。",
+    "emoji": "🔵",
+    "pic": "",
     "單字": "blue",
     "音標": "/bluː/",
     "詞性": "adj./n.",
@@ -2020,6 +3636,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "board",
+    "ph": "/bɔːrd/",
+    "pos": "n.",
+    "zh": "黑板，白板",
+    "ex": "Look at the teacher's board.",
+    "exzh": "看老師寫的板書。",
+    "emoji": "📋",
+    "pic": "",
     "單字": "board",
     "音標": "/bɔːrd/",
     "詞性": "n.",
@@ -2030,6 +3654,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "boat",
+    "ph": "/boʊt/",
+    "pos": "n.",
+    "zh": "小船",
+    "ex": "Row your boat gently.",
+    "exzh": "輕輕地划著你的小船。",
+    "emoji": "🛶",
+    "pic": "",
     "單字": "boat",
     "音標": "/boʊt/",
     "詞性": "n.",
@@ -2040,6 +3672,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "body",
+    "ph": "/ˈbɑː.di/",
+    "pos": "n.",
+    "zh": "身體",
+    "ex": "Exercise keeps your body healthy.",
+    "exzh": "運動能讓身體保持健康。",
+    "emoji": "🧍",
+    "pic": "",
     "單字": "body",
     "音標": "/ˈbɑː.di/",
     "詞性": "n.",
@@ -2050,6 +3690,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "boil",
+    "ph": "/bɔɪl/",
+    "pos": "v.",
+    "zh": "煮沸",
+    "ex": "Boil water for sweet herbal tea.",
+    "exzh": "燒開水來泡甜甜的花草茶。",
+    "emoji": "🫖",
+    "pic": "",
     "單字": "boil",
     "音標": "/bɔɪl/",
     "詞性": "v.",
@@ -2060,6 +3708,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bomb",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bomb.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bomb",
     "音標": "",
     "詞性": "",
@@ -2070,6 +3726,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bone",
+    "ph": "/boʊn/",
+    "pos": "n.",
+    "zh": "骨頭",
+    "ex": "Dogs love chewing bones.",
+    "exzh": "狗狗喜歡啃咬骨頭。",
+    "emoji": "🦴",
+    "pic": "",
     "單字": "bone",
     "音標": "/boʊn/",
     "詞性": "n.",
@@ -2080,6 +3744,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "book",
+    "ph": "/bʊk/",
+    "pos": "n.",
+    "zh": "書本",
+    "ex": "Open your English book.",
+    "exzh": "翻開你的英文書。",
+    "emoji": "📖",
+    "pic": "",
     "單字": "book",
     "音標": "/bʊk/",
     "詞性": "n.",
@@ -2090,6 +3762,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bookcase",
+    "ph": "/ˈbʊk.keɪs/",
+    "pos": "n.",
+    "zh": "書架，書櫃",
+    "ex": "The bookcase is full of novels.",
+    "exzh": "書櫃裡擺滿了故事書。",
+    "emoji": "📚",
+    "pic": "",
     "單字": "bookcase",
     "音標": "/ˈbʊk.keɪs/",
     "詞性": "n.",
@@ -2100,6 +3780,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bookmark",
+    "ph": "/ˈbʊk.mɑːrk/",
+    "pos": "n.",
+    "zh": "書籤",
+    "ex": "Place a cute bookmark on page ten.",
+    "exzh": "在第十頁放進一張可愛的書籤。",
+    "emoji": "🔖",
+    "pic": "",
     "單字": "bookmark",
     "音標": "/ˈbʊk.mɑːrk/",
     "詞性": "n.",
@@ -2110,6 +3798,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bookstore",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bookstore.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bookstore",
     "音標": "",
     "詞性": "",
@@ -2120,6 +3816,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "boots",
+    "ph": "/buːts/",
+    "pos": "n.",
+    "zh": "靴子，雨鞋",
+    "ex": "Wear yellow rain boots today.",
+    "exzh": "今天出門穿黃色雨靴吧。",
+    "emoji": "👢",
+    "pic": "",
     "單字": "boots",
     "音標": "/buːts/",
     "詞性": "n.",
@@ -2130,6 +3834,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bored",
+    "ph": "/bɔːrd/",
+    "pos": "adj.",
+    "zh": "感到無聊的",
+    "ex": "Read a riddle book when feeling bored.",
+    "exzh": "感到無聊時不妨讀一本益智謎語書。",
+    "emoji": "😑",
+    "pic": "",
     "單字": "bored",
     "音標": "/bɔːrd/",
     "詞性": "adj.",
@@ -2140,6 +3852,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "boring",
+    "ph": "/ˈbɔː.rɪŋ/",
+    "pos": "adj.",
+    "zh": "無聊的",
+    "ex": "The long movie was quite boring.",
+    "exzh": "那部漫長的電影相當沉悶無聊。",
+    "emoji": "🥱",
+    "pic": "",
     "單字": "boring",
     "音標": "/ˈbɔː.rɪŋ/",
     "詞性": "adj.",
@@ -2150,6 +3870,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "born",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is born.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "born",
     "音標": "",
     "詞性": "",
@@ -2160,6 +3888,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "borrow",
+    "ph": "/ˈbɑːr.oʊ/",
+    "pos": "v.",
+    "zh": "借入",
+    "ex": "May I borrow your color crayon?",
+    "exzh": "我可以借你的彩色蠟筆嗎？",
+    "emoji": "🖍️",
+    "pic": "",
     "單字": "borrow",
     "音標": "/ˈbɑːr.oʊ/",
     "詞性": "v.",
@@ -2170,6 +3906,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "boss",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is boss.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "boss",
     "音標": "",
     "詞性": "",
@@ -2180,6 +3924,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "both",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is both.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "both",
     "音標": "",
     "詞性": "",
@@ -2190,6 +3942,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bother",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bother.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bother",
     "音標": "",
     "詞性": "",
@@ -2200,6 +3960,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bottle",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bottle.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bottle",
     "音標": "",
     "詞性": "",
@@ -2210,6 +3978,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bottom",
+    "ph": "/ˈbɑː.t̬əm/",
+    "pos": "n./adj.",
+    "zh": "底部",
+    "ex": "Sign your name at bottom of page.",
+    "exzh": "在書頁的最下方簽上你的名字。",
+    "emoji": "⬇️",
+    "pic": "",
     "單字": "bottom",
     "音標": "/ˈbɑː.t̬əm/",
     "詞性": "n./adj.",
@@ -2220,6 +3996,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bounce",
+    "ph": "/baʊns/",
+    "pos": "v.",
+    "zh": "彈跳",
+    "ex": "Bounce the basketball five times.",
+    "exzh": "拍打籃球彈跳五次。",
+    "emoji": "🏀",
+    "pic": "",
     "單字": "bounce",
     "音標": "/baʊns/",
     "詞性": "v.",
@@ -2230,6 +4014,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bow",
+    "ph": "/boʊ/",
+    "pos": "n.",
+    "zh": "蝴蝶結，弓",
+    "ex": "She tied a pretty ribbon into a bow.",
+    "exzh": "她把緞帶綁成漂亮的蝴蝶結。",
+    "emoji": "🎀",
+    "pic": "",
     "單字": "bow",
     "音標": "/boʊ/",
     "詞性": "n.",
@@ -2240,6 +4032,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bowl",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bowl.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bowl",
     "音標": "",
     "詞性": "",
@@ -2250,6 +4050,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bowling",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bowling.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bowling",
     "音標": "",
     "詞性": "",
@@ -2260,6 +4068,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "box",
+    "ph": "/bɑːks/",
+    "pos": "n.",
+    "zh": "盒子，箱子",
+    "ex": "What is inside the gift box?",
+    "exzh": "禮物盒裡面裝了什麼？",
+    "emoji": "📦",
+    "pic": "",
     "單字": "box",
     "音標": "/bɑːks/",
     "詞性": "n.",
@@ -2270,6 +4086,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "boy",
+    "ph": "/bɔɪ/",
+    "pos": "n.",
+    "zh": "男孩",
+    "ex": "The boy is playing soccer.",
+    "exzh": "那個男孩在踢足球。",
+    "emoji": "👦",
+    "pic": "",
     "單字": "boy",
     "音標": "/bɔɪ/",
     "詞性": "n.",
@@ -2280,6 +4104,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "branch",
+    "ph": "/bræntʃ/",
+    "pos": "n.",
+    "zh": "樹枝",
+    "ex": "A squirrel hopped onto a high branch.",
+    "exzh": "小松鼠輕盈地躍上高高的樹枝。",
+    "emoji": "🪵",
+    "pic": "",
     "單字": "branch",
     "音標": "/bræntʃ/",
     "詞性": "n.",
@@ -2290,6 +4122,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "brave",
+    "ph": "/breɪv/",
+    "pos": "adj.",
+    "zh": "勇敢的",
+    "ex": "Firefighters are brave heroes.",
+    "exzh": "消防隊員是勇敢無比的英雄。",
+    "emoji": "🚒",
+    "pic": "",
     "單字": "brave",
     "音標": "/breɪv/",
     "詞性": "adj.",
@@ -2300,6 +4140,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bread",
+    "ph": "/bred/",
+    "pos": "n.",
+    "zh": "麵包",
+    "ex": "I eat bread for breakfast.",
+    "exzh": "我早餐吃麵包。",
+    "emoji": "🍞",
+    "pic": "",
     "單字": "bread",
     "音標": "/bred/",
     "詞性": "n.",
@@ -2310,6 +4158,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "break",
+    "ph": "/breɪk/",
+    "pos": "v./n.",
+    "zh": "打破；休息",
+    "ex": "Take a ten-minute recess break.",
+    "exzh": "課間下課休息十分鐘。",
+    "emoji": "☕",
+    "pic": "",
     "單字": "break",
     "音標": "/breɪk/",
     "詞性": "v./n.",
@@ -2320,6 +4176,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "breakfast",
+    "ph": "/ˈbrek.fəst/",
+    "pos": "n.",
+    "zh": "早餐",
+    "ex": "Eat breakfast every morning.",
+    "exzh": "每天早晨都要吃早餐。",
+    "emoji": "🍳",
+    "pic": "",
     "單字": "breakfast",
     "音標": "/ˈbrek.fəst/",
     "詞性": "n.",
@@ -2330,6 +4194,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "breeze",
+    "ph": "/briːz/",
+    "pos": "n.",
+    "zh": "微風",
+    "ex": "A gentle cool breeze blew softly.",
+    "exzh": "陣陣溫和涼爽的微風輕輕吹拂。",
+    "emoji": "🍃",
+    "pic": "",
     "單字": "breeze",
     "音標": "/briːz/",
     "詞性": "n.",
@@ -2340,6 +4212,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "brick",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is brick.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "brick",
     "音標": "",
     "詞性": "",
@@ -2350,6 +4230,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bridge",
+    "ph": "/brɪdʒ/",
+    "pos": "n.",
+    "zh": "橋樑",
+    "ex": "Walk safely across the pedestrian bridge.",
+    "exzh": "從人行天橋上安全地走過去。",
+    "emoji": "🌉",
+    "pic": "",
     "單字": "bridge",
     "音標": "/brɪdʒ/",
     "詞性": "n.",
@@ -2360,6 +4248,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bright",
+    "ph": "/braɪt/",
+    "pos": "adj.",
+    "zh": "明亮的",
+    "ex": "The sun is bright at noon.",
+    "exzh": "正午的陽光格外明亮。",
+    "emoji": "☀️",
+    "pic": "",
     "單字": "bright",
     "音標": "/braɪt/",
     "詞性": "adj.",
@@ -2370,6 +4266,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bring",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bring.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bring",
     "音標": "",
     "詞性": "",
@@ -2380,6 +4284,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "broad",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is broad.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "broad",
     "音標": "",
     "詞性": "",
@@ -2390,6 +4302,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "broadcast",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is broadcast.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "broadcast",
     "音標": "",
     "詞性": "",
@@ -2400,6 +4320,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "broom",
+    "ph": "/bruːm/",
+    "pos": "n.",
+    "zh": "掃帚",
+    "ex": "Sweep the dusty floor with a broom.",
+    "exzh": "用掃帚把積灰塵的地板掃乾淨。",
+    "emoji": "🧹",
+    "pic": "",
     "單字": "broom",
     "音標": "/bruːm/",
     "詞性": "n.",
@@ -2410,6 +4338,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "brother",
+    "ph": "/ˈbrʌð.ɚ/",
+    "pos": "n.",
+    "zh": "兄弟，哥哥，弟弟",
+    "ex": "I have an older brother.",
+    "exzh": "我有一個哥哥。",
+    "emoji": "👦",
+    "pic": "",
     "單字": "brother",
     "音標": "/ˈbrʌð.ɚ/",
     "詞性": "n.",
@@ -2420,6 +4356,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "brown",
+    "ph": "/braʊn/",
+    "pos": "adj./n.",
+    "zh": "棕色的；棕色",
+    "ex": "Bears have brown fur.",
+    "exzh": "熊有棕色的毛皮。",
+    "emoji": "🟫",
+    "pic": "",
     "單字": "brown",
     "音標": "/braʊn/",
     "詞性": "adj./n.",
@@ -2430,6 +4374,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "brunch",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is brunch.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "brunch",
     "音標": "",
     "詞性": "",
@@ -2440,6 +4392,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "brush",
+    "ph": "/brʌʃ/",
+    "pos": "n.",
+    "zh": "毛刷，髮刷",
+    "ex": "I need a hair brush.",
+    "exzh": "我需要一把髮刷。",
+    "emoji": "🖌️",
+    "pic": "",
     "單字": "brush",
     "音標": "/brʌʃ/",
     "詞性": "n.",
@@ -2450,6 +4410,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bucket",
+    "ph": "/ˈbʌk.ɪt/",
+    "pos": "n.",
+    "zh": "水桶",
+    "ex": "Fill yellow bucket with sea sand.",
+    "exzh": "用黃色小水桶裝滿海灘上的細沙。",
+    "emoji": "🪣",
+    "pic": "",
     "單字": "bucket",
     "音標": "/ˈbʌk.ɪt/",
     "詞性": "n.",
@@ -2460,6 +4428,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "buffet",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is buffet.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "buffet",
     "音標": "",
     "詞性": "",
@@ -2470,6 +4446,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bug",
+    "ph": "/bʌɡ/",
+    "pos": "n.",
+    "zh": "昆蟲，小蟲",
+    "ex": "There is a bug on the leaf.",
+    "exzh": "葉片上有一隻小蟲。",
+    "emoji": "🐛",
+    "pic": "",
     "單字": "bug",
     "音標": "/bʌɡ/",
     "詞性": "n.",
@@ -2480,6 +4464,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "build",
+    "ph": "/bɪld/",
+    "pos": "v.",
+    "zh": "建造，堆疊",
+    "ex": "Build a tall tower with blocks.",
+    "exzh": "用積木堆一座高高的塔。",
+    "emoji": "🧱",
+    "pic": "",
     "單字": "build",
     "音標": "/bɪld/",
     "詞性": "v.",
@@ -2490,6 +4482,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "building",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is building.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "building",
     "音標": "",
     "詞性": "",
@@ -2500,6 +4500,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bulb",
+    "ph": "/bʌlb/",
+    "pos": "n.",
+    "zh": "燈泡",
+    "ex": "Replace the burnt-out light bulb.",
+    "exzh": "更換燒壞的燈泡。",
+    "emoji": "💡",
+    "pic": "",
     "單字": "bulb",
     "音標": "/bʌlb/",
     "詞性": "n.",
@@ -2510,6 +4518,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bun",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bun.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bun",
     "音標": "",
     "詞性": "",
@@ -2520,6 +4536,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bundle",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is bundle.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "bundle",
     "音標": "",
     "詞性": "",
@@ -2530,6 +4554,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "burger",
+    "ph": "/ˈbɝː.ɡɚ/",
+    "pos": "n.",
+    "zh": "漢堡",
+    "ex": "He ordered a chicken burger.",
+    "exzh": "他點了一份雞肉漢堡。",
+    "emoji": "🍔",
+    "pic": "",
     "單字": "burger",
     "音標": "/ˈbɝː.ɡɚ/",
     "詞性": "n.",
@@ -2540,6 +4572,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "burn",
+    "ph": "/bɝːn/",
+    "pos": "v.",
+    "zh": "燃燒，燙傷",
+    "ex": "Campfires burn warm at night.",
+    "exzh": "營火在夜裡溫暖地燃燒。",
+    "emoji": "🔥",
+    "pic": "",
     "單字": "burn",
     "音標": "/bɝːn/",
     "詞性": "v.",
@@ -2550,6 +4590,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "burst",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is burst.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "burst",
     "音標": "",
     "詞性": "",
@@ -2560,6 +4608,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bus",
+    "ph": "/bʌs/",
+    "pos": "n.",
+    "zh": "公車",
+    "ex": "The yellow bus stops here.",
+    "exzh": "黃色公車停在這裡。",
+    "emoji": "🚌",
+    "pic": "",
     "單字": "bus",
     "音標": "/bʌs/",
     "詞性": "n.",
@@ -2570,6 +4626,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "bus stop",
+    "ph": "/ˈbʌs ˌstɑːp/",
+    "pos": "n.",
+    "zh": "公車站",
+    "ex": "Wait patiently for bus at bus stop.",
+    "exzh": "在公車站耐心等待公車抵達。",
+    "emoji": "🚏",
+    "pic": "",
     "單字": "bus stop",
     "音標": "/ˈbʌs ˌstɑːp/",
     "詞性": "n.",
@@ -2580,6 +4644,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "business",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is business.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "business",
     "音標": "",
     "詞性": "",
@@ -2590,6 +4662,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "businessman",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is businessman.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "businessman",
     "音標": "",
     "詞性": "",
@@ -2600,6 +4680,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "busy",
+    "ph": "/ˈbɪz.i/",
+    "pos": "adj.",
+    "zh": "忙碌的",
+    "ex": "Bees are busy collecting honey.",
+    "exzh": "蜜蜂忙著採蜜。",
+    "emoji": "🐝",
+    "pic": "",
     "單字": "busy",
     "音標": "/ˈbɪz.i/",
     "詞性": "adj.",
@@ -2610,6 +4698,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "but",
+    "ph": "/bʌt/",
+    "pos": "conj.",
+    "zh": "但是",
+    "ex": "I am tired but happy.",
+    "exzh": "我很累但是很快樂。",
+    "emoji": "😊",
+    "pic": "",
     "單字": "but",
     "音標": "/bʌt/",
     "詞性": "conj.",
@@ -2620,6 +4716,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "butter",
+    "ph": "/ˈbʌt̬.ɚ/",
+    "pos": "n.",
+    "zh": "奶油",
+    "ex": "Melt yellow butter on pancakes.",
+    "exzh": "將香濃的黃奶油融化在鬆餅上面。",
+    "emoji": "🧈",
+    "pic": "",
     "單字": "butter",
     "音標": "/ˈbʌt̬.ɚ/",
     "詞性": "n.",
@@ -2630,6 +4734,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "butterfly",
+    "ph": "/ˈbʌt̬.ɚ.flaɪ/",
+    "pos": "n.",
+    "zh": "蝴蝶",
+    "ex": "A butterfly rests on petal.",
+    "exzh": "蝴蝶停在花瓣上。",
+    "emoji": "🦋",
+    "pic": "",
     "單字": "butterfly",
     "音標": "/ˈbʌt̬.ɚ.flaɪ/",
     "詞性": "n.",
@@ -2640,6 +4752,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "button",
+    "ph": "/ˈbʌt̬.ən/",
+    "pos": "n.",
+    "zh": "鈕扣",
+    "ex": "Sew a lost button onto the shirt.",
+    "exzh": "把掉落的鈕扣縫回襯衫上。",
+    "emoji": "🔘",
+    "pic": "",
     "單字": "button",
     "音標": "/ˈbʌt̬.ən/",
     "詞性": "n.",
@@ -2650,6 +4770,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "buy",
+    "ph": "/baɪ/",
+    "pos": "v.",
+    "zh": "買",
+    "ex": "Let's buy apples at the market.",
+    "exzh": "我們在市場買些蘋果吧。",
+    "emoji": "🛒",
+    "pic": "",
     "單字": "buy",
     "音標": "/baɪ/",
     "詞性": "v.",
@@ -2660,6 +4788,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "by",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is by.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "by",
     "音標": "",
     "詞性": "",
@@ -2670,6 +4806,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cabbage",
+    "ph": "/ˈkæb.ɪdʒ/",
+    "pos": "n.",
+    "zh": "高麗菜，包心菜",
+    "ex": "Stir-fried cabbage is crunchy.",
+    "exzh": "清炒高麗菜口感清脆爽口。",
+    "emoji": "🥬",
+    "pic": "",
     "單字": "cabbage",
     "音標": "/ˈkæb.ɪdʒ/",
     "詞性": "n.",
@@ -2680,6 +4824,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cable",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cable.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cable",
     "音標": "",
     "詞性": "",
@@ -2690,6 +4842,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cafe",
+    "ph": "/kæfˈeɪ/",
+    "pos": "n.",
+    "zh": "咖啡廳",
+    "ex": "Dad drinks coffee in cozy cafe.",
+    "exzh": "爸爸在舒適的咖啡廳喝咖啡。",
+    "emoji": "☕",
+    "pic": "",
     "單字": "cafe",
     "音標": "/kæfˈeɪ/",
     "詞性": "n.",
@@ -2700,6 +4860,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cafeteria",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cafeteria.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cafeteria",
     "音標": "",
     "詞性": "",
@@ -2710,6 +4878,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cage",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cage.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cage",
     "音標": "",
     "詞性": "",
@@ -2720,6 +4896,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cake",
+    "ph": "/keɪk/",
+    "pos": "n.",
+    "zh": "蛋糕",
+    "ex": "We have a birthday cake.",
+    "exzh": "我們有一個生日蛋糕。",
+    "emoji": "🎂",
+    "pic": "",
     "單字": "cake",
     "音標": "/keɪk/",
     "詞性": "n.",
@@ -2730,6 +4914,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "calculator",
+    "ph": "/ˈkæl.kjə.leɪ.t̬ɚ/",
+    "pos": "n.",
+    "zh": "計算機",
+    "ex": "We use a calculator in math class.",
+    "exzh": "我們在數學課上使用計算機。",
+    "emoji": "🔢",
+    "pic": "",
     "單字": "calculator",
     "音標": "/ˈkæl.kjə.leɪ.t̬ɚ/",
     "詞性": "n.",
@@ -2740,6 +4932,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "calendar",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is calendar.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "calendar",
     "音標": "",
     "詞性": "",
@@ -2750,6 +4950,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "calf",
+    "ph": "/kæf/",
+    "pos": "n.",
+    "zh": "小牛",
+    "ex": "The little calf drinks milk from mother.",
+    "exzh": "小牛依偎在母牛身邊喝牛奶。",
+    "emoji": "🐮",
+    "pic": "",
     "單字": "calf",
     "音標": "/kæf/",
     "詞性": "n.",
@@ -2760,6 +4968,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "call",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is call.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "call",
     "音標": "",
     "詞性": "",
@@ -2770,6 +4986,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "calm",
+    "ph": "/kɑːm/",
+    "pos": "adj.",
+    "zh": "平靜的，冷靜的",
+    "ex": "Stay calm during school earthquake drill.",
+    "exzh": "在學校防震演習中保持冷靜。",
+    "emoji": "🧘",
+    "pic": "",
     "單字": "calm",
     "音標": "/kɑːm/",
     "詞性": "adj.",
@@ -2780,6 +5004,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "camel",
+    "ph": "/ˈkæm.əl/",
+    "pos": "n.",
+    "zh": "駱駝",
+    "ex": "The camel stores fat in its humps.",
+    "exzh": "駱駝將脂肪儲存在牠的駝峰裡面。",
+    "emoji": "🐪",
+    "pic": "",
     "單字": "camel",
     "音標": "/ˈkæm.əl/",
     "詞性": "n.",
@@ -2790,6 +5022,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "camera",
+    "ph": "/ˈkæm.rə/",
+    "pos": "n.",
+    "zh": "相機",
+    "ex": "This is a small digital camera.",
+    "exzh": "這是一台小型數位相機。",
+    "emoji": "📷",
+    "pic": "",
     "單字": "camera",
     "音標": "/ˈkæm.rə/",
     "詞性": "n.",
@@ -2800,6 +5040,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "camp",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is camp.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "camp",
     "音標": "",
     "詞性": "",
@@ -2810,6 +5058,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "campus",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is campus.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "campus",
     "音標": "",
     "詞性": "",
@@ -2820,6 +5076,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "can",
+    "ph": "/kæn/",
+    "pos": "aux.",
+    "zh": "能夠，會",
+    "ex": "I can swim and run.",
+    "exzh": "我會游泳和跑步。",
+    "emoji": "🏊",
+    "pic": "",
     "單字": "can",
     "音標": "/kæn/",
     "詞性": "aux.",
@@ -2830,6 +5094,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cancel",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cancel.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cancel",
     "音標": "",
     "詞性": "",
@@ -2840,6 +5112,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cancer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cancer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cancer",
     "音標": "",
     "詞性": "",
@@ -2850,6 +5130,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "candle",
+    "ph": "/ˈkæn.dəl/",
+    "pos": "n.",
+    "zh": "蠟燭",
+    "ex": "Light a birthday cake candle.",
+    "exzh": "點亮插在生日蛋糕上的漂亮蠟燭。",
+    "emoji": "🕯️",
+    "pic": "",
     "單字": "candle",
     "音標": "/ˈkæn.dəl/",
     "詞性": "n.",
@@ -2860,6 +5148,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "candy",
+    "ph": "/ˈkæn.di/",
+    "pos": "n.",
+    "zh": "糖果",
+    "ex": "Don't eat too much candy.",
+    "exzh": "不要吃太多的糖果。",
+    "emoji": "🍬",
+    "pic": "",
     "單字": "candy",
     "音標": "/ˈkæn.di/",
     "詞性": "n.",
@@ -2870,6 +5166,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "candy bar",
+    "ph": "/ˈkæn.di bɑːr/",
+    "pos": "n.",
+    "zh": "糖果棒，巧克力棒",
+    "ex": "Do you want a candy bar?",
+    "exzh": "你想要一根糖果棒嗎？",
+    "emoji": "🍫",
+    "pic": "",
     "單字": "candy bar",
     "音標": "/ˈkæn.di bɑːr/",
     "詞性": "n.",
@@ -2880,6 +5184,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "canteen",
+    "ph": "/kænˈtiːn/",
+    "pos": "n.",
+    "zh": "福利社，學生餐廳",
+    "ex": "Buy warm lunch at the canteen.",
+    "exzh": "在福利社買熱騰騰的午餐。",
+    "emoji": "🍱",
+    "pic": "",
     "單字": "canteen",
     "音標": "/kænˈtiːn/",
     "詞性": "n.",
@@ -2890,6 +5202,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cap",
+    "ph": "/kæp/",
+    "pos": "n.",
+    "zh": "棒球帽，鴨舌帽",
+    "ex": "He puts on his baseball cap.",
+    "exzh": "他戴上他的棒球帽。",
+    "emoji": "🧢",
+    "pic": "",
     "單字": "cap",
     "音標": "/kæp/",
     "詞性": "n.",
@@ -2900,6 +5220,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "captain",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is captain.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "captain",
     "音標": "",
     "詞性": "",
@@ -2910,6 +5238,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "car",
+    "ph": "/kɑːr/",
+    "pos": "n.",
+    "zh": "汽車",
+    "ex": "Dad drives his blue car.",
+    "exzh": "爸爸開著他的藍色汽車。",
+    "emoji": "🚗",
+    "pic": "",
     "單字": "car",
     "音標": "/kɑːr/",
     "詞性": "n.",
@@ -2920,6 +5256,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "card",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is card.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "card",
     "音標": "",
     "詞性": "",
@@ -2930,6 +5274,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "care",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is care.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "care",
     "音標": "",
     "詞性": "",
@@ -2940,6 +5292,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "careful",
+    "ph": "/ˈker.fəl/",
+    "pos": "adj.",
+    "zh": "小心的，細心的",
+    "ex": "Be careful when crossing busy roads.",
+    "exzh": "過車潮擁擠的馬路時要格外小心注意。",
+    "emoji": "⚠️",
+    "pic": "",
     "單字": "careful",
     "音標": "/ˈker.fəl/",
     "詞性": "adj.",
@@ -2950,6 +5310,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "careless",
+    "ph": "/ˈker.ləs/",
+    "pos": "adj.",
+    "zh": "粗心的，大意的",
+    "ex": "Don't lose your keys through careless habits.",
+    "exzh": "別因為粗心大意的壞習慣把鑰匙弄丟了。",
+    "emoji": "🤦",
+    "pic": "",
     "單字": "careless",
     "音標": "/ˈker.ləs/",
     "詞性": "adj.",
@@ -2960,6 +5328,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "carpet",
+    "ph": "/ˈkɑːr.pɪt/",
+    "pos": "n.",
+    "zh": "地毯",
+    "ex": "Sit comfortably on the carpet.",
+    "exzh": "舒服地坐在地毯上。",
+    "emoji": "🛋️",
+    "pic": "",
     "單字": "carpet",
     "音標": "/ˈkɑːr.pɪt/",
     "詞性": "n.",
@@ -2970,6 +5346,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "carrot",
+    "ph": "/ˈker.ət/",
+    "pos": "n.",
+    "zh": "胡蘿蔔",
+    "ex": "Rabbits love crunchy carrots.",
+    "exzh": "兔子喜歡清脆的胡蘿蔔。",
+    "emoji": "🥕",
+    "pic": "",
     "單字": "carrot",
     "音標": "/ˈker.ət/",
     "詞性": "n.",
@@ -2980,6 +5364,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "carry",
+    "ph": "/ˈker.i/",
+    "pos": "v.",
+    "zh": "攜帶，提著",
+    "ex": "Carry your bag to school.",
+    "exzh": "提著你的包包去上學。",
+    "emoji": "🎒",
+    "pic": "",
     "單字": "carry",
     "音標": "/ˈker.i/",
     "詞性": "v.",
@@ -2990,6 +5382,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cart",
+    "ph": "/kɑːrt/",
+    "pos": "n.",
+    "zh": "手推車，推車",
+    "ex": "Put the groceries into the cart.",
+    "exzh": "把採買的物品放進手推車裡。",
+    "emoji": "🛒",
+    "pic": "",
     "單字": "cart",
     "音標": "/kɑːrt/",
     "詞性": "n.",
@@ -3000,6 +5400,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cartoon",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cartoon.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cartoon",
     "音標": "",
     "詞性": "",
@@ -3010,6 +5418,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "case",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is case.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "case",
     "音標": "",
     "詞性": "",
@@ -3020,6 +5436,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cash",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cash.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cash",
     "音標": "",
     "詞性": "",
@@ -3030,6 +5454,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cassette",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cassette.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cassette",
     "音標": "",
     "詞性": "",
@@ -3040,6 +5472,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "castle",
+    "ph": "/ˈkæs.əl/",
+    "pos": "n.",
+    "zh": "城堡",
+    "ex": "The fairy tale king lived in stone castle.",
+    "exzh": "童話裡的國王居住在堅固的石造城堡中。",
+    "emoji": "🏰",
+    "pic": "",
     "單字": "castle",
     "音標": "/ˈkæs.əl/",
     "詞性": "n.",
@@ -3050,6 +5490,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cat",
+    "ph": "/kæt/",
+    "pos": "n.",
+    "zh": "貓",
+    "ex": "The cat is sleeping on the sofa.",
+    "exzh": "貓咪在沙發上睡覺。",
+    "emoji": "🐱",
+    "pic": "",
     "單字": "cat",
     "音標": "/kæt/",
     "詞性": "n.",
@@ -3060,6 +5508,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "catch",
+    "ph": "/kætʃ/",
+    "pos": "v.",
+    "zh": "接住，抓住",
+    "ex": "Catch the soft ball.",
+    "exzh": "接住這顆軟球。",
+    "emoji": "⚾",
+    "pic": "",
     "單字": "catch",
     "音標": "/kætʃ/",
     "詞性": "v.",
@@ -3070,6 +5526,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "caterpillar",
+    "ph": "/ˈkæt̬.ɚ.pɪl.ɚ/",
+    "pos": "n.",
+    "zh": "毛毛蟲",
+    "ex": "The green caterpillar will become a butterfly.",
+    "exzh": "綠色毛毛蟲將來會羽化成蝴蝶。",
+    "emoji": "🐛",
+    "pic": "",
     "單字": "caterpillar",
     "音標": "/ˈkæt̬.ɚ.pɪl.ɚ/",
     "詞性": "n.",
@@ -3080,6 +5544,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cause",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cause.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cause",
     "音標": "",
     "詞性": "",
@@ -3090,6 +5562,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cave",
+    "ph": "/keɪv/",
+    "pos": "n.",
+    "zh": "洞穴",
+    "ex": "Bears sleep inside the cozy cave.",
+    "exzh": "大熊在溫暖的洞穴裡冬眠。",
+    "emoji": "🕳️",
+    "pic": "",
     "單字": "cave",
     "音標": "/keɪv/",
     "詞性": "n.",
@@ -3100,6 +5580,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ceiling",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ceiling.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ceiling",
     "音標": "",
     "詞性": "",
@@ -3110,6 +5598,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "celebrate",
+    "ph": "/ˈsel.ə.breɪt/",
+    "pos": "v.",
+    "zh": "慶祝",
+    "ex": "Celebrate New Year with family dinner.",
+    "exzh": "與家人一起吃團圓飯歡度慶祝新年。",
+    "emoji": "🎉",
+    "pic": "",
     "單字": "celebrate",
     "音標": "/ˈsel.ə.breɪt/",
     "詞性": "v.",
@@ -3120,6 +5616,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cellphone",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cellphone.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cellphone",
     "音標": "",
     "詞性": "",
@@ -3130,6 +5634,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cent",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cent.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cent",
     "音標": "",
     "詞性": "",
@@ -3140,6 +5652,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "center",
+    "ph": "/ˈsen.t̬ɚ/",
+    "pos": "n.",
+    "zh": "中心，中央",
+    "ex": "The fountain is in the center of park.",
+    "exzh": "噴水池坐落於整個公園的正中心。",
+    "emoji": "🎯",
+    "pic": "",
     "單字": "center",
     "音標": "/ˈsen.t̬ɚ/",
     "詞性": "n.",
@@ -3150,6 +5670,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "centimeter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is centimeter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "centimeter",
     "音標": "",
     "詞性": "",
@@ -3160,6 +5688,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "central",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is central.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "central",
     "音標": "",
     "詞性": "",
@@ -3170,6 +5706,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "century",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is century.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "century",
     "音標": "",
     "詞性": "",
@@ -3180,6 +5724,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cereal",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cereal.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cereal",
     "音標": "",
     "詞性": "",
@@ -3190,6 +5742,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "certain",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is certain.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "certain",
     "音標": "",
     "詞性": "",
@@ -3200,6 +5760,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "chair",
+    "ph": "/tʃer/",
+    "pos": "n.",
+    "zh": "椅子",
+    "ex": "Please sit on the chair.",
+    "exzh": "請坐在椅子上。",
+    "emoji": "🪑",
+    "pic": "",
     "單字": "chair",
     "音標": "/tʃer/",
     "詞性": "n.",
@@ -3210,6 +5778,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "chalk",
+    "ph": "/tʃɑːk/",
+    "pos": "n.",
+    "zh": "粉筆",
+    "ex": "The teacher wrote with white chalk.",
+    "exzh": "老師用白粉筆在黑板上書寫。",
+    "emoji": "🖍️",
+    "pic": "",
     "單字": "chalk",
     "音標": "/tʃɑːk/",
     "詞性": "n.",
@@ -3220,6 +5796,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "chance",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is chance.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "chance",
     "音標": "",
     "詞性": "",
@@ -3230,6 +5814,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "change",
+    "ph": "/tʃeɪndʒ/",
+    "pos": "v./n.",
+    "zh": "改變；零錢",
+    "ex": "Change into clean clothes.",
+    "exzh": "換上乾淨舒適的衣服。",
+    "emoji": "👕",
+    "pic": "",
     "單字": "change",
     "音標": "/tʃeɪndʒ/",
     "詞性": "v./n.",
@@ -3240,6 +5832,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "channel",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is channel.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "channel",
     "音標": "",
     "詞性": "",
@@ -3250,6 +5850,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "character",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is character.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "character",
     "音標": "",
     "詞性": "",
@@ -3260,6 +5868,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "charge",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is charge.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "charge",
     "音標": "",
     "詞性": "",
@@ -3270,6 +5886,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "chart",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is chart.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "chart",
     "音標": "",
     "詞性": "",
@@ -3280,6 +5904,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "chase",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is chase.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "chase",
     "音標": "",
     "詞性": "",
@@ -3290,6 +5922,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cheap",
+    "ph": "/tʃiːp/",
+    "pos": "adj.",
+    "zh": "便宜的",
+    "ex": "Apples are cheap during harvest.",
+    "exzh": "盛產季節的水果相當便宜實惠。",
+    "emoji": "🍎",
+    "pic": "",
     "單字": "cheap",
     "音標": "/tʃiːp/",
     "詞性": "adj.",
@@ -3300,6 +5940,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cheat",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cheat.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cheat",
     "音標": "",
     "詞性": "",
@@ -3310,6 +5958,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "check",
+    "ph": "/tʃek/",
+    "pos": "v.",
+    "zh": "檢查",
+    "ex": "Check your test answers carefully.",
+    "exzh": "仔細檢查你的測驗答案。",
+    "emoji": "✔️",
+    "pic": "",
     "單字": "check",
     "音標": "/tʃek/",
     "詞性": "v.",
@@ -3320,6 +5976,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cheer",
+    "ph": "/tʃɪr/",
+    "pos": "v.",
+    "zh": "歡呼，加油",
+    "ex": "Cheer loudly for your team.",
+    "exzh": "大聲為你的隊伍加油歡呼。",
+    "emoji": "📣",
+    "pic": "",
     "單字": "cheer",
     "音標": "/tʃɪr/",
     "詞性": "v.",
@@ -3330,6 +5994,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cheese",
+    "ph": "/tʃiːz/",
+    "pos": "n.",
+    "zh": "起司",
+    "ex": "Mice love yellow cheese.",
+    "exzh": "老鼠喜歡黃色起司。",
+    "emoji": "🧀",
+    "pic": "",
     "單字": "cheese",
     "音標": "/tʃiːz/",
     "詞性": "n.",
@@ -3340,6 +6012,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "chemistry",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is chemistry.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "chemistry",
     "音標": "",
     "詞性": "",
@@ -3350,6 +6030,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cherry",
+    "ph": "/ˈtʃer.i/",
+    "pos": "n.",
+    "zh": "櫻桃",
+    "ex": "Top the ice cream with a red cherry.",
+    "exzh": "在冰淇淋上方點綴一顆鮮紅櫻桃。",
+    "emoji": "🍒",
+    "pic": "",
     "單字": "cherry",
     "音標": "/ˈtʃer.i/",
     "詞性": "n.",
@@ -3360,6 +6048,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "chess",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is chess.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "chess",
     "音標": "",
     "詞性": "",
@@ -3370,6 +6066,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "chest",
+    "ph": "/tʃest/",
+    "pos": "n.",
+    "zh": "胸部，胸膛",
+    "ex": "Take a deep breath into chest.",
+    "exzh": "深深吸一口氣進入胸膛。",
+    "emoji": "🫁",
+    "pic": "",
     "單字": "chest",
     "音標": "/tʃest/",
     "詞性": "n.",
@@ -3380,6 +6084,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "chick",
+    "ph": "/tʃɪk/",
+    "pos": "n.",
+    "zh": "小雞",
+    "ex": "Fluffy yellow chicks follow their mother.",
+    "exzh": "黃澄澄毛茸茸的小雞跟著母雞走。",
+    "emoji": "🐥",
+    "pic": "",
     "單字": "chick",
     "音標": "/tʃɪk/",
     "詞性": "n.",
@@ -3390,6 +6102,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "chicken",
+    "ph": "/ˈtʃɪk.ɪn/",
+    "pos": "n.",
+    "zh": "雞；雞肉",
+    "ex": "The chicken lays eggs.",
+    "exzh": "母雞會下蛋。",
+    "emoji": "🐔",
+    "pic": "",
     "單字": "chicken",
     "音標": "/ˈtʃɪk.ɪn/",
     "詞性": "n.",
@@ -3400,6 +6120,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "child",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is child.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "child",
     "音標": "",
     "詞性": "",
@@ -3410,6 +6138,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "childhood",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is childhood.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "childhood",
     "音標": "",
     "詞性": "",
@@ -3420,6 +6156,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "childish",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is childish.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "childish",
     "音標": "",
     "詞性": "",
@@ -3430,6 +6174,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "childlike",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is childlike.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "childlike",
     "音標": "",
     "詞性": "",
@@ -3440,6 +6192,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "chin",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is chin.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "chin",
     "音標": "",
     "詞性": "",
@@ -3450,6 +6210,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "China",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is China.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "China",
     "音標": "",
     "詞性": "",
@@ -3460,6 +6228,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Chinese",
+    "ph": "/tʃaɪˈniːz/",
+    "pos": "n.",
+    "zh": "中文，國語",
+    "ex": "Write Chinese characters neatly.",
+    "exzh": "把中文字寫得工整漂亮。",
+    "emoji": "🇹🇼",
+    "pic": "",
     "單字": "Chinese",
     "音標": "/tʃaɪˈniːz/",
     "詞性": "n.",
@@ -3470,6 +6246,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "chocolate",
+    "ph": "/ˈtʃɑːk.lət/",
+    "pos": "n.",
+    "zh": "巧克力",
+    "ex": "A piece of chocolate tastes rich.",
+    "exzh": "一片巧克力嚐起來濃郁香甜。",
+    "emoji": "🍫",
+    "pic": "",
     "單字": "chocolate",
     "音標": "/ˈtʃɑːk.lət/",
     "詞性": "n.",
@@ -3480,6 +6264,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "choice",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is choice.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "choice",
     "音標": "",
     "詞性": "",
@@ -3490,6 +6282,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "choose",
+    "ph": "/tʃuːz/",
+    "pos": "v.",
+    "zh": "選擇",
+    "ex": "Choose your favorite flavor.",
+    "exzh": "選擇你最喜歡的口味。",
+    "emoji": "👉",
+    "pic": "",
     "單字": "choose",
     "音標": "/tʃuːz/",
     "詞性": "v.",
@@ -3500,6 +6300,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "chopsticks",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is chopsticks.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "chopsticks",
     "音標": "",
     "詞性": "",
@@ -3510,6 +6318,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Christmas",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is Christmas.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "Christmas",
     "音標": "",
     "詞性": "",
@@ -3520,6 +6336,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "chubby",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is chubby.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "chubby",
     "音標": "",
     "詞性": "",
@@ -3530,6 +6354,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "church",
+    "ph": "/tʃɝːtʃ/",
+    "pos": "n.",
+    "zh": "教堂",
+    "ex": "The church bell chimes on Sunday morning.",
+    "exzh": "週日早晨教堂的鐘聲悠揚響起。",
+    "emoji": "⛪",
+    "pic": "",
     "單字": "church",
     "音標": "/tʃɝːtʃ/",
     "詞性": "n.",
@@ -3540,6 +6372,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cinema",
+    "ph": "/ˈsɪn.ə.mə/",
+    "pos": "n.",
+    "zh": "電影院",
+    "ex": "Watch an animated movie at cinema.",
+    "exzh": "去電影院看一場動畫電影。",
+    "emoji": "🎬",
+    "pic": "",
     "單字": "cinema",
     "音標": "/ˈsɪn.ə.mə/",
     "詞性": "n.",
@@ -3550,6 +6390,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "circle",
+    "ph": "/ˈsɝː.kəl/",
+    "pos": "v./n.",
+    "zh": "畫圈；圓圈",
+    "ex": "Circle the correct English letter.",
+    "exzh": "圈出正確的英文字母。",
+    "emoji": "⭕",
+    "pic": "",
     "單字": "circle",
     "音標": "/ˈsɝː.kəl/",
     "詞性": "v./n.",
@@ -3560,6 +6408,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "circus",
+    "ph": "/ˈsɝː.kəs/",
+    "pos": "n.",
+    "zh": "馬戲團",
+    "ex": "Clowns and acrobats perform at circus.",
+    "exzh": "小丑和雜技演員在馬戲團裡演出。",
+    "emoji": "🎪",
+    "pic": "",
     "單字": "circus",
     "音標": "/ˈsɝː.kəs/",
     "詞性": "n.",
@@ -3570,6 +6426,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "city",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is city.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "city",
     "音標": "",
     "詞性": "",
@@ -3580,6 +6444,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "clap",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is clap.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "clap",
     "音標": "",
     "詞性": "",
@@ -3590,6 +6462,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "class",
+    "ph": "/klæs/",
+    "pos": "n.",
+    "zh": "班級；課程",
+    "ex": "Class is about to begin.",
+    "exzh": "馬上就要開始上課了。",
+    "emoji": "🔔",
+    "pic": "",
     "單字": "class",
     "音標": "/klæs/",
     "詞性": "n.",
@@ -3600,6 +6480,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "classical",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is classical.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "classical",
     "音標": "",
     "詞性": "",
@@ -3610,6 +6498,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "classmate",
+    "ph": "/ˈklæs.meɪt/",
+    "pos": "n.",
+    "zh": "同班同學",
+    "ex": "My classmate lent me a pen.",
+    "exzh": "我的同學借了我一支筆。",
+    "emoji": "🧑‍🤝‍🧑",
+    "pic": "",
     "單字": "classmate",
     "音標": "/ˈklæs.meɪt/",
     "詞性": "n.",
@@ -3620,6 +6516,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "classroom",
+    "ph": "/ˈklæs.ruːm/",
+    "pos": "n.",
+    "zh": "教室",
+    "ex": "Our classroom is bright and clean.",
+    "exzh": "我們的教室既明亮又乾淨。",
+    "emoji": "🏫",
+    "pic": "",
     "單字": "classroom",
     "音標": "/ˈklæs.ruːm/",
     "詞性": "n.",
@@ -3630,6 +6534,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "clean",
+    "ph": "/kliːn/",
+    "pos": "v./adj.",
+    "zh": "打掃；乾淨的",
+    "ex": "Clean your desk before leaving.",
+    "exzh": "離開前把桌子收拾乾淨。",
+    "emoji": "🧹",
+    "pic": "",
     "單字": "clean",
     "音標": "/kliːn/",
     "詞性": "v./adj.",
@@ -3640,6 +6552,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "clear",
+    "ph": "/klɪr/",
+    "pos": "adj.",
+    "zh": "清澈的，清楚的",
+    "ex": "The mountain stream water is clear.",
+    "exzh": "高山溪流的水質清澈見底。",
+    "emoji": "💧",
+    "pic": "",
     "單字": "clear",
     "音標": "/klɪr/",
     "詞性": "adj.",
@@ -3650,6 +6570,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "clerk",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is clerk.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "clerk",
     "音標": "",
     "詞性": "",
@@ -3660,6 +6588,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "clever",
+    "ph": "/ˈklev.ɚ/",
+    "pos": "adj.",
+    "zh": "聰明的，靈巧的",
+    "ex": "The clever monkey peeled banana.",
+    "exzh": "聰明伶俐的猴子剝開了香蕉皮。",
+    "emoji": "🐒",
+    "pic": "",
     "單字": "clever",
     "音標": "/ˈklev.ɚ/",
     "詞性": "adj.",
@@ -3670,6 +6606,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "climate",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is climate.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "climate",
     "音標": "",
     "詞性": "",
@@ -3680,6 +6624,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "climb",
+    "ph": "/klaɪm/",
+    "pos": "v.",
+    "zh": "攀爬",
+    "ex": "Monkeys climb tall trees.",
+    "exzh": "猴子攀爬高高的樹木。",
+    "emoji": "🧗",
+    "pic": "",
     "單字": "climb",
     "音標": "/klaɪm/",
     "詞性": "v.",
@@ -3690,6 +6642,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "clock",
+    "ph": "/klɑːk/",
+    "pos": "n.",
+    "zh": "時鐘",
+    "ex": "The wall clock says three o'clock.",
+    "exzh": "牆上的時鐘指著三點鐘。",
+    "emoji": "🕒",
+    "pic": "",
     "單字": "clock",
     "音標": "/klɑːk/",
     "詞性": "n.",
@@ -3700,6 +6660,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "close",
+    "ph": "/kloʊz/",
+    "pos": "v.",
+    "zh": "關閉",
+    "ex": "Please close the window.",
+    "exzh": "請把窗戶關上。",
+    "emoji": "🚪",
+    "pic": "",
     "單字": "close",
     "音標": "/kloʊz/",
     "詞性": "v.",
@@ -3710,6 +6678,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "closet",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is closet.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "closet",
     "音標": "",
     "詞性": "",
@@ -3720,6 +6696,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "clothes",
+    "ph": "/kloʊðz/",
+    "pos": "n.",
+    "zh": "衣服，服裝",
+    "ex": "Hang clean clothes neatly.",
+    "exzh": "把洗乾淨的衣服整齊掛好。",
+    "emoji": "👗",
+    "pic": "",
     "單字": "clothes",
     "音標": "/kloʊðz/",
     "詞性": "n.",
@@ -3730,6 +6714,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cloud",
+    "ph": "/klaʊd/",
+    "pos": "n.",
+    "zh": "雲朵",
+    "ex": "White clouds float peacefully.",
+    "exzh": "白雲平靜地漂浮著。",
+    "emoji": "☁️",
+    "pic": "",
     "單字": "cloud",
     "音標": "/klaʊd/",
     "詞性": "n.",
@@ -3740,6 +6732,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cloudy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cloudy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cloudy",
     "音標": "",
     "詞性": "",
@@ -3750,6 +6750,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "club",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is club.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "club",
     "音標": "",
     "詞性": "",
@@ -3760,6 +6768,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "coach",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is coach.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "coach",
     "音標": "",
     "詞性": "",
@@ -3770,6 +6786,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "coast",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is coast.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "coast",
     "音標": "",
     "詞性": "",
@@ -3780,6 +6804,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "coat",
+    "ph": "/koʊt/",
+    "pos": "n.",
+    "zh": "大衣，外套",
+    "ex": "Put on your heavy coat.",
+    "exzh": "穿上你的厚大衣。",
+    "emoji": "🧥",
+    "pic": "",
     "單字": "coat",
     "音標": "/koʊt/",
     "詞性": "n.",
@@ -3790,6 +6822,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cockroach",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cockroach.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cockroach",
     "音標": "",
     "詞性": "",
@@ -3800,6 +6840,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "coconut",
+    "ph": "/ˈkoʊ.kə.nʌt/",
+    "pos": "n.",
+    "zh": "椰子",
+    "ex": "Coconut trees grow on beach.",
+    "exzh": "椰子樹生長在海灘上。",
+    "emoji": "🥥",
+    "pic": "",
     "單字": "coconut",
     "音標": "/ˈkoʊ.kə.nʌt/",
     "詞性": "n.",
@@ -3810,6 +6858,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "coffee",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is coffee.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "coffee",
     "音標": "",
     "詞性": "",
@@ -3820,6 +6876,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "coin",
+    "ph": "/kɔɪn/",
+    "pos": "n.",
+    "zh": "硬幣",
+    "ex": "There is a shiny coin on the table.",
+    "exzh": "桌上有一枚閃亮的硬幣。",
+    "emoji": "🪙",
+    "pic": "",
     "單字": "coin",
     "音標": "/kɔɪn/",
     "詞性": "n.",
@@ -3830,6 +6894,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Coke",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is Coke.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "Coke",
     "音標": "",
     "詞性": "",
@@ -3840,6 +6912,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cold",
+    "ph": "/koʊld/",
+    "pos": "adj.",
+    "zh": "寒冷的，冰涼的",
+    "ex": "Winter nights are very cold.",
+    "exzh": "冬天的夜晚十分寒冷。",
+    "emoji": "🥶",
+    "pic": "",
     "單字": "cold",
     "音標": "/koʊld/",
     "詞性": "adj.",
@@ -3850,6 +6930,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "collect",
+    "ph": "/kəˈlekt/",
+    "pos": "v.",
+    "zh": "收集",
+    "ex": "Collect shiny sea shells on sand.",
+    "exzh": "在沙灘上收集發亮的貝殼。",
+    "emoji": "🐚",
+    "pic": "",
     "單字": "collect",
     "音標": "/kəˈlekt/",
     "詞性": "v.",
@@ -3860,6 +6948,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "college",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is college.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "college",
     "音標": "",
     "詞性": "",
@@ -3870,6 +6966,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "color",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is color.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "color",
     "音標": "",
     "詞性": "",
@@ -3880,6 +6984,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "colorful",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is colorful.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "colorful",
     "音標": "",
     "詞性": "",
@@ -3890,6 +7002,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "comb",
+    "ph": "/koʊm/",
+    "pos": "n.",
+    "zh": "扁梳",
+    "ex": "She uses a comb to fix her hair.",
+    "exzh": "她用扁梳整理頭髮。",
+    "emoji": "🪮",
+    "pic": "",
     "單字": "comb",
     "音標": "/koʊm/",
     "詞性": "n.",
@@ -3900,6 +7020,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "come",
+    "ph": "/kʌm/",
+    "pos": "v.",
+    "zh": "來",
+    "ex": "Come here and take a look.",
+    "exzh": "過來這裡看看。",
+    "emoji": "👋",
+    "pic": "",
     "單字": "come",
     "音標": "/kʌm/",
     "詞性": "v.",
@@ -3910,6 +7038,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "comfortable",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is comfortable.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "comfortable",
     "音標": "",
     "詞性": "",
@@ -3920,6 +7056,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "comic",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is comic.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "comic",
     "音標": "",
     "詞性": "",
@@ -3930,6 +7074,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "comic book",
+    "ph": "/ˈkɑː.mɪk bʊk/",
+    "pos": "n.",
+    "zh": "漫畫書",
+    "ex": "He is reading an interesting comic book.",
+    "exzh": "他正在讀一本有趣的漫畫書。",
+    "emoji": "📚",
+    "pic": "",
     "單字": "comic book",
     "音標": "/ˈkɑː.mɪk bʊk/",
     "詞性": "n.",
@@ -3940,6 +7092,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "command",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is command.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "command",
     "音標": "",
     "詞性": "",
@@ -3950,6 +7110,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "comment",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is comment.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "comment",
     "音標": "",
     "詞性": "",
@@ -3960,6 +7128,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "common",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is common.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "common",
     "音標": "",
     "詞性": "",
@@ -3970,6 +7146,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "company",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is company.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "company",
     "音標": "",
     "詞性": "",
@@ -3980,6 +7164,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "compare",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is compare.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "compare",
     "音標": "",
     "詞性": "",
@@ -3990,6 +7182,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "complain",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is complain.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "complain",
     "音標": "",
     "詞性": "",
@@ -4000,6 +7200,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "complete",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is complete.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "complete",
     "音標": "",
     "詞性": "",
@@ -4010,6 +7218,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "computer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is computer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "computer",
     "音標": "",
     "詞性": "",
@@ -4020,6 +7236,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "concern",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is concern.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "concern",
     "音標": "",
     "詞性": "",
@@ -4030,6 +7254,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "confident",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is confident.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "confident",
     "音標": "",
     "詞性": "",
@@ -4040,6 +7272,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "confuse",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is confuse.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "confuse",
     "音標": "",
     "詞性": "",
@@ -4050,6 +7290,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "congratulate",
+    "ph": "/kənˈɡrætʃ.ə.leɪt/",
+    "pos": "v.",
+    "zh": "祝賀，恭喜",
+    "ex": "Congratulate your friend on winning.",
+    "exzh": "向贏得比賽勝利的朋友熱烈道賀。",
+    "emoji": "🎊",
+    "pic": "",
     "單字": "congratulate",
     "音標": "/kənˈɡrætʃ.ə.leɪt/",
     "詞性": "v.",
@@ -4060,6 +7308,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "congratulation",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is congratulation.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "congratulation",
     "音標": "",
     "詞性": "",
@@ -4070,6 +7326,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "consider",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is consider.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "consider",
     "音標": "",
     "詞性": "",
@@ -4080,6 +7344,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "considerate",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is considerate.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "considerate",
     "音標": "",
     "詞性": "",
@@ -4090,6 +7362,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "contact lens",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is contact lens.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "contact lens",
     "音標": "",
     "詞性": "",
@@ -4100,6 +7380,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "continue",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is continue.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "continue",
     "音標": "",
     "詞性": "",
@@ -4110,6 +7398,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "contract",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is contract.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "contract",
     "音標": "",
     "詞性": "",
@@ -4120,6 +7416,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "control",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is control.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "control",
     "音標": "",
     "詞性": "",
@@ -4130,6 +7434,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "convenience store",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is convenience store.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "convenience store",
     "音標": "",
     "詞性": "",
@@ -4140,6 +7452,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "convenient",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is convenient.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "convenient",
     "音標": "",
     "詞性": "",
@@ -4150,6 +7470,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "conversation",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is conversation.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "conversation",
     "音標": "",
     "詞性": "",
@@ -4160,6 +7488,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cook",
+    "ph": "/kʊk/",
+    "pos": "n.",
+    "zh": "廚師",
+    "ex": "My uncle is a great cook.",
+    "exzh": "我叔叔是一位很棒的廚師。",
+    "emoji": "🧑‍🍳",
+    "pic": "",
     "單字": "cook",
     "音標": "/kʊk/",
     "詞性": "n.",
@@ -4170,6 +7506,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cookie",
+    "ph": "/ˈkʊk.i/",
+    "pos": "n.",
+    "zh": "餅乾",
+    "ex": "Mom bakes chocolate cookies.",
+    "exzh": "媽媽烤了巧克力餅乾。",
+    "emoji": "🍪",
+    "pic": "",
     "單字": "cookie",
     "音標": "/ˈkʊk.i/",
     "詞性": "n.",
@@ -4180,6 +7524,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cool",
+    "ph": "/kuːl/",
+    "pos": "adj.",
+    "zh": "涼爽的；酷的",
+    "ex": "Autumn has cool gentle breezes.",
+    "exzh": "秋天有涼爽微風。",
+    "emoji": "😎",
+    "pic": "",
     "單字": "cool",
     "音標": "/kuːl/",
     "詞性": "adj.",
@@ -4190,6 +7542,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "copy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is copy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "copy",
     "音標": "",
     "詞性": "",
@@ -4200,6 +7560,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "corn",
+    "ph": "/kɔːrn/",
+    "pos": "n.",
+    "zh": "玉米",
+    "ex": "Yellow sweet corn smells nice.",
+    "exzh": "甜甜的黃玉米聞起來很香。",
+    "emoji": "🌽",
+    "pic": "",
     "單字": "corn",
     "音標": "/kɔːrn/",
     "詞性": "n.",
@@ -4210,6 +7578,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "corner",
+    "ph": "/ˈkɔːr.nɚ/",
+    "pos": "n.",
+    "zh": "轉角，角落",
+    "ex": "Turn right at the street corner.",
+    "exzh": "在街道轉角處向右轉。",
+    "emoji": "↪️",
+    "pic": "",
     "單字": "corner",
     "音標": "/ˈkɔːr.nɚ/",
     "詞性": "n.",
@@ -4220,6 +7596,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "correct",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is correct.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "correct",
     "音標": "",
     "詞性": "",
@@ -4230,6 +7614,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cost",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cost.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cost",
     "音標": "",
     "詞性": "",
@@ -4240,6 +7632,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cotton",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cotton.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cotton",
     "音標": "",
     "詞性": "",
@@ -4250,6 +7650,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "couch",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is couch.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "couch",
     "音標": "",
     "詞性": "",
@@ -4260,6 +7668,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cough",
+    "ph": "/kɑːf/",
+    "pos": "n./v.",
+    "zh": "咳嗽",
+    "ex": "Cover your mouth when you cough.",
+    "exzh": "咳嗽時記得用手肘或衛生紙掩住嘴巴。",
+    "emoji": "😷",
+    "pic": "",
     "單字": "cough",
     "音標": "/kɑːf/",
     "詞性": "n./v.",
@@ -4270,6 +7686,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "could",
+    "ph": "/kʊd/",
+    "pos": "aux.",
+    "zh": "能（can過去式/禮貌）",
+    "ex": "Could you help me, please?",
+    "exzh": "你可以幫幫我嗎？",
+    "emoji": "🤝",
+    "pic": "",
     "單字": "could",
     "音標": "/kʊd/",
     "詞性": "aux.",
@@ -4280,6 +7704,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "count",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is count.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "count",
     "音標": "",
     "詞性": "",
@@ -4290,6 +7722,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "country",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is country.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "country",
     "音標": "",
     "詞性": "",
@@ -4300,6 +7740,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "couple",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is couple.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "couple",
     "音標": "",
     "詞性": "",
@@ -4310,6 +7758,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "courage",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is courage.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "courage",
     "音標": "",
     "詞性": "",
@@ -4320,6 +7776,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "course",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is course.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "course",
     "音標": "",
     "詞性": "",
@@ -4330,6 +7794,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "court",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is court.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "court",
     "音標": "",
     "詞性": "",
@@ -4340,6 +7812,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cousin",
+    "ph": "/ˈkʌz.ən/",
+    "pos": "n.",
+    "zh": "堂/表兄弟姊妹",
+    "ex": "I play board games with my cousin.",
+    "exzh": "我和堂哥一起玩桌上遊戲。",
+    "emoji": "🧑‍🤝‍🧑",
+    "pic": "",
     "單字": "cousin",
     "音標": "/ˈkʌz.ən/",
     "詞性": "n.",
@@ -4350,6 +7830,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cover",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cover.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cover",
     "音標": "",
     "詞性": "",
@@ -4360,6 +7848,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cow",
+    "ph": "/kaʊ/",
+    "pos": "n.",
+    "zh": "乳牛",
+    "ex": "Cows give us fresh milk.",
+    "exzh": "乳牛給我們新鮮的牛奶。",
+    "emoji": "🐮",
+    "pic": "",
     "單字": "cow",
     "音標": "/kaʊ/",
     "詞性": "n.",
@@ -4370,6 +7866,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cowboy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cowboy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cowboy",
     "音標": "",
     "詞性": "",
@@ -4380,6 +7884,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "crab",
+    "ph": "/kræb/",
+    "pos": "n.",
+    "zh": "螃蟹",
+    "ex": "A little crab walks sideways.",
+    "exzh": "小螃蟹橫著在沙灘上快步行走。",
+    "emoji": "🦀",
+    "pic": "",
     "單字": "crab",
     "音標": "/kræb/",
     "詞性": "n.",
@@ -4390,6 +7902,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "crayon",
+    "ph": "/ˈkreɪ.ɑːn/",
+    "pos": "n.",
+    "zh": "蠟筆",
+    "ex": "Color the picture with crayons.",
+    "exzh": "用蠟筆為圖畫著色。",
+    "emoji": "🖍️",
+    "pic": "",
     "單字": "crayon",
     "音標": "/ˈkreɪ.ɑːn/",
     "詞性": "n.",
@@ -4400,6 +7920,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "crazy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is crazy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "crazy",
     "音標": "",
     "詞性": "",
@@ -4410,6 +7938,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cream",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cream.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cream",
     "音標": "",
     "詞性": "",
@@ -4420,6 +7956,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "create",
+    "ph": "/kriˈeɪt/",
+    "pos": "v.",
+    "zh": "創造",
+    "ex": "Create pretty artwork with paper.",
+    "exzh": "用紙張動手創造美麗的美術作品。",
+    "emoji": "🎨",
+    "pic": "",
     "單字": "create",
     "音標": "/kriˈeɪt/",
     "詞性": "v.",
@@ -4430,6 +7974,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "credit card",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is credit card.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "credit card",
     "音標": "",
     "詞性": "",
@@ -4440,6 +7992,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "crime",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is crime.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "crime",
     "音標": "",
     "詞性": "",
@@ -4450,6 +8010,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "crocodile",
+    "ph": "/ˈkrɑː.kə.daɪl/",
+    "pos": "n.",
+    "zh": "鱷魚",
+    "ex": "The crocodile swims in river.",
+    "exzh": "鱷魚在河裡游泳。",
+    "emoji": "🐊",
+    "pic": "",
     "單字": "crocodile",
     "音標": "/ˈkrɑː.kə.daɪl/",
     "詞性": "n.",
@@ -4460,6 +8028,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cross",
+    "ph": "/krɑːs/",
+    "pos": "v.",
+    "zh": "穿越，跨越",
+    "ex": "Cross at zebra crossing safely.",
+    "exzh": "走斑馬線安全地穿越馬路。",
+    "emoji": "🚶",
+    "pic": "",
     "單字": "cross",
     "音標": "/krɑːs/",
     "詞性": "v.",
@@ -4470,6 +8046,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "crosswalk",
+    "ph": "/ˈkrɑːs.wɑːk/",
+    "pos": "n.",
+    "zh": "行人穿越道，斑馬線",
+    "ex": "Always use the striped crosswalk.",
+    "exzh": "過馬路時請務必走斑馬線。",
+    "emoji": "🦓",
+    "pic": "",
     "單字": "crosswalk",
     "音標": "/ˈkrɑːs.wɑːk/",
     "詞性": "n.",
@@ -4480,6 +8064,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "crow",
+    "ph": "/kroʊ/",
+    "pos": "n.",
+    "zh": "烏鴉",
+    "ex": "The black crow is very intelligent.",
+    "exzh": "黑烏鴉是非常聰明靈巧的鳥類。",
+    "emoji": "🐦‍⬛",
+    "pic": "",
     "單字": "crow",
     "音標": "/kroʊ/",
     "詞性": "n.",
@@ -4490,6 +8082,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "crowd",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is crowd.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "crowd",
     "音標": "",
     "詞性": "",
@@ -4500,6 +8100,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "crowded",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is crowded.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "crowded",
     "音標": "",
     "詞性": "",
@@ -4510,6 +8118,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cruel",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cruel.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cruel",
     "音標": "",
     "詞性": "",
@@ -4520,6 +8136,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cry",
+    "ph": "/kraɪ/",
+    "pos": "v.",
+    "zh": "哭泣",
+    "ex": "Don't cry; everything is fine.",
+    "exzh": "別哭，一切都會很好的。",
+    "emoji": "😢",
+    "pic": "",
     "單字": "cry",
     "音標": "/kraɪ/",
     "詞性": "v.",
@@ -4530,6 +8154,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cucumber",
+    "ph": "/ˈkjuː.kʌm.bɚ/",
+    "pos": "n.",
+    "zh": "小黃瓜",
+    "ex": "Add sliced cucumber to the salad.",
+    "exzh": "把切片的小黃瓜加入沙拉中。",
+    "emoji": "🥒",
+    "pic": "",
     "單字": "cucumber",
     "音標": "/ˈkjuː.kʌm.bɚ/",
     "詞性": "n.",
@@ -4540,6 +8172,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "culture",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is culture.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "culture",
     "音標": "",
     "詞性": "",
@@ -4550,6 +8190,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cup",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cup.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cup",
     "音標": "",
     "詞性": "",
@@ -4560,6 +8208,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cupboard",
+    "ph": "/ˈkʌb.ɚd/",
+    "pos": "n.",
+    "zh": "碗櫥，食櫥",
+    "ex": "Dishes are placed in cupboard.",
+    "exzh": "碗盤擺放在櫥櫃裡面。",
+    "emoji": "🗄️",
+    "pic": "",
     "單字": "cupboard",
     "音標": "/ˈkʌb.ɚd/",
     "詞性": "n.",
@@ -4570,6 +8226,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cure",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cure.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cure",
     "音標": "",
     "詞性": "",
@@ -4580,6 +8244,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "curious",
+    "ph": "/ˈkjʊr.i.əs/",
+    "pos": "adj.",
+    "zh": "好奇的",
+    "ex": "Curious monkeys inspect everything.",
+    "exzh": "好奇心十足的猴子對每樣東西都東瞧西看。",
+    "emoji": "🧐",
+    "pic": "",
     "單字": "curious",
     "音標": "/ˈkjʊr.i.əs/",
     "詞性": "adj.",
@@ -4590,6 +8262,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "curly",
+    "ph": "/ˈkɝː.li/",
+    "pos": "adj.",
+    "zh": "捲曲的",
+    "ex": "She has pretty natural curly hair.",
+    "exzh": "她有一頭漂亮的自然捲長髮。",
+    "emoji": "💇‍♀️",
+    "pic": "",
     "單字": "curly",
     "音標": "/ˈkɝː.li/",
     "詞性": "adj.",
@@ -4600,6 +8280,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "current",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is current.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "current",
     "音標": "",
     "詞性": "",
@@ -4610,6 +8298,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "curtain",
+    "ph": "/ˈkɝː.tən/",
+    "pos": "n.",
+    "zh": "窗簾",
+    "ex": "Open curtains to let sun in.",
+    "exzh": "拉開窗簾讓陽光灑進來。",
+    "emoji": "🪟",
+    "pic": "",
     "單字": "curtain",
     "音標": "/ˈkɝː.tən/",
     "詞性": "n.",
@@ -4620,6 +8316,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "curve",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is curve.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "curve",
     "音標": "",
     "詞性": "",
@@ -4630,6 +8334,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cushion",
+    "ph": "/ˈkʊʃ.ən/",
+    "pos": "n.",
+    "zh": "抱枕，靠墊",
+    "ex": "Rest your back against soft cushion.",
+    "exzh": "把背舒服地靠在柔軟的沙發抱枕上。",
+    "emoji": "🛋️",
+    "pic": "",
     "單字": "cushion",
     "音標": "/ˈkʊʃ.ən/",
     "詞性": "n.",
@@ -4640,6 +8352,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "custom",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is custom.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "custom",
     "音標": "",
     "詞性": "",
@@ -4650,6 +8370,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "customer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is customer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "customer",
     "音標": "",
     "詞性": "",
@@ -4660,6 +8388,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cut",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is cut.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "cut",
     "音標": "",
     "詞性": "",
@@ -4670,6 +8406,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "cute",
+    "ph": "/kjuːt/",
+    "pos": "adj.",
+    "zh": "可愛的",
+    "ex": "The little kitten is cute.",
+    "exzh": "那隻小貓咪非常可愛。",
+    "emoji": "🐱",
+    "pic": "",
     "單字": "cute",
     "音標": "/kjuːt/",
     "詞性": "adj.",
@@ -4680,6 +8424,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "daily",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is daily.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "daily",
     "音標": "",
     "詞性": "",
@@ -4690,6 +8442,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "damage",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is damage.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "damage",
     "音標": "",
     "詞性": "",
@@ -4700,6 +8460,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dance",
+    "ph": "/dæns/",
+    "pos": "v.",
+    "zh": "跳舞",
+    "ex": "She loves to dance with friends.",
+    "exzh": "她喜歡和朋友一起跳舞。",
+    "emoji": "💃",
+    "pic": "",
     "單字": "dance",
     "音標": "/dæns/",
     "詞性": "v.",
@@ -4710,6 +8478,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "danger",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is danger.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "danger",
     "音標": "",
     "詞性": "",
@@ -4720,6 +8496,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dangerous",
+    "ph": "/ˈdeɪn.dʒɚ.əs/",
+    "pos": "adj.",
+    "zh": "危險的",
+    "ex": "Playing with fire is dangerous.",
+    "exzh": "玩火是一件極度危險的事情。",
+    "emoji": "🔥",
+    "pic": "",
     "單字": "dangerous",
     "音標": "/ˈdeɪn.dʒɚ.əs/",
     "詞性": "adj.",
@@ -4730,6 +8514,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dark",
+    "ph": "/dɑːrk/",
+    "pos": "adj.",
+    "zh": "黑暗的",
+    "ex": "The night is dark and quiet.",
+    "exzh": "夜晚又黑又安靜。",
+    "emoji": "🌑",
+    "pic": "",
     "單字": "dark",
     "音標": "/dɑːrk/",
     "詞性": "adj.",
@@ -4740,6 +8532,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "date",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is date.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "date",
     "音標": "",
     "詞性": "",
@@ -4750,6 +8550,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "daughter",
+    "ph": "/ˈdɔː.t̬ɚ/",
+    "pos": "n.",
+    "zh": "女兒",
+    "ex": "Their daughter plays violin nicely.",
+    "exzh": "他們的女兒小提琴拉得很好聽。",
+    "emoji": "👧",
+    "pic": "",
     "單字": "daughter",
     "音標": "/ˈdɔː.t̬ɚ/",
     "詞性": "n.",
@@ -4760,6 +8568,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dawn",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dawn.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dawn",
     "音標": "",
     "詞性": "",
@@ -4770,6 +8586,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "day",
+    "ph": "/deɪ/",
+    "pos": "n.",
+    "zh": "白天；日子",
+    "ex": "Have a wonderful day!",
+    "exzh": "祝你有美好的一天！",
+    "emoji": "☀️",
+    "pic": "",
     "單字": "day",
     "音標": "/deɪ/",
     "詞性": "n.",
@@ -4780,6 +8604,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dead",
+    "ph": "/ded/",
+    "pos": "adj.",
+    "zh": "枯死的",
+    "ex": "Clear dead brown leaves away.",
+    "exzh": "把枯乾的褐色落葉打掃清理掉。",
+    "emoji": "🍂",
+    "pic": "",
     "單字": "dead",
     "音標": "/ded/",
     "詞性": "adj.",
@@ -4790,6 +8622,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "deaf",
+    "ph": "/def/",
+    "pos": "adj.",
+    "zh": "聾的",
+    "ex": "Communicate with deaf using sign.",
+    "exzh": "用手語與聽障朋友進行溝通交流。",
+    "emoji": "🤟",
+    "pic": "",
     "單字": "deaf",
     "音標": "/def/",
     "詞性": "adj.",
@@ -4800,6 +8640,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "deal",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is deal.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "deal",
     "音標": "",
     "詞性": "",
@@ -4810,6 +8658,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dear",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dear.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dear",
     "音標": "",
     "詞性": "",
@@ -4820,6 +8676,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "death",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is death.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "death",
     "音標": "",
     "詞性": "",
@@ -4830,6 +8694,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "debate",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is debate.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "debate",
     "音標": "",
     "詞性": "",
@@ -4840,6 +8712,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "December",
+    "ph": "/dɪˈsem.bɚ/",
+    "pos": "n.",
+    "zh": "十二月",
+    "ex": "Christmas bells ring in December.",
+    "exzh": "聖誕鐘聲在十二月敲響。",
+    "emoji": "🎄",
+    "pic": "",
     "單字": "December",
     "音標": "/dɪˈsem.bɚ/",
     "詞性": "n.",
@@ -4850,6 +8730,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "decide",
+    "ph": "/dɪˈsaɪd/",
+    "pos": "v.",
+    "zh": "決定",
+    "ex": "Decide which game to play first.",
+    "exzh": "決定先玩哪一個遊戲。",
+    "emoji": "🎯",
+    "pic": "",
     "單字": "decide",
     "音標": "/dɪˈsaɪd/",
     "詞性": "v.",
@@ -4860,6 +8748,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "decision",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is decision.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "decision",
     "音標": "",
     "詞性": "",
@@ -4870,6 +8766,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "decorate",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is decorate.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "decorate",
     "音標": "",
     "詞性": "",
@@ -4880,6 +8784,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "decrease",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is decrease.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "decrease",
     "音標": "",
     "詞性": "",
@@ -4890,6 +8802,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "deep",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is deep.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "deep",
     "音標": "",
     "詞性": "",
@@ -4900,6 +8820,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "deer",
+    "ph": "/dɪr/",
+    "pos": "n.",
+    "zh": "鹿",
+    "ex": "A gentle deer grazes near woods.",
+    "exzh": "一隻溫馴的鹿在森林邊緣吃草。",
+    "emoji": "🦌",
+    "pic": "",
     "單字": "deer",
     "音標": "/dɪr/",
     "詞性": "n.",
@@ -4910,6 +8838,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "degree",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is degree.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "degree",
     "音標": "",
     "詞性": "",
@@ -4920,6 +8856,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "delicious",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is delicious.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "delicious",
     "音標": "",
     "詞性": "",
@@ -4930,6 +8874,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "deliver",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is deliver.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "deliver",
     "音標": "",
     "詞性": "",
@@ -4940,6 +8892,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dentist",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dentist.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dentist",
     "音標": "",
     "詞性": "",
@@ -4950,6 +8910,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "department",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is department.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "department",
     "音標": "",
     "詞性": "",
@@ -4960,6 +8928,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "department store",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is department store.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "department store",
     "音標": "",
     "詞性": "",
@@ -4970,6 +8946,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "depend",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is depend.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "depend",
     "音標": "",
     "詞性": "",
@@ -4980,6 +8964,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "describe",
+    "ph": "/dɪˈskraɪb/",
+    "pos": "v.",
+    "zh": "描繪，描述",
+    "ex": "Describe your favorite animal in detail.",
+    "exzh": "詳細生動地描述你最喜愛的動物。",
+    "emoji": "🗣️",
+    "pic": "",
     "單字": "describe",
     "音標": "/dɪˈskraɪb/",
     "詞性": "v.",
@@ -4990,6 +8982,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "desert",
+    "ph": "/ˈdez.ɚt/",
+    "pos": "n.",
+    "zh": "沙漠",
+    "ex": "Camels walk across the hot desert.",
+    "exzh": "駱駝穩步走過炎熱的沙漠。",
+    "emoji": "🏜️",
+    "pic": "",
     "單字": "desert",
     "音標": "/ˈdez.ɚt/",
     "詞性": "n.",
@@ -5000,6 +9000,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "design",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is design.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "design",
     "音標": "",
     "詞性": "",
@@ -5010,6 +9018,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "desire",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is desire.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "desire",
     "音標": "",
     "詞性": "",
@@ -5020,6 +9036,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "desk",
+    "ph": "/desk/",
+    "pos": "n.",
+    "zh": "書桌",
+    "ex": "Keep your desk tidy.",
+    "exzh": "保持你的書桌整潔。",
+    "emoji": "🪑",
+    "pic": "",
     "單字": "desk",
     "音標": "/desk/",
     "詞性": "n.",
@@ -5030,6 +9054,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dessert",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dessert.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dessert",
     "音標": "",
     "詞性": "",
@@ -5040,6 +9072,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "detect",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is detect.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "detect",
     "音標": "",
     "詞性": "",
@@ -5050,6 +9090,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "develop",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is develop.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "develop",
     "音標": "",
     "詞性": "",
@@ -5060,6 +9108,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dial",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dial.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dial",
     "音標": "",
     "詞性": "",
@@ -5070,6 +9126,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "diamond",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is diamond.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "diamond",
     "音標": "",
     "詞性": "",
@@ -5080,6 +9144,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "diary",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is diary.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "diary",
     "音標": "",
     "詞性": "",
@@ -5090,6 +9162,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dictionary",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dictionary.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dictionary",
     "音標": "",
     "詞性": "",
@@ -5100,6 +9180,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "did",
+    "ph": "/dɪd/",
+    "pos": "v./aux.",
+    "zh": "做（過去式）",
+    "ex": "Did you brush your teeth?",
+    "exzh": "你刷牙了嗎？",
+    "emoji": "🪥",
+    "pic": "",
     "單字": "did",
     "音標": "/dɪd/",
     "詞性": "v./aux.",
@@ -5110,6 +9198,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "die",
+    "ph": "/daɪ/",
+    "pos": "v.",
+    "zh": "枯萎，死亡",
+    "ex": "Water plants so they don't die.",
+    "exzh": "給植物澆水讓它們不枯萎。",
+    "emoji": "🥀",
+    "pic": "",
     "單字": "die",
     "音標": "/daɪ/",
     "詞性": "v.",
@@ -5120,6 +9216,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "diet",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is diet.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "diet",
     "音標": "",
     "詞性": "",
@@ -5130,6 +9234,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "difference",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is difference.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "difference",
     "音標": "",
     "詞性": "",
@@ -5140,6 +9252,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "different",
+    "ph": "/ˈdɪf.ɚ.ənt/",
+    "pos": "adj.",
+    "zh": "不同的",
+    "ex": "We have different colored crayons.",
+    "exzh": "我們擁有各種不同顏色的蠟筆。",
+    "emoji": "🖍️",
+    "pic": "",
     "單字": "different",
     "音標": "/ˈdɪf.ɚ.ənt/",
     "詞性": "adj.",
@@ -5150,6 +9270,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "difficult",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is difficult.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "difficult",
     "音標": "",
     "詞性": "",
@@ -5160,6 +9288,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "difficulty",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is difficulty.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "difficulty",
     "音標": "",
     "詞性": "",
@@ -5170,6 +9306,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dig",
+    "ph": "/dɪɡ/",
+    "pos": "v.",
+    "zh": "挖掘",
+    "ex": "Dogs dig deep holes in sand.",
+    "exzh": "狗狗在沙堆裡挖深洞。",
+    "emoji": "🏖️",
+    "pic": "",
     "單字": "dig",
     "音標": "/dɪɡ/",
     "詞性": "v.",
@@ -5180,6 +9324,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "diligent",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is diligent.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "diligent",
     "音標": "",
     "詞性": "",
@@ -5190,6 +9342,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dining \nroom",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dining \nroom.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dining \nroom",
     "音標": "",
     "詞性": "",
@@ -5200,6 +9360,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dinner",
+    "ph": "/ˈdɪn.ɚ/",
+    "pos": "n.",
+    "zh": "晚餐",
+    "ex": "Dinner is ready on the table.",
+    "exzh": "晚餐已經在桌上準備好了。",
+    "emoji": "🍲",
+    "pic": "",
     "單字": "dinner",
     "音標": "/ˈdɪn.ɚ/",
     "詞性": "n.",
@@ -5210,6 +9378,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dinosaur",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dinosaur.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dinosaur",
     "音標": "",
     "詞性": "",
@@ -5220,6 +9396,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "diplomat",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is diplomat.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "diplomat",
     "音標": "",
     "詞性": "",
@@ -5230,6 +9414,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "direct",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is direct.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "direct",
     "音標": "",
     "詞性": "",
@@ -5240,6 +9432,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "direction",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is direction.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "direction",
     "音標": "",
     "詞性": "",
@@ -5250,6 +9450,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dirty",
+    "ph": "/ˈdɝː.t̬i/",
+    "pos": "adj.",
+    "zh": "骯髒的",
+    "ex": "Wash dirty sports shoes.",
+    "exzh": "把骯髒的運動鞋洗乾淨。",
+    "emoji": "🧦",
+    "pic": "",
     "單字": "dirty",
     "音標": "/ˈdɝː.t̬i/",
     "詞性": "adj.",
@@ -5260,6 +9468,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "disappear",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is disappear.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "disappear",
     "音標": "",
     "詞性": "",
@@ -5270,6 +9486,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "discover",
+    "ph": "/dɪˈskʌv.ɚ/",
+    "pos": "v.",
+    "zh": "發現",
+    "ex": "Discover wonderful new worlds in books.",
+    "exzh": "在書本中發現精彩新天地。",
+    "emoji": "🔍",
+    "pic": "",
     "單字": "discover",
     "音標": "/dɪˈskʌv.ɚ/",
     "詞性": "v.",
@@ -5280,6 +9504,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "discuss",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is discuss.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "discuss",
     "音標": "",
     "詞性": "",
@@ -5290,6 +9522,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "discussion",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is discussion.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "discussion",
     "音標": "",
     "詞性": "",
@@ -5300,6 +9540,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dish",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dish.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dish",
     "音標": "",
     "詞性": "",
@@ -5310,6 +9558,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dishonest",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dishonest.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dishonest",
     "音標": "",
     "詞性": "",
@@ -5320,6 +9576,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "distance",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is distance.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "distance",
     "音標": "",
     "詞性": "",
@@ -5330,6 +9594,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "distant",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is distant.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "distant",
     "音標": "",
     "詞性": "",
@@ -5340,6 +9612,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "divide",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is divide.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "divide",
     "音標": "",
     "詞性": "",
@@ -5350,6 +9630,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dizzy",
+    "ph": "/ˈdɪz.i/",
+    "pos": "adj.",
+    "zh": "頭暈的",
+    "ex": "Spinning too fast makes you feel dizzy.",
+    "exzh": "原地轉圈轉太快會讓你感到頭暈。",
+    "emoji": "💫",
+    "pic": "",
     "單字": "dizzy",
     "音標": "/ˈdɪz.i/",
     "詞性": "adj.",
@@ -5360,6 +9648,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "do",
+    "ph": "/duː/",
+    "pos": "v./aux.",
+    "zh": "做；助動詞",
+    "ex": "Do you like apples?",
+    "exzh": "你喜歡蘋果嗎？",
+    "emoji": "🍎",
+    "pic": "",
     "單字": "do",
     "音標": "/duː/",
     "詞性": "v./aux.",
@@ -5370,6 +9666,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "doctor",
+    "ph": "/ˈdɑːk.tɚ/",
+    "pos": "n.",
+    "zh": "醫生",
+    "ex": "The doctor helps sick people.",
+    "exzh": "醫生幫助生病的人。",
+    "emoji": "👨‍⚕️",
+    "pic": "",
     "單字": "doctor",
     "音標": "/ˈdɑːk.tɚ/",
     "詞性": "n.",
@@ -5380,6 +9684,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dodge ball",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dodge ball.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dodge ball",
     "音標": "",
     "詞性": "",
@@ -5390,6 +9702,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "does",
+    "ph": "/dʌz/",
+    "pos": "v./aux.",
+    "zh": "做（第三人稱單數）",
+    "ex": "She does her homework well.",
+    "exzh": "她功課做得很好。",
+    "emoji": "📝",
+    "pic": "",
     "單字": "does",
     "音標": "/dʌz/",
     "詞性": "v./aux.",
@@ -5400,6 +9720,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dog",
+    "ph": "/dɑːɡ/",
+    "pos": "n.",
+    "zh": "狗",
+    "ex": "The dog barks happily.",
+    "exzh": "小狗開心地吠叫。",
+    "emoji": "🐶",
+    "pic": "",
     "單字": "dog",
     "音標": "/dɑːɡ/",
     "詞性": "n.",
@@ -5410,6 +9738,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "doll",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is doll.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "doll",
     "音標": "",
     "詞性": "",
@@ -5420,6 +9756,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dollar",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dollar.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dollar",
     "音標": "",
     "詞性": "",
@@ -5430,6 +9774,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dolphin",
+    "ph": "/ˈdɑːl.fɪn/",
+    "pos": "n.",
+    "zh": "海豚",
+    "ex": "Dolphins leap gracefully.",
+    "exzh": "海豚優雅地躍出水面。",
+    "emoji": "🐬",
+    "pic": "",
     "單字": "dolphin",
     "音標": "/ˈdɑːl.fɪn/",
     "詞性": "n.",
@@ -5440,6 +9792,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "donkey",
+    "ph": "/ˈdɑːŋ.ki/",
+    "pos": "n.",
+    "zh": "驢子",
+    "ex": "The donkey carries heavy sacks.",
+    "exzh": "驢子馱著重重的袋子。",
+    "emoji": "🫏",
+    "pic": "",
     "單字": "donkey",
     "音標": "/ˈdɑːŋ.ki/",
     "詞性": "n.",
@@ -5450,6 +9810,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "door",
+    "ph": "/dɔːr/",
+    "pos": "n.",
+    "zh": "門",
+    "ex": "Please close the door.",
+    "exzh": "請關上門。",
+    "emoji": "🚪",
+    "pic": "",
     "單字": "door",
     "音標": "/dɔːr/",
     "詞性": "n.",
@@ -5460,6 +9828,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dormitory",
+    "ph": "/ˈdɔːr.mə.tɔːr.i/",
+    "pos": "n.",
+    "zh": "學生宿舍",
+    "ex": "College students live in modern dormitory.",
+    "exzh": "大學生們住在現代化宿舍裡。",
+    "emoji": "🏢",
+    "pic": "",
     "單字": "dormitory",
     "音標": "/ˈdɔːr.mə.tɔːr.i/",
     "詞性": "n.",
@@ -5470,6 +9846,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dot",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dot.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dot",
     "音標": "",
     "詞性": "",
@@ -5480,6 +9864,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "double",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is double.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "double",
     "音標": "",
     "詞性": "",
@@ -5490,6 +9882,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "doubt",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is doubt.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "doubt",
     "音標": "",
     "詞性": "",
@@ -5500,6 +9900,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "doughnut",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is doughnut.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "doughnut",
     "音標": "",
     "詞性": "",
@@ -5510,6 +9918,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "down",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is down.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "down",
     "音標": "",
     "詞性": "",
@@ -5520,6 +9936,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "downstairs",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is downstairs.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "downstairs",
     "音標": "",
     "詞性": "",
@@ -5530,6 +9954,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "downtown",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is downtown.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "downtown",
     "音標": "",
     "詞性": "",
@@ -5540,6 +9972,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dozen",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dozen.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dozen",
     "音標": "",
     "詞性": "",
@@ -5550,6 +9990,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dragon",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dragon.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dragon",
     "音標": "",
     "詞性": "",
@@ -5560,6 +10008,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dragonfly",
+    "ph": "/ˈdræɡ.ən.flaɪ/",
+    "pos": "n.",
+    "zh": "蜻蜓",
+    "ex": "Dragonflies hover over the lily pond.",
+    "exzh": "蜻蜓在睡蓮池塘上方懸停飛舞。",
+    "emoji": "🪰",
+    "pic": "",
     "單字": "dragonfly",
     "音標": "/ˈdræɡ.ən.flaɪ/",
     "詞性": "n.",
@@ -5570,6 +10026,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "drama",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is drama.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "drama",
     "音標": "",
     "詞性": "",
@@ -5580,6 +10044,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "draw",
+    "ph": "/drɑː/",
+    "pos": "v.",
+    "zh": "畫畫",
+    "ex": "Draw a big yellow sun.",
+    "exzh": "畫一個大大的黃色太陽。",
+    "emoji": "🎨",
+    "pic": "",
     "單字": "draw",
     "音標": "/drɑː/",
     "詞性": "v.",
@@ -5590,6 +10062,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "drawer",
+    "ph": "/drɔːr/",
+    "pos": "n.",
+    "zh": "抽屜",
+    "ex": "Open drawer and grab a ruler.",
+    "exzh": "拉開抽屜拿一把尺。",
+    "emoji": "🗄️",
+    "pic": "",
     "單字": "drawer",
     "音標": "/drɔːr/",
     "詞性": "n.",
@@ -5600,6 +10080,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dream",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dream.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dream",
     "音標": "",
     "詞性": "",
@@ -5610,6 +10098,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dress",
+    "ph": "/dres/",
+    "pos": "n.",
+    "zh": "洋裝",
+    "ex": "She wears a pretty dress.",
+    "exzh": "她穿著漂亮的洋裝。",
+    "emoji": "👗",
+    "pic": "",
     "單字": "dress",
     "音標": "/dres/",
     "詞性": "n.",
@@ -5620,6 +10116,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dresser",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dresser.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dresser",
     "音標": "",
     "詞性": "",
@@ -5630,6 +10134,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "drink",
+    "ph": "/drɪŋk/",
+    "pos": "v.",
+    "zh": "喝",
+    "ex": "Drink warm milk before sleep.",
+    "exzh": "睡前喝杯溫牛奶。",
+    "emoji": "🥛",
+    "pic": "",
     "單字": "drink",
     "音標": "/drɪŋk/",
     "詞性": "v.",
@@ -5640,6 +10152,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "drive",
+    "ph": "/draɪv/",
+    "pos": "v.",
+    "zh": "駕駛，開車",
+    "ex": "Drive slowly on rainy days.",
+    "exzh": "下雨天要慢速開車。",
+    "emoji": "🚗",
+    "pic": "",
     "單字": "drive",
     "音標": "/draɪv/",
     "詞性": "v.",
@@ -5650,6 +10170,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "driver",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is driver.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "driver",
     "音標": "",
     "詞性": "",
@@ -5660,6 +10188,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "drop",
+    "ph": "/drɑːp/",
+    "pos": "v.",
+    "zh": "掉落，落下",
+    "ex": "Don't drop the fragile glass cup.",
+    "exzh": "別把易碎的玻璃杯摔落。",
+    "emoji": "🥛",
+    "pic": "",
     "單字": "drop",
     "音標": "/drɑːp/",
     "詞性": "v.",
@@ -5670,6 +10206,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "drugstore",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is drugstore.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "drugstore",
     "音標": "",
     "詞性": "",
@@ -5680,6 +10224,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "drum",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is drum.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "drum",
     "音標": "",
     "詞性": "",
@@ -5690,6 +10242,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dry",
+    "ph": "/draɪ/",
+    "pos": "v./adj.",
+    "zh": "烘乾；乾燥的",
+    "ex": "Dry wet hair with towel.",
+    "exzh": "用毛巾把濕頭髮擦乾。",
+    "emoji": "🧖",
+    "pic": "",
     "單字": "dry",
     "音標": "/draɪ/",
     "詞性": "v./adj.",
@@ -5700,6 +10260,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dryer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dryer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dryer",
     "音標": "",
     "詞性": "",
@@ -5710,6 +10278,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "duck",
+    "ph": "/dʌk/",
+    "pos": "n.",
+    "zh": "鴨子",
+    "ex": "The yellow duck swims in water.",
+    "exzh": "黃色小鴨在水裡游泳。",
+    "emoji": "🦆",
+    "pic": "",
     "單字": "duck",
     "音標": "/dʌk/",
     "詞性": "n.",
@@ -5720,6 +10296,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dumb",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dumb.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dumb",
     "音標": "",
     "詞性": "",
@@ -5730,6 +10314,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dumpling",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is dumpling.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "dumpling",
     "音標": "",
     "詞性": "",
@@ -5740,6 +10332,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "during",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is during.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "during",
     "音標": "",
     "詞性": "",
@@ -5750,6 +10350,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "dust",
+    "ph": "/dʌst/",
+    "pos": "n./v.",
+    "zh": "灰塵；拂塵",
+    "ex": "Wipe the dust off the bookshelf.",
+    "exzh": "把書架上的灰塵擦掉。",
+    "emoji": "💨",
+    "pic": "",
     "單字": "dust",
     "音標": "/dʌst/",
     "詞性": "n./v.",
@@ -5760,6 +10368,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "duty",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is duty.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "duty",
     "音標": "",
     "詞性": "",
@@ -5770,6 +10386,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "e-mail",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is e-mail.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "e-mail",
     "音標": "",
     "詞性": "",
@@ -5780,6 +10404,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "each",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is each.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "each",
     "音標": "",
     "詞性": "",
@@ -5790,6 +10422,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "eagle",
+    "ph": "/ˈiː.ɡəl/",
+    "pos": "n.",
+    "zh": "老鷹",
+    "ex": "The golden eagle circles high in sky.",
+    "exzh": "金雕在蔚藍的天空中盤旋翱翔。",
+    "emoji": "🦅",
+    "pic": "",
     "單字": "eagle",
     "音標": "/ˈiː.ɡəl/",
     "詞性": "n.",
@@ -5800,6 +10440,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ear",
+    "ph": "/ɪr/",
+    "pos": "n.",
+    "zh": "耳朵",
+    "ex": "Rabbits have long ears.",
+    "exzh": "兔子有長長的耳朵。",
+    "emoji": "👂",
+    "pic": "",
     "單字": "ear",
     "音標": "/ɪr/",
     "詞性": "n.",
@@ -5810,6 +10458,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "early",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is early.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "early",
     "音標": "",
     "詞性": "",
@@ -5820,6 +10476,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "earn",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is earn.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "earn",
     "音標": "",
     "詞性": "",
@@ -5830,6 +10494,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "earrings",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is earrings.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "earrings",
     "音標": "",
     "詞性": "",
@@ -5840,6 +10512,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "earth",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is earth.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "earth",
     "音標": "",
     "詞性": "",
@@ -5850,6 +10530,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ease",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ease.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ease",
     "音標": "",
     "詞性": "",
@@ -5860,6 +10548,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "east",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is east.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "east",
     "音標": "",
     "詞性": "",
@@ -5870,6 +10566,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Easter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is Easter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "Easter",
     "音標": "",
     "詞性": "",
@@ -5880,6 +10584,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "easy",
+    "ph": "/ˈiː.zi/",
+    "pos": "adj.",
+    "zh": "容易的",
+    "ex": "This English riddle is easy.",
+    "exzh": "這個英文謎語很容易。",
+    "emoji": "👌",
+    "pic": "",
     "單字": "easy",
     "音標": "/ˈiː.zi/",
     "詞性": "adj.",
@@ -5890,6 +10602,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "eat",
+    "ph": "/iːt/",
+    "pos": "v.",
+    "zh": "吃",
+    "ex": "Eat your vegetables for health.",
+    "exzh": "多吃蔬菜有益健康。",
+    "emoji": "🍽️",
+    "pic": "",
     "單字": "eat",
     "音標": "/iːt/",
     "詞性": "v.",
@@ -5900,6 +10620,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "edge",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is edge.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "edge",
     "音標": "",
     "詞性": "",
@@ -5910,6 +10638,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "education",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is education.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "education",
     "音標": "",
     "詞性": "",
@@ -5920,6 +10656,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "effort",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is effort.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "effort",
     "音標": "",
     "詞性": "",
@@ -5930,6 +10674,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "egg",
+    "ph": "/eɡ/",
+    "pos": "n.",
+    "zh": "蛋",
+    "ex": "She cooks an egg every morning.",
+    "exzh": "她每天早上煎一顆蛋。",
+    "emoji": "🥚",
+    "pic": "",
     "單字": "egg",
     "音標": "/eɡ/",
     "詞性": "n.",
@@ -5940,6 +10692,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "eight",
+    "ph": "/eɪt/",
+    "pos": "num.",
+    "zh": "八",
+    "ex": "An octopus has eight arms.",
+    "exzh": "章魚有八隻觸手。",
+    "emoji": "8️⃣",
+    "pic": "",
     "單字": "eight",
     "音標": "/eɪt/",
     "詞性": "num.",
@@ -5950,6 +10710,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "eighteen",
+    "ph": "/ˌeɪˈtiːn/",
+    "pos": "num.",
+    "zh": "十八",
+    "ex": "Eighteen kids join the picnic.",
+    "exzh": "十八個小朋友參加了野餐。",
+    "emoji": "1️⃣8️⃣",
+    "pic": "",
     "單字": "eighteen",
     "音標": "/ˌeɪˈtiːn/",
     "詞性": "num.",
@@ -5960,6 +10728,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "eighty",
+    "ph": "/ˈeɪ.ti/",
+    "pos": "num.",
+    "zh": "八十",
+    "ex": "Eighty people watched the game.",
+    "exzh": "八十位觀眾觀看了球賽。",
+    "emoji": "8️⃣0️⃣",
+    "pic": "",
     "單字": "eighty",
     "音標": "/ˈeɪ.ti/",
     "詞性": "num.",
@@ -5970,6 +10746,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "either",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is either.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "either",
     "音標": "",
     "詞性": "",
@@ -5980,6 +10764,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "elder",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is elder.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "elder",
     "音標": "",
     "詞性": "",
@@ -5990,6 +10782,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "elect",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is elect.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "elect",
     "音標": "",
     "詞性": "",
@@ -6000,6 +10800,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "electric",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is electric.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "electric",
     "音標": "",
     "詞性": "",
@@ -6010,6 +10818,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "elementary school",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is elementary school.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "elementary school",
     "音標": "",
     "詞性": "",
@@ -6020,6 +10836,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "elephant",
+    "ph": "/ˈel.ə.fənt/",
+    "pos": "n.",
+    "zh": "大象",
+    "ex": "An elephant has a long nose.",
+    "exzh": "大象有長長的鼻子。",
+    "emoji": "🐘",
+    "pic": "",
     "單字": "elephant",
     "音標": "/ˈel.ə.fənt/",
     "詞性": "n.",
@@ -6030,6 +10854,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "eleven",
+    "ph": "/ɪˈlev.ən/",
+    "pos": "num.",
+    "zh": "十一",
+    "ex": "He scored eleven points.",
+    "exzh": "他得到了十一分。",
+    "emoji": "1️⃣1️⃣",
+    "pic": "",
     "單字": "eleven",
     "音標": "/ɪˈlev.ən/",
     "詞性": "num.",
@@ -6040,6 +10872,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "else",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is else.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "else",
     "音標": "",
     "詞性": "",
@@ -6050,6 +10890,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "embarrass",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is embarrass.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "embarrass",
     "音標": "",
     "詞性": "",
@@ -6060,6 +10908,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "emotion",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is emotion.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "emotion",
     "音標": "",
     "詞性": "",
@@ -6070,6 +10926,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "emphasize",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is emphasize.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "emphasize",
     "音標": "",
     "詞性": "",
@@ -6080,6 +10944,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "employ",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is employ.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "employ",
     "音標": "",
     "詞性": "",
@@ -6090,6 +10962,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "empty",
+    "ph": "/ˈemp.ti/",
+    "pos": "adj.",
+    "zh": "空的",
+    "ex": "The cup is completely empty.",
+    "exzh": "這個杯子完全是空的。",
+    "emoji": "🥛",
+    "pic": "",
     "單字": "empty",
     "音標": "/ˈemp.ti/",
     "詞性": "adj.",
@@ -6100,6 +10980,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "end",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is end.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "end",
     "音標": "",
     "詞性": "",
@@ -6110,6 +10998,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "enemy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is enemy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "enemy",
     "音標": "",
     "詞性": "",
@@ -6120,6 +11016,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "energetic",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is energetic.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "energetic",
     "音標": "",
     "詞性": "",
@@ -6130,6 +11034,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "energy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is energy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "energy",
     "音標": "",
     "詞性": "",
@@ -6140,6 +11052,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "engine",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is engine.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "engine",
     "音標": "",
     "詞性": "",
@@ -6150,6 +11070,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "engineer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is engineer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "engineer",
     "音標": "",
     "詞性": "",
@@ -6160,6 +11088,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "English",
+    "ph": "/ˈɪŋ.ɡlɪʃ/",
+    "pos": "n.",
+    "zh": "英語",
+    "ex": "We practice English speaking.",
+    "exzh": "我們每天練習英語口說。",
+    "emoji": "🇬🇧",
+    "pic": "",
     "單字": "English",
     "音標": "/ˈɪŋ.ɡlɪʃ/",
     "詞性": "n.",
@@ -6170,6 +11106,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "enjoy",
+    "ph": "/ɪnˈdʒɔɪ/",
+    "pos": "v.",
+    "zh": "享受，喜愛",
+    "ex": "Enjoy the joyful music together.",
+    "exzh": "一起享受歡樂的音樂吧。",
+    "emoji": "🎶",
+    "pic": "",
     "單字": "enjoy",
     "音標": "/ɪnˈdʒɔɪ/",
     "詞性": "v.",
@@ -6180,6 +11124,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "enough",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is enough.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "enough",
     "音標": "",
     "詞性": "",
@@ -6190,6 +11142,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "enter",
+    "ph": "/ˈen.t̬ɚ/",
+    "pos": "v.",
+    "zh": "進入",
+    "ex": "Knock before you enter the room.",
+    "exzh": "進房間前請先敲敲門。",
+    "emoji": "🚪",
+    "pic": "",
     "單字": "enter",
     "音標": "/ˈen.t̬ɚ/",
     "詞性": "v.",
@@ -6200,6 +11160,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "entrance",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is entrance.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "entrance",
     "音標": "",
     "詞性": "",
@@ -6210,6 +11178,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "envelope",
+    "ph": "/ˈɑːn.və.loʊp/",
+    "pos": "n.",
+    "zh": "信封",
+    "ex": "Seal the birthday card envelope.",
+    "exzh": "把裝著生日卡片的信封封口黏好。",
+    "emoji": "✉️",
+    "pic": "",
     "單字": "envelope",
     "音標": "/ˈɑːn.və.loʊp/",
     "詞性": "n.",
@@ -6220,6 +11196,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "environment",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is environment.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "environment",
     "音標": "",
     "詞性": "",
@@ -6230,6 +11214,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "envy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is envy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "envy",
     "音標": "",
     "詞性": "",
@@ -6240,6 +11232,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "equal",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is equal.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "equal",
     "音標": "",
     "詞性": "",
@@ -6250,6 +11250,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "eraser",
+    "ph": "/ɪˈreɪ.sɚ/",
+    "pos": "n.",
+    "zh": "橡皮擦",
+    "ex": "Borrow me your eraser, please.",
+    "exzh": "請借我你的橡皮擦。",
+    "emoji": "🧼",
+    "pic": "",
     "單字": "eraser",
     "音標": "/ɪˈreɪ.sɚ/",
     "詞性": "n.",
@@ -6260,6 +11268,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "error",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is error.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "error",
     "音標": "",
     "詞性": "",
@@ -6270,6 +11286,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "especially",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is especially.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "especially",
     "音標": "",
     "詞性": "",
@@ -6280,6 +11304,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "eve",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is eve.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "eve",
     "音標": "",
     "詞性": "",
@@ -6290,6 +11322,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "even",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is even.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "even",
     "音標": "",
     "詞性": "",
@@ -6300,6 +11340,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "evening",
+    "ph": "/ˈiːv.nɪŋ/",
+    "pos": "n.",
+    "zh": "傍晚，晚上",
+    "ex": "We eat dinner in the evening.",
+    "exzh": "我們在傍晚吃晚餐。",
+    "emoji": "🌆",
+    "pic": "",
     "單字": "evening",
     "音標": "/ˈiːv.nɪŋ/",
     "詞性": "n.",
@@ -6310,6 +11358,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "event",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is event.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "event",
     "音標": "",
     "詞性": "",
@@ -6320,6 +11376,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ever",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ever.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ever",
     "音標": "",
     "詞性": "",
@@ -6330,6 +11394,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "every",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is every.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "every",
     "音標": "",
     "詞性": "",
@@ -6340,6 +11412,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "everyone",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is everyone.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "everyone",
     "音標": "",
     "詞性": "",
@@ -6350,6 +11430,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "everything",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is everything.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "everything",
     "音標": "",
     "詞性": "",
@@ -6360,6 +11448,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "everywhere",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is everywhere.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "everywhere",
     "音標": "",
     "詞性": "",
@@ -6370,6 +11466,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "evil",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is evil.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "evil",
     "音標": "",
     "詞性": "",
@@ -6380,6 +11484,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "exam",
+    "ph": "/ɪɡˈzæm/",
+    "pos": "n.",
+    "zh": "考試，測驗",
+    "ex": "Study hard for the midterm exam.",
+    "exzh": "為了期中考試認真溫習功課。",
+    "emoji": "📝",
+    "pic": "",
     "單字": "exam",
     "音標": "/ɪɡˈzæm/",
     "詞性": "n.",
@@ -6390,6 +11502,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "example",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is example.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "example",
     "音標": "",
     "詞性": "",
@@ -6400,6 +11520,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "excellent",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is excellent.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "excellent",
     "音標": "",
     "詞性": "",
@@ -6410,6 +11538,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "except",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is except.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "except",
     "音標": "",
     "詞性": "",
@@ -6420,6 +11556,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "excite",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is excite.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "excite",
     "音標": "",
     "詞性": "",
@@ -6430,6 +11574,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "excited",
+    "ph": "/ɪkˈsaɪ.t̬ɪd/",
+    "pos": "adj.",
+    "zh": "興奮的，期待的",
+    "ex": "Kids are excited about amusement park.",
+    "exzh": "小朋友對要去遊樂園玩感到非常興奮。",
+    "emoji": "🤩",
+    "pic": "",
     "單字": "excited",
     "音標": "/ɪkˈsaɪ.t̬ɪd/",
     "詞性": "adj.",
@@ -6440,6 +11592,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "exciting",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is exciting.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "exciting",
     "音標": "",
     "詞性": "",
@@ -6450,6 +11610,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "excuse",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is excuse.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "excuse",
     "音標": "",
     "詞性": "",
@@ -6460,6 +11628,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "exercise",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is exercise.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "exercise",
     "音標": "",
     "詞性": "",
@@ -6470,6 +11646,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "exist",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is exist.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "exist",
     "音標": "",
     "詞性": "",
@@ -6480,6 +11664,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "exit",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is exit.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "exit",
     "音標": "",
     "詞性": "",
@@ -6490,6 +11682,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "expect",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is expect.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "expect",
     "音標": "",
     "詞性": "",
@@ -6500,6 +11700,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "expensive",
+    "ph": "/ɪkˈspen.sɪv/",
+    "pos": "adj.",
+    "zh": "昂貴的",
+    "ex": "That sports car is too expensive.",
+    "exzh": "那輛跑車價格實在太昂貴了。",
+    "emoji": "🏎️",
+    "pic": "",
     "單字": "expensive",
     "音標": "/ɪkˈspen.sɪv/",
     "詞性": "adj.",
@@ -6510,6 +11718,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "experience",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is experience.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "experience",
     "音標": "",
     "詞性": "",
@@ -6520,6 +11736,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "explain",
+    "ph": "/ɪkˈspleɪn/",
+    "pos": "v.",
+    "zh": "解釋，說明",
+    "ex": "The teacher explained difficult words clearly.",
+    "exzh": "老師清楚明瞭地解釋了生難字詞。",
+    "emoji": "🧑‍🏫",
+    "pic": "",
     "單字": "explain",
     "音標": "/ɪkˈspleɪn/",
     "詞性": "v.",
@@ -6530,6 +11754,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "express",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is express.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "express",
     "音標": "",
     "詞性": "",
@@ -6540,6 +11772,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "extra",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is extra.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "extra",
     "音標": "",
     "詞性": "",
@@ -6550,6 +11790,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "eye",
+    "ph": "/aɪ/",
+    "pos": "n.",
+    "zh": "眼睛",
+    "ex": "She has big brown eyes.",
+    "exzh": "她有一雙大大的棕色眼睛。",
+    "emoji": "👁️",
+    "pic": "",
     "單字": "eye",
     "音標": "/aɪ/",
     "詞性": "n.",
@@ -6560,6 +11808,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "face",
+    "ph": "/feɪs/",
+    "pos": "n.",
+    "zh": "臉",
+    "ex": "Wash your face in the morning.",
+    "exzh": "早上洗洗你的臉。",
+    "emoji": "🙂",
+    "pic": "",
     "單字": "face",
     "音標": "/feɪs/",
     "詞性": "n.",
@@ -6570,6 +11826,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fact",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fact.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fact",
     "音標": "",
     "詞性": "",
@@ -6580,6 +11844,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "factory",
+    "ph": "/ˈfæk.tɚ.i/",
+    "pos": "n.",
+    "zh": "工廠",
+    "ex": "This automated factory produces toy cars.",
+    "exzh": "這座自動化智慧工廠生產玩具小車。",
+    "emoji": "🏭",
+    "pic": "",
     "單字": "factory",
     "音標": "/ˈfæk.tɚ.i/",
     "詞性": "n.",
@@ -6590,6 +11862,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fail",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fail.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fail",
     "音標": "",
     "詞性": "",
@@ -6600,6 +11880,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fair",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fair.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fair",
     "音標": "",
     "詞性": "",
@@ -6610,6 +11898,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fall",
+    "ph": "/fɑːl/",
+    "pos": "v.",
+    "zh": "落下，跌倒",
+    "ex": "Be careful not to fall down.",
+    "exzh": "小心走路，不要跌倒了。",
+    "emoji": "🍂",
+    "pic": "",
     "單字": "fall",
     "音標": "/fɑːl/",
     "詞性": "v.",
@@ -6620,6 +11916,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "false",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is false.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "false",
     "音標": "",
     "詞性": "",
@@ -6630,6 +11934,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "family",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is family.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "family",
     "音標": "",
     "詞性": "",
@@ -6640,6 +11952,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "famous",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is famous.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "famous",
     "音標": "",
     "詞性": "",
@@ -6650,6 +11970,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fan",
+    "ph": "/fæn/",
+    "pos": "n.",
+    "zh": "電風扇，摺扇",
+    "ex": "Cool down under the ceiling fan.",
+    "exzh": "站在吊扇底下吹風涼爽一下。",
+    "emoji": "🪭",
+    "pic": "",
     "單字": "fan",
     "音標": "/fæn/",
     "詞性": "n.",
@@ -6660,6 +11988,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fancy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fancy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fancy",
     "音標": "",
     "詞性": "",
@@ -6670,6 +12006,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fantastic",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fantastic.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fantastic",
     "音標": "",
     "詞性": "",
@@ -6680,6 +12024,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "far",
+    "ph": "/fɑːr/",
+    "pos": "adj./adv.",
+    "zh": "遙遠的",
+    "ex": "The moon is very far away.",
+    "exzh": "月亮非常遙遠。",
+    "emoji": "🌙",
+    "pic": "",
     "單字": "far",
     "音標": "/fɑːr/",
     "詞性": "adj./adv.",
@@ -6690,6 +12042,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "farm",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is farm.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "farm",
     "音標": "",
     "詞性": "",
@@ -6700,6 +12060,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "farmer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is farmer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "farmer",
     "音標": "",
     "詞性": "",
@@ -6710,6 +12078,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fashionable",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fashionable.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fashionable",
     "音標": "",
     "詞性": "",
@@ -6720,6 +12096,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fast",
+    "ph": "/fæst/",
+    "pos": "adj./adv.",
+    "zh": "快速的",
+    "ex": "Cheetahs run very fast.",
+    "exzh": "獵豹奔跑速度非常快。",
+    "emoji": "🐆",
+    "pic": "",
     "單字": "fast",
     "音標": "/fæst/",
     "詞性": "adj./adv.",
@@ -6730,6 +12114,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fat",
+    "ph": "/fæt/",
+    "pos": "adj.",
+    "zh": "胖嘟嘟的",
+    "ex": "A fat cute cat naps in box.",
+    "exzh": "一隻胖嘟嘟的可愛貓咪在箱子打盹。",
+    "emoji": "🐱",
+    "pic": "",
     "單字": "fat",
     "音標": "/fæt/",
     "詞性": "adj.",
@@ -6740,6 +12132,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "father",
+    "ph": "/ˈfɑː.ðɚ/",
+    "pos": "n.",
+    "zh": "父親，爸爸",
+    "ex": "My father is very kind.",
+    "exzh": "我的父親很親切。",
+    "emoji": "👨",
+    "pic": "",
     "單字": "father",
     "音標": "/ˈfɑː.ðɚ/",
     "詞性": "n.",
@@ -6750,6 +12150,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "faucet",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is faucet.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "faucet",
     "音標": "",
     "詞性": "",
@@ -6760,6 +12168,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fault",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fault.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fault",
     "音標": "",
     "詞性": "",
@@ -6770,6 +12186,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "favorite",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is favorite.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "favorite",
     "音標": "",
     "詞性": "",
@@ -6780,6 +12204,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fear",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fear.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fear",
     "音標": "",
     "詞性": "",
@@ -6790,6 +12222,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "feather",
+    "ph": "/ˈfeð.ɚ/",
+    "pos": "n.",
+    "zh": "羽毛",
+    "ex": "The goose feather is soft.",
+    "exzh": "鵝毛非常柔軟。",
+    "emoji": "🪶",
+    "pic": "",
     "單字": "feather",
     "音標": "/ˈfeð.ɚ/",
     "詞性": "n.",
@@ -6800,6 +12240,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "February",
+    "ph": "/ˈfeb.ru.er.i/",
+    "pos": "n.",
+    "zh": "二月",
+    "ex": "Chinese New Year is in February.",
+    "exzh": "農曆新年常常落在二月份。",
+    "emoji": "🧧",
+    "pic": "",
     "單字": "February",
     "音標": "/ˈfeb.ru.er.i/",
     "詞性": "n.",
@@ -6810,6 +12258,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fee",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fee.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fee",
     "音標": "",
     "詞性": "",
@@ -6820,6 +12276,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "feed",
+    "ph": "/fiːd/",
+    "pos": "v.",
+    "zh": "餵食",
+    "ex": "Feed the golden fish daily.",
+    "exzh": "每天給金魚餵飼料。",
+    "emoji": "🐟",
+    "pic": "",
     "單字": "feed",
     "音標": "/fiːd/",
     "詞性": "v.",
@@ -6830,6 +12294,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "feel",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is feel.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "feel",
     "音標": "",
     "詞性": "",
@@ -6840,6 +12312,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "feeling",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is feeling.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "feeling",
     "音標": "",
     "詞性": "",
@@ -6850,6 +12330,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "female",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is female.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "female",
     "音標": "",
     "詞性": "",
@@ -6860,6 +12348,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fence",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fence.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fence",
     "音標": "",
     "詞性": "",
@@ -6870,6 +12366,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ferry",
+    "ph": "/ˈfer.i/",
+    "pos": "n.",
+    "zh": "渡輪",
+    "ex": "We took a ferry across the bay.",
+    "exzh": "我們搭乘渡輪橫越海灣。",
+    "emoji": "⛴️",
+    "pic": "",
     "單字": "ferry",
     "音標": "/ˈfer.i/",
     "詞性": "n.",
@@ -6880,6 +12384,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "festival",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is festival.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "festival",
     "音標": "",
     "詞性": "",
@@ -6890,6 +12402,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fever",
+    "ph": "/ˈfiː.vɚ/",
+    "pos": "n.",
+    "zh": "發燒",
+    "ex": "Drink plenty of water when you have fever.",
+    "exzh": "發燒時要多喝水並充分休息。",
+    "emoji": "🌡️",
+    "pic": "",
     "單字": "fever",
     "音標": "/ˈfiː.vɚ/",
     "詞性": "n.",
@@ -6900,6 +12420,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "few",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is few.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "few",
     "音標": "",
     "詞性": "",
@@ -6910,6 +12438,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fifteen",
+    "ph": "/ˌfɪfˈtiːn/",
+    "pos": "num.",
+    "zh": "十五",
+    "ex": "The clock shows fifteen minutes.",
+    "exzh": "時鐘顯示經過了十五分鐘。",
+    "emoji": "1️⃣5️⃣",
+    "pic": "",
     "單字": "fifteen",
     "音標": "/ˌfɪfˈtiːn/",
     "詞性": "num.",
@@ -6920,6 +12456,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fifty",
+    "ph": "/ˈfɪf.ti/",
+    "pos": "num.",
+    "zh": "五十",
+    "ex": "Fifty cents buys a sweet candy.",
+    "exzh": "五十分可以買一顆甜糖果。",
+    "emoji": "5️⃣0️⃣",
+    "pic": "",
     "單字": "fifty",
     "音標": "/ˈfɪf.ti/",
     "詞性": "num.",
@@ -6930,6 +12474,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fight",
+    "ph": "/faɪt/",
+    "pos": "v.",
+    "zh": "打架，爭吵",
+    "ex": "Good friends do not fight.",
+    "exzh": "好朋友是不會吵架打架的。",
+    "emoji": "🤝",
+    "pic": "",
     "單字": "fight",
     "音標": "/faɪt/",
     "詞性": "v.",
@@ -6940,6 +12492,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fill",
+    "ph": "/fɪl/",
+    "pos": "v.",
+    "zh": "裝滿，填滿",
+    "ex": "Fill the water bottle full.",
+    "exzh": "把水壺裝滿乾淨的水。",
+    "emoji": "🧴",
+    "pic": "",
     "單字": "fill",
     "音標": "/fɪl/",
     "詞性": "v.",
@@ -6950,6 +12510,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "film",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is film.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "film",
     "音標": "",
     "詞性": "",
@@ -6960,6 +12528,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "final",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is final.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "final",
     "音標": "",
     "詞性": "",
@@ -6970,6 +12546,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "finally",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is finally.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "finally",
     "音標": "",
     "詞性": "",
@@ -6980,6 +12564,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "find",
+    "ph": "/faɪnd/",
+    "pos": "v.",
+    "zh": "找到",
+    "ex": "Can you find my lost pencil?",
+    "exzh": "你能找到我遺失的鉛筆嗎？",
+    "emoji": "🔍",
+    "pic": "",
     "單字": "find",
     "音標": "/faɪnd/",
     "詞性": "v.",
@@ -6990,6 +12582,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fine",
+    "ph": "/faɪn/",
+    "pos": "adj.",
+    "zh": "美好的，晴朗的",
+    "ex": "I feel fine and energetic today.",
+    "exzh": "我今天感覺神清氣爽，狀態很好。",
+    "emoji": "✨",
+    "pic": "",
     "單字": "fine",
     "音標": "/faɪn/",
     "詞性": "adj.",
@@ -7000,6 +12600,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "finger",
+    "ph": "/ˈfɪŋ.ɡɚ/",
+    "pos": "n.",
+    "zh": "手指",
+    "ex": "She has ten fingers.",
+    "exzh": "她有十隻手指頭。",
+    "emoji": "👆",
+    "pic": "",
     "單字": "finger",
     "音標": "/ˈfɪŋ.ɡɚ/",
     "詞性": "n.",
@@ -7010,6 +12618,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "finish",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is finish.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "finish",
     "音標": "",
     "詞性": "",
@@ -7020,6 +12636,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fire",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fire.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fire",
     "音標": "",
     "詞性": "",
@@ -7030,6 +12654,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fire station",
+    "ph": "/ˈfaɪr ˌsteɪ.ʃən/",
+    "pos": "n.",
+    "zh": "消防局",
+    "ex": "Red fire engines wait at fire station.",
+    "exzh": "紅色消防車在消防局待命。",
+    "emoji": "🚒",
+    "pic": "",
     "單字": "fire station",
     "音標": "/ˈfaɪr ˌsteɪ.ʃən/",
     "詞性": "n.",
@@ -7040,6 +12672,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "first",
+    "ph": "/fɝːst/",
+    "pos": "adj./adv.",
+    "zh": "第一的；首先",
+    "ex": "He won the first prize.",
+    "exzh": "他贏得了第一名頭獎。",
+    "emoji": "🥇",
+    "pic": "",
     "單字": "first",
     "音標": "/fɝːst/",
     "詞性": "adj./adv.",
@@ -7050,6 +12690,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fish",
+    "ph": "/fɪʃ/",
+    "pos": "n.",
+    "zh": "魚",
+    "ex": "Goldfish swim in the pond.",
+    "exzh": "金魚在池塘裡游泳。",
+    "emoji": "🐟",
+    "pic": "",
     "單字": "fish",
     "音標": "/fɪʃ/",
     "詞性": "n.",
@@ -7060,6 +12708,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fisherman",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fisherman.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fisherman",
     "音標": "",
     "詞性": "",
@@ -7070,6 +12726,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fit",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fit.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fit",
     "音標": "",
     "詞性": "",
@@ -7080,6 +12744,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "five",
+    "ph": "/faɪv/",
+    "pos": "num.",
+    "zh": "五",
+    "ex": "Give me a high five!",
+    "exzh": "跟我擊掌一下！",
+    "emoji": "5️⃣",
+    "pic": "",
     "單字": "five",
     "音標": "/faɪv/",
     "詞性": "num.",
@@ -7090,6 +12762,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fix",
+    "ph": "/fɪks/",
+    "pos": "v.",
+    "zh": "修理",
+    "ex": "Dad can fix the broken toy car.",
+    "exzh": "爸爸會修壞掉的玩具小車。",
+    "emoji": "🔧",
+    "pic": "",
     "單字": "fix",
     "音標": "/fɪks/",
     "詞性": "v.",
@@ -7100,6 +12780,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "flag",
+    "ph": "/flæɡ/",
+    "pos": "n.",
+    "zh": "旗幟",
+    "ex": "The national flag waves in breeze.",
+    "exzh": "旗幟在徐徐微風中飄揚展現。",
+    "emoji": "🚩",
+    "pic": "",
     "單字": "flag",
     "音標": "/flæɡ/",
     "詞性": "n.",
@@ -7110,6 +12798,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "flashlight",
+    "ph": "/ˈflæʃ.laɪt/",
+    "pos": "n.",
+    "zh": "手電筒",
+    "ex": "Turn on flashlight in dark night.",
+    "exzh": "在漆黑的夜晚中打開手電筒照路。",
+    "emoji": "🔦",
+    "pic": "",
     "單字": "flashlight",
     "音標": "/ˈflæʃ.laɪt/",
     "詞性": "n.",
@@ -7120,6 +12816,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "flat",
+    "ph": "/flæt/",
+    "pos": "n.",
+    "zh": "公寓",
+    "ex": "They live in a modern flat.",
+    "exzh": "他們住在一間現代公寓裡。",
+    "emoji": "🏢",
+    "pic": "",
     "單字": "flat",
     "音標": "/flæt/",
     "詞性": "n.",
@@ -7130,6 +12834,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "flat tire",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is flat tire.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "flat tire",
     "音標": "",
     "詞性": "",
@@ -7140,6 +12852,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "flight",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is flight.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "flight",
     "音標": "",
     "詞性": "",
@@ -7150,6 +12870,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "floor",
+    "ph": "/flɔːr/",
+    "pos": "n.",
+    "zh": "地板；樓層",
+    "ex": "Keep the bedroom floor tidy.",
+    "exzh": "保持臥室地板整潔乾淨。",
+    "emoji": "🪵",
+    "pic": "",
     "單字": "floor",
     "音標": "/flɔːr/",
     "詞性": "n.",
@@ -7160,6 +12888,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "flour",
+    "ph": "/flaʊr/",
+    "pos": "n.",
+    "zh": "麵粉",
+    "ex": "Mix flour and eggs to make cake.",
+    "exzh": "把麵粉和雞蛋混合做成蛋糕。",
+    "emoji": "🌾",
+    "pic": "",
     "單字": "flour",
     "音標": "/flaʊr/",
     "詞性": "n.",
@@ -7170,6 +12906,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "flower",
+    "ph": "/ˈflaʊ.ɚ/",
+    "pos": "n.",
+    "zh": "花朵",
+    "ex": "Spring brings colorful flowers.",
+    "exzh": "春天帶來繽紛的花朵。",
+    "emoji": "🌸",
+    "pic": "",
     "單字": "flower",
     "音標": "/ˈflaʊ.ɚ/",
     "詞性": "n.",
@@ -7180,6 +12924,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "flu",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is flu.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "flu",
     "音標": "",
     "詞性": "",
@@ -7190,6 +12942,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "flute",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is flute.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "flute",
     "音標": "",
     "詞性": "",
@@ -7200,6 +12960,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fly",
+    "ph": "/flaɪ/",
+    "pos": "v.",
+    "zh": "飛行",
+    "ex": "Kites fly in the windy sky.",
+    "exzh": "風箏在有風的天空中飛翔。",
+    "emoji": "🪁",
+    "pic": "",
     "單字": "fly",
     "音標": "/flaɪ/",
     "詞性": "v.",
@@ -7210,6 +12978,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "foal",
+    "ph": "/foʊl/",
+    "pos": "n.",
+    "zh": "小馬",
+    "ex": "The foal runs beside the mare.",
+    "exzh": "小馬駒跟在母馬身旁奔跑。",
+    "emoji": "🐴",
+    "pic": "",
     "單字": "foal",
     "音標": "/foʊl/",
     "詞性": "n.",
@@ -7220,6 +12996,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "focus",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is focus.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "focus",
     "音標": "",
     "詞性": "",
@@ -7230,6 +13014,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fog",
+    "ph": "/fɑːɡ/",
+    "pos": "n.",
+    "zh": "霧氣，濃霧",
+    "ex": "Thick morning fog covered the road.",
+    "exzh": "清晨濃厚的霧氣籠罩了道路。",
+    "emoji": "🌫️",
+    "pic": "",
     "單字": "fog",
     "音標": "/fɑːɡ/",
     "詞性": "n.",
@@ -7240,6 +13032,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "foggy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is foggy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "foggy",
     "音標": "",
     "詞性": "",
@@ -7250,6 +13050,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "follow",
+    "ph": "/ˈfɑː.loʊ/",
+    "pos": "v.",
+    "zh": "跟隨，遵守",
+    "ex": "Follow the teacher into museum.",
+    "exzh": "跟著老師走進博物館參觀。",
+    "emoji": "🚶",
+    "pic": "",
     "單字": "follow",
     "音標": "/ˈfɑː.loʊ/",
     "詞性": "v.",
@@ -7260,6 +13068,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "food",
+    "ph": "/fuːd/",
+    "pos": "n.",
+    "zh": "食物",
+    "ex": "Good food keeps us strong.",
+    "exzh": "優質的食物讓我們強壯。",
+    "emoji": "🥗",
+    "pic": "",
     "單字": "food",
     "音標": "/fuːd/",
     "詞性": "n.",
@@ -7270,6 +13086,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fool",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fool.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fool",
     "音標": "",
     "詞性": "",
@@ -7280,6 +13104,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "foolish",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is foolish.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "foolish",
     "音標": "",
     "詞性": "",
@@ -7290,6 +13122,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "foot",
+    "ph": "/fʊt/",
+    "pos": "n.",
+    "zh": "腳",
+    "ex": "My left foot hurts.",
+    "exzh": "我的左腳會痛。",
+    "emoji": "🦶",
+    "pic": "",
     "單字": "foot",
     "音標": "/fʊt/",
     "詞性": "n.",
@@ -7300,6 +13140,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "football",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is football.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "football",
     "音標": "",
     "詞性": "",
@@ -7310,6 +13158,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "for",
+    "ph": "/fɔːr/",
+    "pos": "prep.",
+    "zh": "為了，給",
+    "ex": "This gift is for you.",
+    "exzh": "這份禮物是給你的。",
+    "emoji": "🎁",
+    "pic": "",
     "單字": "for",
     "音標": "/fɔːr/",
     "詞性": "prep.",
@@ -7320,6 +13176,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "foreign",
+    "ph": "/ˈfɔːr.ən/",
+    "pos": "adj.",
+    "zh": "外國的",
+    "ex": "Learning foreign languages is fun.",
+    "exzh": "學習外國語言是一件很有趣的事。",
+    "emoji": "🌍",
+    "pic": "",
     "單字": "foreign",
     "音標": "/ˈfɔːr.ən/",
     "詞性": "adj.",
@@ -7330,6 +13194,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "foreigner",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is foreigner.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "foreigner",
     "音標": "",
     "詞性": "",
@@ -7340,6 +13212,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "forest",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is forest.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "forest",
     "音標": "",
     "詞性": "",
@@ -7350,6 +13230,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "forget",
+    "ph": "/fɚˈɡet/",
+    "pos": "v.",
+    "zh": "忘記",
+    "ex": "Don't forget your homework.",
+    "exzh": "不要忘記帶你的學校功課。",
+    "emoji": "📝",
+    "pic": "",
     "單字": "forget",
     "音標": "/fɚˈɡet/",
     "詞性": "v.",
@@ -7360,6 +13248,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "forgive",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is forgive.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "forgive",
     "音標": "",
     "詞性": "",
@@ -7370,6 +13266,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fork",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fork.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fork",
     "音標": "",
     "詞性": "",
@@ -7380,6 +13284,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "form",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is form.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "form",
     "音標": "",
     "詞性": "",
@@ -7390,6 +13302,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "formal",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is formal.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "formal",
     "音標": "",
     "詞性": "",
@@ -7400,6 +13320,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "former",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is former.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "former",
     "音標": "",
     "詞性": "",
@@ -7410,6 +13338,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "forty",
+    "ph": "/ˈfɔːr.t̬i/",
+    "pos": "num.",
+    "zh": "四十",
+    "ex": "Forty runners started the race.",
+    "exzh": "四十位跑者開始了賽跑。",
+    "emoji": "4️⃣0️⃣",
+    "pic": "",
     "單字": "forty",
     "音標": "/ˈfɔːr.t̬i/",
     "詞性": "num.",
@@ -7420,6 +13356,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "forward",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is forward.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "forward",
     "音標": "",
     "詞性": "",
@@ -7430,6 +13374,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "four",
+    "ph": "/fɔːr/",
+    "pos": "num.",
+    "zh": "四",
+    "ex": "A dog has four legs.",
+    "exzh": "狗有四條腿。",
+    "emoji": "4️⃣",
+    "pic": "",
     "單字": "four",
     "音標": "/fɔːr/",
     "詞性": "num.",
@@ -7440,6 +13392,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fourteen",
+    "ph": "/ˌfɔːrˈtiːn/",
+    "pos": "num.",
+    "zh": "十四",
+    "ex": "Fourteen students in the room.",
+    "exzh": "教室裡有十四名學生。",
+    "emoji": "1️⃣4️⃣",
+    "pic": "",
     "單字": "fourteen",
     "音標": "/ˌfɔːrˈtiːn/",
     "詞性": "num.",
@@ -7450,6 +13410,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fox",
+    "ph": "/fɑːks/",
+    "pos": "n.",
+    "zh": "狐狸",
+    "ex": "The clever red fox has a bushy tail.",
+    "exzh": "聰明紅狐狸有一條毛茸茸的大尾巴。",
+    "emoji": "🦊",
+    "pic": "",
     "單字": "fox",
     "音標": "/fɑːks/",
     "詞性": "n.",
@@ -7460,6 +13428,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "frank",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is frank.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "frank",
     "音標": "",
     "詞性": "",
@@ -7470,6 +13446,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "free",
+    "ph": "/friː/",
+    "pos": "adj.",
+    "zh": "免費的；自由的",
+    "ex": "Admission to the park is free.",
+    "exzh": "走進這座公園是完全免費的。",
+    "emoji": "🎟️",
+    "pic": "",
     "單字": "free",
     "音標": "/friː/",
     "詞性": "adj.",
@@ -7480,6 +13464,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "freedom",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is freedom.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "freedom",
     "音標": "",
     "詞性": "",
@@ -7490,6 +13482,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "freezer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is freezer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "freezer",
     "音標": "",
     "詞性": "",
@@ -7500,6 +13500,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "freezing",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is freezing.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "freezing",
     "音標": "",
     "詞性": "",
@@ -7510,6 +13518,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "French fries",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is French fries.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "French fries",
     "音標": "",
     "詞性": "",
@@ -7520,6 +13536,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fresh",
+    "ph": "/freʃ/",
+    "pos": "adj.",
+    "zh": "新鮮的",
+    "ex": "Breathe clean fresh morning air.",
+    "exzh": "深深呼吸清晨乾淨新鮮的空氣。",
+    "emoji": "🍃",
+    "pic": "",
     "單字": "fresh",
     "音標": "/freʃ/",
     "詞性": "adj.",
@@ -7530,6 +13554,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Friday",
+    "ph": "/ˈfraɪ.deɪ/",
+    "pos": "n.",
+    "zh": "星期五",
+    "ex": "Friday is my favorite weekday.",
+    "exzh": "星期五是我最愛的平日。",
+    "emoji": "📅",
+    "pic": "",
     "單字": "Friday",
     "音標": "/ˈfraɪ.deɪ/",
     "詞性": "n.",
@@ -7540,6 +13572,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "friend",
+    "ph": "/frend/",
+    "pos": "n.",
+    "zh": "朋友",
+    "ex": "Tom is my best friend.",
+    "exzh": "湯姆是我最好的朋友。",
+    "emoji": "🧑‍🤝‍🧑",
+    "pic": "",
     "單字": "friend",
     "音標": "/frend/",
     "詞性": "n.",
@@ -7550,6 +13590,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "friendly",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is friendly.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "friendly",
     "音標": "",
     "詞性": "",
@@ -7560,6 +13608,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "friendship",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is friendship.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "friendship",
     "音標": "",
     "詞性": "",
@@ -7570,6 +13626,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fries",
+    "ph": "/fraɪz/",
+    "pos": "n.",
+    "zh": "薯條",
+    "ex": "Crispy French fries are warm.",
+    "exzh": "酥脆的炸薯條熱騰騰的。",
+    "emoji": "🍟",
+    "pic": "",
     "單字": "fries",
     "音標": "/fraɪz/",
     "詞性": "n.",
@@ -7580,6 +13644,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "frighten",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is frighten.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "frighten",
     "音標": "",
     "詞性": "",
@@ -7590,6 +13662,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "frisbee",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is frisbee.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "frisbee",
     "音標": "",
     "詞性": "",
@@ -7600,6 +13680,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "frog",
+    "ph": "/frɑːɡ/",
+    "pos": "n.",
+    "zh": "青蛙",
+    "ex": "The green frog jumps high.",
+    "exzh": "綠色的青蛙跳得很高。",
+    "emoji": "🐸",
+    "pic": "",
     "單字": "frog",
     "音標": "/frɑːɡ/",
     "詞性": "n.",
@@ -7610,6 +13698,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "from",
+    "ph": "/frʌm/",
+    "pos": "prep.",
+    "zh": "來自，從",
+    "ex": "I am from Taiwan.",
+    "exzh": "我來自台灣。",
+    "emoji": "🇹🇼",
+    "pic": "",
     "單字": "from",
     "音標": "/frʌm/",
     "詞性": "prep.",
@@ -7620,6 +13716,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "front",
+    "ph": "/frʌnt/",
+    "pos": "n./adj.",
+    "zh": "前面，正面",
+    "ex": "Sit in the front row of classroom.",
+    "exzh": "坐在教室裡視野最好的最前排位置。",
+    "emoji": "⏩",
+    "pic": "",
     "單字": "front",
     "音標": "/frʌnt/",
     "詞性": "n./adj.",
@@ -7630,6 +13734,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "frost",
+    "ph": "/frɑːst/",
+    "pos": "n.",
+    "zh": "白霜",
+    "ex": "White frost sparkles on morning grass.",
+    "exzh": "晨草上覆蓋著閃閃發亮的白霜。",
+    "emoji": "❄️",
+    "pic": "",
     "單字": "frost",
     "音標": "/frɑːst/",
     "詞性": "n.",
@@ -7640,6 +13752,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fruit",
+    "ph": "/fruːt/",
+    "pos": "n.",
+    "zh": "水果",
+    "ex": "Eating fruit is healthy.",
+    "exzh": "吃水果很健康。",
+    "emoji": "🍎",
+    "pic": "",
     "單字": "fruit",
     "音標": "/fruːt/",
     "詞性": "n.",
@@ -7650,6 +13770,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fry",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fry.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fry",
     "音標": "",
     "詞性": "",
@@ -7660,6 +13788,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "full",
+    "ph": "/fʊl/",
+    "pos": "adj.",
+    "zh": "飽足的；滿的",
+    "ex": "I am full after eating lunch.",
+    "exzh": "吃完午餐後我好飽。",
+    "emoji": "🌕",
+    "pic": "",
     "單字": "full",
     "音標": "/fʊl/",
     "詞性": "adj.",
@@ -7670,6 +13806,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "fun",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is fun.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "fun",
     "音標": "",
     "詞性": "",
@@ -7680,6 +13824,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "funny",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is funny.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "funny",
     "音標": "",
     "詞性": "",
@@ -7690,6 +13842,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "furniture",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is furniture.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "furniture",
     "音標": "",
     "詞性": "",
@@ -7700,6 +13860,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "future",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is future.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "future",
     "音標": "",
     "詞性": "",
@@ -7710,6 +13878,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "gain",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is gain.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "gain",
     "音標": "",
     "詞性": "",
@@ -7720,6 +13896,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "game",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is game.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "game",
     "音標": "",
     "詞性": "",
@@ -7730,6 +13914,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "garage",
+    "ph": "/ɡəˈrɑːʒ/",
+    "pos": "n.",
+    "zh": "車庫，修車廠",
+    "ex": "Park your car inside the covered garage.",
+    "exzh": "把汽車停進遮雨的車庫裡。",
+    "emoji": "🚗",
+    "pic": "",
     "單字": "garage",
     "音標": "/ɡəˈrɑːʒ/",
     "詞性": "n.",
@@ -7740,6 +13932,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "garbage",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is garbage.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "garbage",
     "音標": "",
     "詞性": "",
@@ -7750,6 +13950,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "garden",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is garden.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "garden",
     "音標": "",
     "詞性": "",
@@ -7760,6 +13968,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "garlic",
+    "ph": "/ˈɡɑːr.lɪk/",
+    "pos": "n.",
+    "zh": "大蒜",
+    "ex": "Garlic gives a fragrant aroma.",
+    "exzh": "大蒜散發出濃郁撲鼻的香氣。",
+    "emoji": "🧄",
+    "pic": "",
     "單字": "garlic",
     "音標": "/ˈɡɑːr.lɪk/",
     "詞性": "n.",
@@ -7770,6 +13986,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "gas",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is gas.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "gas",
     "音標": "",
     "詞性": "",
@@ -7780,6 +14004,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "gate",
+    "ph": "/ɡeɪt/",
+    "pos": "n.",
+    "zh": "大門，柵欄門",
+    "ex": "Shut the garden gate safely.",
+    "exzh": "把花園的柵欄門關好。",
+    "emoji": "🚪",
+    "pic": "",
     "單字": "gate",
     "音標": "/ɡeɪt/",
     "詞性": "n.",
@@ -7790,6 +14022,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "gather",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is gather.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "gather",
     "音標": "",
     "詞性": "",
@@ -7800,6 +14040,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "geese",
+    "ph": "/ɡiːs/",
+    "pos": "n.",
+    "zh": "鵝（複數）",
+    "ex": "A flock of wild geese fly south.",
+    "exzh": "一群野生大雁結隊往南方飛去。",
+    "emoji": "🪿",
+    "pic": "",
     "單字": "geese",
     "音標": "/ɡiːs/",
     "詞性": "n.",
@@ -7810,6 +14058,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "general",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is general.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "general",
     "音標": "",
     "詞性": "",
@@ -7820,6 +14076,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "generous",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is generous.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "generous",
     "音標": "",
     "詞性": "",
@@ -7830,6 +14094,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "genius",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is genius.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "genius",
     "音標": "",
     "詞性": "",
@@ -7840,6 +14112,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "gentle",
+    "ph": "/ˈdʒen.təl/",
+    "pos": "adj.",
+    "zh": "溫和溫柔的",
+    "ex": "Be gentle when petting little kittens.",
+    "exzh": "摸小貓咪時動作一定要輕巧溫柔。",
+    "emoji": "🐱",
+    "pic": "",
     "單字": "gentle",
     "音標": "/ˈdʒen.təl/",
     "詞性": "adj.",
@@ -7850,6 +14130,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "gentleman",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is gentleman.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "gentleman",
     "音標": "",
     "詞性": "",
@@ -7860,6 +14148,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "geography",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is geography.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "geography",
     "音標": "",
     "詞性": "",
@@ -7870,6 +14166,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "gesture",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is gesture.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "gesture",
     "音標": "",
     "詞性": "",
@@ -7880,6 +14184,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "get",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is get.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "get",
     "音標": "",
     "詞性": "",
@@ -7890,6 +14202,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ghost",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ghost.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ghost",
     "音標": "",
     "詞性": "",
@@ -7900,6 +14220,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "giant",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is giant.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "giant",
     "音標": "",
     "詞性": "",
@@ -7910,6 +14238,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "gift",
+    "ph": "/ɡɪft/",
+    "pos": "n.",
+    "zh": "禮物，天賦",
+    "ex": "Wrap the surprise gift for Mom.",
+    "exzh": "把準備給媽媽的驚喜禮物包裝好。",
+    "emoji": "🎁",
+    "pic": "",
     "單字": "gift",
     "音標": "/ɡɪft/",
     "詞性": "n.",
@@ -7920,6 +14256,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "giraffe",
+    "ph": "/dʒɪˈræf/",
+    "pos": "n.",
+    "zh": "長頸鹿",
+    "ex": "The giraffe has a long neck.",
+    "exzh": "長頸鹿有長長的脖子。",
+    "emoji": "🦒",
+    "pic": "",
     "單字": "giraffe",
     "音標": "/dʒɪˈræf/",
     "詞性": "n.",
@@ -7930,6 +14274,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "girl",
+    "ph": "/ɡɝːl/",
+    "pos": "n.",
+    "zh": "女孩",
+    "ex": "The girl has long hair.",
+    "exzh": "那個女孩有一頭長髮。",
+    "emoji": "👧",
+    "pic": "",
     "單字": "girl",
     "音標": "/ɡɝːl/",
     "詞性": "n.",
@@ -7940,6 +14292,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "give",
+    "ph": "/ɡɪv/",
+    "pos": "v.",
+    "zh": "給予",
+    "ex": "Give me a big warm hug.",
+    "exzh": "給我一個大大的溫暖擁抱。",
+    "emoji": "🫂",
+    "pic": "",
     "單字": "give",
     "音標": "/ɡɪv/",
     "詞性": "v.",
@@ -7950,6 +14310,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "glad",
+    "ph": "/ɡlæd/",
+    "pos": "adj.",
+    "zh": "高興的",
+    "ex": "I am glad you came to visit.",
+    "exzh": "我真高興你今天能來拜訪我。",
+    "emoji": "😄",
+    "pic": "",
     "單字": "glad",
     "音標": "/ɡlæd/",
     "詞性": "adj.",
@@ -7960,6 +14328,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "glass",
+    "ph": "/ɡlæs/",
+    "pos": "n.",
+    "zh": "玻璃；玻璃杯",
+    "ex": "The window glass is shiny clean.",
+    "exzh": "窗戶上的玻璃擦得晶瑩剔透。",
+    "emoji": "🪟",
+    "pic": "",
     "單字": "glass",
     "音標": "/ɡlæs/",
     "詞性": "n.",
@@ -7970,6 +14346,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "glasses",
+    "ph": "/ˈɡlæs.ɪz/",
+    "pos": "n.",
+    "zh": "眼鏡",
+    "ex": "Grandpa wears reading glasses.",
+    "exzh": "爺爺戴著老花眼鏡。",
+    "emoji": "👓",
+    "pic": "",
     "單字": "glasses",
     "音標": "/ˈɡlæs.ɪz/",
     "詞性": "n.",
@@ -7980,6 +14364,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "glove",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is glove.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "glove",
     "音標": "",
     "詞性": "",
@@ -7990,6 +14382,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "gloves",
+    "ph": "/ɡlʌvz/",
+    "pos": "n.",
+    "zh": "手套",
+    "ex": "Put on thick snow gloves.",
+    "exzh": "戴上厚厚的保暖手套。",
+    "emoji": "🧤",
+    "pic": "",
     "單字": "gloves",
     "音標": "/ɡlʌvz/",
     "詞性": "n.",
@@ -8000,6 +14400,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "glue",
+    "ph": "/ɡluː/",
+    "pos": "n.",
+    "zh": "膠水",
+    "ex": "Use glue to stick the paper.",
+    "exzh": "用膠水黏貼紙張。",
+    "emoji": "🧴",
+    "pic": "",
     "單字": "glue",
     "音標": "/ɡluː/",
     "詞性": "n.",
@@ -8010,6 +14418,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "go",
+    "ph": "/ɡoʊ/",
+    "pos": "v.",
+    "zh": "去，前往",
+    "ex": "Let's go to the park.",
+    "exzh": "我們去公園吧。",
+    "emoji": "🚶",
+    "pic": "",
     "單字": "go",
     "音標": "/ɡoʊ/",
     "詞性": "v.",
@@ -8020,6 +14436,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "goal",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is goal.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "goal",
     "音標": "",
     "詞性": "",
@@ -8030,6 +14454,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "goat",
+    "ph": "/ɡoʊt/",
+    "pos": "n.",
+    "zh": "山羊",
+    "ex": "The goat eats green grass.",
+    "exzh": "山羊吃著綠色的青草。",
+    "emoji": "🐐",
+    "pic": "",
     "單字": "goat",
     "音標": "/ɡoʊt/",
     "詞性": "n.",
@@ -8040,6 +14472,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "God",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is God.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "God",
     "音標": "",
     "詞性": "",
@@ -8050,6 +14490,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "gold",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is gold.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "gold",
     "音標": "",
     "詞性": "",
@@ -8060,6 +14508,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "golden",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is golden.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "golden",
     "音標": "",
     "詞性": "",
@@ -8070,6 +14526,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "golf",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is golf.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "golf",
     "音標": "",
     "詞性": "",
@@ -8080,6 +14544,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "good",
+    "ph": "/ɡʊd/",
+    "pos": "adj.",
+    "zh": "好的，棒的",
+    "ex": "You did a good job!",
+    "exzh": "你做得非常好！",
+    "emoji": "👍",
+    "pic": "",
     "單字": "good",
     "音標": "/ɡʊd/",
     "詞性": "adj.",
@@ -8090,6 +14562,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "good-bye",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is good-bye.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "good-bye",
     "音標": "",
     "詞性": "",
@@ -8100,6 +14580,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "goodness",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is goodness.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "goodness",
     "音標": "",
     "詞性": "",
@@ -8110,6 +14598,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "goose",
+    "ph": "/ɡuːs/",
+    "pos": "n.",
+    "zh": "鵝",
+    "ex": "The white goose waddles along pond.",
+    "exzh": "大白鵝搖搖擺擺在池塘邊走動。",
+    "emoji": "🪿",
+    "pic": "",
     "單字": "goose",
     "音標": "/ɡuːs/",
     "詞性": "n.",
@@ -8120,6 +14616,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "government",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is government.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "government",
     "音標": "",
     "詞性": "",
@@ -8130,6 +14634,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "grade",
+    "ph": "/ɡreɪd/",
+    "pos": "n.",
+    "zh": "年級；成績",
+    "ex": "She is in second grade.",
+    "exzh": "她目前讀國小二年級。",
+    "emoji": "🏫",
+    "pic": "",
     "單字": "grade",
     "音標": "/ɡreɪd/",
     "詞性": "n.",
@@ -8140,6 +14652,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "gram",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is gram.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "gram",
     "音標": "",
     "詞性": "",
@@ -8150,6 +14670,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "granddaughter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is granddaughter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "granddaughter",
     "音標": "",
     "詞性": "",
@@ -8160,6 +14688,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "grandfather",
+    "ph": "/ˈɡrænˌfɑː.ðɚ/",
+    "pos": "n.",
+    "zh": "祖父，爺爺",
+    "ex": "My grandfather tells great tales.",
+    "exzh": "我的爺爺很會講精彩的故事。",
+    "emoji": "👴",
+    "pic": "",
     "單字": "grandfather",
     "音標": "/ˈɡrænˌfɑː.ðɚ/",
     "詞性": "n.",
@@ -8170,6 +14706,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "grandma",
+    "ph": "/ˈɡræn.mɑː/",
+    "pos": "n.",
+    "zh": "奶奶，外婆",
+    "ex": "Grandma knit a cozy red scarf.",
+    "exzh": "奶奶織了一條溫暖的紅色圍巾。",
+    "emoji": "👵",
+    "pic": "",
     "單字": "grandma",
     "音標": "/ˈɡræn.mɑː/",
     "詞性": "n.",
@@ -8180,6 +14724,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "grandmother",
+    "ph": "/ˈɡrænˌmʌð.ɚ/",
+    "pos": "n.",
+    "zh": "祖母，奶奶",
+    "ex": "Grandmother bakes sweet apple pies.",
+    "exzh": "奶奶會烘烤香甜的蘋果派。",
+    "emoji": "👵",
+    "pic": "",
     "單字": "grandmother",
     "音標": "/ˈɡrænˌmʌð.ɚ/",
     "詞性": "n.",
@@ -8190,6 +14742,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "grandpa",
+    "ph": "/ˈɡræn.pɑː/",
+    "pos": "n.",
+    "zh": "爺爺，外公",
+    "ex": "Grandpa goes for a walk daily.",
+    "exzh": "爺爺每天都會去公園散步。",
+    "emoji": "👴",
+    "pic": "",
     "單字": "grandpa",
     "音標": "/ˈɡræn.pɑː/",
     "詞性": "n.",
@@ -8200,6 +14760,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "grandson",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is grandson.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "grandson",
     "音標": "",
     "詞性": "",
@@ -8210,6 +14778,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "grape",
+    "ph": "/ɡrep/",
+    "pos": "n.",
+    "zh": "葡萄",
+    "ex": "I like grapes.",
+    "exzh": "我喜歡葡萄。",
+    "emoji": "🍇",
+    "pic": "",
     "單字": "grape",
     "音標": "/ɡrep/",
     "詞性": "n.",
@@ -8220,6 +14796,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "grapefruit",
+    "ph": "/ˈɡreɪp.fruːt/",
+    "pos": "n.",
+    "zh": "葡萄柚",
+    "ex": "Pink grapefruit is full of vitamin C.",
+    "exzh": "粉紅葡萄柚富含豐富的維生素C。",
+    "emoji": "🍊",
+    "pic": "",
     "單字": "grapefruit",
     "音標": "/ˈɡreɪp.fruːt/",
     "詞性": "n.",
@@ -8230,6 +14814,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "grass",
+    "ph": "/ɡræs/",
+    "pos": "n.",
+    "zh": "草地",
+    "ex": "Keep off the green grass.",
+    "exzh": "請勿踐踏綠色草皮。",
+    "emoji": "🌱",
+    "pic": "",
     "單字": "grass",
     "音標": "/ɡræs/",
     "詞性": "n.",
@@ -8240,6 +14832,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "grasshopper",
+    "ph": "/ˈɡræsˌhɑː.pɚ/",
+    "pos": "n.",
+    "zh": "蚱蜢，蝗蟲",
+    "ex": "The green grasshopper jumps in meadows.",
+    "exzh": "綠色的蚱蜢在草地間歡快跳躍。",
+    "emoji": "🦗",
+    "pic": "",
     "單字": "grasshopper",
     "音標": "/ˈɡræsˌhɑː.pɚ/",
     "詞性": "n.",
@@ -8250,6 +14850,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "gray",
+    "ph": "/ɡreɪ/",
+    "pos": "adj./n.",
+    "zh": "灰色的；灰色",
+    "ex": "Elephants are gray.",
+    "exzh": "大象是灰色的。",
+    "emoji": "🩶",
+    "pic": "",
     "單字": "gray",
     "音標": "/ɡreɪ/",
     "詞性": "adj./n.",
@@ -8260,6 +14868,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "great",
+    "ph": "/ɡreɪt/",
+    "pos": "adj.",
+    "zh": "極好的，偉大的",
+    "ex": "You did a great excellent job!",
+    "exzh": "你做得實在太出色太棒了！",
+    "emoji": "🌟",
+    "pic": "",
     "單字": "great",
     "音標": "/ɡreɪt/",
     "詞性": "adj.",
@@ -8270,6 +14886,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "greedy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is greedy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "greedy",
     "音標": "",
     "詞性": "",
@@ -8280,6 +14904,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "green",
+    "ph": "/ɡriːn/",
+    "pos": "adj./n.",
+    "zh": "綠色的；綠色",
+    "ex": "The grass is green.",
+    "exzh": "草地是綠色的。",
+    "emoji": "🟢",
+    "pic": "",
     "單字": "green",
     "音標": "/ɡriːn/",
     "詞性": "adj./n.",
@@ -8290,6 +14922,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "greet",
+    "ph": "/ɡriːt/",
+    "pos": "v.",
+    "zh": "問候，打招呼",
+    "ex": "Greet your teacher with polite bow.",
+    "exzh": "禮貌鞠躬向老師問好。",
+    "emoji": "🙇",
+    "pic": "",
     "單字": "greet",
     "音標": "/ɡriːt/",
     "詞性": "v.",
@@ -8300,6 +14940,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ground",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ground.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ground",
     "音標": "",
     "詞性": "",
@@ -8310,6 +14958,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "group",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is group.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "group",
     "音標": "",
     "詞性": "",
@@ -8320,6 +14976,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "grow",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is grow.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "grow",
     "音標": "",
     "詞性": "",
@@ -8330,6 +14994,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "guard",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is guard.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "guard",
     "音標": "",
     "詞性": "",
@@ -8340,6 +15012,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "guava",
+    "ph": "/ˈɡwɑː.və/",
+    "pos": "n.",
+    "zh": "芭樂，番石榴",
+    "ex": "Crisp green guava has lots of vitamin C.",
+    "exzh": "爽脆的綠芭樂富含維他命C。",
+    "emoji": "🍈",
+    "pic": "",
     "單字": "guava",
     "音標": "/ˈɡwɑː.və/",
     "詞性": "n.",
@@ -8350,6 +15030,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "guess",
+    "ph": "/ɡes/",
+    "pos": "v.",
+    "zh": "猜測",
+    "ex": "Guess what is inside the secret box.",
+    "exzh": "猜猜神秘盒子裡裝了什麼。",
+    "emoji": "🎁",
+    "pic": "",
     "單字": "guess",
     "音標": "/ɡes/",
     "詞性": "v.",
@@ -8360,6 +15048,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "guest",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is guest.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "guest",
     "音標": "",
     "詞性": "",
@@ -8370,6 +15066,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "guide",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is guide.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "guide",
     "音標": "",
     "詞性": "",
@@ -8380,6 +15084,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "guitar",
+    "ph": "/ɡɪˈtɑːr/",
+    "pos": "n.",
+    "zh": "吉他",
+    "ex": "He plays the acoustic guitar.",
+    "exzh": "他會彈木吉他。",
+    "emoji": "🎸",
+    "pic": "",
     "單字": "guitar",
     "音標": "/ɡɪˈtɑːr/",
     "詞性": "n.",
@@ -8390,6 +15102,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "gun",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is gun.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "gun",
     "音標": "",
     "詞性": "",
@@ -8400,6 +15120,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "guy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is guy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "guy",
     "音標": "",
     "詞性": "",
@@ -8410,6 +15138,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "gym",
+    "ph": "/dʒɪm/",
+    "pos": "n.",
+    "zh": "體育館，健身房",
+    "ex": "Play basketball inside the school gym.",
+    "exzh": "在學校體育館裡打籃球。",
+    "emoji": "🏀",
+    "pic": "",
     "單字": "gym",
     "音標": "/dʒɪm/",
     "詞性": "n.",
@@ -8420,6 +15156,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "habit",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is habit.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "habit",
     "音標": "",
     "詞性": "",
@@ -8430,6 +15174,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "had",
+    "ph": "/hæd/",
+    "pos": "v.",
+    "zh": "有（過去式）",
+    "ex": "We had a good time.",
+    "exzh": "我們度過了愉快時光。",
+    "emoji": "🎉",
+    "pic": "",
     "單字": "had",
     "音標": "/hæd/",
     "詞性": "v.",
@@ -8440,6 +15192,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hair",
+    "ph": "/her/",
+    "pos": "n.",
+    "zh": "頭髮",
+    "ex": "She brushes her hair every day.",
+    "exzh": "她每天梳頭髮。",
+    "emoji": "💇",
+    "pic": "",
     "單字": "hair",
     "音標": "/her/",
     "詞性": "n.",
@@ -8450,6 +15210,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hair dresser",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hair dresser.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hair dresser",
     "音標": "",
     "詞性": "",
@@ -8460,6 +15228,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "haircut",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is haircut.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "haircut",
     "音標": "",
     "詞性": "",
@@ -8470,6 +15246,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "half",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is half.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "half",
     "音標": "",
     "詞性": "",
@@ -8480,6 +15264,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hall",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hall.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hall",
     "音標": "",
     "詞性": "",
@@ -8490,6 +15282,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Halloween",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is Halloween.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "Halloween",
     "音標": "",
     "詞性": "",
@@ -8500,6 +15300,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hallway",
+    "ph": "/ˈhɑːl.weɪ/",
+    "pos": "n.",
+    "zh": "走廊",
+    "ex": "Walk quietly down the school hallway.",
+    "exzh": "在學校走廊上安靜慢行。",
+    "emoji": "🏫",
+    "pic": "",
     "單字": "hallway",
     "音標": "/ˈhɑːl.weɪ/",
     "詞性": "n.",
@@ -8510,6 +15318,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ham",
+    "ph": "/hæm/",
+    "pos": "n.",
+    "zh": "火腿",
+    "ex": "Put ham and cheese in the sandwich.",
+    "exzh": "在三明治裡夾入火腿和起司。",
+    "emoji": "🍖",
+    "pic": "",
     "單字": "ham",
     "音標": "/hæm/",
     "詞性": "n.",
@@ -8520,6 +15336,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hamburger",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hamburger.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hamburger",
     "音標": "",
     "詞性": "",
@@ -8530,6 +15354,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hammer",
+    "ph": "/ˈhæm.ɚ/",
+    "pos": "n.",
+    "zh": "鐵鎚",
+    "ex": "Pound the nail in with a hammer.",
+    "exzh": "用鐵鎚把釘子穩固地敲進木板裡。",
+    "emoji": "🔨",
+    "pic": "",
     "單字": "hammer",
     "音標": "/ˈhæm.ɚ/",
     "詞性": "n.",
@@ -8540,6 +15372,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hamster",
+    "ph": "/ˈhæm.stɚ/",
+    "pos": "n.",
+    "zh": "倉鼠",
+    "ex": "The hamster runs on its wheel all night.",
+    "exzh": "倉鼠整晚在牠的滾輪上跑個不停。",
+    "emoji": "🐹",
+    "pic": "",
     "單字": "hamster",
     "音標": "/ˈhæm.stɚ/",
     "詞性": "n.",
@@ -8550,6 +15390,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hand",
+    "ph": "/hænd/",
+    "pos": "n.",
+    "zh": "手",
+    "ex": "Clap your hands.",
+    "exzh": "拍拍你的雙手。",
+    "emoji": "✋",
+    "pic": "",
     "單字": "hand",
     "音標": "/hænd/",
     "詞性": "n.",
@@ -8560,6 +15408,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "handkerchief",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is handkerchief.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "handkerchief",
     "音標": "",
     "詞性": "",
@@ -8570,6 +15426,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "handle",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is handle.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "handle",
     "音標": "",
     "詞性": "",
@@ -8580,6 +15444,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "handsome",
+    "ph": "/ˈhæn.səm/",
+    "pos": "adj.",
+    "zh": "英俊帥氣的",
+    "ex": "The prince was tall and handsome.",
+    "exzh": "那位童話王子身材高大又英俊。",
+    "emoji": "🤴",
+    "pic": "",
     "單字": "handsome",
     "音標": "/ˈhæn.səm/",
     "詞性": "adj.",
@@ -8590,6 +15462,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hang",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hang.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hang",
     "音標": "",
     "詞性": "",
@@ -8600,6 +15480,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hanger",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hanger.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hanger",
     "音標": "",
     "詞性": "",
@@ -8610,6 +15498,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "happen",
+    "ph": "/ˈhæp.ən/",
+    "pos": "v.",
+    "zh": "發生",
+    "ex": "What happened on the playground?",
+    "exzh": "操場上剛剛發生了什麼事？",
+    "emoji": "👀",
+    "pic": "",
     "單字": "happen",
     "音標": "/ˈhæp.ən/",
     "詞性": "v.",
@@ -8620,6 +15516,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "happy",
+    "ph": "/ˈhæp.i/",
+    "pos": "adj.",
+    "zh": "快樂的",
+    "ex": "We are happy to play outside.",
+    "exzh": "在戶外玩我們很快樂。",
+    "emoji": "😊",
+    "pic": "",
     "單字": "happy",
     "音標": "/ˈhæp.i/",
     "詞性": "adj.",
@@ -8630,6 +15534,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "harbor",
+    "ph": "/ˈhɑːr.bɚ/",
+    "pos": "n.",
+    "zh": "港口，海港",
+    "ex": "Fishing boats dock safely in harbor.",
+    "exzh": "捕魚的漁船安全停靠在避風港內。",
+    "emoji": "⚓",
+    "pic": "",
     "單字": "harbor",
     "音標": "/ˈhɑːr.bɚ/",
     "詞性": "n.",
@@ -8640,6 +15552,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hard",
+    "ph": "/hɑːrd/",
+    "pos": "adj.",
+    "zh": "困難的；堅硬的",
+    "ex": "Math problems can be hard.",
+    "exzh": "有些數學題目可能很難。",
+    "emoji": "🧩",
+    "pic": "",
     "單字": "hard",
     "音標": "/hɑːrd/",
     "詞性": "adj.",
@@ -8650,6 +15570,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hard-working",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hard-working.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hard-working",
     "音標": "",
     "詞性": "",
@@ -8660,6 +15588,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hardly",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hardly.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hardly",
     "音標": "",
     "詞性": "",
@@ -8670,6 +15606,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "has",
+    "ph": "/hæz/",
+    "pos": "v.",
+    "zh": "有（第三人稱單數）",
+    "ex": "She has long hair.",
+    "exzh": "她有一頭長髮。",
+    "emoji": "💇",
+    "pic": "",
     "單字": "has",
     "音標": "/hæz/",
     "詞性": "v.",
@@ -8680,6 +15624,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hat",
+    "ph": "/hæt/",
+    "pos": "n.",
+    "zh": "帽子（有帽簷）",
+    "ex": "Wear a sun hat outdoors.",
+    "exzh": "在戶外戴頂遮陽帽吧。",
+    "emoji": "👒",
+    "pic": "",
     "單字": "hat",
     "音標": "/hæt/",
     "詞性": "n.",
@@ -8690,6 +15642,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hate",
+    "ph": "/heɪt/",
+    "pos": "v.",
+    "zh": "討厭，不喜歡",
+    "ex": "I hate bitter raw bittergourd.",
+    "exzh": "我討厭吃苦澀的生苦瓜。",
+    "emoji": "😣",
+    "pic": "",
     "單字": "hate",
     "音標": "/heɪt/",
     "詞性": "v.",
@@ -8700,6 +15660,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "have",
+    "ph": "/hæv/",
+    "pos": "v.",
+    "zh": "有，擁有",
+    "ex": "I have two pencils.",
+    "exzh": "我有兩支鉛筆。",
+    "emoji": "✏️",
+    "pic": "",
     "單字": "have",
     "音標": "/hæv/",
     "詞性": "v.",
@@ -8710,6 +15678,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "he",
+    "ph": "/hiː/",
+    "pos": "pron.",
+    "zh": "他",
+    "ex": "He likes playing soccer.",
+    "exzh": "他喜歡踢足球。",
+    "emoji": "👦",
+    "pic": "",
     "單字": "he",
     "音標": "/hiː/",
     "詞性": "pron.",
@@ -8720,6 +15696,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "head",
+    "ph": "/hed/",
+    "pos": "n.",
+    "zh": "頭",
+    "ex": "Touch your head.",
+    "exzh": "摸摸你的頭。",
+    "emoji": "👤",
+    "pic": "",
     "單字": "head",
     "音標": "/hed/",
     "詞性": "n.",
@@ -8730,6 +15714,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "headache",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is headache.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "headache",
     "音標": "",
     "詞性": "",
@@ -8740,6 +15732,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "health",
+    "ph": "/helθ/",
+    "pos": "n.",
+    "zh": "健康",
+    "ex": "Regular exercise brings good health.",
+    "exzh": "規律運動能為你帶來身體健康。",
+    "emoji": "💪",
+    "pic": "",
     "單字": "health",
     "音標": "/helθ/",
     "詞性": "n.",
@@ -8750,6 +15750,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "healthy",
+    "ph": "/ˈhel.θi/",
+    "pos": "adj.",
+    "zh": "健康的",
+    "ex": "Eating vegetables keeps you healthy.",
+    "exzh": "天天吃蔬菜能讓你的身體保持健康。",
+    "emoji": "🥗",
+    "pic": "",
     "單字": "healthy",
     "音標": "/ˈhel.θi/",
     "詞性": "adj.",
@@ -8760,6 +15768,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hear",
+    "ph": "/hɪr/",
+    "pos": "v.",
+    "zh": "聽見",
+    "ex": "Can you hear the music?",
+    "exzh": "你聽得到音樂嗎？",
+    "emoji": "👂",
+    "pic": "",
     "單字": "hear",
     "音標": "/hɪr/",
     "詞性": "v.",
@@ -8770,6 +15786,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "heart",
+    "ph": "/hɑːrt/",
+    "pos": "n.",
+    "zh": "心臟；愛心",
+    "ex": "Your heart beats steadily.",
+    "exzh": "你的心臟穩定地跳動著。",
+    "emoji": "❤️",
+    "pic": "",
     "單字": "heart",
     "音標": "/hɑːrt/",
     "詞性": "n.",
@@ -8780,6 +15804,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "heat",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is heat.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "heat",
     "音標": "",
     "詞性": "",
@@ -8790,6 +15822,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "heater",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is heater.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "heater",
     "音標": "",
     "詞性": "",
@@ -8800,6 +15840,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "heavy",
+    "ph": "/ˈhev.i/",
+    "pos": "adj.",
+    "zh": "沉重的",
+    "ex": "This big suitcase is heavy.",
+    "exzh": "這個大行李箱非常沉重。",
+    "emoji": "🧳",
+    "pic": "",
     "單字": "heavy",
     "音標": "/ˈhev.i/",
     "詞性": "adj.",
@@ -8810,6 +15858,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hedgehog",
+    "ph": "/ˈhedʒ.hɑːɡ/",
+    "pos": "n.",
+    "zh": "刺蝟",
+    "ex": "The tiny hedgehog curls into a prickly ball.",
+    "exzh": "小刺蝟害怕時蜷縮成多刺的小圓球。",
+    "emoji": "🦔",
+    "pic": "",
     "單字": "hedgehog",
     "音標": "/ˈhedʒ.hɑːɡ/",
     "詞性": "n.",
@@ -8820,6 +15876,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "height",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is height.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "height",
     "音標": "",
     "詞性": "",
@@ -8830,6 +15894,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "helicopter",
+    "ph": "/ˈhel.əˌkɑːp.tɚ/",
+    "pos": "n.",
+    "zh": "直升機",
+    "ex": "The rescue helicopter flies overhead.",
+    "exzh": "救援直升機在頭頂上盤旋。",
+    "emoji": "🚁",
+    "pic": "",
     "單字": "helicopter",
     "音標": "/ˈhel.əˌkɑːp.tɚ/",
     "詞性": "n.",
@@ -8840,6 +15912,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hello",
+    "ph": "/həˈlo/",
+    "pos": "interj.",
+    "zh": "哈囉，你好",
+    "ex": "Hello, Amy!",
+    "exzh": "哈囉，艾咪！",
+    "emoji": "👋",
+    "pic": "",
     "單字": "hello",
     "音標": "/həˈlo/",
     "詞性": "interj.",
@@ -8850,6 +15930,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "help",
+    "ph": "/help/",
+    "pos": "v.",
+    "zh": "幫助",
+    "ex": "Help others when they need it.",
+    "exzh": "在別人需要時伸出援手。",
+    "emoji": "🤝",
+    "pic": "",
     "單字": "help",
     "音標": "/help/",
     "詞性": "v.",
@@ -8860,6 +15948,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "helpful",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is helpful.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "helpful",
     "音標": "",
     "詞性": "",
@@ -8870,6 +15966,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hen",
+    "ph": "/hen/",
+    "pos": "n.",
+    "zh": "母雞",
+    "ex": "The brown hen lays brown eggs.",
+    "exzh": "棕色的母雞每天在窩裡下蛋。",
+    "emoji": "🐔",
+    "pic": "",
     "單字": "hen",
     "音標": "/hen/",
     "詞性": "n.",
@@ -8880,6 +15984,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "her",
+    "ph": "/hɝː/",
+    "pos": "pron.",
+    "zh": "她（受格/所有格）",
+    "ex": "This is her new pencil case.",
+    "exzh": "這是她的新鉛筆盒。",
+    "emoji": "👧",
+    "pic": "",
     "單字": "her",
     "音標": "/hɝː/",
     "詞性": "pron.",
@@ -8890,6 +16002,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "here",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is here.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "here",
     "音標": "",
     "詞性": "",
@@ -8900,6 +16020,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hero",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hero.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hero",
     "音標": "",
     "詞性": "",
@@ -8910,6 +16038,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hey",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hey.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hey",
     "音標": "",
     "詞性": "",
@@ -8920,6 +16056,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hi",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hi.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hi",
     "音標": "",
     "詞性": "",
@@ -8930,6 +16074,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hide",
+    "ph": "/haɪd/",
+    "pos": "v.",
+    "zh": "躲藏",
+    "ex": "Hide behind the large tree.",
+    "exzh": "躲在大樹後面藏好。",
+    "emoji": "🌳",
+    "pic": "",
     "單字": "hide",
     "音標": "/haɪd/",
     "詞性": "v.",
@@ -8940,6 +16092,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "high",
+    "ph": "/haɪ/",
+    "pos": "adj.",
+    "zh": "高的",
+    "ex": "Birds fly above high mountain tops.",
+    "exzh": "鳥兒在高高的山峰頂上翱翔。",
+    "emoji": "🦅",
+    "pic": "",
     "單字": "high",
     "音標": "/haɪ/",
     "詞性": "adj.",
@@ -8950,6 +16110,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "highway",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is highway.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "highway",
     "音標": "",
     "詞性": "",
@@ -8960,6 +16128,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hike",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hike.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hike",
     "音標": "",
     "詞性": "",
@@ -8970,6 +16146,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hill",
+    "ph": "/hɪl/",
+    "pos": "n.",
+    "zh": "山丘",
+    "ex": "They climbed up the green hill.",
+    "exzh": "他們爬上了綠意盎然的山丘。",
+    "emoji": "⛰️",
+    "pic": "",
     "單字": "hill",
     "音標": "/hɪl/",
     "詞性": "n.",
@@ -8980,6 +16164,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "him",
+    "ph": "/hɪm/",
+    "pos": "pron.",
+    "zh": "他（受格）",
+    "ex": "I saw him at school.",
+    "exzh": "我在學校看見他。",
+    "emoji": "👦",
+    "pic": "",
     "單字": "him",
     "音標": "/hɪm/",
     "詞性": "pron.",
@@ -8990,6 +16182,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hip",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hip.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hip",
     "音標": "",
     "詞性": "",
@@ -9000,6 +16200,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hippo",
+    "ph": "/ˈhɪp.oʊ/",
+    "pos": "n.",
+    "zh": "河馬",
+    "ex": "The hippo stays in water.",
+    "exzh": "河馬待在水裡面。",
+    "emoji": "🦛",
+    "pic": "",
     "單字": "hippo",
     "音標": "/ˈhɪp.oʊ/",
     "詞性": "n.",
@@ -9010,6 +16218,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hire",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hire.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hire",
     "音標": "",
     "詞性": "",
@@ -9020,6 +16236,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "his",
+    "ph": "/hɪz/",
+    "pos": "pron.",
+    "zh": "他的",
+    "ex": "His bicycle is blue.",
+    "exzh": "他的腳踏車是藍色的。",
+    "emoji": "🚲",
+    "pic": "",
     "單字": "his",
     "音標": "/hɪz/",
     "詞性": "pron.",
@@ -9030,6 +16254,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "history",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is history.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "history",
     "音標": "",
     "詞性": "",
@@ -9040,6 +16272,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hit",
+    "ph": "/hɪt/",
+    "pos": "v.",
+    "zh": "擊打，敲打",
+    "ex": "Hit the baseball with power.",
+    "exzh": "用力揮棒擊打棒球。",
+    "emoji": "⚾",
+    "pic": "",
     "單字": "hit",
     "音標": "/hɪt/",
     "詞性": "v.",
@@ -9050,6 +16290,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hobby",
+    "ph": "/ˈhɑː.bi/",
+    "pos": "n.",
+    "zh": "愛好，嗜好",
+    "ex": "Drawing is an enjoyable hobby.",
+    "exzh": "畫畫是一項令人享受的嗜好。",
+    "emoji": "🎨",
+    "pic": "",
     "單字": "hobby",
     "音標": "/ˈhɑː.bi/",
     "詞性": "n.",
@@ -9060,6 +16308,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hold",
+    "ph": "/hoʊld/",
+    "pos": "v.",
+    "zh": "握住，拿著",
+    "ex": "Hold Mom's hand across street.",
+    "exzh": "過馬路時牽好媽媽的手。",
+    "emoji": "🤝",
+    "pic": "",
     "單字": "hold",
     "音標": "/hoʊld/",
     "詞性": "v.",
@@ -9070,6 +16326,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hole",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hole.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hole",
     "音標": "",
     "詞性": "",
@@ -9080,6 +16344,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "holiday",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is holiday.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "holiday",
     "音標": "",
     "詞性": "",
@@ -9090,6 +16362,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "home",
+    "ph": "/hoʊm/",
+    "pos": "n.",
+    "zh": "家",
+    "ex": "Welcome to my sweet home.",
+    "exzh": "歡迎來到我溫馨的家。",
+    "emoji": "🏡",
+    "pic": "",
     "單字": "home",
     "音標": "/hoʊm/",
     "詞性": "n.",
@@ -9100,6 +16380,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "homesick",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is homesick.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "homesick",
     "音標": "",
     "詞性": "",
@@ -9110,6 +16398,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "homework",
+    "ph": "/ˈhoʊm.wɝːk/",
+    "pos": "n.",
+    "zh": "功課，家庭作業",
+    "ex": "Finish your homework before dinner.",
+    "exzh": "晚餐前把功課寫完。",
+    "emoji": "📝",
+    "pic": "",
     "單字": "homework",
     "音標": "/ˈhoʊm.wɝːk/",
     "詞性": "n.",
@@ -9120,6 +16416,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "honest",
+    "ph": "/ˈɑː.nɪst/",
+    "pos": "adj.",
+    "zh": "誠實的",
+    "ex": "Always be honest with parents.",
+    "exzh": "對待父母要永遠坦率且誠實。",
+    "emoji": "😇",
+    "pic": "",
     "單字": "honest",
     "音標": "/ˈɑː.nɪst/",
     "詞性": "adj.",
@@ -9130,6 +16434,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "honesty",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is honesty.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "honesty",
     "音標": "",
     "詞性": "",
@@ -9140,6 +16452,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "honey",
+    "ph": "/ˈhʌn.i/",
+    "pos": "n.",
+    "zh": "蜂蜜",
+    "ex": "Drizzle sweet honey on pancakes.",
+    "exzh": "在鬆餅上淋上香甜的蜂蜜。",
+    "emoji": "🍯",
+    "pic": "",
     "單字": "honey",
     "音標": "/ˈhʌn.i/",
     "詞性": "n.",
@@ -9150,6 +16470,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hood",
+    "ph": "/hʊd/",
+    "pos": "n.",
+    "zh": "兜帽，連帽",
+    "ex": "Pull up your hood when it drizzles.",
+    "exzh": "飄雨時把連衣帽戴上。",
+    "emoji": "🧥",
+    "pic": "",
     "單字": "hood",
     "音標": "/hʊd/",
     "詞性": "n.",
@@ -9160,6 +16488,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hop",
+    "ph": "/hɑːp/",
+    "pos": "v.",
+    "zh": "單腳跳，跳躍",
+    "ex": "Rabbits hop quickly on lawn.",
+    "exzh": "兔子在草坪上歡快跳躍。",
+    "emoji": "🐰",
+    "pic": "",
     "單字": "hop",
     "音標": "/hɑːp/",
     "詞性": "v.",
@@ -9170,6 +16506,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hope",
+    "ph": "/hoʊp/",
+    "pos": "v./n.",
+    "zh": "希望",
+    "ex": "I hope tomorrow is sunny.",
+    "exzh": "我希望明天會是個大晴天。",
+    "emoji": "☀️",
+    "pic": "",
     "單字": "hope",
     "音標": "/hoʊp/",
     "詞性": "v./n.",
@@ -9180,6 +16524,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "horrible",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is horrible.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "horrible",
     "音標": "",
     "詞性": "",
@@ -9190,6 +16542,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "horse",
+    "ph": "/hɔːrs/",
+    "pos": "n.",
+    "zh": "馬",
+    "ex": "He can ride a horse.",
+    "exzh": "他會騎馬。",
+    "emoji": "🐴",
+    "pic": "",
     "單字": "horse",
     "音標": "/hɔːrs/",
     "詞性": "n.",
@@ -9200,6 +16560,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hospital",
+    "ph": "/ˈhɑː.spɪ.t̬əl/",
+    "pos": "n.",
+    "zh": "醫院",
+    "ex": "The doctor works in a hospital.",
+    "exzh": "醫生在醫院工作。",
+    "emoji": "🏥",
+    "pic": "",
     "單字": "hospital",
     "音標": "/ˈhɑː.spɪ.t̬əl/",
     "詞性": "n.",
@@ -9210,6 +16578,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "host",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is host.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "host",
     "音標": "",
     "詞性": "",
@@ -9220,6 +16596,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hot",
+    "ph": "/hɑːt/",
+    "pos": "adj.",
+    "zh": "炎熱的，熱的",
+    "ex": "Summer days are sunny and hot.",
+    "exzh": "夏天的日子晴朗炎熱。",
+    "emoji": "🥵",
+    "pic": "",
     "單字": "hot",
     "音標": "/hɑːt/",
     "詞性": "adj.",
@@ -9230,6 +16614,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hot dog",
+    "ph": "/ˈhɑːt ˌdɑːɡ/",
+    "pos": "n.",
+    "zh": "熱狗",
+    "ex": "He buys a hot dog at the park.",
+    "exzh": "他在公園買了一根熱狗。",
+    "emoji": "🌭",
+    "pic": "",
     "單字": "hot dog",
     "音標": "/ˈhɑːt ˌdɑːɡ/",
     "詞性": "n.",
@@ -9240,6 +16632,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hotel",
+    "ph": "/hoʊˈtel/",
+    "pos": "n.",
+    "zh": "飯店，旅館",
+    "ex": "We stayed at a seaside family hotel.",
+    "exzh": "我們住在一家靠近海邊的親子飯店。",
+    "emoji": "🏨",
+    "pic": "",
     "單字": "hotel",
     "音標": "/hoʊˈtel/",
     "詞性": "n.",
@@ -9250,6 +16650,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hour",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hour.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hour",
     "音標": "",
     "詞性": "",
@@ -9260,6 +16668,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "house",
+    "ph": "/haʊs/",
+    "pos": "n.",
+    "zh": "房子",
+    "ex": "They live in a big house.",
+    "exzh": "他們住在一棟大房子裡。",
+    "emoji": "🏠",
+    "pic": "",
     "單字": "house",
     "音標": "/haʊs/",
     "詞性": "n.",
@@ -9270,6 +16686,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "housewife",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is housewife.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "housewife",
     "音標": "",
     "詞性": "",
@@ -9280,6 +16704,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "housework",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is housework.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "housework",
     "音標": "",
     "詞性": "",
@@ -9290,6 +16722,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "how",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is how.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "how",
     "音標": "",
     "詞性": "",
@@ -9300,6 +16740,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "however",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is however.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "however",
     "音標": "",
     "詞性": "",
@@ -9310,6 +16758,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hug",
+    "ph": "/hʌɡ/",
+    "pos": "v./n.",
+    "zh": "擁抱",
+    "ex": "Give Grandma a warm gentle hug.",
+    "exzh": "給奶奶一個溫暖溫柔的擁抱。",
+    "emoji": "🫂",
+    "pic": "",
     "單字": "hug",
     "音標": "/hʌɡ/",
     "詞性": "v./n.",
@@ -9320,6 +16776,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "huge",
+    "ph": "/hjuːdʒ/",
+    "pos": "adj.",
+    "zh": "龐大的，巨大的",
+    "ex": "A huge whale swam past boat.",
+    "exzh": "一隻巨大的鯨魚游過了小船旁。",
+    "emoji": "🐋",
+    "pic": "",
     "單字": "huge",
     "音標": "/hjuːdʒ/",
     "詞性": "adj.",
@@ -9330,6 +16794,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "human",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is human.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "human",
     "音標": "",
     "詞性": "",
@@ -9340,6 +16812,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "humble",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is humble.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "humble",
     "音標": "",
     "詞性": "",
@@ -9350,6 +16830,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "humid",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is humid.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "humid",
     "音標": "",
     "詞性": "",
@@ -9360,6 +16848,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "humor",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is humor.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "humor",
     "音標": "",
     "詞性": "",
@@ -9370,6 +16866,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "humorous",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is humorous.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "humorous",
     "音標": "",
     "詞性": "",
@@ -9380,6 +16884,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hundred",
+    "ph": "/ˈhʌn.drəd/",
+    "pos": "num.",
+    "zh": "一百",
+    "ex": "One hundred cents make a dollar.",
+    "exzh": "一百分是一美元。",
+    "emoji": "💯",
+    "pic": "",
     "單字": "hundred",
     "音標": "/ˈhʌn.drəd/",
     "詞性": "num.",
@@ -9390,6 +16902,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hunger",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hunger.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hunger",
     "音標": "",
     "詞性": "",
@@ -9400,6 +16920,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hungry",
+    "ph": "/ˈhʌŋ.ɡri/",
+    "pos": "adj.",
+    "zh": "飢餓的",
+    "ex": "I feel hungry before dinner.",
+    "exzh": "吃晚飯前我感到很餓。",
+    "emoji": "😋",
+    "pic": "",
     "單字": "hungry",
     "音標": "/ˈhʌŋ.ɡri/",
     "詞性": "adj.",
@@ -9410,6 +16938,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hunt",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hunt.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hunt",
     "音標": "",
     "詞性": "",
@@ -9420,6 +16956,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hunter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is hunter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "hunter",
     "音標": "",
     "詞性": "",
@@ -9430,6 +16974,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hurry",
+    "ph": "/ˈhɝː.i/",
+    "pos": "v.",
+    "zh": "趕快，匆忙",
+    "ex": "Hurry up or we will be late.",
+    "exzh": "快一點，否則我們要遲到了。",
+    "emoji": "⏰",
+    "pic": "",
     "單字": "hurry",
     "音標": "/ˈhɝː.i/",
     "詞性": "v.",
@@ -9440,6 +16992,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "hurt",
+    "ph": "/hɝːt/",
+    "pos": "v.",
+    "zh": "受傷，疼痛",
+    "ex": "My scraped knee hurts slightly.",
+    "exzh": "我擦傷的膝蓋微微隱隱作痛。",
+    "emoji": "🩹",
+    "pic": "",
     "單字": "hurt",
     "音標": "/hɝːt/",
     "詞性": "v.",
@@ -9450,6 +17010,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "husband",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is husband.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "husband",
     "音標": "",
     "詞性": "",
@@ -9460,6 +17028,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "I",
+    "ph": "/aɪ/",
+    "pos": "pron.",
+    "zh": "我",
+    "ex": "I am an elementary student.",
+    "exzh": "我是一名小學生。",
+    "emoji": "🙋",
+    "pic": "",
     "單字": "I",
     "音標": "/aɪ/",
     "詞性": "pron.",
@@ -9470,6 +17046,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ice",
+    "ph": "/aɪs/",
+    "pos": "n.",
+    "zh": "冰，冰塊",
+    "ex": "Put clear ice cubes into lemonade.",
+    "exzh": "在檸檬水裡加入晶瑩的冰塊。",
+    "emoji": "🧊",
+    "pic": "",
     "單字": "ice",
     "音標": "/aɪs/",
     "詞性": "n.",
@@ -9480,6 +17064,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ice cream",
+    "ph": "/ˌaɪs ˈkriːm/",
+    "pos": "n.",
+    "zh": "冰淇淋",
+    "ex": "Vanilla ice cream is sweet.",
+    "exzh": "香草冰淇淋很甜。",
+    "emoji": "🍨",
+    "pic": "",
     "單字": "ice cream",
     "音標": "/ˌaɪs ˈkriːm/",
     "詞性": "n.",
@@ -9490,6 +17082,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "idea",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is idea.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "idea",
     "音標": "",
     "詞性": "",
@@ -9500,6 +17100,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "if",
+    "ph": "/ɪf/",
+    "pos": "conj.",
+    "zh": "如果",
+    "ex": "If you are ready, let's go.",
+    "exzh": "如果你準備好了，我們出發吧。",
+    "emoji": "🚀",
+    "pic": "",
     "單字": "if",
     "音標": "/ɪf/",
     "詞性": "conj.",
@@ -9510,6 +17118,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ignore",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ignore.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ignore",
     "音標": "",
     "詞性": "",
@@ -9520,6 +17136,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ill",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ill.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ill",
     "音標": "",
     "詞性": "",
@@ -9530,6 +17154,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "imagine",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is imagine.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "imagine",
     "音標": "",
     "詞性": "",
@@ -9540,6 +17172,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "impolite",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is impolite.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "impolite",
     "音標": "",
     "詞性": "",
@@ -9550,6 +17190,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "importance",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is importance.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "importance",
     "音標": "",
     "詞性": "",
@@ -9560,6 +17208,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "important",
+    "ph": "/ɪmˈpɔːr.tənt/",
+    "pos": "adj.",
+    "zh": "重要的",
+    "ex": "Breakfast is an important meal.",
+    "exzh": "早餐是一天當中極為重要的一餐。",
+    "emoji": "🍳",
+    "pic": "",
     "單字": "important",
     "音標": "/ɪmˈpɔːr.tənt/",
     "詞性": "adj.",
@@ -9570,6 +17226,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "impossible",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is impossible.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "impossible",
     "音標": "",
     "詞性": "",
@@ -9580,6 +17244,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "improve",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is improve.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "improve",
     "音標": "",
     "詞性": "",
@@ -9590,6 +17262,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "in",
+    "ph": "/ɪn/",
+    "pos": "prep.",
+    "zh": "在...裡面",
+    "ex": "The pencil is in the box.",
+    "exzh": "鉛筆在盒子裡面。",
+    "emoji": "📥",
+    "pic": "",
     "單字": "in",
     "音標": "/ɪn/",
     "詞性": "prep.",
@@ -9600,6 +17280,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "inch",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is inch.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "inch",
     "音標": "",
     "詞性": "",
@@ -9610,6 +17298,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "include",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is include.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "include",
     "音標": "",
     "詞性": "",
@@ -9620,6 +17316,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "income",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is income.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "income",
     "音標": "",
     "詞性": "",
@@ -9630,6 +17334,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "increase",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is increase.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "increase",
     "音標": "",
     "詞性": "",
@@ -9640,6 +17352,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "independent",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is independent.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "independent",
     "音標": "",
     "詞性": "",
@@ -9650,6 +17370,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "indicate",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is indicate.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "indicate",
     "音標": "",
     "詞性": "",
@@ -9660,6 +17388,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "influence",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is influence.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "influence",
     "音標": "",
     "詞性": "",
@@ -9670,6 +17406,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "information",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is information.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "information",
     "音標": "",
     "詞性": "",
@@ -9680,6 +17424,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ink",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ink.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ink",
     "音標": "",
     "詞性": "",
@@ -9690,6 +17442,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "insect",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is insect.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "insect",
     "音標": "",
     "詞性": "",
@@ -9700,6 +17460,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "inside",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is inside.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "inside",
     "音標": "",
     "詞性": "",
@@ -9710,6 +17478,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "insist",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is insist.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "insist",
     "音標": "",
     "詞性": "",
@@ -9720,6 +17496,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "inspire",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is inspire.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "inspire",
     "音標": "",
     "詞性": "",
@@ -9730,6 +17514,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "instant",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is instant.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "instant",
     "音標": "",
     "詞性": "",
@@ -9740,6 +17532,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "instrument",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is instrument.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "instrument",
     "音標": "",
     "詞性": "",
@@ -9750,6 +17550,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "intelligent",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is intelligent.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "intelligent",
     "音標": "",
     "詞性": "",
@@ -9760,6 +17568,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "interest",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is interest.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "interest",
     "音標": "",
     "詞性": "",
@@ -9770,6 +17586,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "interested",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is interested.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "interested",
     "音標": "",
     "詞性": "",
@@ -9780,6 +17604,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "interesting",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is interesting.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "interesting",
     "音標": "",
     "詞性": "",
@@ -9790,6 +17622,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "international",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is international.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "international",
     "音標": "",
     "詞性": "",
@@ -9800,6 +17640,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Internet",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is Internet.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "Internet",
     "音標": "",
     "詞性": "",
@@ -9810,6 +17658,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "interrupt",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is interrupt.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "interrupt",
     "音標": "",
     "詞性": "",
@@ -9820,6 +17676,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "interview",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is interview.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "interview",
     "音標": "",
     "詞性": "",
@@ -9830,6 +17694,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "into",
+    "ph": "/ˈɪn.tuː/",
+    "pos": "prep.",
+    "zh": "進入...之中",
+    "ex": "Put books into your bag.",
+    "exzh": "把書本放進書包裡。",
+    "emoji": "🎒",
+    "pic": "",
     "單字": "into",
     "音標": "/ˈɪn.tuː/",
     "詞性": "prep.",
@@ -9840,6 +17712,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "introduce",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is introduce.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "introduce",
     "音標": "",
     "詞性": "",
@@ -9850,6 +17730,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "invent",
+    "ph": "/ɪnˈvent/",
+    "pos": "v.",
+    "zh": "發明",
+    "ex": "Invent new fun board games to play.",
+    "exzh": "發明創造全新好玩的桌上遊戲。",
+    "emoji": "🎲",
+    "pic": "",
     "單字": "invent",
     "音標": "/ɪnˈvent/",
     "詞性": "v.",
@@ -9860,6 +17748,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "invitation",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is invitation.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "invitation",
     "音標": "",
     "詞性": "",
@@ -9870,6 +17766,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "invite",
+    "ph": "/ɪnˈvaɪt/",
+    "pos": "v.",
+    "zh": "邀請",
+    "ex": "Invite classmates to birthday party.",
+    "exzh": "邀請同學們來參加生日派對。",
+    "emoji": "💌",
+    "pic": "",
     "單字": "invite",
     "音標": "/ɪnˈvaɪt/",
     "詞性": "v.",
@@ -9880,6 +17784,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "iron",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is iron.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "iron",
     "音標": "",
     "詞性": "",
@@ -9890,6 +17802,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "is",
+    "ph": "/ɪz/",
+    "pos": "v.",
+    "zh": "是（第三人稱單數）",
+    "ex": "He is my classmate.",
+    "exzh": "他是我的同班同學。",
+    "emoji": "👦",
+    "pic": "",
     "單字": "is",
     "音標": "/ɪz/",
     "詞性": "v.",
@@ -9900,6 +17820,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "island",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is island.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "island",
     "音標": "",
     "詞性": "",
@@ -9910,6 +17838,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "it",
+    "ph": "/ɪt/",
+    "pos": "pron.",
+    "zh": "它",
+    "ex": "It is a rainy day.",
+    "exzh": "今天是一個下雨天。",
+    "emoji": "🌧️",
+    "pic": "",
     "單字": "it",
     "音標": "/ɪt/",
     "詞性": "pron.",
@@ -9920,6 +17856,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "jacket",
+    "ph": "/ˈdʒæk.ɪt/",
+    "pos": "n.",
+    "zh": "夾克",
+    "ex": "Zip up your jacket.",
+    "exzh": "拉上你的夾克拉鍊。",
+    "emoji": "🧥",
+    "pic": "",
     "單字": "jacket",
     "音標": "/ˈdʒæk.ɪt/",
     "詞性": "n.",
@@ -9930,6 +17874,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "jam",
+    "ph": "/dʒæm/",
+    "pos": "n.",
+    "zh": "果醬",
+    "ex": "Sweet blueberry jam tastes great.",
+    "exzh": "甜甜的藍莓果醬嚐起來滋味絕佳。",
+    "emoji": "🍯",
+    "pic": "",
     "單字": "jam",
     "音標": "/dʒæm/",
     "詞性": "n.",
@@ -9940,6 +17892,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "January",
+    "ph": "/ˈdʒæn.ju.er.i/",
+    "pos": "n.",
+    "zh": "一月",
+    "ex": "January brings cold winter winds.",
+    "exzh": "一月帶來寒冷的冬風。",
+    "emoji": "❄️",
+    "pic": "",
     "單字": "January",
     "音標": "/ˈdʒæn.ju.er.i/",
     "詞性": "n.",
@@ -9950,6 +17910,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "jar",
+    "ph": "/dʒɑːr/",
+    "pos": "n.",
+    "zh": "玻璃罐，廣口瓶",
+    "ex": "A jar of sweet honey sits on the table.",
+    "exzh": "一罐甜蜂蜜擺在桌上。",
+    "emoji": "🍯",
+    "pic": "",
     "單字": "jar",
     "音標": "/dʒɑːr/",
     "詞性": "n.",
@@ -9960,6 +17928,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "jazz",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is jazz.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "jazz",
     "音標": "",
     "詞性": "",
@@ -9970,6 +17946,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "jealous",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is jealous.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "jealous",
     "音標": "",
     "詞性": "",
@@ -9980,6 +17964,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "jeans",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is jeans.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "jeans",
     "音標": "",
     "詞性": "",
@@ -9990,6 +17982,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "jeep",
+    "ph": "/dʒiːp/",
+    "pos": "n.",
+    "zh": "吉普車",
+    "ex": "The green jeep climbs the steep hill.",
+    "exzh": "綠色吉普車爬上陡峭的山丘。",
+    "emoji": "🚙",
+    "pic": "",
     "單字": "jeep",
     "音標": "/dʒiːp/",
     "詞性": "n.",
@@ -10000,6 +18000,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "jellyfish",
+    "ph": "/ˈdʒel.i.fɪʃ/",
+    "pos": "n.",
+    "zh": "水母",
+    "ex": "Clear jellyfish drift in blue sea.",
+    "exzh": "透明的水母在藍色大海中漂浮。",
+    "emoji": "🪼",
+    "pic": "",
     "單字": "jellyfish",
     "音標": "/ˈdʒel.i.fɪʃ/",
     "詞性": "n.",
@@ -10010,6 +18018,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "job",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is job.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "job",
     "音標": "",
     "詞性": "",
@@ -10020,6 +18036,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "jog",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is jog.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "jog",
     "音標": "",
     "詞性": "",
@@ -10030,6 +18054,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "join",
+    "ph": "/dʒɔɪn/",
+    "pos": "v.",
+    "zh": "加入，參加",
+    "ex": "Join our soccer match this afternoon.",
+    "exzh": "今天下午加入我們的足球賽吧。",
+    "emoji": "⚽",
+    "pic": "",
     "單字": "join",
     "音標": "/dʒɔɪn/",
     "詞性": "v.",
@@ -10040,6 +18072,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "joke",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is joke.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "joke",
     "音標": "",
     "詞性": "",
@@ -10050,6 +18090,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "journalist",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is journalist.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "journalist",
     "音標": "",
     "詞性": "",
@@ -10060,6 +18108,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "joy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is joy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "joy",
     "音標": "",
     "詞性": "",
@@ -10070,6 +18126,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "judge",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is judge.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "judge",
     "音標": "",
     "詞性": "",
@@ -10080,6 +18144,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "juice",
+    "ph": "/dʒuːs/",
+    "pos": "n.",
+    "zh": "果汁",
+    "ex": "I want a cup of orange juice.",
+    "exzh": "我想要一杯柳橙汁。",
+    "emoji": "🧃",
+    "pic": "",
     "單字": "juice",
     "音標": "/dʒuːs/",
     "詞性": "n.",
@@ -10090,6 +18162,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "July",
+    "ph": "/dʒuːˈlaɪ/",
+    "pos": "n.",
+    "zh": "七月",
+    "ex": "Go swimming in hot July.",
+    "exzh": "在炎熱的七月盡情游泳。",
+    "emoji": "🏊",
+    "pic": "",
     "單字": "July",
     "音標": "/dʒuːˈlaɪ/",
     "詞性": "n.",
@@ -10100,6 +18180,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "jump",
+    "ph": "/dʒʌmp/",
+    "pos": "v.",
+    "zh": "跳躍",
+    "ex": "Rabbits jump very high.",
+    "exzh": "兔子跳得很高。",
+    "emoji": "🦘",
+    "pic": "",
     "單字": "jump",
     "音標": "/dʒʌmp/",
     "詞性": "v.",
@@ -10110,6 +18198,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "June",
+    "ph": "/dʒuːn/",
+    "pos": "n.",
+    "zh": "六月",
+    "ex": "Summer vacation nears in June.",
+    "exzh": "暑假在六月即將來臨。",
+    "emoji": "☀️",
+    "pic": "",
     "單字": "June",
     "音標": "/dʒuːn/",
     "詞性": "n.",
@@ -10120,6 +18216,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "jungle",
+    "ph": "/ˈdʒʌŋ.ɡəl/",
+    "pos": "n.",
+    "zh": "叢林",
+    "ex": "Many wild parrots live in the jungle.",
+    "exzh": "許多野生鸚鵡生活在茂密叢林中。",
+    "emoji": "🌴",
+    "pic": "",
     "單字": "jungle",
     "音標": "/ˈdʒʌŋ.ɡəl/",
     "詞性": "n.",
@@ -10130,6 +18234,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "junior high school",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is junior high school.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "junior high school",
     "音標": "",
     "詞性": "",
@@ -10140,6 +18252,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "just",
+    "ph": "/dʒʌst/",
+    "pos": "adv.",
+    "zh": "剛剛；只是",
+    "ex": "I just finished dinner.",
+    "exzh": "我剛剛吃完晚餐。",
+    "emoji": "🍽️",
+    "pic": "",
     "單字": "just",
     "音標": "/dʒʌst/",
     "詞性": "adv.",
@@ -10150,6 +18270,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "kangaroo",
+    "ph": "/ˌkæŋ.ɡəˈruː/",
+    "pos": "n.",
+    "zh": "袋鼠",
+    "ex": "The mother kangaroo carries a joey.",
+    "exzh": "袋鼠媽媽在育兒袋裡裝著小袋鼠。",
+    "emoji": "🦘",
+    "pic": "",
     "單字": "kangaroo",
     "音標": "/ˌkæŋ.ɡəˈruː/",
     "詞性": "n.",
@@ -10160,6 +18288,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "keep",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is keep.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "keep",
     "音標": "",
     "詞性": "",
@@ -10170,6 +18306,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ketchup",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ketchup.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ketchup",
     "音標": "",
     "詞性": "",
@@ -10180,6 +18324,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "kettle",
+    "ph": "/ˈket̬.əl/",
+    "pos": "n.",
+    "zh": "水壺，茶壺",
+    "ex": "The electric kettle boils water fast.",
+    "exzh": "電熱水壺很快就把水燒開了。",
+    "emoji": "🫖",
+    "pic": "",
     "單字": "kettle",
     "音標": "/ˈket̬.əl/",
     "詞性": "n.",
@@ -10190,6 +18342,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "key",
+    "ph": "/kiː/",
+    "pos": "n.",
+    "zh": "鑰匙",
+    "ex": "I have a key in my pocket.",
+    "exzh": "我口袋裡有一把鑰匙。",
+    "emoji": "🔑",
+    "pic": "",
     "單字": "key",
     "音標": "/kiː/",
     "詞性": "n.",
@@ -10200,6 +18360,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "keyboard",
+    "ph": "/ˈkiː.bɔːrd/",
+    "pos": "n.",
+    "zh": "鍵盤",
+    "ex": "Type letters on the computer keyboard.",
+    "exzh": "在電腦鍵盤上敲打英文字母。",
+    "emoji": "⌨️",
+    "pic": "",
     "單字": "keyboard",
     "音標": "/ˈkiː.bɔːrd/",
     "詞性": "n.",
@@ -10210,6 +18378,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "kick",
+    "ph": "/kɪk/",
+    "pos": "v.",
+    "zh": "踢",
+    "ex": "Kick the soccer ball into goal.",
+    "exzh": "把足球一腳踢進球門裡。",
+    "emoji": "🥅",
+    "pic": "",
     "單字": "kick",
     "音標": "/kɪk/",
     "詞性": "v.",
@@ -10220,6 +18396,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "kid",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is kid.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "kid",
     "音標": "",
     "詞性": "",
@@ -10230,6 +18414,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "kill",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is kill.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "kill",
     "音標": "",
     "詞性": "",
@@ -10240,6 +18432,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "kilogram",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is kilogram.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "kilogram",
     "音標": "",
     "詞性": "",
@@ -10250,6 +18450,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "kilometer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is kilometer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "kilometer",
     "音標": "",
     "詞性": "",
@@ -10260,6 +18468,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "kind",
+    "ph": "/kaɪnd/",
+    "pos": "adj.",
+    "zh": "善良親切的",
+    "ex": "Our teacher is very kind.",
+    "exzh": "我們的老師為人非常親切。",
+    "emoji": "😇",
+    "pic": "",
     "單字": "kind",
     "音標": "/kaɪnd/",
     "詞性": "adj.",
@@ -10270,6 +18486,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "kindergarten",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is kindergarten.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "kindergarten",
     "音標": "",
     "詞性": "",
@@ -10280,6 +18504,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "king",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is king.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "king",
     "音標": "",
     "詞性": "",
@@ -10290,6 +18522,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "kingdom",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is kingdom.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "kingdom",
     "音標": "",
     "詞性": "",
@@ -10300,6 +18540,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "kiss",
+    "ph": "/kɪs/",
+    "pos": "v./n.",
+    "zh": "親吻",
+    "ex": "Mom gave a sweet goodnight kiss.",
+    "exzh": "媽媽給了一個甜美的晚安吻。",
+    "emoji": "😘",
+    "pic": "",
     "單字": "kiss",
     "音標": "/kɪs/",
     "詞性": "v./n.",
@@ -10310,6 +18558,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "kitchen",
+    "ph": "/ˈkɪtʃ.ən/",
+    "pos": "n.",
+    "zh": "廚房",
+    "ex": "Mom is cooking in the kitchen.",
+    "exzh": "媽媽在廚房煮飯。",
+    "emoji": "🍳",
+    "pic": "",
     "單字": "kitchen",
     "音標": "/ˈkɪtʃ.ən/",
     "詞性": "n.",
@@ -10320,6 +18576,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "kite",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is kite.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "kite",
     "音標": "",
     "詞性": "",
@@ -10330,6 +18594,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "kitten",
+    "ph": "/ˈkɪt̬.ən/",
+    "pos": "n.",
+    "zh": "幼貓，小貓",
+    "ex": "The fluffy kitten purrs when stroked.",
+    "exzh": "毛茸茸的小貓撫摸時會呼嚕嚕。",
+    "emoji": "🐱",
+    "pic": "",
     "單字": "kitten",
     "音標": "/ˈkɪt̬.ən/",
     "詞性": "n.",
@@ -10340,6 +18612,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "kiwi",
+    "ph": "/ˈkiː.wiː/",
+    "pos": "n.",
+    "zh": "奇異果",
+    "ex": "Slice the kiwi into fruit salad.",
+    "exzh": "把奇異果切片放入水果沙拉。",
+    "emoji": "🥝",
+    "pic": "",
     "單字": "kiwi",
     "音標": "/ˈkiː.wiː/",
     "詞性": "n.",
@@ -10350,6 +18630,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "knee",
+    "ph": "/niː/",
+    "pos": "n.",
+    "zh": "膝蓋",
+    "ex": "Bend your knees and jump.",
+    "exzh": "彎曲膝蓋然後往上跳躍。",
+    "emoji": "🦵",
+    "pic": "",
     "單字": "knee",
     "音標": "/niː/",
     "詞性": "n.",
@@ -10360,6 +18648,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "knife",
+    "ph": "/naɪf/",
+    "pos": "n.",
+    "zh": "刀子",
+    "ex": "Use plastic knife to cut cake.",
+    "exzh": "用塑膠小刀小心地切開美味蛋糕。",
+    "emoji": "🔪",
+    "pic": "",
     "單字": "knife",
     "音標": "/naɪf/",
     "詞性": "n.",
@@ -10370,6 +18666,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "knock",
+    "ph": "/nɑːk/",
+    "pos": "v.",
+    "zh": "敲門，敲打",
+    "ex": "Knock on the classroom door.",
+    "exzh": "在教室門上輕輕敲兩下。",
+    "emoji": "🚪",
+    "pic": "",
     "單字": "knock",
     "音標": "/nɑːk/",
     "詞性": "v.",
@@ -10380,6 +18684,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "know",
+    "ph": "/noʊ/",
+    "pos": "v.",
+    "zh": "知道，認識",
+    "ex": "I know the answer to this riddle.",
+    "exzh": "我知道這個謎語的答案。",
+    "emoji": "💡",
+    "pic": "",
     "單字": "know",
     "音標": "/noʊ/",
     "詞性": "v.",
@@ -10390,6 +18702,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "knowledge",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is knowledge.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "knowledge",
     "音標": "",
     "詞性": "",
@@ -10400,6 +18720,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "koala",
+    "ph": "/koʊˈɑː.lə/",
+    "pos": "n.",
+    "zh": "無尾熊",
+    "ex": "Koalas sleep peacefully in trees.",
+    "exzh": "無尾熊在尤加利樹上安穩睡覺。",
+    "emoji": "🐨",
+    "pic": "",
     "單字": "koala",
     "音標": "/koʊˈɑː.lə/",
     "詞性": "n.",
@@ -10410,6 +18738,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lack",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is lack.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "lack",
     "音標": "",
     "詞性": "",
@@ -10420,6 +18756,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lady",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is lady.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "lady",
     "音標": "",
     "詞性": "",
@@ -10430,6 +18774,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ladybug",
+    "ph": "/ˈleɪ.di.bʌɡ/",
+    "pos": "n.",
+    "zh": "瓢蟲",
+    "ex": "A red spotted ladybug climbs a petal.",
+    "exzh": "一隻紅色斑點瓢蟲爬上花瓣。",
+    "emoji": "🐞",
+    "pic": "",
     "單字": "ladybug",
     "音標": "/ˈleɪ.di.bʌɡ/",
     "詞性": "n.",
@@ -10440,6 +18792,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lake",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is lake.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "lake",
     "音標": "",
     "詞性": "",
@@ -10450,6 +18810,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lamb",
+    "ph": "/læm/",
+    "pos": "n.",
+    "zh": "小羊，羊羔",
+    "ex": "A gentle white lamb plays on pasture.",
+    "exzh": "一隻溫馴的小白羊在牧場上玩耍。",
+    "emoji": "🐑",
+    "pic": "",
     "單字": "lamb",
     "音標": "/læm/",
     "詞性": "n.",
@@ -10460,6 +18828,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lamp",
+    "ph": "/læmp/",
+    "pos": "n.",
+    "zh": "檯燈，燈具",
+    "ex": "Turn on the reading desk lamp.",
+    "exzh": "打開書桌上的閱讀檯燈。",
+    "emoji": "🛋️",
+    "pic": "",
     "單字": "lamp",
     "音標": "/læmp/",
     "詞性": "n.",
@@ -10470,6 +18846,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "land",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is land.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "land",
     "音標": "",
     "詞性": "",
@@ -10480,6 +18864,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lane",
+    "ph": "/leɪn/",
+    "pos": "n.",
+    "zh": "巷弄，車道",
+    "ex": "Walk down the quiet cozy residential lane.",
+    "exzh": "漫步走入這條寧靜溫馨的住宅小巷。",
+    "emoji": "🛣️",
+    "pic": "",
     "單字": "lane",
     "音標": "/leɪn/",
     "詞性": "n.",
@@ -10490,6 +18882,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "language",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is language.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "language",
     "音標": "",
     "詞性": "",
@@ -10500,6 +18900,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lantern",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is lantern.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "lantern",
     "音標": "",
     "詞性": "",
@@ -10510,6 +18918,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "large",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is large.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "large",
     "音標": "",
     "詞性": "",
@@ -10520,6 +18936,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "last",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is last.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "last",
     "音標": "",
     "詞性": "",
@@ -10530,6 +18954,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "late",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is late.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "late",
     "音標": "",
     "詞性": "",
@@ -10540,6 +18972,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "later",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is later.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "later",
     "音標": "",
     "詞性": "",
@@ -10550,6 +18990,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "latest",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is latest.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "latest",
     "音標": "",
     "詞性": "",
@@ -10560,6 +19008,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "latter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is latter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "latter",
     "音標": "",
     "詞性": "",
@@ -10570,6 +19026,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "laugh",
+    "ph": "/læf/",
+    "pos": "v.",
+    "zh": "笑",
+    "ex": "Funny clowns make us laugh.",
+    "exzh": "滑稽的小丑逗得我們大笑。",
+    "emoji": "😄",
+    "pic": "",
     "單字": "laugh",
     "音標": "/læf/",
     "詞性": "v.",
@@ -10580,6 +19044,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "law",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is law.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "law",
     "音標": "",
     "詞性": "",
@@ -10590,6 +19062,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lawyer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is lawyer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "lawyer",
     "音標": "",
     "詞性": "",
@@ -10600,6 +19080,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lay",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is lay.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "lay",
     "音標": "",
     "詞性": "",
@@ -10610,6 +19098,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lazy",
+    "ph": "/ˈleɪ.zi/",
+    "pos": "adj.",
+    "zh": "懶惰的",
+    "ex": "Do not be lazy on school days.",
+    "exzh": "在該上學的日子裡可不能偷懶喔。",
+    "emoji": "🦥",
+    "pic": "",
     "單字": "lazy",
     "音標": "/ˈleɪ.zi/",
     "詞性": "adj.",
@@ -10620,6 +19116,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lead",
+    "ph": "/liːd/",
+    "pos": "v.",
+    "zh": "帶領",
+    "ex": "The captain leads the marching team.",
+    "exzh": "隊長帶領著遊行隊伍前進。",
+    "emoji": "🚩",
+    "pic": "",
     "單字": "lead",
     "音標": "/liːd/",
     "詞性": "v.",
@@ -10630,6 +19134,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "leader",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is leader.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "leader",
     "音標": "",
     "詞性": "",
@@ -10640,6 +19152,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "leaf",
+    "ph": "/liːf/",
+    "pos": "n.",
+    "zh": "樹葉",
+    "ex": "A green leaf fell gently to the ground.",
+    "exzh": "一片綠葉輕飄飄地落到地上。",
+    "emoji": "🍃",
+    "pic": "",
     "單字": "leaf",
     "音標": "/liːf/",
     "詞性": "n.",
@@ -10650,6 +19170,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "learn",
+    "ph": "/lɝːn/",
+    "pos": "v.",
+    "zh": "學會",
+    "ex": "Learn new English words every day.",
+    "exzh": "每天學習新的英文單字。",
+    "emoji": "🧠",
+    "pic": "",
     "單字": "learn",
     "音標": "/lɝːn/",
     "詞性": "v.",
@@ -10660,6 +19188,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "least",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is least.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "least",
     "音標": "",
     "詞性": "",
@@ -10670,6 +19206,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "leave",
+    "ph": "/liːv/",
+    "pos": "v.",
+    "zh": "離開，留下",
+    "ex": "Leave your muddy shoes outside.",
+    "exzh": "把沾滿泥巴的鞋子留在門外。",
+    "emoji": "👞",
+    "pic": "",
     "單字": "leave",
     "音標": "/liːv/",
     "詞性": "v.",
@@ -10680,6 +19224,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "leaves",
+    "ph": "/liːvz/",
+    "pos": "n.",
+    "zh": "樹葉（複數）",
+    "ex": "Red autumn leaves carpet the path.",
+    "exzh": "紅色秋葉鋪滿了整條林間小徑。",
+    "emoji": "🍂",
+    "pic": "",
     "單字": "leaves",
     "音標": "/liːvz/",
     "詞性": "n.",
@@ -10690,6 +19242,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "left",
+    "ph": "/left/",
+    "pos": "adj.",
+    "zh": "左邊的",
+    "ex": "Raise your left hand high.",
+    "exzh": "把你的左手高高舉起來。",
+    "emoji": "✋",
+    "pic": "",
     "單字": "left",
     "音標": "/left/",
     "詞性": "adj.",
@@ -10700,6 +19260,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "leg",
+    "ph": "/leɡ/",
+    "pos": "n.",
+    "zh": "腿",
+    "ex": "Flamingos stand on one leg.",
+    "exzh": "紅鶴用一隻腳站立。",
+    "emoji": "🦵",
+    "pic": "",
     "單字": "leg",
     "音標": "/leɡ/",
     "詞性": "n.",
@@ -10710,6 +19278,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lemon",
+    "ph": "/ˈlem.ən/",
+    "pos": "n.",
+    "zh": "檸檬",
+    "ex": "Yellow lemons taste sour.",
+    "exzh": "黃色檸檬嚐起來很酸。",
+    "emoji": "🍋",
+    "pic": "",
     "單字": "lemon",
     "音標": "/ˈlem.ən/",
     "詞性": "n.",
@@ -10720,6 +19296,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lend",
+    "ph": "/lend/",
+    "pos": "v.",
+    "zh": "借出",
+    "ex": "Lend a pencil to your friend.",
+    "exzh": "借一支鉛筆給你的朋友。",
+    "emoji": "✏️",
+    "pic": "",
     "單字": "lend",
     "音標": "/lend/",
     "詞性": "v.",
@@ -10730,6 +19314,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "less",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is less.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "less",
     "音標": "",
     "詞性": "",
@@ -10740,6 +19332,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lesson",
+    "ph": "/ˈles.ən/",
+    "pos": "n.",
+    "zh": "課堂，功課",
+    "ex": "Today's lesson is interesting.",
+    "exzh": "今天的課程非常有趣。",
+    "emoji": "📖",
+    "pic": "",
     "單字": "lesson",
     "音標": "/ˈles.ən/",
     "詞性": "n.",
@@ -10750,6 +19350,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "let",
+    "ph": "/let/",
+    "pos": "v.",
+    "zh": "讓，使",
+    "ex": "Let's read a fun adventure story.",
+    "exzh": "我們一起來讀一本冒險故事吧。",
+    "emoji": "📖",
+    "pic": "",
     "單字": "let",
     "音標": "/let/",
     "詞性": "v.",
@@ -10760,6 +19368,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "letter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is letter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "letter",
     "音標": "",
     "詞性": "",
@@ -10770,6 +19386,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lettuce",
+    "ph": "/ˈlet̬.ɪs/",
+    "pos": "n.",
+    "zh": "萵苣，生菜",
+    "ex": "Wash crisp lettuce leaves clean.",
+    "exzh": "把清脆的生菜葉片洗乾淨。",
+    "emoji": "🥬",
+    "pic": "",
     "單字": "lettuce",
     "音標": "/ˈlet̬.ɪs/",
     "詞性": "n.",
@@ -10780,6 +19404,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "level",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is level.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "level",
     "音標": "",
     "詞性": "",
@@ -10790,6 +19422,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "library",
+    "ph": "/ˈlaɪ.brer.i/",
+    "pos": "n.",
+    "zh": "圖書館",
+    "ex": "Be quiet in the school library.",
+    "exzh": "在學校圖書館裡要保持安靜。",
+    "emoji": "📚",
+    "pic": "",
     "單字": "library",
     "音標": "/ˈlaɪ.brer.i/",
     "詞性": "n.",
@@ -10800,6 +19440,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lick",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is lick.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "lick",
     "音標": "",
     "詞性": "",
@@ -10810,6 +19458,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lid",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is lid.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "lid",
     "音標": "",
     "詞性": "",
@@ -10820,6 +19476,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lie",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is lie.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "lie",
     "音標": "",
     "詞性": "",
@@ -10830,6 +19494,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "life",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is life.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "life",
     "音標": "",
     "詞性": "",
@@ -10840,6 +19512,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lift",
+    "ph": "/lɪft/",
+    "pos": "v.",
+    "zh": "抬起，舉起",
+    "ex": "Lift the heavy wooden box together.",
+    "exzh": "一起抬起這個沉重的木箱。",
+    "emoji": "📦",
+    "pic": "",
     "單字": "lift",
     "音標": "/lɪft/",
     "詞性": "v.",
@@ -10850,6 +19530,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "light",
+    "ph": "/laɪt/",
+    "pos": "adj./n.",
+    "zh": "輕盈的；光線",
+    "ex": "Feathers are very light.",
+    "exzh": "羽毛非常輕盈。",
+    "emoji": "🪶",
+    "pic": "",
     "單字": "light",
     "音標": "/laɪt/",
     "詞性": "adj./n.",
@@ -10860,6 +19548,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lightning",
+    "ph": "/ˈlaɪt.nɪŋ/",
+    "pos": "n.",
+    "zh": "閃電",
+    "ex": "Bright lightning lit up the stormy sky.",
+    "exzh": "耀眼的閃電照亮了暴風雨的天空。",
+    "emoji": "⚡",
+    "pic": "",
     "單字": "lightning",
     "音標": "/ˈlaɪt.nɪŋ/",
     "詞性": "n.",
@@ -10870,6 +19566,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "like",
+    "ph": "/laɪk/",
+    "pos": "v.",
+    "zh": "喜歡",
+    "ex": "I like sweet green grapes.",
+    "exzh": "我喜歡甜甜的綠葡萄。",
+    "emoji": "🍇",
+    "pic": "",
     "單字": "like",
     "音標": "/laɪk/",
     "詞性": "v.",
@@ -10880,6 +19584,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "likely",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is likely.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "likely",
     "音標": "",
     "詞性": "",
@@ -10890,6 +19602,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lime",
+    "ph": "/laɪm/",
+    "pos": "n.",
+    "zh": "萊姆，青檸",
+    "ex": "Green lime adds fresh taste.",
+    "exzh": "綠萊姆增添清新風味。",
+    "emoji": "🍋‍🟩",
+    "pic": "",
     "單字": "lime",
     "音標": "/laɪm/",
     "詞性": "n.",
@@ -10900,6 +19620,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "limit",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is limit.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "limit",
     "音標": "",
     "詞性": "",
@@ -10910,6 +19638,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "line",
+    "ph": "/laɪn/",
+    "pos": "n.",
+    "zh": "線條；排隊隊伍",
+    "ex": "Draw a straight horizontal line.",
+    "exzh": "畫一條筆直的水平線。",
+    "emoji": "➖",
+    "pic": "",
     "單字": "line",
     "音標": "/laɪn/",
     "詞性": "n.",
@@ -10920,6 +19656,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "link",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is link.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "link",
     "音標": "",
     "詞性": "",
@@ -10930,6 +19674,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lion",
+    "ph": "/ˈlaɪ.ən/",
+    "pos": "n.",
+    "zh": "獅子",
+    "ex": "The lion is the king of beasts.",
+    "exzh": "獅子是萬獸之王。",
+    "emoji": "🦁",
+    "pic": "",
     "單字": "lion",
     "音標": "/ˈlaɪ.ən/",
     "詞性": "n.",
@@ -10940,6 +19692,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lip",
+    "ph": "/lɪp/",
+    "pos": "n.",
+    "zh": "嘴唇",
+    "ex": "Her lips curved into a smile.",
+    "exzh": "她的雙唇泛起一抹微笑。",
+    "emoji": "👄",
+    "pic": "",
     "單字": "lip",
     "音標": "/lɪp/",
     "詞性": "n.",
@@ -10950,6 +19710,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "liquid",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is liquid.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "liquid",
     "音標": "",
     "詞性": "",
@@ -10960,6 +19728,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "list",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is list.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "list",
     "音標": "",
     "詞性": "",
@@ -10970,6 +19746,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "listen",
+    "ph": "/ˈlɪs.ən/",
+    "pos": "v.",
+    "zh": "傾聽",
+    "ex": "Listen carefully to the teacher.",
+    "exzh": "仔細聽老師說話。",
+    "emoji": "🎧",
+    "pic": "",
     "單字": "listen",
     "音標": "/ˈlɪs.ən/",
     "詞性": "v.",
@@ -10980,6 +19764,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "liter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is liter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "liter",
     "音標": "",
     "詞性": "",
@@ -10990,6 +19782,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "little",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is little.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "little",
     "音標": "",
     "詞性": "",
@@ -11000,6 +19800,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "live",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is live.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "live",
     "音標": "",
     "詞性": "",
@@ -11010,6 +19818,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "living room",
+    "ph": "/ˈlɪv.ɪŋ ˌruːm/",
+    "pos": "n.",
+    "zh": "客廳",
+    "ex": "We watch TV in the living room.",
+    "exzh": "我們在客廳看電視。",
+    "emoji": "🛋️",
+    "pic": "",
     "單字": "living room",
     "音標": "/ˈlɪv.ɪŋ ˌruːm/",
     "詞性": "n.",
@@ -11020,6 +19836,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lizard",
+    "ph": "/ˈlɪz.ɚd/",
+    "pos": "n.",
+    "zh": "蜥蜴",
+    "ex": "A small lizard sits on rock.",
+    "exzh": "一隻小蜥蜴坐在石頭上。",
+    "emoji": "🦎",
+    "pic": "",
     "單字": "lizard",
     "音標": "/ˈlɪz.ɚd/",
     "詞性": "n.",
@@ -11030,6 +19854,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "loaf",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is loaf.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "loaf",
     "音標": "",
     "詞性": "",
@@ -11040,6 +19872,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "local",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is local.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "local",
     "音標": "",
     "詞性": "",
@@ -11050,6 +19890,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lock",
+    "ph": "/lɑːk/",
+    "pos": "n./v.",
+    "zh": "鎖；上鎖",
+    "ex": "Lock the door before sleeping.",
+    "exzh": "上床就寢前記得把大門鎖好。",
+    "emoji": "🔒",
+    "pic": "",
     "單字": "lock",
     "音標": "/lɑːk/",
     "詞性": "n./v.",
@@ -11060,6 +19908,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "locker",
+    "ph": "/ˈlɑː.kɚ/",
+    "pos": "n.",
+    "zh": "置物櫃",
+    "ex": "Store your sports shoes in the locker.",
+    "exzh": "把運動鞋收進學校置物櫃裡。",
+    "emoji": "🗄️",
+    "pic": "",
     "單字": "locker",
     "音標": "/ˈlɑː.kɚ/",
     "詞性": "n.",
@@ -11070,6 +19926,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lonely",
+    "ph": "/ˈloʊn.li/",
+    "pos": "adj.",
+    "zh": "寂寞的，孤獨的",
+    "ex": "Adopted pets will never feel lonely.",
+    "exzh": "被領養的毛小孩再也不會感到孤單。",
+    "emoji": "🥺",
+    "pic": "",
     "單字": "lonely",
     "音標": "/ˈloʊn.li/",
     "詞性": "adj.",
@@ -11080,6 +19944,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "long",
+    "ph": "/lɑːŋ/",
+    "pos": "adj.",
+    "zh": "長長的",
+    "ex": "The train track is long.",
+    "exzh": "火車軌道長長的。",
+    "emoji": "📏",
+    "pic": "",
     "單字": "long",
     "音標": "/lɑːŋ/",
     "詞性": "adj.",
@@ -11090,6 +19962,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "look",
+    "ph": "/lʊk/",
+    "pos": "v.",
+    "zh": "看，注視",
+    "ex": "Look at the colorful rainbow.",
+    "exzh": "看看那道美麗的彩虹。",
+    "emoji": "👀",
+    "pic": "",
     "單字": "look",
     "音標": "/lʊk/",
     "詞性": "v.",
@@ -11100,6 +19980,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lose",
+    "ph": "/luːz/",
+    "pos": "v.",
+    "zh": "失去，輸掉",
+    "ex": "Try hard not to lose your key.",
+    "exzh": "小心保管別弄丟了你的鑰匙。",
+    "emoji": "🔑",
+    "pic": "",
     "單字": "lose",
     "音標": "/luːz/",
     "詞性": "v.",
@@ -11110,6 +19998,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "loser",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is loser.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "loser",
     "音標": "",
     "詞性": "",
@@ -11120,6 +20016,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "loud",
+    "ph": "/laʊd/",
+    "pos": "adj.",
+    "zh": "大聲的",
+    "ex": "Loud thunderstorms awaken pets.",
+    "exzh": "大聲的雷雨聲把熟睡的寵物吵醒。",
+    "emoji": "⚡",
+    "pic": "",
     "單字": "loud",
     "音標": "/laʊd/",
     "詞性": "adj.",
@@ -11130,6 +20034,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "love",
+    "ph": "/lʌv/",
+    "pos": "v.",
+    "zh": "愛，喜愛",
+    "ex": "Parents love their children.",
+    "exzh": "父母深愛他們的孩子。",
+    "emoji": "❤️",
+    "pic": "",
     "單字": "love",
     "音標": "/lʌv/",
     "詞性": "v.",
@@ -11140,6 +20052,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lovely",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is lovely.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "lovely",
     "音標": "",
     "詞性": "",
@@ -11150,6 +20070,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "low",
+    "ph": "/loʊ/",
+    "pos": "adj.",
+    "zh": "低的",
+    "ex": "The wooden fence is very low.",
+    "exzh": "這道矮木柵欄高度非常低。",
+    "emoji": "🪵",
+    "pic": "",
     "單字": "low",
     "音標": "/loʊ/",
     "詞性": "adj.",
@@ -11160,6 +20088,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lucky",
+    "ph": "/ˈlʌk.i/",
+    "pos": "adj.",
+    "zh": "幸運的",
+    "ex": "Finding a four-leaf clover is lucky.",
+    "exzh": "找到四葉草象徵著好運氣。",
+    "emoji": "🍀",
+    "pic": "",
     "單字": "lucky",
     "音標": "/ˈlʌk.i/",
     "詞性": "adj.",
@@ -11170,6 +20106,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lunch",
+    "ph": "/lʌntʃ/",
+    "pos": "n.",
+    "zh": "午餐",
+    "ex": "We eat lunch at noon.",
+    "exzh": "我們在中午吃午餐。",
+    "emoji": "🍱",
+    "pic": "",
     "單字": "lunch",
     "音標": "/lʌntʃ/",
     "詞性": "n.",
@@ -11180,6 +20124,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "lunch box",
+    "ph": "/ˈlʌntʃ bɑːks/",
+    "pos": "n.",
+    "zh": "便當盒，餐盒",
+    "ex": "My lunch box has rice and fruit.",
+    "exzh": "我的便當盒裡有飯和水果。",
+    "emoji": "🍱",
+    "pic": "",
     "單字": "lunch box",
     "音標": "/ˈlʌntʃ bɑːks/",
     "詞性": "n.",
@@ -11190,6 +20142,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ma'am",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ma'am.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ma'am",
     "音標": "",
     "詞性": "",
@@ -11200,6 +20160,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "machine",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is machine.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "machine",
     "音標": "",
     "詞性": "",
@@ -11210,6 +20178,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mad",
+    "ph": "/mæd/",
+    "pos": "adj.",
+    "zh": "發瘋的，生氣的",
+    "ex": "Don't be mad about lost games.",
+    "exzh": "不要因為輸掉了遊戲就生悶氣。",
+    "emoji": "😠",
+    "pic": "",
     "單字": "mad",
     "音標": "/mæd/",
     "詞性": "adj.",
@@ -11220,6 +20196,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "magazine",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is magazine.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "magazine",
     "音標": "",
     "詞性": "",
@@ -11230,6 +20214,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "magic",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is magic.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "magic",
     "音標": "",
     "詞性": "",
@@ -11240,6 +20232,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "magician",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is magician.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "magician",
     "音標": "",
     "詞性": "",
@@ -11250,6 +20250,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mail",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is mail.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "mail",
     "音標": "",
     "詞性": "",
@@ -11260,6 +20268,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mailman",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is mailman.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "mailman",
     "音標": "",
     "詞性": "",
@@ -11270,6 +20286,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "main",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is main.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "main",
     "音標": "",
     "詞性": "",
@@ -11280,6 +20304,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "major",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is major.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "major",
     "音標": "",
     "詞性": "",
@@ -11290,6 +20322,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "make",
+    "ph": "/meɪk/",
+    "pos": "v.",
+    "zh": "製作，做",
+    "ex": "Make a cute greeting card.",
+    "exzh": "做一張可愛的卡片。",
+    "emoji": "✂️",
+    "pic": "",
     "單字": "make",
     "音標": "/meɪk/",
     "詞性": "v.",
@@ -11300,6 +20340,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "male",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is male.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "male",
     "音標": "",
     "詞性": "",
@@ -11310,6 +20358,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mall",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is mall.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "mall",
     "音標": "",
     "詞性": "",
@@ -11320,6 +20376,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "man",
+    "ph": "/mæn/",
+    "pos": "n.",
+    "zh": "男人",
+    "ex": "He is a tall man.",
+    "exzh": "他是一位高大的男人。",
+    "emoji": "👨",
+    "pic": "",
     "單字": "man",
     "音標": "/mæn/",
     "詞性": "n.",
@@ -11330,6 +20394,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "manager",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is manager.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "manager",
     "音標": "",
     "詞性": "",
@@ -11340,6 +20412,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mango",
+    "ph": "/ˈmæŋ.ɡoʊ/",
+    "pos": "n.",
+    "zh": "芒果",
+    "ex": "Sweet mangoes grow in summer.",
+    "exzh": "香甜的芒果生長於夏天。",
+    "emoji": "🥭",
+    "pic": "",
     "單字": "mango",
     "音標": "/ˈmæŋ.ɡoʊ/",
     "詞性": "n.",
@@ -11350,6 +20430,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "manner",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is manner.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "manner",
     "音標": "",
     "詞性": "",
@@ -11360,6 +20448,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "many",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is many.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "many",
     "音標": "",
     "詞性": "",
@@ -11370,6 +20466,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "map",
+    "ph": "/mæp/",
+    "pos": "n.",
+    "zh": "地圖",
+    "ex": "Look at world map during geography.",
+    "exzh": "在地理課上仔細觀察世界地圖。",
+    "emoji": "🗺️",
+    "pic": "",
     "單字": "map",
     "音標": "/mæp/",
     "詞性": "n.",
@@ -11380,6 +20484,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "March",
+    "ph": "/mɑːrtʃ/",
+    "pos": "n.",
+    "zh": "三月",
+    "ex": "Spring arrives in early March.",
+    "exzh": "春天在三月初悄悄到來。",
+    "emoji": "🌱",
+    "pic": "",
     "單字": "March",
     "音標": "/mɑːrtʃ/",
     "詞性": "n.",
@@ -11390,6 +20502,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mark",
+    "ph": "/mɑːrk/",
+    "pos": "n./v.",
+    "zh": "分數，記號；標記",
+    "ex": "She got high marks in English.",
+    "exzh": "她英文拿到了很高的成績。",
+    "emoji": "💯",
+    "pic": "",
     "單字": "mark",
     "音標": "/mɑːrk/",
     "詞性": "n./v.",
@@ -11400,6 +20520,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "marker",
+    "ph": "/ˈmɑːr.kɚ/",
+    "pos": "n.",
+    "zh": "彩色筆，馬克筆",
+    "ex": "Draw circles with a black marker.",
+    "exzh": "用黑色彩色筆畫圈圈。",
+    "emoji": "🖊️",
+    "pic": "",
     "單字": "marker",
     "音標": "/ˈmɑːr.kɚ/",
     "詞性": "n.",
@@ -11410,6 +20538,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "market",
+    "ph": "/ˈmɑːr.kɪt/",
+    "pos": "n.",
+    "zh": "傳統市場",
+    "ex": "Buy ripe fruit at morning market.",
+    "exzh": "在早市購買香甜成熟的水果。",
+    "emoji": "🍉",
+    "pic": "",
     "單字": "market",
     "音標": "/ˈmɑːr.kɪt/",
     "詞性": "n.",
@@ -11420,6 +20556,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "married",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is married.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "married",
     "音標": "",
     "詞性": "",
@@ -11430,6 +20574,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "marry",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is marry.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "marry",
     "音標": "",
     "詞性": "",
@@ -11440,6 +20592,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "marvelous",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is marvelous.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "marvelous",
     "音標": "",
     "詞性": "",
@@ -11450,6 +20610,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mask",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is mask.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "mask",
     "音標": "",
     "詞性": "",
@@ -11460,6 +20628,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mass",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is mass.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "mass",
     "音標": "",
     "詞性": "",
@@ -11470,6 +20646,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "master",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is master.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "master",
     "音標": "",
     "詞性": "",
@@ -11480,6 +20664,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mat",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is mat.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "mat",
     "音標": "",
     "詞性": "",
@@ -11490,6 +20682,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "match",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is match.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "match",
     "音標": "",
     "詞性": "",
@@ -11500,6 +20700,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "math",
+    "ph": "/mæθ/",
+    "pos": "n.",
+    "zh": "數學",
+    "ex": "Math helps us solve problems.",
+    "exzh": "數學幫助我們解決日常生活問題。",
+    "emoji": "🔢",
+    "pic": "",
     "單字": "math",
     "音標": "/mæθ/",
     "詞性": "n.",
@@ -11510,6 +20718,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "matter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is matter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "matter",
     "音標": "",
     "詞性": "",
@@ -11520,6 +20736,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "maximum",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is maximum.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "maximum",
     "音標": "",
     "詞性": "",
@@ -11530,6 +20754,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "may",
+    "ph": "/meɪ/",
+    "pos": "aux.",
+    "zh": "可以；也許",
+    "ex": "May I borrow your ruler?",
+    "exzh": "我可以借你的尺嗎？",
+    "emoji": "📏",
+    "pic": "",
     "單字": "may",
     "音標": "/meɪ/",
     "詞性": "aux.",
@@ -11540,6 +20772,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "maybe",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is maybe.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "maybe",
     "音標": "",
     "詞性": "",
@@ -11550,6 +20790,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "me",
+    "ph": "/miː/",
+    "pos": "pron.",
+    "zh": "我（受格）",
+    "ex": "Give me the red crayon.",
+    "exzh": "把紅色蠟筆給我。",
+    "emoji": "🖍️",
+    "pic": "",
     "單字": "me",
     "音標": "/miː/",
     "詞性": "pron.",
@@ -11560,6 +20808,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "meal",
+    "ph": "/miːl/",
+    "pos": "n.",
+    "zh": "一餐，餐膳",
+    "ex": "Enjoy a delicious warm meal.",
+    "exzh": "享用一頓美味的熱餐吧。",
+    "emoji": "🍽️",
+    "pic": "",
     "單字": "meal",
     "音標": "/miːl/",
     "詞性": "n.",
@@ -11570,6 +20826,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mean",
+    "ph": "/miːn/",
+    "pos": "v.",
+    "zh": "意思是，意指",
+    "ex": "What does this English word mean?",
+    "exzh": "這個英文單字是什麼意思？",
+    "emoji": "💡",
+    "pic": "",
     "單字": "mean",
     "音標": "/miːn/",
     "詞性": "v.",
@@ -11580,6 +20844,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "meaning",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is meaning.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "meaning",
     "音標": "",
     "詞性": "",
@@ -11590,6 +20862,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "measure",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is measure.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "measure",
     "音標": "",
     "詞性": "",
@@ -11600,6 +20880,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "meat",
+    "ph": "/miːt/",
+    "pos": "n.",
+    "zh": "肉類",
+    "ex": "He eats meat and vegetables.",
+    "exzh": "他吃肉類與蔬菜。",
+    "emoji": "🥩",
+    "pic": "",
     "單字": "meat",
     "音標": "/miːt/",
     "詞性": "n.",
@@ -11610,6 +20898,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mechanic",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is mechanic.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "mechanic",
     "音標": "",
     "詞性": "",
@@ -11620,6 +20916,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "medicine",
+    "ph": "/ˈmed.ə.sən/",
+    "pos": "n.",
+    "zh": "藥物",
+    "ex": "Take bitter medicine with honey water.",
+    "exzh": "吃苦苦的藥水時可以配一點蜂蜜水。",
+    "emoji": "💊",
+    "pic": "",
     "單字": "medicine",
     "音標": "/ˈmed.ə.sən/",
     "詞性": "n.",
@@ -11630,6 +20934,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "medium",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is medium.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "medium",
     "音標": "",
     "詞性": "",
@@ -11640,6 +20952,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "meet",
+    "ph": "/miːt/",
+    "pos": "v.",
+    "zh": "遇見，見面",
+    "ex": "Nice to meet you!",
+    "exzh": "很高興見到你！",
+    "emoji": "🤝",
+    "pic": "",
     "單字": "meet",
     "音標": "/miːt/",
     "詞性": "v.",
@@ -11650,6 +20970,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "meeting",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is meeting.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "meeting",
     "音標": "",
     "詞性": "",
@@ -11660,6 +20988,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "melon",
+    "ph": "/ˈmel.ən/",
+    "pos": "n.",
+    "zh": "甜瓜，瓜類",
+    "ex": "Sweet green melon is cooling.",
+    "exzh": "香甜的綠甜瓜清涼消暑。",
+    "emoji": "🍈",
+    "pic": "",
     "單字": "melon",
     "音標": "/ˈmel.ən/",
     "詞性": "n.",
@@ -11670,6 +21006,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "member",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is member.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "member",
     "音標": "",
     "詞性": "",
@@ -11680,6 +21024,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "memory",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is memory.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "memory",
     "音標": "",
     "詞性": "",
@@ -11690,6 +21042,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "men's room",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is men's room.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "men's room",
     "音標": "",
     "詞性": "",
@@ -11700,6 +21060,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "menu",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is menu.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "menu",
     "音標": "",
     "詞性": "",
@@ -11710,6 +21078,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "message",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is message.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "message",
     "音標": "",
     "詞性": "",
@@ -11720,6 +21096,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "metal",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is metal.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "metal",
     "音標": "",
     "詞性": "",
@@ -11730,6 +21114,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "meter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is meter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "meter",
     "音標": "",
     "詞性": "",
@@ -11740,6 +21132,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "method",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is method.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "method",
     "音標": "",
     "詞性": "",
@@ -11750,6 +21150,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "microwave",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is microwave.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "microwave",
     "音標": "",
     "詞性": "",
@@ -11760,6 +21168,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "middle",
+    "ph": "/ˈmɪd.əl/",
+    "pos": "n./adj.",
+    "zh": "中間的",
+    "ex": "The puppy slept in the middle of bed.",
+    "exzh": "小狗狗舒服地睡在床的正中間。",
+    "emoji": "🛏️",
+    "pic": "",
     "單字": "middle",
     "音標": "/ˈmɪd.əl/",
     "詞性": "n./adj.",
@@ -11770,6 +21186,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "midnight",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is midnight.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "midnight",
     "音標": "",
     "詞性": "",
@@ -11780,6 +21204,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "might",
+    "ph": "/maɪt/",
+    "pos": "aux.",
+    "zh": "可能",
+    "ex": "It might rain today.",
+    "exzh": "今天可能會下雨。",
+    "emoji": "🌧️",
+    "pic": "",
     "單字": "might",
     "音標": "/maɪt/",
     "詞性": "aux.",
@@ -11790,6 +21222,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mile",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is mile.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "mile",
     "音標": "",
     "詞性": "",
@@ -11800,6 +21240,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "milk",
+    "ph": "/mɪlk/",
+    "pos": "n.",
+    "zh": "牛奶",
+    "ex": "Drink a glass of warm milk.",
+    "exzh": "喝一杯溫牛奶吧。",
+    "emoji": "🥛",
+    "pic": "",
     "單字": "milk",
     "音標": "/mɪlk/",
     "詞性": "n.",
@@ -11810,6 +21258,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "million",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is million.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "million",
     "音標": "",
     "詞性": "",
@@ -11820,6 +21276,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mind",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is mind.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "mind",
     "音標": "",
     "詞性": "",
@@ -11830,6 +21294,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "minor",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is minor.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "minor",
     "音標": "",
     "詞性": "",
@@ -11840,6 +21312,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "minus",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is minus.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "minus",
     "音標": "",
     "詞性": "",
@@ -11850,6 +21330,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "minute",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is minute.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "minute",
     "音標": "",
     "詞性": "",
@@ -11860,6 +21348,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mirror",
+    "ph": "/ˈmɪr.ɚ/",
+    "pos": "n.",
+    "zh": "鏡子",
+    "ex": "Smile into the bathroom mirror.",
+    "exzh": "對著浴室鏡子微笑。",
+    "emoji": "🪞",
+    "pic": "",
     "單字": "mirror",
     "音標": "/ˈmɪr.ɚ/",
     "詞性": "n.",
@@ -11870,6 +21366,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "miss",
+    "ph": "/mɪs/",
+    "pos": "v.",
+    "zh": "想念；錯過",
+    "ex": "I miss my loving grandparents.",
+    "exzh": "我想念慈愛的爺爺奶奶。",
+    "emoji": "👵",
+    "pic": "",
     "單字": "miss",
     "音標": "/mɪs/",
     "詞性": "v.",
@@ -11880,6 +21384,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mistake",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is mistake.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "mistake",
     "音標": "",
     "詞性": "",
@@ -11890,6 +21402,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mix",
+    "ph": "/mɪks/",
+    "pos": "v.",
+    "zh": "攪拌，混合",
+    "ex": "Mix yellow and blue to get green.",
+    "exzh": "將黃色與藍色混合會變成綠色。",
+    "emoji": "🎨",
+    "pic": "",
     "單字": "mix",
     "音標": "/mɪks/",
     "詞性": "v.",
@@ -11900,6 +21420,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "model",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is model.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "model",
     "音標": "",
     "詞性": "",
@@ -11910,6 +21438,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "modern",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is modern.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "modern",
     "音標": "",
     "詞性": "",
@@ -11920,6 +21456,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "moment",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is moment.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "moment",
     "音標": "",
     "詞性": "",
@@ -11930,6 +21474,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Monday",
+    "ph": "/ˈmʌn.deɪ/",
+    "pos": "n.",
+    "zh": "星期一",
+    "ex": "School week starts on Monday.",
+    "exzh": "上學週從星期一開始。",
+    "emoji": "📅",
+    "pic": "",
     "單字": "Monday",
     "音標": "/ˈmʌn.deɪ/",
     "詞性": "n.",
@@ -11940,6 +21492,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "money",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is money.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "money",
     "音標": "",
     "詞性": "",
@@ -11950,6 +21510,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "monkey",
+    "ph": "/ˈmʌŋ.ki/",
+    "pos": "n.",
+    "zh": "猴子",
+    "ex": "Monkeys climb trees quickly.",
+    "exzh": "猴子爬樹爬得很快。",
+    "emoji": "🐵",
+    "pic": "",
     "單字": "monkey",
     "音標": "/ˈmʌŋ.ki/",
     "詞性": "n.",
@@ -11960,6 +21528,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "monster",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is monster.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "monster",
     "音標": "",
     "詞性": "",
@@ -11970,6 +21546,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "month",
+    "ph": "/mʌnθ/",
+    "pos": "n.",
+    "zh": "月份",
+    "ex": "Twelve months make one year.",
+    "exzh": "十二個月組成了一整年。",
+    "emoji": "🗓️",
+    "pic": "",
     "單字": "month",
     "音標": "/mʌnθ/",
     "詞性": "n.",
@@ -11980,6 +21564,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "moon",
+    "ph": "/muːn/",
+    "pos": "n.",
+    "zh": "月亮",
+    "ex": "The moon shines at night.",
+    "exzh": "月亮在夜晚發光。",
+    "emoji": "🌙",
+    "pic": "",
     "單字": "moon",
     "音標": "/muːn/",
     "詞性": "n.",
@@ -11990,6 +21582,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mop",
+    "ph": "/mɑːp/",
+    "pos": "n./v.",
+    "zh": "拖把；拖地",
+    "ex": "Mop the kitchen floor after dinner.",
+    "exzh": "晚餐後把廚房地板拖乾淨。",
+    "emoji": "🧹",
+    "pic": "",
     "單字": "mop",
     "音標": "/mɑːp/",
     "詞性": "n./v.",
@@ -12000,6 +21600,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "more",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is more.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "more",
     "音標": "",
     "詞性": "",
@@ -12010,6 +21618,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "morning",
+    "ph": "/ˈmɔːr.nɪŋ/",
+    "pos": "n.",
+    "zh": "早晨，上午",
+    "ex": "Good morning, everyone!",
+    "exzh": "大家早安！",
+    "emoji": "🌅",
+    "pic": "",
     "單字": "morning",
     "音標": "/ˈmɔːr.nɪŋ/",
     "詞性": "n.",
@@ -12020,6 +21636,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mosquito",
+    "ph": "/məˈskiː.t̬oʊ/",
+    "pos": "n.",
+    "zh": "蚊子",
+    "ex": "Shoo away the annoying buzzing mosquito.",
+    "exzh": "把那隻嗡嗡叫討厭的蚊子趕走。",
+    "emoji": "🦟",
+    "pic": "",
     "單字": "mosquito",
     "音標": "/məˈskiː.t̬oʊ/",
     "詞性": "n.",
@@ -12030,6 +21654,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "most",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is most.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "most",
     "音標": "",
     "詞性": "",
@@ -12040,6 +21672,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "motel",
+    "ph": "/moʊˈtel/",
+    "pos": "n.",
+    "zh": "汽車旅館",
+    "ex": "Road travelers rest overnight at motel.",
+    "exzh": "長途開車的旅客在汽車旅館休息過夜。",
+    "emoji": "🏨",
+    "pic": "",
     "單字": "motel",
     "音標": "/moʊˈtel/",
     "詞性": "n.",
@@ -12050,6 +21690,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mother",
+    "ph": "/ˈmʌð.ɚ/",
+    "pos": "n.",
+    "zh": "母親，媽媽",
+    "ex": "She helps her mother cook.",
+    "exzh": "她幫媽媽煮飯。",
+    "emoji": "👩",
+    "pic": "",
     "單字": "mother",
     "音標": "/ˈmʌð.ɚ/",
     "詞性": "n.",
@@ -12060,6 +21708,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "motion",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is motion.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "motion",
     "音標": "",
     "詞性": "",
@@ -12070,6 +21726,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "motorcycle",
+    "ph": "/ˈmoʊ.t̬ɚˌsaɪ.kəl/",
+    "pos": "n.",
+    "zh": "摩托車，重機",
+    "ex": "Wear a helmet on motorcycle.",
+    "exzh": "騎摩托車一定要戴安全帽。",
+    "emoji": "🏍️",
+    "pic": "",
     "單字": "motorcycle",
     "音標": "/ˈmoʊ.t̬ɚˌsaɪ.kəl/",
     "詞性": "n.",
@@ -12080,6 +21744,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mountain",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is mountain.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "mountain",
     "音標": "",
     "詞性": "",
@@ -12090,6 +21762,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mouse",
+    "ph": "/maʊs/",
+    "pos": "n.",
+    "zh": "老鼠",
+    "ex": "A tiny mouse eats cheese.",
+    "exzh": "一隻小老鼠在吃起司。",
+    "emoji": "🐭",
+    "pic": "",
     "單字": "mouse",
     "音標": "/maʊs/",
     "詞性": "n.",
@@ -12100,6 +21780,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mouth",
+    "ph": "/maʊθ/",
+    "pos": "n.",
+    "zh": "嘴巴",
+    "ex": "Open your mouth, please.",
+    "exzh": "請張開嘴巴。",
+    "emoji": "👄",
+    "pic": "",
     "單字": "mouth",
     "音標": "/maʊθ/",
     "詞性": "n.",
@@ -12110,6 +21798,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "move",
+    "ph": "/muːv/",
+    "pos": "v.",
+    "zh": "移動",
+    "ex": "Move the wooden chair closer.",
+    "exzh": "把木椅子往前面移近一點。",
+    "emoji": "🪑",
+    "pic": "",
     "單字": "move",
     "音標": "/muːv/",
     "詞性": "v.",
@@ -12120,6 +21816,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "movement",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is movement.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "movement",
     "音標": "",
     "詞性": "",
@@ -12130,6 +21834,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "movie",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is movie.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "movie",
     "音標": "",
     "詞性": "",
@@ -12140,6 +21852,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "movie theater",
+    "ph": "/ˈmuː.vi ˌθiː.ə.t̬ɚ/",
+    "pos": "n.",
+    "zh": "電影院",
+    "ex": "We eat popcorn at movie theater.",
+    "exzh": "我們在電影院吃爆米花。",
+    "emoji": "🍿",
+    "pic": "",
     "單字": "movie theater",
     "音標": "/ˈmuː.vi ˌθiː.ə.t̬ɚ/",
     "詞性": "n.",
@@ -12150,6 +21870,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Mr.",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is Mr..",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "Mr.",
     "音標": "",
     "詞性": "",
@@ -12160,6 +21888,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Mrs.",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is Mrs..",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "Mrs.",
     "音標": "",
     "詞性": "",
@@ -12170,6 +21906,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "MRT",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is MRT.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "MRT",
     "音標": "",
     "詞性": "",
@@ -12180,6 +21924,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Ms.",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is Ms..",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "Ms.",
     "音標": "",
     "詞性": "",
@@ -12190,6 +21942,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "much",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is much.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "much",
     "音標": "",
     "詞性": "",
@@ -12200,6 +21960,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mud",
+    "ph": "/mʌd/",
+    "pos": "n.",
+    "zh": "泥巴，爛泥",
+    "ex": "Pigs enjoy rolling in cool mud.",
+    "exzh": "小豬喜歡在涼涼的泥巴裡打滾。",
+    "emoji": "🤎",
+    "pic": "",
     "單字": "mud",
     "音標": "/mʌd/",
     "詞性": "n.",
@@ -12210,6 +21978,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "museum",
+    "ph": "/mjuːˈziː.əm/",
+    "pos": "n.",
+    "zh": "博物館",
+    "ex": "See ancient dinosaur fossils at museum.",
+    "exzh": "在博物館觀賞古老恐龍化石。",
+    "emoji": "🏛️",
+    "pic": "",
     "單字": "museum",
     "音標": "/mjuːˈziː.əm/",
     "詞性": "n.",
@@ -12220,6 +21996,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "mushroom",
+    "ph": "/ˈmʌʃ.ruːm/",
+    "pos": "n.",
+    "zh": "蘑菇，香菇",
+    "ex": "Add mushrooms to the tomato pasta.",
+    "exzh": "在番茄義大利麵裡加入蘑菇。",
+    "emoji": "🍄",
+    "pic": "",
     "單字": "mushroom",
     "音標": "/ˈmʌʃ.ruːm/",
     "詞性": "n.",
@@ -12230,6 +22014,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "music",
+    "ph": "/ˈmjuː.zɪk/",
+    "pos": "n.",
+    "zh": "音樂",
+    "ex": "Sing in tune during music lesson.",
+    "exzh": "在音樂課上跟著節奏合唱。",
+    "emoji": "🎵",
+    "pic": "",
     "單字": "music",
     "音標": "/ˈmjuː.zɪk/",
     "詞性": "n.",
@@ -12240,6 +22032,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "music player",
+    "ph": "/ˈmjuː.zɪk ˈpleɪ.ɚ/",
+    "pos": "n.",
+    "zh": "音樂播放器",
+    "ex": "She listens to songs on her music player.",
+    "exzh": "她用音樂播放器聽歌。",
+    "emoji": "🎵",
+    "pic": "",
     "單字": "music player",
     "音標": "/ˈmjuː.zɪk ˈpleɪ.ɚ/",
     "詞性": "n.",
@@ -12250,6 +22050,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "musician",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is musician.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "musician",
     "音標": "",
     "詞性": "",
@@ -12260,6 +22068,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "must",
+    "ph": "/mʌst/",
+    "pos": "aux.",
+    "zh": "必須",
+    "ex": "We must keep the room clean.",
+    "exzh": "我們必須保持房間乾淨。",
+    "emoji": "🧹",
+    "pic": "",
     "單字": "must",
     "音標": "/mʌst/",
     "詞性": "aux.",
@@ -12270,6 +22086,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "my",
+    "ph": "/maɪ/",
+    "pos": "pron.",
+    "zh": "我的",
+    "ex": "This is my puppy.",
+    "exzh": "這是我的小狗。",
+    "emoji": "🐶",
+    "pic": "",
     "單字": "my",
     "音標": "/maɪ/",
     "詞性": "pron.",
@@ -12280,6 +22104,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nail",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is nail.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "nail",
     "音標": "",
     "詞性": "",
@@ -12290,6 +22122,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "name",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is name.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "name",
     "音標": "",
     "詞性": "",
@@ -12300,6 +22140,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "napkin",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is napkin.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "napkin",
     "音標": "",
     "詞性": "",
@@ -12310,6 +22158,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "narrow",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is narrow.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "narrow",
     "音標": "",
     "詞性": "",
@@ -12320,6 +22176,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nation",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is nation.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "nation",
     "音標": "",
     "詞性": "",
@@ -12330,6 +22194,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "national",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is national.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "national",
     "音標": "",
     "詞性": "",
@@ -12340,6 +22212,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "natural",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is natural.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "natural",
     "音標": "",
     "詞性": "",
@@ -12350,6 +22230,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nature",
+    "ph": "/ˈneɪ.tʃɚ/",
+    "pos": "n.",
+    "zh": "自然，大自然",
+    "ex": "Enjoy the peace of beautiful nature.",
+    "exzh": "享受美麗大自然的寧靜美好。",
+    "emoji": "🌲",
+    "pic": "",
     "單字": "nature",
     "音標": "/ˈneɪ.tʃɚ/",
     "詞性": "n.",
@@ -12360,6 +22248,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "naughty",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is naughty.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "naughty",
     "音標": "",
     "詞性": "",
@@ -12370,6 +22266,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "near",
+    "ph": "/nɪr/",
+    "pos": "prep./adj.",
+    "zh": "靠近，在...附近",
+    "ex": "The park is near our home.",
+    "exzh": "公園離我們家很近。",
+    "emoji": "🏞️",
+    "pic": "",
     "單字": "near",
     "音標": "/nɪr/",
     "詞性": "prep./adj.",
@@ -12380,6 +22284,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nearly",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is nearly.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "nearly",
     "音標": "",
     "詞性": "",
@@ -12390,6 +22302,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "neat",
+    "ph": "/niːt/",
+    "pos": "adj.",
+    "zh": "整齊乾淨的",
+    "ex": "Keep your desk neat and tidy.",
+    "exzh": "保持你的書桌檯面乾淨整齊。",
+    "emoji": "🪑",
+    "pic": "",
     "單字": "neat",
     "音標": "/niːt/",
     "詞性": "adj.",
@@ -12400,6 +22320,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "necessary",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is necessary.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "necessary",
     "音標": "",
     "詞性": "",
@@ -12410,6 +22338,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "neck",
+    "ph": "/nek/",
+    "pos": "n.",
+    "zh": "脖子",
+    "ex": "Giraffes have very tall necks.",
+    "exzh": "長頸鹿有非常長的脖子。",
+    "emoji": "🦒",
+    "pic": "",
     "單字": "neck",
     "音標": "/nek/",
     "詞性": "n.",
@@ -12420,6 +22356,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "necklace",
+    "ph": "/ˈnek.ləs/",
+    "pos": "n.",
+    "zh": "項鍊",
+    "ex": "A pretty bead necklace.",
+    "exzh": "一條漂亮的彩色珠子項鍊。",
+    "emoji": "📿",
+    "pic": "",
     "單字": "necklace",
     "音標": "/ˈnek.ləs/",
     "詞性": "n.",
@@ -12430,6 +22374,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "need",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is need.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "need",
     "音標": "",
     "詞性": "",
@@ -12440,6 +22392,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "needle",
+    "ph": "/ˈniː.dəl/",
+    "pos": "n.",
+    "zh": "針",
+    "ex": "Thread the sewing needle carefully.",
+    "exzh": "小心翼翼地把縫紉線穿過針眼。",
+    "emoji": "🪡",
+    "pic": "",
     "單字": "needle",
     "音標": "/ˈniː.dəl/",
     "詞性": "n.",
@@ -12450,6 +22410,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "negative",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is negative.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "negative",
     "音標": "",
     "詞性": "",
@@ -12460,6 +22428,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "neighbor",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is neighbor.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "neighbor",
     "音標": "",
     "詞性": "",
@@ -12470,6 +22446,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "neither",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is neither.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "neither",
     "音標": "",
     "詞性": "",
@@ -12480,6 +22464,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nephew",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is nephew.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "nephew",
     "音標": "",
     "詞性": "",
@@ -12490,6 +22482,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nervous",
+    "ph": "/ˈnɝː.vəs/",
+    "pos": "adj.",
+    "zh": "緊張的",
+    "ex": "Take deep breaths when feeling nervous.",
+    "exzh": "感到緊張時深呼吸幾次讓心情平復。",
+    "emoji": "😰",
+    "pic": "",
     "單字": "nervous",
     "音標": "/ˈnɝː.vəs/",
     "詞性": "adj.",
@@ -12500,6 +22500,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nest",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is nest.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "nest",
     "音標": "",
     "詞性": "",
@@ -12510,6 +22518,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "net",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is net.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "net",
     "音標": "",
     "詞性": "",
@@ -12520,6 +22536,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "never",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is never.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "never",
     "音標": "",
     "詞性": "",
@@ -12530,6 +22554,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "new",
+    "ph": "/nuː/",
+    "pos": "adj.",
+    "zh": "嶄新的",
+    "ex": "Look at my new schoolbag.",
+    "exzh": "看看我的新書包。",
+    "emoji": "✨",
+    "pic": "",
     "單字": "new",
     "音標": "/nuː/",
     "詞性": "adj.",
@@ -12540,6 +22572,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "news",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is news.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "news",
     "音標": "",
     "詞性": "",
@@ -12550,6 +22590,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "newspaper",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is newspaper.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "newspaper",
     "音標": "",
     "詞性": "",
@@ -12560,6 +22608,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "next",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is next.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "next",
     "音標": "",
     "詞性": "",
@@ -12570,6 +22626,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nice",
+    "ph": "/naɪs/",
+    "pos": "adj.",
+    "zh": "親切的，美好的",
+    "ex": "It is nice to make new friends.",
+    "exzh": "能夠結交新朋友是一件美好的事。",
+    "emoji": "🤝",
+    "pic": "",
     "單字": "nice",
     "音標": "/naɪs/",
     "詞性": "adj.",
@@ -12580,6 +22644,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nice-looking",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is nice-looking.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "nice-looking",
     "音標": "",
     "詞性": "",
@@ -12590,6 +22662,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "niece",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is niece.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "niece",
     "音標": "",
     "詞性": "",
@@ -12600,6 +22680,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "night",
+    "ph": "/naɪt/",
+    "pos": "n.",
+    "zh": "夜晚",
+    "ex": "Stars shine at night.",
+    "exzh": "星星在夜晚閃閃發光。",
+    "emoji": "🌙",
+    "pic": "",
     "單字": "night",
     "音標": "/naɪt/",
     "詞性": "n.",
@@ -12610,6 +22698,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nine",
+    "ph": "/naɪn/",
+    "pos": "num.",
+    "zh": "九",
+    "ex": "Count from one to nine.",
+    "exzh": "從一數到九。",
+    "emoji": "9️⃣",
+    "pic": "",
     "單字": "nine",
     "音標": "/naɪn/",
     "詞性": "num.",
@@ -12620,6 +22716,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nineteen",
+    "ph": "/ˌnaɪnˈtiːn/",
+    "pos": "num.",
+    "zh": "十九",
+    "ex": "Nineteen pages left to read.",
+    "exzh": "還剩下十九頁要讀完。",
+    "emoji": "1️⃣9️⃣",
+    "pic": "",
     "單字": "nineteen",
     "音標": "/ˌnaɪnˈtiːn/",
     "詞性": "num.",
@@ -12630,6 +22734,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ninety",
+    "ph": "/ˈnaɪn.ti/",
+    "pos": "num.",
+    "zh": "九十",
+    "ex": "Ninety points on the math test.",
+    "exzh": "數學測驗考了九十分。",
+    "emoji": "9️⃣0️⃣",
+    "pic": "",
     "單字": "ninety",
     "音標": "/ˈnaɪn.ti/",
     "詞性": "num.",
@@ -12640,6 +22752,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "no",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is no.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "no",
     "音標": "",
     "詞性": "",
@@ -12650,6 +22770,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nobody",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is nobody.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "nobody",
     "音標": "",
     "詞性": "",
@@ -12660,6 +22788,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nod",
+    "ph": "/nɑːd/",
+    "pos": "v.",
+    "zh": "點頭",
+    "ex": "Nod your head if you understand.",
+    "exzh": "如果你聽懂了就點點頭。",
+    "emoji": "🙂",
+    "pic": "",
     "單字": "nod",
     "音標": "/nɑːd/",
     "詞性": "v.",
@@ -12670,6 +22806,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "noise",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is noise.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "noise",
     "音標": "",
     "詞性": "",
@@ -12680,6 +22824,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "noisy",
+    "ph": "/ˈnɔɪ.zi/",
+    "pos": "adj.",
+    "zh": "吵鬧的",
+    "ex": "The busy street is noisy.",
+    "exzh": "熱鬧的街道很吵鬧。",
+    "emoji": "📢",
+    "pic": "",
     "單字": "noisy",
     "音標": "/ˈnɔɪ.zi/",
     "詞性": "adj.",
@@ -12690,6 +22842,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "none",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is none.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "none",
     "音標": "",
     "詞性": "",
@@ -12700,6 +22860,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "noodle",
+    "ph": "/ˈnuː.dəl/",
+    "pos": "n.",
+    "zh": "麵條",
+    "ex": "Hot noodles are delicious.",
+    "exzh": "熱騰騰的麵條很好吃。",
+    "emoji": "🍜",
+    "pic": "",
     "單字": "noodle",
     "音標": "/ˈnuː.dəl/",
     "詞性": "n.",
@@ -12710,6 +22878,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "noon",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is noon.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "noon",
     "音標": "",
     "詞性": "",
@@ -12720,6 +22896,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nor",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is nor.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "nor",
     "音標": "",
     "詞性": "",
@@ -12730,6 +22914,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "north",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is north.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "north",
     "音標": "",
     "詞性": "",
@@ -12740,6 +22932,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nose",
+    "ph": "/noʊz/",
+    "pos": "n.",
+    "zh": "鼻子",
+    "ex": "He pointed to his nose.",
+    "exzh": "他指著他的鼻子。",
+    "emoji": "👃",
+    "pic": "",
     "單字": "nose",
     "音標": "/noʊz/",
     "詞性": "n.",
@@ -12750,6 +22950,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "not",
+    "ph": "/nɑːt/",
+    "pos": "adv.",
+    "zh": "不，不是",
+    "ex": "I am not angry.",
+    "exzh": "我沒有生氣。",
+    "emoji": "🙂",
+    "pic": "",
     "單字": "not",
     "音標": "/nɑːt/",
     "詞性": "adv.",
@@ -12760,6 +22968,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "note",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is note.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "note",
     "音標": "",
     "詞性": "",
@@ -12770,6 +22986,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "notebook",
+    "ph": "/ˈnoʊt.bʊk/",
+    "pos": "n.",
+    "zh": "筆記本",
+    "ex": "Write notes in your notebook.",
+    "exzh": "在筆記本上記筆記。",
+    "emoji": "📓",
+    "pic": "",
     "單字": "notebook",
     "音標": "/ˈnoʊt.bʊk/",
     "詞性": "n.",
@@ -12780,6 +23004,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nothing",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is nothing.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "nothing",
     "音標": "",
     "詞性": "",
@@ -12790,6 +23022,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "notice",
+    "ph": "/ˈnoʊ.t̬ɪs/",
+    "pos": "v./n.",
+    "zh": "注意到；通知",
+    "ex": "Notice the colorful little butterflies.",
+    "exzh": "注意到那些色彩繽紛的小蝴蝶。",
+    "emoji": "🦋",
+    "pic": "",
     "單字": "notice",
     "音標": "/ˈnoʊ.t̬ɪs/",
     "詞性": "v./n.",
@@ -12800,6 +23040,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "novel",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is novel.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "novel",
     "音標": "",
     "詞性": "",
@@ -12810,6 +23058,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "November",
+    "ph": "/noʊˈvem.bɚ/",
+    "pos": "n.",
+    "zh": "十一月",
+    "ex": "Autumn leaves fall in November.",
+    "exzh": "秋天的落葉在十一月飄落。",
+    "emoji": "🍂",
+    "pic": "",
     "單字": "November",
     "音標": "/noʊˈvem.bɚ/",
     "詞性": "n.",
@@ -12820,6 +23076,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "now",
+    "ph": "/naʊ/",
+    "pos": "adv.",
+    "zh": "現在",
+    "ex": "Do your homework now.",
+    "exzh": "現在就去做你的功課。",
+    "emoji": "⏰",
+    "pic": "",
     "單字": "now",
     "音標": "/naʊ/",
     "詞性": "adv.",
@@ -12830,6 +23094,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "number",
+    "ph": "/ˈnʌm.bɚ/",
+    "pos": "n.",
+    "zh": "數字，號碼",
+    "ex": "What is your lucky number?",
+    "exzh": "你的幸運號碼是幾號？",
+    "emoji": "🔢",
+    "pic": "",
     "單字": "number",
     "音標": "/ˈnʌm.bɚ/",
     "詞性": "n.",
@@ -12840,6 +23112,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nurse",
+    "ph": "/nɝːs/",
+    "pos": "n.",
+    "zh": "護理師",
+    "ex": "The nurse is kind and gentle.",
+    "exzh": "這位護理師溫柔又親切。",
+    "emoji": "👩‍⚕️",
+    "pic": "",
     "單字": "nurse",
     "音標": "/nɝːs/",
     "詞性": "n.",
@@ -12850,6 +23130,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "nut",
+    "ph": "/nʌt/",
+    "pos": "n.",
+    "zh": "堅果，核果",
+    "ex": "Squirrels gather nuts for winter.",
+    "exzh": "松鼠為冬天儲存堅果。",
+    "emoji": "🌰",
+    "pic": "",
     "單字": "nut",
     "音標": "/nʌt/",
     "詞性": "n.",
@@ -12860,6 +23148,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "o'clock",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is o'clock.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "o'clock",
     "音標": "",
     "詞性": "",
@@ -12870,6 +23166,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "obey",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is obey.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "obey",
     "音標": "",
     "詞性": "",
@@ -12880,6 +23184,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "object",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is object.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "object",
     "音標": "",
     "詞性": "",
@@ -12890,6 +23202,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ocean",
+    "ph": "/ˈoʊ.ʃən/",
+    "pos": "n.",
+    "zh": "海洋，大洋",
+    "ex": "Whales swim across the wide ocean.",
+    "exzh": "鯨魚在大洋之中悠游遷徙。",
+    "emoji": "🌊",
+    "pic": "",
     "單字": "ocean",
     "音標": "/ˈoʊ.ʃən/",
     "詞性": "n.",
@@ -12900,6 +23220,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "October",
+    "ph": "/ɑːkˈtoʊ.bɚ/",
+    "pos": "n.",
+    "zh": "十月",
+    "ex": "Halloween is in late October.",
+    "exzh": "萬聖節在十月下旬。",
+    "emoji": "🎃",
+    "pic": "",
     "單字": "October",
     "音標": "/ɑːkˈtoʊ.bɚ/",
     "詞性": "n.",
@@ -12910,6 +23238,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "octopus",
+    "ph": "/ˈɑːk.tə.pəs/",
+    "pos": "n.",
+    "zh": "章魚",
+    "ex": "An octopus has eight arms.",
+    "exzh": "章魚擁有八隻靈活的腕足觸手。",
+    "emoji": "🐙",
+    "pic": "",
     "單字": "octopus",
     "音標": "/ˈɑːk.tə.pəs/",
     "詞性": "n.",
@@ -12920,6 +23256,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "of",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is of.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "of",
     "音標": "",
     "詞性": "",
@@ -12930,6 +23274,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "off",
+    "ph": "/ɑːf/",
+    "pos": "prep./adv.",
+    "zh": "脫離，關閉",
+    "ex": "Turn off the lamp.",
+    "exzh": "把檯燈關掉。",
+    "emoji": "💡",
+    "pic": "",
     "單字": "off",
     "音標": "/ɑːf/",
     "詞性": "prep./adv.",
@@ -12940,6 +23292,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "offer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is offer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "offer",
     "音標": "",
     "詞性": "",
@@ -12950,6 +23310,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "office",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is office.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "office",
     "音標": "",
     "詞性": "",
@@ -12960,6 +23328,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "officer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is officer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "officer",
     "音標": "",
     "詞性": "",
@@ -12970,6 +23346,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "often",
+    "ph": "/ˈɑːf.tən/",
+    "pos": "adv.",
+    "zh": "時常",
+    "ex": "We often read books.",
+    "exzh": "我們時常讀書。",
+    "emoji": "📖",
+    "pic": "",
     "單字": "often",
     "音標": "/ˈɑːf.tən/",
     "詞性": "adv.",
@@ -12980,6 +23364,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "oil",
+    "ph": "/ɔɪl/",
+    "pos": "n.",
+    "zh": "油，食用油",
+    "ex": "Heat olive oil in the pan.",
+    "exzh": "在鍋裡加熱一點橄欖油。",
+    "emoji": "🫒",
+    "pic": "",
     "單字": "oil",
     "音標": "/ɔɪl/",
     "詞性": "n.",
@@ -12990,6 +23382,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "OK",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is OK.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "OK",
     "音標": "",
     "詞性": "",
@@ -13000,6 +23400,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "old",
+    "ph": "/oʊld/",
+    "pos": "adj.",
+    "zh": "年邁的；舊的",
+    "ex": "The old tree gives cool shade.",
+    "exzh": "老樹提供了涼爽的樹蔭。",
+    "emoji": "👴",
+    "pic": "",
     "單字": "old",
     "音標": "/oʊld/",
     "詞性": "adj.",
@@ -13010,6 +23418,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "omit",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is omit.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "omit",
     "音標": "",
     "詞性": "",
@@ -13020,6 +23436,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "on",
+    "ph": "/ɑːn/",
+    "pos": "prep.",
+    "zh": "在...上面",
+    "ex": "The book is on the desk.",
+    "exzh": "書本在桌子上。",
+    "emoji": "🔛",
+    "pic": "",
     "單字": "on",
     "音標": "/ɑːn/",
     "詞性": "prep.",
@@ -13030,6 +23454,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "once",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is once.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "once",
     "音標": "",
     "詞性": "",
@@ -13040,6 +23472,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "one",
+    "ph": "/wʌn/",
+    "pos": "num.",
+    "zh": "一",
+    "ex": "I have one apple.",
+    "exzh": "我有一顆蘋果。",
+    "emoji": "1️⃣",
+    "pic": "",
     "單字": "one",
     "音標": "/wʌn/",
     "詞性": "num.",
@@ -13050,6 +23490,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "oneself",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is oneself.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "oneself",
     "音標": "",
     "詞性": "",
@@ -13060,6 +23508,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "onion",
+    "ph": "/ˈʌn.jən/",
+    "pos": "n.",
+    "zh": "洋蔥",
+    "ex": "Chop onions carefully.",
+    "exzh": "切洋蔥時要特別小心。",
+    "emoji": "🧅",
+    "pic": "",
     "單字": "onion",
     "音標": "/ˈʌn.jən/",
     "詞性": "n.",
@@ -13070,6 +23526,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "only",
+    "ph": "/ˈoʊn.li/",
+    "pos": "adv./adj.",
+    "zh": "只有，僅僅",
+    "ex": "There is only one apple left.",
+    "exzh": "只剩下一顆蘋果了。",
+    "emoji": "🍎",
+    "pic": "",
     "單字": "only",
     "音標": "/ˈoʊn.li/",
     "詞性": "adv./adj.",
@@ -13080,6 +23544,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "open",
+    "ph": "/ˈoʊ.pən/",
+    "pos": "v.",
+    "zh": "打開",
+    "ex": "Open your English workbook.",
+    "exzh": "打開你的英文作業本。",
+    "emoji": "📖",
+    "pic": "",
     "單字": "open",
     "音標": "/ˈoʊ.pən/",
     "詞性": "v.",
@@ -13090,6 +23562,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "operation",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is operation.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "operation",
     "音標": "",
     "詞性": "",
@@ -13100,6 +23580,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "opinion",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is opinion.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "opinion",
     "音標": "",
     "詞性": "",
@@ -13110,6 +23598,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "or",
+    "ph": "/ɔːr/",
+    "pos": "conj.",
+    "zh": "或者",
+    "ex": "Do you want tea or milk?",
+    "exzh": "你想喝茶還是牛奶？",
+    "emoji": "🍵",
+    "pic": "",
     "單字": "or",
     "音標": "/ɔːr/",
     "詞性": "conj.",
@@ -13120,6 +23616,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "orange",
+    "ph": "/ˈɔːr.ɪndʒ/",
+    "pos": "adj./n.",
+    "zh": "橘色的；柳橙",
+    "ex": "I like sweet oranges.",
+    "exzh": "我喜歡甜甜的柳橙。",
+    "emoji": "🍊",
+    "pic": "",
     "單字": "orange",
     "音標": "/ˈɔːr.ɪndʒ/",
     "詞性": "adj./n.",
@@ -13130,6 +23634,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "order",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is order.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "order",
     "音標": "",
     "詞性": "",
@@ -13140,6 +23652,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ordinary",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ordinary.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ordinary",
     "音標": "",
     "詞性": "",
@@ -13150,6 +23670,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "other",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is other.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "other",
     "音標": "",
     "詞性": "",
@@ -13160,6 +23688,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "otter",
+    "ph": "/ˈɑː.t̬ɚ/",
+    "pos": "n.",
+    "zh": "水獺",
+    "ex": "River otters slide down muddy banks.",
+    "exzh": "水獺在泥濘的河岸上滑滑梯。",
+    "emoji": "🦦",
+    "pic": "",
     "單字": "otter",
     "音標": "/ˈɑː.t̬ɚ/",
     "詞性": "n.",
@@ -13170,6 +23706,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "our",
+    "ph": "/aʊr/",
+    "pos": "pron.",
+    "zh": "我們的",
+    "ex": "Our classroom is sunny.",
+    "exzh": "我們的教室陽光普照。",
+    "emoji": "🏫",
+    "pic": "",
     "單字": "our",
     "音標": "/aʊr/",
     "詞性": "pron.",
@@ -13180,6 +23724,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "out",
+    "ph": "/aʊt/",
+    "pos": "adv./prep.",
+    "zh": "向外，在外",
+    "ex": "Look out the window.",
+    "exzh": "看看窗外。",
+    "emoji": "🪟",
+    "pic": "",
     "單字": "out",
     "音標": "/aʊt/",
     "詞性": "adv./prep.",
@@ -13190,6 +23742,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "outside",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is outside.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "outside",
     "音標": "",
     "詞性": "",
@@ -13200,6 +23760,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "oval",
+    "ph": "/ˈoʊ.vəl/",
+    "pos": "n./adj.",
+    "zh": "橢圓形；橢圓的",
+    "ex": "Hen eggs have a smooth oval shape.",
+    "exzh": "母雞生下的雞蛋擁有光滑橢圓外觀。",
+    "emoji": "🥚",
+    "pic": "",
     "單字": "oval",
     "音標": "/ˈoʊ.vəl/",
     "詞性": "n./adj.",
@@ -13210,6 +23778,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "oven",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is oven.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "oven",
     "音標": "",
     "詞性": "",
@@ -13220,6 +23796,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "over",
+    "ph": "/ˈoʊ.vɚ/",
+    "pos": "prep./adv.",
+    "zh": "在...上方；結束",
+    "ex": "The ball flew over fence.",
+    "exzh": "球飛過了圍欄。",
+    "emoji": "⚽",
+    "pic": "",
     "單字": "over",
     "音標": "/ˈoʊ.vɚ/",
     "詞性": "prep./adv.",
@@ -13230,6 +23814,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "over-weight",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is over-weight.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "over-weight",
     "音標": "",
     "詞性": "",
@@ -13240,6 +23832,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "overpass",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is overpass.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "overpass",
     "音標": "",
     "詞性": "",
@@ -13250,6 +23850,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "overseas",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is overseas.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "overseas",
     "音標": "",
     "詞性": "",
@@ -13260,6 +23868,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "owl",
+    "ph": "/aʊl/",
+    "pos": "n.",
+    "zh": "貓頭鷹",
+    "ex": "Wise owls stay awake all night.",
+    "exzh": "充滿智慧的貓頭鷹整夜保持清醒。",
+    "emoji": "🦉",
+    "pic": "",
     "單字": "owl",
     "音標": "/aʊl/",
     "詞性": "n.",
@@ -13270,6 +23886,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "own",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is own.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "own",
     "音標": "",
     "詞性": "",
@@ -13280,6 +23904,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "owner",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is owner.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "owner",
     "音標": "",
     "詞性": "",
@@ -13290,6 +23922,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ox",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ox.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ox",
     "音標": "",
     "詞性": "",
@@ -13300,6 +23940,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "p.m.",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is p.m..",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "p.m.",
     "音標": "",
     "詞性": "",
@@ -13310,6 +23958,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pack",
+    "ph": "/pæk/",
+    "pos": "v.",
+    "zh": "打包，收拾",
+    "ex": "Pack your books and pencil case.",
+    "exzh": "收拾好你的書本與鉛筆盒。",
+    "emoji": "🎒",
+    "pic": "",
     "單字": "pack",
     "音標": "/pæk/",
     "詞性": "v.",
@@ -13320,6 +23976,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "package",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is package.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "package",
     "音標": "",
     "詞性": "",
@@ -13330,6 +23994,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "padlock",
+    "ph": "/ˈpæd.lɑːk/",
+    "pos": "n.",
+    "zh": "掛鎖",
+    "ex": "Lock the bicycle with a padlock.",
+    "exzh": "用掛鎖把自行車鎖好。",
+    "emoji": "🔒",
+    "pic": "",
     "單字": "padlock",
     "音標": "/ˈpæd.lɑːk/",
     "詞性": "n.",
@@ -13340,6 +24012,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "page",
+    "ph": "/peɪdʒ/",
+    "pos": "n.",
+    "zh": "頁碼，書頁",
+    "ex": "Turn to page twenty.",
+    "exzh": "請翻到第二十頁。",
+    "emoji": "📄",
+    "pic": "",
     "單字": "page",
     "音標": "/peɪdʒ/",
     "詞性": "n.",
@@ -13350,6 +24030,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pain",
+    "ph": "/peɪn/",
+    "pos": "n.",
+    "zh": "疼痛",
+    "ex": "The soothing ointment eased the pain.",
+    "exzh": "舒緩藥膏減輕了傷口的疼痛。",
+    "emoji": "🩹",
+    "pic": "",
     "單字": "pain",
     "音標": "/peɪn/",
     "詞性": "n.",
@@ -13360,6 +24048,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "painful",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is painful.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "painful",
     "音標": "",
     "詞性": "",
@@ -13370,6 +24066,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "paint",
+    "ph": "/peɪnt/",
+    "pos": "v.",
+    "zh": "粉刷，繪製",
+    "ex": "Paint the sky with light blue.",
+    "exzh": "用淺藍色顏料描繪天空。",
+    "emoji": "🎨",
+    "pic": "",
     "單字": "paint",
     "音標": "/peɪnt/",
     "詞性": "v.",
@@ -13380,6 +24084,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "painter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is painter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "painter",
     "音標": "",
     "詞性": "",
@@ -13390,6 +24102,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "painting",
+    "ph": "/ˈpeɪn.tɪŋ/",
+    "pos": "n.",
+    "zh": "油畫，繪畫",
+    "ex": "Look at the colorful painting.",
+    "exzh": "看看這幅色彩豐富的畫作。",
+    "emoji": "🖼️",
+    "pic": "",
     "單字": "painting",
     "音標": "/ˈpeɪn.tɪŋ/",
     "詞性": "n.",
@@ -13400,6 +24120,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pair",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pair.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pair",
     "音標": "",
     "詞性": "",
@@ -13410,6 +24138,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pajamas",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pajamas.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pajamas",
     "音標": "",
     "詞性": "",
@@ -13420,6 +24156,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "palace",
+    "ph": "/ˈpæl.ɪs/",
+    "pos": "n.",
+    "zh": "皇宮，宮殿",
+    "ex": "The golden palace is grand and majestic.",
+    "exzh": "金碧輝煌的宮殿顯得氣派威嚴。",
+    "emoji": "👑",
+    "pic": "",
     "單字": "palace",
     "音標": "/ˈpæl.ɪs/",
     "詞性": "n.",
@@ -13430,6 +24174,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pale",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pale.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pale",
     "音標": "",
     "詞性": "",
@@ -13440,6 +24192,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pan",
+    "ph": "/pæn/",
+    "pos": "n.",
+    "zh": "平底鍋",
+    "ex": "Cook an egg in the frying pan.",
+    "exzh": "在平底鍋裡煎一顆荷包蛋。",
+    "emoji": "🍳",
+    "pic": "",
     "單字": "pan",
     "音標": "/pæn/",
     "詞性": "n.",
@@ -13450,6 +24210,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pancake",
+    "ph": "/ˈpæn.keɪk/",
+    "pos": "n.",
+    "zh": "鬆餅，薄煎餅",
+    "ex": "Stack hot pancakes with syrup.",
+    "exzh": "把熱騰騰的鬆餅疊高並淋上糖漿。",
+    "emoji": "🥞",
+    "pic": "",
     "單字": "pancake",
     "音標": "/ˈpæn.keɪk/",
     "詞性": "n.",
@@ -13460,6 +24228,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "panda",
+    "ph": "/ˈpæn.də/",
+    "pos": "n.",
+    "zh": "熊貓",
+    "ex": "Pandas love bamboo.",
+    "exzh": "大熊貓喜歡吃竹子。",
+    "emoji": "🐼",
+    "pic": "",
     "單字": "panda",
     "音標": "/ˈpæn.də/",
     "詞性": "n.",
@@ -13470,6 +24246,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pants",
+    "ph": "/pænts/",
+    "pos": "n.",
+    "zh": "長褲",
+    "ex": "These pants are too long.",
+    "exzh": "這條褲子太長了。",
+    "emoji": "👖",
+    "pic": "",
     "單字": "pants",
     "音標": "/pænts/",
     "詞性": "n.",
@@ -13480,6 +24264,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "papaya",
+    "ph": "/pəˈpaɪ.ə/",
+    "pos": "n.",
+    "zh": "木瓜",
+    "ex": "Papaya milk is very popular in Taiwan.",
+    "exzh": "木瓜牛奶在台灣非常受歡迎。",
+    "emoji": "🍈",
+    "pic": "",
     "單字": "papaya",
     "音標": "/pəˈpaɪ.ə/",
     "詞性": "n.",
@@ -13490,6 +24282,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "paper",
+    "ph": "/ˈpeɪ.pɚ/",
+    "pos": "n.",
+    "zh": "紙張",
+    "ex": "Fold the paper in half.",
+    "exzh": "把這張紙對摺。",
+    "emoji": "📄",
+    "pic": "",
     "單字": "paper",
     "音標": "/ˈpeɪ.pɚ/",
     "詞性": "n.",
@@ -13500,6 +24300,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "paperclip",
+    "ph": "/ˈpeɪ.pɚ.klɪp/",
+    "pos": "n.",
+    "zh": "迴紋針",
+    "ex": "Hold papers neat using a paperclip.",
+    "exzh": "用迴紋針把文件夾整齊。",
+    "emoji": "📎",
+    "pic": "",
     "單字": "paperclip",
     "音標": "/ˈpeɪ.pɚ.klɪp/",
     "詞性": "n.",
@@ -13510,6 +24318,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pardon",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pardon.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pardon",
     "音標": "",
     "詞性": "",
@@ -13520,6 +24336,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "parent",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is parent.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "parent",
     "音標": "",
     "詞性": "",
@@ -13530,6 +24354,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "parents",
+    "ph": "/ˈper.ənts/",
+    "pos": "n.",
+    "zh": "父母親",
+    "ex": "Love and respect your parents.",
+    "exzh": "愛護並尊敬你的父母親。",
+    "emoji": "👨‍👩‍👧",
+    "pic": "",
     "單字": "parents",
     "音標": "/ˈper.ənts/",
     "詞性": "n.",
@@ -13540,6 +24372,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "park",
+    "ph": "/pɑːrk/",
+    "pos": "n.",
+    "zh": "公園",
+    "ex": "We play tag in the park.",
+    "exzh": "我們在公園裡玩抓人遊戲。",
+    "emoji": "🏞️",
+    "pic": "",
     "單字": "park",
     "音標": "/pɑːrk/",
     "詞性": "n.",
@@ -13550,6 +24390,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "parking lot",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is parking lot.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "parking lot",
     "音標": "",
     "詞性": "",
@@ -13560,6 +24408,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "parrot",
+    "ph": "/ˈper.ət/",
+    "pos": "n.",
+    "zh": "鸚鵡",
+    "ex": "The colorful parrot repeats words.",
+    "exzh": "色彩艷麗的鸚鵡模仿人類說話。",
+    "emoji": "🦜",
+    "pic": "",
     "單字": "parrot",
     "音標": "/ˈper.ət/",
     "詞性": "n.",
@@ -13570,6 +24426,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "part",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is part.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "part",
     "音標": "",
     "詞性": "",
@@ -13580,6 +24444,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "partner",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is partner.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "partner",
     "音標": "",
     "詞性": "",
@@ -13590,6 +24462,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "party",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is party.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "party",
     "音標": "",
     "詞性": "",
@@ -13600,6 +24480,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pass",
+    "ph": "/pæs/",
+    "pos": "v.",
+    "zh": "傳遞，通過",
+    "ex": "Pass the paper to the student next.",
+    "exzh": "把測驗紙傳給隔壁的同學。",
+    "emoji": "📄",
+    "pic": "",
     "單字": "pass",
     "音標": "/pæs/",
     "詞性": "v.",
@@ -13610,6 +24498,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "passenger",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is passenger.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "passenger",
     "音標": "",
     "詞性": "",
@@ -13620,6 +24516,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "past",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is past.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "past",
     "音標": "",
     "詞性": "",
@@ -13630,6 +24534,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pasta",
+    "ph": "/ˈpɑː.stə/",
+    "pos": "n.",
+    "zh": "義大利麵",
+    "ex": "Eat tomato pasta for lunch.",
+    "exzh": "中午享用一盤酸甜可口的番茄義大利麵。",
+    "emoji": "🍝",
+    "pic": "",
     "單字": "pasta",
     "音標": "/ˈpɑː.stə/",
     "詞性": "n.",
@@ -13640,6 +24552,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "paste",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is paste.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "paste",
     "音標": "",
     "詞性": "",
@@ -13650,6 +24570,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "path",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is path.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "path",
     "音標": "",
     "詞性": "",
@@ -13660,6 +24588,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "patient",
+    "ph": "/ˈpeɪ.ʃənt/",
+    "pos": "adj.",
+    "zh": "有耐心的",
+    "ex": "Teachers are very patient with learners.",
+    "exzh": "老師對初學者總是非常有耐心教導。",
+    "emoji": "😇",
+    "pic": "",
     "單字": "patient",
     "音標": "/ˈpeɪ.ʃənt/",
     "詞性": "adj.",
@@ -13670,6 +24606,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pattern",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pattern.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pattern",
     "音標": "",
     "詞性": "",
@@ -13680,6 +24624,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pause",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pause.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pause",
     "音標": "",
     "詞性": "",
@@ -13690,6 +24642,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pay",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pay.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pay",
     "音標": "",
     "詞性": "",
@@ -13700,6 +24660,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "PE",
+    "ph": "/ˌpiːˈiː/",
+    "pos": "n.",
+    "zh": "體育課",
+    "ex": "We play basketball in PE class.",
+    "exzh": "我們在體育課打籃球鍛鍊身體。",
+    "emoji": "🏀",
+    "pic": "",
     "單字": "PE",
     "音標": "/ˌpiːˈiː/",
     "詞性": "n.",
@@ -13710,6 +24678,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pea",
+    "ph": "/piː/",
+    "pos": "n.",
+    "zh": "豌豆",
+    "ex": "Little green peas taste sweet.",
+    "exzh": "綠綠的小豌豆味道甘甜。",
+    "emoji": "🫛",
+    "pic": "",
     "單字": "pea",
     "音標": "/piː/",
     "詞性": "n.",
@@ -13720,6 +24696,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "peace",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is peace.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "peace",
     "音標": "",
     "詞性": "",
@@ -13730,6 +24714,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "peaceful",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is peaceful.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "peaceful",
     "音標": "",
     "詞性": "",
@@ -13740,6 +24732,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "peach",
+    "ph": "/piːtʃ/",
+    "pos": "n.",
+    "zh": "桃子，水蜜桃",
+    "ex": "Soft pink peaches are juicy.",
+    "exzh": "粉嫩飽滿的水蜜桃多汁又甘甜。",
+    "emoji": "🍑",
+    "pic": "",
     "單字": "peach",
     "音標": "/piːtʃ/",
     "詞性": "n.",
@@ -13750,6 +24750,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "peanut",
+    "ph": "/ˈpiː.nʌt/",
+    "pos": "n.",
+    "zh": "花生",
+    "ex": "Peanut butter tastes rich and smooth.",
+    "exzh": "花生醬嚐起來濃郁順口。",
+    "emoji": "🥜",
+    "pic": "",
     "單字": "peanut",
     "音標": "/ˈpiː.nʌt/",
     "詞性": "n.",
@@ -13760,6 +24768,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pear",
+    "ph": "/per/",
+    "pos": "n.",
+    "zh": "西洋梨，梨子",
+    "ex": "The juicy pear tastes sweet.",
+    "exzh": "多汁的梨子嚐起來很甜。",
+    "emoji": "🍐",
+    "pic": "",
     "單字": "pear",
     "音標": "/per/",
     "詞性": "n.",
@@ -13770,6 +24786,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pen",
+    "ph": "/pen/",
+    "pos": "n.",
+    "zh": "原子筆，鋼筆",
+    "ex": "Write your name with a pen.",
+    "exzh": "用原子筆寫下你的名字。",
+    "emoji": "🖊️",
+    "pic": "",
     "單字": "pen",
     "音標": "/pen/",
     "詞性": "n.",
@@ -13780,6 +24804,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pencil",
+    "ph": "/ˈpen.səl/",
+    "pos": "n.",
+    "zh": "鉛筆",
+    "ex": "Sharpen your pencil.",
+    "exzh": "削削你的鉛筆。",
+    "emoji": "✏️",
+    "pic": "",
     "單字": "pencil",
     "音標": "/ˈpen.səl/",
     "詞性": "n.",
@@ -13790,6 +24822,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pencil case",
+    "ph": "/ˈpen.səl ˌkeɪs/",
+    "pos": "n.",
+    "zh": "鉛筆盒",
+    "ex": "Zip up your canvas pencil case.",
+    "exzh": "拉上你的帆布鉛筆盒拉鍊。",
+    "emoji": "👝",
+    "pic": "",
     "單字": "pencil case",
     "音標": "/ˈpen.səl ˌkeɪs/",
     "詞性": "n.",
@@ -13800,6 +24840,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "people",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is people.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "people",
     "音標": "",
     "詞性": "",
@@ -13810,6 +24858,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pepper",
+    "ph": "/ˈpep.ɚ/",
+    "pos": "n.",
+    "zh": "胡椒；甜椒",
+    "ex": "Sprinkle black pepper on soup.",
+    "exzh": "在熱湯上撒一點黑胡椒。",
+    "emoji": "🧂",
+    "pic": "",
     "單字": "pepper",
     "音標": "/ˈpep.ɚ/",
     "詞性": "n.",
@@ -13820,6 +24876,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "perfect",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is perfect.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "perfect",
     "音標": "",
     "詞性": "",
@@ -13830,6 +24894,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "perhaps",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is perhaps.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "perhaps",
     "音標": "",
     "詞性": "",
@@ -13840,6 +24912,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "period",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is period.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "period",
     "音標": "",
     "詞性": "",
@@ -13850,6 +24930,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "person",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is person.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "person",
     "音標": "",
     "詞性": "",
@@ -13860,6 +24948,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "personal",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is personal.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "personal",
     "音標": "",
     "詞性": "",
@@ -13870,6 +24966,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pet",
+    "ph": "/pet/",
+    "pos": "n.",
+    "zh": "寵物",
+    "ex": "Do you have a pet at home?",
+    "exzh": "你家裡有養寵物嗎？",
+    "emoji": "🐕",
+    "pic": "",
     "單字": "pet",
     "音標": "/pet/",
     "詞性": "n.",
@@ -13880,6 +24984,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "photo",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is photo.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "photo",
     "音標": "",
     "詞性": "",
@@ -13890,6 +25002,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "physics",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is physics.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "physics",
     "音標": "",
     "詞性": "",
@@ -13900,6 +25020,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "piano",
+    "ph": "/piˈæn.oʊ/",
+    "pos": "n.",
+    "zh": "鋼琴",
+    "ex": "She practices piano every day.",
+    "exzh": "她每天都練習彈鋼琴。",
+    "emoji": "🎹",
+    "pic": "",
     "單字": "piano",
     "音標": "/piˈæn.oʊ/",
     "詞性": "n.",
@@ -13910,6 +25038,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pick",
+    "ph": "/pɪk/",
+    "pos": "v.",
+    "zh": "採摘，挑選",
+    "ex": "Pick ripe red strawberries in farm.",
+    "exzh": "在農場裡採摘成熟的紅草莓。",
+    "emoji": "🍓",
+    "pic": "",
     "單字": "pick",
     "音標": "/pɪk/",
     "詞性": "v.",
@@ -13920,6 +25056,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "picnic",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is picnic.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "picnic",
     "音標": "",
     "詞性": "",
@@ -13930,6 +25074,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "picture",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is picture.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "picture",
     "音標": "",
     "詞性": "",
@@ -13940,6 +25092,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pie",
+    "ph": "/paɪ/",
+    "pos": "n.",
+    "zh": "派，餡餅",
+    "ex": "Grandma baked an apple pie.",
+    "exzh": "奶奶烤了一個蘋果派。",
+    "emoji": "🥧",
+    "pic": "",
     "單字": "pie",
     "音標": "/paɪ/",
     "詞性": "n.",
@@ -13950,6 +25110,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "piece",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is piece.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "piece",
     "音標": "",
     "詞性": "",
@@ -13960,6 +25128,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pig",
+    "ph": "/pɪɡ/",
+    "pos": "n.",
+    "zh": "豬",
+    "ex": "The pig likes mud.",
+    "exzh": "小豬喜歡泥巴。",
+    "emoji": "🐷",
+    "pic": "",
     "單字": "pig",
     "音標": "/pɪɡ/",
     "詞性": "n.",
@@ -13970,6 +25146,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pigeon",
+    "ph": "/ˈpɪdʒ.ən/",
+    "pos": "n.",
+    "zh": "鴿子",
+    "ex": "City pigeons peck breadcrumbs in park.",
+    "exzh": "公園裡的鴿子啄食著麵包屑。",
+    "emoji": "🐦",
+    "pic": "",
     "單字": "pigeon",
     "音標": "/ˈpɪdʒ.ən/",
     "詞性": "n.",
@@ -13980,6 +25164,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pile",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pile.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pile",
     "音標": "",
     "詞性": "",
@@ -13990,6 +25182,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pill",
+    "ph": "/pɪl/",
+    "pos": "n.",
+    "zh": "藥丸，藥錠",
+    "ex": "Swallow the vitamin pill with water.",
+    "exzh": "配開水吞服這顆維他命藥丸。",
+    "emoji": "💊",
+    "pic": "",
     "單字": "pill",
     "音標": "/pɪl/",
     "詞性": "n.",
@@ -14000,6 +25200,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pillow",
+    "ph": "/ˈpɪl.oʊ/",
+    "pos": "n.",
+    "zh": "枕頭",
+    "ex": "Lay head on a fluffy soft pillow.",
+    "exzh": "把頭舒服地靠在蓬鬆柔軟的枕頭上。",
+    "emoji": "🛌",
+    "pic": "",
     "單字": "pillow",
     "音標": "/ˈpɪl.oʊ/",
     "詞性": "n.",
@@ -14010,6 +25218,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pin",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pin.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pin",
     "音標": "",
     "詞性": "",
@@ -14020,6 +25236,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pineapple",
+    "ph": "/ˈpaɪnˌæp.əl/",
+    "pos": "n.",
+    "zh": "鳳梨",
+    "ex": "Pineapples are sweet and sour.",
+    "exzh": "鳳梨酸酸甜甜的。",
+    "emoji": "🍍",
+    "pic": "",
     "單字": "pineapple",
     "音標": "/ˈpaɪnˌæp.əl/",
     "詞性": "n.",
@@ -14030,6 +25254,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pink",
+    "ph": "/pɪŋk/",
+    "pos": "adj./n.",
+    "zh": "粉紅色的；粉紅色",
+    "ex": "She wears a pink dress.",
+    "exzh": "她穿著一件粉紅色洋裝。",
+    "emoji": "🌸",
+    "pic": "",
     "單字": "pink",
     "音標": "/pɪŋk/",
     "詞性": "adj./n.",
@@ -14040,6 +25272,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pipe",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pipe.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pipe",
     "音標": "",
     "詞性": "",
@@ -14050,6 +25290,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pizza",
+    "ph": "/ˈpiːt.sə/",
+    "pos": "n.",
+    "zh": "披薩",
+    "ex": "Let's share a cheese pizza.",
+    "exzh": "我們來分享起司披薩吧。",
+    "emoji": "🍕",
+    "pic": "",
     "單字": "pizza",
     "音標": "/ˈpiːt.sə/",
     "詞性": "n.",
@@ -14060,6 +25308,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "place",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is place.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "place",
     "音標": "",
     "詞性": "",
@@ -14070,6 +25326,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "plain",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is plain.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "plain",
     "音標": "",
     "詞性": "",
@@ -14080,6 +25344,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "plan",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is plan.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "plan",
     "音標": "",
     "詞性": "",
@@ -14090,6 +25362,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "plane",
+    "ph": "/pleɪn/",
+    "pos": "n.",
+    "zh": "飛機",
+    "ex": "The plane flies high in the clouds.",
+    "exzh": "飛機在高高的雲層中飛行。",
+    "emoji": "✈️",
+    "pic": "",
     "單字": "plane",
     "音標": "/pleɪn/",
     "詞性": "n.",
@@ -14100,6 +25380,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "planet",
+    "ph": "/ˈplæn.ɪt/",
+    "pos": "n.",
+    "zh": "行星",
+    "ex": "Earth is a wonderful blue planet.",
+    "exzh": "地球是一顆奇妙美麗的藍色行星。",
+    "emoji": "🪐",
+    "pic": "",
     "單字": "planet",
     "音標": "/ˈplæn.ɪt/",
     "詞性": "n.",
@@ -14110,6 +25398,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "plant",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is plant.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "plant",
     "音標": "",
     "詞性": "",
@@ -14120,6 +25416,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "plate",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is plate.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "plate",
     "音標": "",
     "詞性": "",
@@ -14130,6 +25434,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "platform",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is platform.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "platform",
     "音標": "",
     "詞性": "",
@@ -14140,6 +25452,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "play",
+    "ph": "/pleɪ/",
+    "pos": "v.",
+    "zh": "玩耍，演奏",
+    "ex": "We play games together.",
+    "exzh": "我們一起玩遊戲。",
+    "emoji": "🎮",
+    "pic": "",
     "單字": "play",
     "音標": "/pleɪ/",
     "詞性": "v.",
@@ -14150,6 +25470,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "player",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is player.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "player",
     "音標": "",
     "詞性": "",
@@ -14160,6 +25488,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "playground",
+    "ph": "/ˈpleɪ.ɡraʊnd/",
+    "pos": "n.",
+    "zh": "操場，遊樂場",
+    "ex": "Kids run on the playground.",
+    "exzh": "小朋友在操場上奔跑。",
+    "emoji": "🛝",
+    "pic": "",
     "單字": "playground",
     "音標": "/ˈpleɪ.ɡraʊnd/",
     "詞性": "n.",
@@ -14170,6 +25506,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pleasant",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pleasant.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pleasant",
     "音標": "",
     "詞性": "",
@@ -14180,6 +25524,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "please",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is please.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "please",
     "音標": "",
     "詞性": "",
@@ -14190,6 +25542,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pleased",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pleased.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pleased",
     "音標": "",
     "詞性": "",
@@ -14200,6 +25560,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pleasure",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pleasure.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pleasure",
     "音標": "",
     "詞性": "",
@@ -14210,6 +25578,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "plug",
+    "ph": "/plʌɡ/",
+    "pos": "n.",
+    "zh": "插頭",
+    "ex": "Insert the plug into the wall socket.",
+    "exzh": "把插頭插進牆壁上的插座。",
+    "emoji": "🔌",
+    "pic": "",
     "單字": "plug",
     "音標": "/plʌɡ/",
     "詞性": "n.",
@@ -14220,6 +25596,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "plus",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is plus.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "plus",
     "音標": "",
     "詞性": "",
@@ -14230,6 +25614,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pocket",
+    "ph": "/ˈpɑː.kɪt/",
+    "pos": "n.",
+    "zh": "口袋",
+    "ex": "Coins are inside my jacket pocket.",
+    "exzh": "硬幣在我外套口袋裡。",
+    "emoji": "🪙",
+    "pic": "",
     "單字": "pocket",
     "音標": "/ˈpɑː.kɪt/",
     "詞性": "n.",
@@ -14240,6 +25632,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "poem",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is poem.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "poem",
     "音標": "",
     "詞性": "",
@@ -14250,6 +25650,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "point",
+    "ph": "/pɔɪnt/",
+    "pos": "v.",
+    "zh": "指向",
+    "ex": "Point to the correct picture card.",
+    "exzh": "用手指指出正確的圖片卡。",
+    "emoji": "👉",
+    "pic": "",
     "單字": "point",
     "音標": "/pɔɪnt/",
     "詞性": "v.",
@@ -14260,6 +25668,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "poison",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is poison.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "poison",
     "音標": "",
     "詞性": "",
@@ -14270,6 +25686,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "police",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is police.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "police",
     "音標": "",
     "詞性": "",
@@ -14280,6 +25704,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "police officer",
+    "ph": "/pəˈliːs ˌɑː.fɪ.sɚ/",
+    "pos": "n.",
+    "zh": "警察",
+    "ex": "The police officer stopped the car.",
+    "exzh": "警察攔下了那輛車。",
+    "emoji": "👮",
+    "pic": "",
     "單字": "police officer",
     "音標": "/pəˈliːs ˌɑː.fɪ.sɚ/",
     "詞性": "n.",
@@ -14290,6 +25722,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "police station",
+    "ph": "/pəˈliːs ˌsteɪ.ʃən/",
+    "pos": "n.",
+    "zh": "警察局",
+    "ex": "Police station keeps neighborhood safe.",
+    "exzh": "警察局保護社區鄰里的安全。",
+    "emoji": "🚓",
+    "pic": "",
     "單字": "police station",
     "音標": "/pəˈliːs ˌsteɪ.ʃən/",
     "詞性": "n.",
@@ -14300,6 +25740,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "polite",
+    "ph": "/pəˈlaɪt/",
+    "pos": "adj.",
+    "zh": "有禮貌的",
+    "ex": "Say please to be polite always.",
+    "exzh": "常說請能展現出良好的禮貌。",
+    "emoji": "🙏",
+    "pic": "",
     "單字": "polite",
     "音標": "/pəˈlaɪt/",
     "詞性": "adj.",
@@ -14310,6 +25758,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pollute",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pollute.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pollute",
     "音標": "",
     "詞性": "",
@@ -14320,6 +25776,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pollution",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pollution.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pollution",
     "音標": "",
     "詞性": "",
@@ -14330,6 +25794,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pond",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pond.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pond",
     "音標": "",
     "詞性": "",
@@ -14340,6 +25812,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pool",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pool.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pool",
     "音標": "",
     "詞性": "",
@@ -14350,6 +25830,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "poor",
+    "ph": "/pɔːr/",
+    "pos": "adj.",
+    "zh": "貧窮的；可憐的",
+    "ex": "Help poor stray animals in winter.",
+    "exzh": "在寒冷冬天幫助可憐的流浪動物。",
+    "emoji": "🐕",
+    "pic": "",
     "單字": "poor",
     "音標": "/pɔːr/",
     "詞性": "adj.",
@@ -14360,6 +25848,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pop music",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pop music.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pop music",
     "音標": "",
     "詞性": "",
@@ -14370,6 +25866,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "popcorn",
+    "ph": "/ˈpɑːp.kɔːrn/",
+    "pos": "n.",
+    "zh": "爆米花",
+    "ex": "We eat popcorn while watching films.",
+    "exzh": "我們邊看電影邊吃爆米花。",
+    "emoji": "🍿",
+    "pic": "",
     "單字": "popcorn",
     "音標": "/ˈpɑːp.kɔːrn/",
     "詞性": "n.",
@@ -14380,6 +25884,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "popular",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is popular.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "popular",
     "音標": "",
     "詞性": "",
@@ -14390,6 +25902,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "population",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is population.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "population",
     "音標": "",
     "詞性": "",
@@ -14400,6 +25920,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pork",
+    "ph": "/pɔːrk/",
+    "pos": "n.",
+    "zh": "豬肉",
+    "ex": "Cook pork chops for dinner.",
+    "exzh": "晚餐煎美味的豬排。",
+    "emoji": "🥩",
+    "pic": "",
     "單字": "pork",
     "音標": "/pɔːrk/",
     "詞性": "n.",
@@ -14410,6 +25938,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "port",
+    "ph": "/pɔːrt/",
+    "pos": "n.",
+    "zh": "港口，港口城市",
+    "ex": "Cargo containers are loaded at port.",
+    "exzh": "貨櫃集裝箱在港口碼頭吊裝。",
+    "emoji": "🚢",
+    "pic": "",
     "單字": "port",
     "音標": "/pɔːrt/",
     "詞性": "n.",
@@ -14420,6 +25956,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "position",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is position.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "position",
     "音標": "",
     "詞性": "",
@@ -14430,6 +25974,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "positive",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is positive.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "positive",
     "音標": "",
     "詞性": "",
@@ -14440,6 +25992,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "possible",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is possible.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "possible",
     "音標": "",
     "詞性": "",
@@ -14450,6 +26010,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "post \noffice",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is post \noffice.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "post \noffice",
     "音標": "",
     "詞性": "",
@@ -14460,6 +26028,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "post office",
+    "ph": "/ˈpoʊst ˌɑː.fɪs/",
+    "pos": "n.",
+    "zh": "郵局",
+    "ex": "Mail this greeting card at post office.",
+    "exzh": "去郵局寄出這張問候卡片。",
+    "emoji": "📮",
+    "pic": "",
     "單字": "post office",
     "音標": "/ˈpoʊst ˌɑː.fɪs/",
     "詞性": "n.",
@@ -14470,6 +26046,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "postcard",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is postcard.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "postcard",
     "音標": "",
     "詞性": "",
@@ -14480,6 +26064,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pot",
+    "ph": "/pɑːt/",
+    "pos": "n.",
+    "zh": "鍋子，壺",
+    "ex": "Soup is bubbling in the pot.",
+    "exzh": "熱湯在鍋子裡咕嚕咕嚕滾著。",
+    "emoji": "🍲",
+    "pic": "",
     "單字": "pot",
     "音標": "/pɑːt/",
     "詞性": "n.",
@@ -14490,6 +26082,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "potato",
+    "ph": "/pəˈteɪ.t̬oʊ/",
+    "pos": "n.",
+    "zh": "馬鈴薯",
+    "ex": "Mashed potatoes are tasty.",
+    "exzh": "馬鈴薯泥很好吃。",
+    "emoji": "🥔",
+    "pic": "",
     "單字": "potato",
     "音標": "/pəˈteɪ.t̬oʊ/",
     "詞性": "n.",
@@ -14500,6 +26100,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pound",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pound.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pound",
     "音標": "",
     "詞性": "",
@@ -14510,6 +26118,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "powder",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is powder.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "powder",
     "音標": "",
     "詞性": "",
@@ -14520,6 +26136,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "power",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is power.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "power",
     "音標": "",
     "詞性": "",
@@ -14530,6 +26154,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "practice",
+    "ph": "/ˈpræk.tɪs/",
+    "pos": "v./n.",
+    "zh": "練習",
+    "ex": "Practice speaking English every day.",
+    "exzh": "每天練習開口說英語。",
+    "emoji": "🗣️",
+    "pic": "",
     "單字": "practice",
     "音標": "/ˈpræk.tɪs/",
     "詞性": "v./n.",
@@ -14540,6 +26172,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "praise",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is praise.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "praise",
     "音標": "",
     "詞性": "",
@@ -14550,6 +26190,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pray",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pray.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pray",
     "音標": "",
     "詞性": "",
@@ -14560,6 +26208,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "precious",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is precious.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "precious",
     "音標": "",
     "詞性": "",
@@ -14570,6 +26226,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "prepare",
+    "ph": "/prɪˈper/",
+    "pos": "v.",
+    "zh": "準備",
+    "ex": "Prepare your schoolbag the night before.",
+    "exzh": "在前一天晚上把上學書包準備妥當。",
+    "emoji": "🎒",
+    "pic": "",
     "單字": "prepare",
     "音標": "/prɪˈper/",
     "詞性": "v.",
@@ -14580,6 +26244,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "present",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is present.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "present",
     "音標": "",
     "詞性": "",
@@ -14590,6 +26262,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "president",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is president.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "president",
     "音標": "",
     "詞性": "",
@@ -14600,6 +26280,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pressure",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pressure.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pressure",
     "音標": "",
     "詞性": "",
@@ -14610,6 +26298,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pretty",
+    "ph": "/ˈprɪt.i/",
+    "pos": "adj.",
+    "zh": "漂亮的",
+    "ex": "She picked pretty pink flowers.",
+    "exzh": "她採摘了漂亮的粉紅花朵。",
+    "emoji": "🌸",
+    "pic": "",
     "單字": "pretty",
     "音標": "/ˈprɪt.i/",
     "詞性": "adj.",
@@ -14620,6 +26316,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "price",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is price.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "price",
     "音標": "",
     "詞性": "",
@@ -14630,6 +26334,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "priest",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is priest.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "priest",
     "音標": "",
     "詞性": "",
@@ -14640,6 +26352,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "primary",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is primary.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "primary",
     "音標": "",
     "詞性": "",
@@ -14650,6 +26370,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "prince",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is prince.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "prince",
     "音標": "",
     "詞性": "",
@@ -14660,6 +26388,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "princess",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is princess.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "princess",
     "音標": "",
     "詞性": "",
@@ -14670,6 +26406,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "principal",
+    "ph": "/ˈprɪn.sə.pəl/",
+    "pos": "n.",
+    "zh": "校長",
+    "ex": "The principal gave a speech at assembly.",
+    "exzh": "校長在朝會上向全校致詞。",
+    "emoji": "🧑‍💼",
+    "pic": "",
     "單字": "principal",
     "音標": "/ˈprɪn.sə.pəl/",
     "詞性": "n.",
@@ -14680,6 +26424,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "principle",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is principle.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "principle",
     "音標": "",
     "詞性": "",
@@ -14690,6 +26442,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "print",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is print.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "print",
     "音標": "",
     "詞性": "",
@@ -14700,6 +26460,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "printer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is printer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "printer",
     "音標": "",
     "詞性": "",
@@ -14710,6 +26478,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "private",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is private.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "private",
     "音標": "",
     "詞性": "",
@@ -14720,6 +26496,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "prize",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is prize.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "prize",
     "音標": "",
     "詞性": "",
@@ -14730,6 +26514,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "probably",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is probably.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "probably",
     "音標": "",
     "詞性": "",
@@ -14740,6 +26532,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "problem",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is problem.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "problem",
     "音標": "",
     "詞性": "",
@@ -14750,6 +26550,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "produce",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is produce.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "produce",
     "音標": "",
     "詞性": "",
@@ -14760,6 +26568,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "production",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is production.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "production",
     "音標": "",
     "詞性": "",
@@ -14770,6 +26586,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "professor",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is professor.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "professor",
     "音標": "",
     "詞性": "",
@@ -14780,6 +26604,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "program",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is program.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "program",
     "音標": "",
     "詞性": "",
@@ -14790,6 +26622,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "progress",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is progress.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "progress",
     "音標": "",
     "詞性": "",
@@ -14800,6 +26640,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "project",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is project.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "project",
     "音標": "",
     "詞性": "",
@@ -14810,6 +26658,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "promise",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is promise.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "promise",
     "音標": "",
     "詞性": "",
@@ -14820,6 +26676,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pronounce",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pronounce.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pronounce",
     "音標": "",
     "詞性": "",
@@ -14830,6 +26694,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "protect",
+    "ph": "/prəˈtekt/",
+    "pos": "v.",
+    "zh": "保護",
+    "ex": "Helmets protect head during biking.",
+    "exzh": "騎自行車配戴安全帽保護頭部安全。",
+    "emoji": "⛑️",
+    "pic": "",
     "單字": "protect",
     "音標": "/prəˈtekt/",
     "詞性": "v.",
@@ -14840,6 +26712,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "proud",
+    "ph": "/praʊd/",
+    "pos": "adj.",
+    "zh": "驕傲的，自豪的",
+    "ex": "Parents are proud of your honesty.",
+    "exzh": "父母為你坦率誠實的美德感到自豪。",
+    "emoji": "🥰",
+    "pic": "",
     "單字": "proud",
     "音標": "/praʊd/",
     "詞性": "adj.",
@@ -14850,6 +26730,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "provide",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is provide.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "provide",
     "音標": "",
     "詞性": "",
@@ -14860,6 +26748,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "public",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is public.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "public",
     "音標": "",
     "詞性": "",
@@ -14870,6 +26766,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pull",
+    "ph": "/pʊl/",
+    "pos": "v.",
+    "zh": "拉，拖",
+    "ex": "Pull the wagon across lawn.",
+    "exzh": "拉著小拖車穿過草坪。",
+    "emoji": "🛒",
+    "pic": "",
     "單字": "pull",
     "音標": "/pʊl/",
     "詞性": "v.",
@@ -14880,6 +26784,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pump",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is pump.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "pump",
     "音標": "",
     "詞性": "",
@@ -14890,6 +26802,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pumpkin",
+    "ph": "/ˈpʌmp.kɪn/",
+    "pos": "n.",
+    "zh": "南瓜",
+    "ex": "Carve a funny face on the pumpkin.",
+    "exzh": "在南瓜上雕刻出滑稽的表情。",
+    "emoji": "🎃",
+    "pic": "",
     "單字": "pumpkin",
     "音標": "/ˈpʌmp.kɪn/",
     "詞性": "n.",
@@ -14900,6 +26820,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "punish",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is punish.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "punish",
     "音標": "",
     "詞性": "",
@@ -14910,6 +26838,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "puppy",
+    "ph": "/ˈpʌp.i/",
+    "pos": "n.",
+    "zh": "幼犬，小狗",
+    "ex": "The playful puppy wags its tail.",
+    "exzh": "愛玩耍的小狗開心地搖著尾巴。",
+    "emoji": "🐶",
+    "pic": "",
     "單字": "puppy",
     "音標": "/ˈpʌp.i/",
     "詞性": "n.",
@@ -14920,6 +26856,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "purple",
+    "ph": "/ˈpɝː.pəl/",
+    "pos": "adj./n.",
+    "zh": "紫色的；紫色",
+    "ex": "Grapes are purple.",
+    "exzh": "葡萄是紫色的。",
+    "emoji": "🟣",
+    "pic": "",
     "單字": "purple",
     "音標": "/ˈpɝː.pəl/",
     "詞性": "adj./n.",
@@ -14930,6 +26874,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "purpose",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is purpose.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "purpose",
     "音標": "",
     "詞性": "",
@@ -14940,6 +26892,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "purse",
+    "ph": "/pɝːs/",
+    "pos": "n.",
+    "zh": "女用手提包，零錢包",
+    "ex": "Mom holds a small leather purse.",
+    "exzh": "媽媽拿著一個小巧的皮革手提包。",
+    "emoji": "👛",
+    "pic": "",
     "單字": "purse",
     "音標": "/pɝːs/",
     "詞性": "n.",
@@ -14950,6 +26910,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "push",
+    "ph": "/pʊʃ/",
+    "pos": "v.",
+    "zh": "推",
+    "ex": "Push the swing gently high.",
+    "exzh": "輕輕地把鞦韆往高處推。",
+    "emoji": "🛝",
+    "pic": "",
     "單字": "push",
     "音標": "/pʊʃ/",
     "詞性": "v.",
@@ -14960,6 +26928,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "put",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is put.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "put",
     "音標": "",
     "詞性": "",
@@ -14970,6 +26946,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "puzzle",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is puzzle.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "puzzle",
     "音標": "",
     "詞性": "",
@@ -14980,6 +26964,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "pyjamas",
+    "ph": "/pəˈdʒɑː.məz/",
+    "pos": "n.",
+    "zh": "睡衣",
+    "ex": "Put on soft pyjamas before bed.",
+    "exzh": "睡前換上柔軟的睡衣。",
+    "emoji": "👚",
+    "pic": "",
     "單字": "pyjamas",
     "音標": "/pəˈdʒɑː.məz/",
     "詞性": "n.",
@@ -14990,6 +26982,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "quarter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is quarter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "quarter",
     "音標": "",
     "詞性": "",
@@ -15000,6 +27000,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "queen",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is queen.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "queen",
     "音標": "",
     "詞性": "",
@@ -15010,6 +27018,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "question",
+    "ph": "/ˈkwes.tʃən/",
+    "pos": "n.",
+    "zh": "問題",
+    "ex": "Ask a question if confused.",
+    "exzh": "有不懂的地方就提問。",
+    "emoji": "❓",
+    "pic": "",
     "單字": "question",
     "音標": "/ˈkwes.tʃən/",
     "詞性": "n.",
@@ -15020,6 +27036,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "quick",
+    "ph": "/kwɪk/",
+    "pos": "adj.",
+    "zh": "飛快的，迅速的",
+    "ex": "Take a quick look at the clock.",
+    "exzh": "迅速抬頭看一眼牆上的時鐘。",
+    "emoji": "⏰",
+    "pic": "",
     "單字": "quick",
     "音標": "/kwɪk/",
     "詞性": "adj.",
@@ -15030,6 +27054,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "quiet",
+    "ph": "/ˈkwaɪ.ət/",
+    "pos": "adj.",
+    "zh": "安靜的",
+    "ex": "Please keep quiet in library.",
+    "exzh": "圖書館內請保持安靜。",
+    "emoji": "🤫",
+    "pic": "",
     "單字": "quiet",
     "音標": "/ˈkwaɪ.ət/",
     "詞性": "adj.",
@@ -15040,6 +27072,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "quit",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is quit.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "quit",
     "音標": "",
     "詞性": "",
@@ -15050,6 +27090,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "quite",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is quite.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "quite",
     "音標": "",
     "詞性": "",
@@ -15060,6 +27108,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "quiz",
+    "ph": "/kwɪz/",
+    "pos": "n.",
+    "zh": "隨堂小考",
+    "ex": "We took a short spelling quiz.",
+    "exzh": "我們考了一個簡短的單字小考。",
+    "emoji": "✍️",
+    "pic": "",
     "單字": "quiz",
     "音標": "/kwɪz/",
     "詞性": "n.",
@@ -15070,6 +27126,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rabbit",
+    "ph": "/ˈræb.ɪt/",
+    "pos": "n.",
+    "zh": "兔子",
+    "ex": "The rabbit hops on the grass.",
+    "exzh": "兔子在草地上跳躍。",
+    "emoji": "🐰",
+    "pic": "",
     "單字": "rabbit",
     "音標": "/ˈræb.ɪt/",
     "詞性": "n.",
@@ -15080,6 +27144,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "race",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is race.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "race",
     "音標": "",
     "詞性": "",
@@ -15090,6 +27162,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "radio",
+    "ph": "/ˈreɪ.di.oʊ/",
+    "pos": "n.",
+    "zh": "廣播收音機",
+    "ex": "Grandpa listens to the morning radio.",
+    "exzh": "爺爺一早打開收音機收聽廣播。",
+    "emoji": "📻",
+    "pic": "",
     "單字": "radio",
     "音標": "/ˈreɪ.di.oʊ/",
     "詞性": "n.",
@@ -15100,6 +27180,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rag",
+    "ph": "/ræɡ/",
+    "pos": "n.",
+    "zh": "抹布",
+    "ex": "Wipe the table clean with a damp rag.",
+    "exzh": "用濕抹布把桌子擦拭乾淨。",
+    "emoji": "🧽",
+    "pic": "",
     "單字": "rag",
     "音標": "/ræɡ/",
     "詞性": "n.",
@@ -15110,6 +27198,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "railroad",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is railroad.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "railroad",
     "音標": "",
     "詞性": "",
@@ -15120,6 +27216,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "railway",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is railway.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "railway",
     "音標": "",
     "詞性": "",
@@ -15130,6 +27234,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rain",
+    "ph": "/reɪn/",
+    "pos": "n./v.",
+    "zh": "雨；下雨",
+    "ex": "It will rain this afternoon.",
+    "exzh": "今天下午會下雨。",
+    "emoji": "🌧️",
+    "pic": "",
     "單字": "rain",
     "音標": "/reɪn/",
     "詞性": "n./v.",
@@ -15140,6 +27252,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rainbow",
+    "ph": "/ˈreɪn.boʊ/",
+    "pos": "n.",
+    "zh": "彩虹",
+    "ex": "A seven-color rainbow appeared after rain.",
+    "exzh": "雨後天空出現了一道七彩虹霓。",
+    "emoji": "🌈",
+    "pic": "",
     "單字": "rainbow",
     "音標": "/ˈreɪn.boʊ/",
     "詞性": "n.",
@@ -15150,6 +27270,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "raincoat",
+    "ph": "/ˈreɪn.koʊt/",
+    "pos": "n.",
+    "zh": "雨衣",
+    "ex": "Put on your yellow raincoat today.",
+    "exzh": "今天出門穿上黃色雨衣吧。",
+    "emoji": "🧥",
+    "pic": "",
     "單字": "raincoat",
     "音標": "/ˈreɪn.koʊt/",
     "詞性": "n.",
@@ -15160,6 +27288,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rainy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is rainy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "rainy",
     "音標": "",
     "詞性": "",
@@ -15170,6 +27306,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "raise",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is raise.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "raise",
     "音標": "",
     "詞性": "",
@@ -15180,6 +27324,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rare",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is rare.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "rare",
     "音標": "",
     "詞性": "",
@@ -15190,6 +27342,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rat",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is rat.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "rat",
     "音標": "",
     "詞性": "",
@@ -15200,6 +27360,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rather",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is rather.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "rather",
     "音標": "",
     "詞性": "",
@@ -15210,6 +27378,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "reach",
+    "ph": "/riːtʃ/",
+    "pos": "v.",
+    "zh": "伸手觸及，到達",
+    "ex": "Reach for the top book shelf.",
+    "exzh": "伸手去拿最頂層書架上的書。",
+    "emoji": "📚",
+    "pic": "",
     "單字": "reach",
     "音標": "/riːtʃ/",
     "詞性": "v.",
@@ -15220,6 +27396,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "read",
+    "ph": "/riːd/",
+    "pos": "v.",
+    "zh": "閱讀",
+    "ex": "I read fairy tales every night.",
+    "exzh": "我每晚讀童話故事。",
+    "emoji": "📖",
+    "pic": "",
     "單字": "read",
     "音標": "/riːd/",
     "詞性": "v.",
@@ -15230,6 +27414,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ready",
+    "ph": "/ˈred.i/",
+    "pos": "adj.",
+    "zh": "準備好的",
+    "ex": "Are you ready for the game?",
+    "exzh": "你準備好要開始遊戲了嗎？",
+    "emoji": "🏁",
+    "pic": "",
     "單字": "ready",
     "音標": "/ˈred.i/",
     "詞性": "adj.",
@@ -15240,6 +27432,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "real",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is real.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "real",
     "音標": "",
     "詞性": "",
@@ -15250,6 +27450,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "realize",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is realize.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "realize",
     "音標": "",
     "詞性": "",
@@ -15260,6 +27468,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "really",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is really.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "really",
     "音標": "",
     "詞性": "",
@@ -15270,6 +27486,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "reason",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is reason.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "reason",
     "音標": "",
     "詞性": "",
@@ -15280,6 +27504,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "receive",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is receive.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "receive",
     "音標": "",
     "詞性": "",
@@ -15290,6 +27522,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "record",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is record.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "record",
     "音標": "",
     "詞性": "",
@@ -15300,6 +27540,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "recorder",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is recorder.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "recorder",
     "音標": "",
     "詞性": "",
@@ -15310,6 +27558,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "recover",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is recover.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "recover",
     "音標": "",
     "詞性": "",
@@ -15320,6 +27576,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rectangle",
+    "ph": "/ˈrek.tæŋ.ɡəl/",
+    "pos": "n.",
+    "zh": "長方形",
+    "ex": "Your English book cover is a rectangle.",
+    "exzh": "你的英文課本封面是一個長方形。",
+    "emoji": "▭",
+    "pic": "",
     "單字": "rectangle",
     "音標": "/ˈrek.tæŋ.ɡəl/",
     "詞性": "n.",
@@ -15330,6 +27594,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "recycle",
+    "ph": "/ˌriːˈsaɪ.kəl/",
+    "pos": "v.",
+    "zh": "回收利用",
+    "ex": "Recycle clean plastic bottles properly.",
+    "exzh": "妥善將乾淨的塑膠瓶進行資源回收。",
+    "emoji": "♻️",
+    "pic": "",
     "單字": "recycle",
     "音標": "/ˌriːˈsaɪ.kəl/",
     "詞性": "v.",
@@ -15340,6 +27612,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "red",
+    "ph": "/red/",
+    "pos": "adj./n.",
+    "zh": "紅色的；紅色",
+    "ex": "Apples are red.",
+    "exzh": "蘋果是紅色的。",
+    "emoji": "🔴",
+    "pic": "",
     "單字": "red",
     "音標": "/red/",
     "詞性": "adj./n.",
@@ -15350,6 +27630,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "refrigerator",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is refrigerator.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "refrigerator",
     "音標": "",
     "詞性": "",
@@ -15360,6 +27648,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "refuse",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is refuse.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "refuse",
     "音標": "",
     "詞性": "",
@@ -15370,6 +27666,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "regret",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is regret.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "regret",
     "音標": "",
     "詞性": "",
@@ -15380,6 +27684,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "regular",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is regular.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "regular",
     "音標": "",
     "詞性": "",
@@ -15390,6 +27702,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "reject",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is reject.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "reject",
     "音標": "",
     "詞性": "",
@@ -15400,6 +27720,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "relative",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is relative.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "relative",
     "音標": "",
     "詞性": "",
@@ -15410,6 +27738,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "remember",
+    "ph": "/rɪˈmem.bɚ/",
+    "pos": "v.",
+    "zh": "記得",
+    "ex": "Remember to drink plenty of water.",
+    "exzh": "記得多補充充足的水分。",
+    "emoji": "💧",
+    "pic": "",
     "單字": "remember",
     "音標": "/rɪˈmem.bɚ/",
     "詞性": "v.",
@@ -15420,6 +27756,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "remind",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is remind.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "remind",
     "音標": "",
     "詞性": "",
@@ -15430,6 +27774,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rent",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is rent.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "rent",
     "音標": "",
     "詞性": "",
@@ -15440,6 +27792,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "repair",
+    "ph": "/rɪˈper/",
+    "pos": "v.",
+    "zh": "修復，維修",
+    "ex": "Repair flat bicycle tires quickly.",
+    "exzh": "迅速把破掉漏氣的自行車輪胎補好。",
+    "emoji": "🚲",
+    "pic": "",
     "單字": "repair",
     "音標": "/rɪˈper/",
     "詞性": "v.",
@@ -15450,6 +27810,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "repeat",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is repeat.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "repeat",
     "音標": "",
     "詞性": "",
@@ -15460,6 +27828,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "report",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is report.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "report",
     "音標": "",
     "詞性": "",
@@ -15470,6 +27846,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "reporter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is reporter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "reporter",
     "音標": "",
     "詞性": "",
@@ -15480,6 +27864,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "respect",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is respect.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "respect",
     "音標": "",
     "詞性": "",
@@ -15490,6 +27882,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "responsible",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is responsible.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "responsible",
     "音標": "",
     "詞性": "",
@@ -15500,6 +27900,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rest",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is rest.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "rest",
     "音標": "",
     "詞性": "",
@@ -15510,6 +27918,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "restaurant",
+    "ph": "/ˈres.trɑːnt/",
+    "pos": "n.",
+    "zh": "餐廳",
+    "ex": "Eat pasta at Italian restaurant.",
+    "exzh": "在義大利餐廳享用美味義大利麵。",
+    "emoji": "🍝",
+    "pic": "",
     "單字": "restaurant",
     "音標": "/ˈres.trɑːnt/",
     "詞性": "n.",
@@ -15520,6 +27936,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "restroom",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is restroom.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "restroom",
     "音標": "",
     "詞性": "",
@@ -15530,6 +27954,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "result",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is result.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "result",
     "音標": "",
     "詞性": "",
@@ -15540,6 +27972,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "return",
+    "ph": "/rɪˈtɝːn/",
+    "pos": "v.",
+    "zh": "歸還，返回",
+    "ex": "Return borrowed library books on time.",
+    "exzh": "按時歸還向學校圖書館借閱的圖書。",
+    "emoji": "📚",
+    "pic": "",
     "單字": "return",
     "音標": "/rɪˈtɝːn/",
     "詞性": "v.",
@@ -15550,6 +27990,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "review",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is review.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "review",
     "音標": "",
     "詞性": "",
@@ -15560,6 +28008,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "revise",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is revise.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "revise",
     "音標": "",
     "詞性": "",
@@ -15570,6 +28026,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ribbon",
+    "ph": "/ˈrɪb.ən/",
+    "pos": "n.",
+    "zh": "緞帶，絲帶",
+    "ex": "Tie the gift box with pink ribbon.",
+    "exzh": "用粉紅色緞帶包紮禮物盒。",
+    "emoji": "🎀",
+    "pic": "",
     "單字": "ribbon",
     "音標": "/ˈrɪb.ən/",
     "詞性": "n.",
@@ -15580,6 +28044,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rice",
+    "ph": "/raɪs/",
+    "pos": "n.",
+    "zh": "米飯",
+    "ex": "We eat rice every day.",
+    "exzh": "我們每天吃米飯。",
+    "emoji": "🍚",
+    "pic": "",
     "單字": "rice",
     "音標": "/raɪs/",
     "詞性": "n.",
@@ -15590,6 +28062,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rich",
+    "ph": "/rɪtʃ/",
+    "pos": "adj.",
+    "zh": "富有的；濃郁的",
+    "ex": "Dark chocolate has a rich taste.",
+    "exzh": "黑巧克力有著濃郁芬芳的風味。",
+    "emoji": "🍫",
+    "pic": "",
     "單字": "rich",
     "音標": "/rɪtʃ/",
     "詞性": "adj.",
@@ -15600,6 +28080,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ride",
+    "ph": "/raɪd/",
+    "pos": "v.",
+    "zh": "騎乘",
+    "ex": "Ride a bicycle safely.",
+    "exzh": "安全地騎腳踏車。",
+    "emoji": "🚲",
+    "pic": "",
     "單字": "ride",
     "音標": "/raɪd/",
     "詞性": "v.",
@@ -15610,6 +28098,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "right",
+    "ph": "/raɪt/",
+    "pos": "adj.",
+    "zh": "正確的；右邊的",
+    "ex": "Turn right at the school gate.",
+    "exzh": "在學校門口向右邊轉彎前進。",
+    "emoji": "➡️",
+    "pic": "",
     "單字": "right",
     "音標": "/raɪt/",
     "詞性": "adj.",
@@ -15620,6 +28116,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ring",
+    "ph": "/rɪŋ/",
+    "pos": "n.",
+    "zh": "戒指",
+    "ex": "Mom wears a shiny silver ring.",
+    "exzh": "媽媽戴著一枚閃亮的銀戒指。",
+    "emoji": "💍",
+    "pic": "",
     "單字": "ring",
     "音標": "/rɪŋ/",
     "詞性": "n.",
@@ -15630,6 +28134,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rise",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is rise.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "rise",
     "音標": "",
     "詞性": "",
@@ -15640,6 +28152,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "river",
+    "ph": "/ˈrɪv.ɚ/",
+    "pos": "n.",
+    "zh": "河流",
+    "ex": "The river flows to the ocean.",
+    "exzh": "這條河川流向海洋。",
+    "emoji": "🏞️",
+    "pic": "",
     "單字": "river",
     "音標": "/ˈrɪv.ɚ/",
     "詞性": "n.",
@@ -15650,6 +28170,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "road",
+    "ph": "/roʊd/",
+    "pos": "n.",
+    "zh": "道路，馬路",
+    "ex": "Cross the wide road at crosswalk.",
+    "exzh": "走斑馬線穿越寬廣的馬路。",
+    "emoji": "🛣️",
+    "pic": "",
     "單字": "road",
     "音標": "/roʊd/",
     "詞性": "n.",
@@ -15660,6 +28188,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rob",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is rob.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "rob",
     "音標": "",
     "詞性": "",
@@ -15670,6 +28206,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "robot",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is robot.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "robot",
     "音標": "",
     "詞性": "",
@@ -15680,6 +28224,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ROC",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ROC.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ROC",
     "音標": "",
     "詞性": "",
@@ -15690,6 +28242,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rock",
+    "ph": "/rɑːk/",
+    "pos": "n.",
+    "zh": "岩石，石頭",
+    "ex": "Sit on the flat rock beside the stream.",
+    "exzh": "坐在小溪旁的平坦岩石上休息。",
+    "emoji": "🪨",
+    "pic": "",
     "單字": "rock",
     "音標": "/rɑːk/",
     "詞性": "n.",
@@ -15700,6 +28260,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rocket",
+    "ph": "/ˈrɑː.kɪt/",
+    "pos": "n.",
+    "zh": "火箭",
+    "ex": "The rocket launches into space.",
+    "exzh": "火箭發射進入浩瀚太空。",
+    "emoji": "🚀",
+    "pic": "",
     "單字": "rocket",
     "音標": "/ˈrɑː.kɪt/",
     "詞性": "n.",
@@ -15710,6 +28278,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "role",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is role.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "role",
     "音標": "",
     "詞性": "",
@@ -15720,6 +28296,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "roll",
+    "ph": "/roʊl/",
+    "pos": "v.",
+    "zh": "滾動，捲起",
+    "ex": "Roll the rubber ball across rug.",
+    "exzh": "把橡膠球在地毯上滾過去。",
+    "emoji": "⚽",
+    "pic": "",
     "單字": "roll",
     "音標": "/roʊl/",
     "詞性": "v.",
@@ -15730,6 +28314,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "roller skate",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is roller skate.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "roller skate",
     "音標": "",
     "詞性": "",
@@ -15740,6 +28332,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "roof",
+    "ph": "/ruːf/",
+    "pos": "n.",
+    "zh": "屋頂",
+    "ex": "Raindrops tap on the roof.",
+    "exzh": "雨滴在屋頂上滴滴答答。",
+    "emoji": "🏠",
+    "pic": "",
     "單字": "roof",
     "音標": "/ruːf/",
     "詞性": "n.",
@@ -15750,6 +28350,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "room",
+    "ph": "/ruːm/",
+    "pos": "n.",
+    "zh": "房間",
+    "ex": "Clean your room today.",
+    "exzh": "今天把房間整理乾淨。",
+    "emoji": "🚪",
+    "pic": "",
     "單字": "room",
     "音標": "/ruːm/",
     "詞性": "n.",
@@ -15760,6 +28368,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rooster",
+    "ph": "/ˈruː.stɚ/",
+    "pos": "n.",
+    "zh": "公雞",
+    "ex": "The rooster crows loudly at dawn.",
+    "exzh": "公雞在黎明破曉時高聲啼鳴。",
+    "emoji": "🐓",
+    "pic": "",
     "單字": "rooster",
     "音標": "/ˈruː.stɚ/",
     "詞性": "n.",
@@ -15770,6 +28386,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "root",
+    "ph": "/ruːt/",
+    "pos": "n.",
+    "zh": "樹根，植物根",
+    "ex": "Tree roots reach deep into soil.",
+    "exzh": "樹根深深紮進肥沃的土壤之中。",
+    "emoji": "🪵",
+    "pic": "",
     "單字": "root",
     "音標": "/ruːt/",
     "詞性": "n.",
@@ -15780,6 +28404,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rope",
+    "ph": "/roʊp/",
+    "pos": "n.",
+    "zh": "繩子",
+    "ex": "Jump rope during physical education.",
+    "exzh": "在體育課時間開心地跳繩鍛鍊身體。",
+    "emoji": "🪢",
+    "pic": "",
     "單字": "rope",
     "音標": "/roʊp/",
     "詞性": "n.",
@@ -15790,6 +28422,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rose",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is rose.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "rose",
     "音標": "",
     "詞性": "",
@@ -15800,6 +28440,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "round",
+    "ph": "/raʊnd/",
+    "pos": "adj.",
+    "zh": "圓形的",
+    "ex": "Soccer balls are round and bouncy.",
+    "exzh": "足球是圓滾滾又富有彈性的。",
+    "emoji": "⚽",
+    "pic": "",
     "單字": "round",
     "音標": "/raʊnd/",
     "詞性": "adj.",
@@ -15810,6 +28458,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "row",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is row.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "row",
     "音標": "",
     "詞性": "",
@@ -15820,6 +28476,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rub",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is rub.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "rub",
     "音標": "",
     "詞性": "",
@@ -15830,6 +28494,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rubber",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is rubber.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "rubber",
     "音標": "",
     "詞性": "",
@@ -15840,6 +28512,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rude",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is rude.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "rude",
     "音標": "",
     "詞性": "",
@@ -15850,6 +28530,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rug",
+    "ph": "/rʌɡ/",
+    "pos": "n.",
+    "zh": "地毯，小墊子",
+    "ex": "A soft wool rug warms floor.",
+    "exzh": "一塊柔軟的羊毛地墊溫暖地板。",
+    "emoji": "🧶",
+    "pic": "",
     "單字": "rug",
     "音標": "/rʌɡ/",
     "詞性": "n.",
@@ -15860,6 +28548,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ruin",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ruin.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ruin",
     "音標": "",
     "詞性": "",
@@ -15870,6 +28566,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rule",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is rule.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "rule",
     "音標": "",
     "詞性": "",
@@ -15880,6 +28584,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ruler",
+    "ph": "/ˈruː.lɚ/",
+    "pos": "n.",
+    "zh": "直尺",
+    "ex": "Use a ruler to draw a line.",
+    "exzh": "用尺畫一條直線。",
+    "emoji": "📏",
+    "pic": "",
     "單字": "ruler",
     "音標": "/ˈruː.lɚ/",
     "詞性": "n.",
@@ -15890,6 +28602,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "run",
+    "ph": "/rʌn/",
+    "pos": "v.",
+    "zh": "跑步",
+    "ex": "Run fast to catch the ball.",
+    "exzh": "跑快一點去接球。",
+    "emoji": "🏃",
+    "pic": "",
     "單字": "run",
     "音標": "/rʌn/",
     "詞性": "v.",
@@ -15900,6 +28620,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "rush",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is rush.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "rush",
     "音標": "",
     "詞性": "",
@@ -15910,6 +28638,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sad",
+    "ph": "/sæd/",
+    "pos": "adj.",
+    "zh": "難過的",
+    "ex": "Why are you sad today?",
+    "exzh": "你今天為什麼看起來很難過？",
+    "emoji": "😢",
+    "pic": "",
     "單字": "sad",
     "音標": "/sæd/",
     "詞性": "adj.",
@@ -15920,6 +28656,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "safe",
+    "ph": "/seɪf/",
+    "pos": "adj.",
+    "zh": "安全的",
+    "ex": "Wear a helmet to stay safe.",
+    "exzh": "戴上安全帽能保護你的自身安全。",
+    "emoji": "⛑️",
+    "pic": "",
     "單字": "safe",
     "音標": "/seɪf/",
     "詞性": "adj.",
@@ -15930,6 +28674,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "safety",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is safety.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "safety",
     "音標": "",
     "詞性": "",
@@ -15940,6 +28692,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sail",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sail.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sail",
     "音標": "",
     "詞性": "",
@@ -15950,6 +28710,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sailor",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sailor.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sailor",
     "音標": "",
     "詞性": "",
@@ -15960,6 +28728,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "salad",
+    "ph": "/ˈsæl.əd/",
+    "pos": "n.",
+    "zh": "沙拉",
+    "ex": "Crisp lettuce salad is healthy.",
+    "exzh": "清脆的新鮮生菜沙拉健康又爽口。",
+    "emoji": "🥗",
+    "pic": "",
     "單字": "salad",
     "音標": "/ˈsæl.əd/",
     "詞性": "n.",
@@ -15970,6 +28746,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sale",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sale.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sale",
     "音標": "",
     "詞性": "",
@@ -15980,6 +28764,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "salesman",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is salesman.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "salesman",
     "音標": "",
     "詞性": "",
@@ -15990,6 +28782,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "salmon",
+    "ph": "/ˈsæm.ən/",
+    "pos": "n.",
+    "zh": "鮭魚",
+    "ex": "Grilled pink salmon tastes fresh.",
+    "exzh": "烤鮭魚嚐起來肉質鮮美。",
+    "emoji": "🐟",
+    "pic": "",
     "單字": "salmon",
     "音標": "/ˈsæm.ən/",
     "詞性": "n.",
@@ -16000,6 +28800,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "salt",
+    "ph": "/sɑːlt/",
+    "pos": "n.",
+    "zh": "鹽",
+    "ex": "Pass the salt for the soup.",
+    "exzh": "請遞一下煮湯用的鹽。",
+    "emoji": "🧂",
+    "pic": "",
     "單字": "salt",
     "音標": "/sɑːlt/",
     "詞性": "n.",
@@ -16010,6 +28818,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "same",
+    "ph": "/seɪm/",
+    "pos": "adj.",
+    "zh": "相同的",
+    "ex": "Twins wore the exact same shirt.",
+    "exzh": "雙胞胎穿著一模一樣的襯衫。",
+    "emoji": "👕",
+    "pic": "",
     "單字": "same",
     "音標": "/seɪm/",
     "詞性": "adj.",
@@ -16020,6 +28836,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sample",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sample.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sample",
     "音標": "",
     "詞性": "",
@@ -16030,6 +28854,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sand",
+    "ph": "/sænd/",
+    "pos": "n.",
+    "zh": "沙子",
+    "ex": "Build a big sandcastle with wet sand.",
+    "exzh": "用濕沙堆一座宏偉的沙堡。",
+    "emoji": "🏖️",
+    "pic": "",
     "單字": "sand",
     "音標": "/sænd/",
     "詞性": "n.",
@@ -16040,6 +28872,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sandwich",
+    "ph": "/ˈsæn.wɪtʃ/",
+    "pos": "n.",
+    "zh": "三明治",
+    "ex": "I pack a sandwich for lunch.",
+    "exzh": "我準備了三明治當午餐。",
+    "emoji": "🥪",
+    "pic": "",
     "單字": "sandwich",
     "音標": "/ˈsæn.wɪtʃ/",
     "詞性": "n.",
@@ -16050,6 +28890,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "satisfy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is satisfy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "satisfy",
     "音標": "",
     "詞性": "",
@@ -16060,6 +28908,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Saturday",
+    "ph": "/ˈsæt̬.ɚ.deɪ/",
+    "pos": "n.",
+    "zh": "星期六",
+    "ex": "Play outside on Saturday.",
+    "exzh": "星期六去戶外痛快玩耍。",
+    "emoji": "📅",
+    "pic": "",
     "單字": "Saturday",
     "音標": "/ˈsæt̬.ɚ.deɪ/",
     "詞性": "n.",
@@ -16070,6 +28926,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "saucer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is saucer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "saucer",
     "音標": "",
     "詞性": "",
@@ -16080,6 +28944,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sausage",
+    "ph": "/ˈsɑː.sɪdʒ/",
+    "pos": "n.",
+    "zh": "香腸",
+    "ex": "Sausages sizzle in the pan.",
+    "exzh": "香腸在平底鍋裡滋滋作響。",
+    "emoji": "🌭",
+    "pic": "",
     "單字": "sausage",
     "音標": "/ˈsɑː.sɪdʒ/",
     "詞性": "n.",
@@ -16090,6 +28962,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "save",
+    "ph": "/seɪv/",
+    "pos": "v.",
+    "zh": "儲存，拯救",
+    "ex": "Save money in piggie bank.",
+    "exzh": "把零錢存在可愛的小豬撲滿裡。",
+    "emoji": "🐷",
+    "pic": "",
     "單字": "save",
     "音標": "/seɪv/",
     "詞性": "v.",
@@ -16100,6 +28980,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "say",
+    "ph": "/seɪ/",
+    "pos": "v.",
+    "zh": "說",
+    "ex": "Say hello to your friends.",
+    "exzh": "向你的朋友們打招呼說哈囉。",
+    "emoji": "💬",
+    "pic": "",
     "單字": "say",
     "音標": "/seɪ/",
     "詞性": "v.",
@@ -16110,6 +28998,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "scare",
+    "ph": "/sker/",
+    "pos": "v.",
+    "zh": "嚇唬",
+    "ex": "Loud thunder scares the dog.",
+    "exzh": "巨大的打雷聲把狗狗嚇了一跳。",
+    "emoji": "⚡",
+    "pic": "",
     "單字": "scare",
     "音標": "/sker/",
     "詞性": "v.",
@@ -16120,6 +29016,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "scared",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is scared.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "scared",
     "音標": "",
     "詞性": "",
@@ -16130,6 +29034,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "scarf",
+    "ph": "/skɑːrf/",
+    "pos": "n.",
+    "zh": "圍巾",
+    "ex": "A warm woolen scarf in winter.",
+    "exzh": "冬天戴上一條溫暖的毛圍巾。",
+    "emoji": "🧣",
+    "pic": "",
     "單字": "scarf",
     "音標": "/skɑːrf/",
     "詞性": "n.",
@@ -16140,6 +29052,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "scene",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is scene.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "scene",
     "音標": "",
     "詞性": "",
@@ -16150,6 +29070,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "scenery",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is scenery.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "scenery",
     "音標": "",
     "詞性": "",
@@ -16160,6 +29088,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "school",
+    "ph": "/skuːl/",
+    "pos": "n.",
+    "zh": "學校",
+    "ex": "I go to school by bus.",
+    "exzh": "我搭公車去上學。",
+    "emoji": "🏫",
+    "pic": "",
     "單字": "school",
     "音標": "/skuːl/",
     "詞性": "n.",
@@ -16170,6 +29106,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "science",
+    "ph": "/ˈsaɪ.əns/",
+    "pos": "n.",
+    "zh": "自然科學",
+    "ex": "We study plants in science lab.",
+    "exzh": "我們在自然科學實驗室研究植物。",
+    "emoji": "🔬",
+    "pic": "",
     "單字": "science",
     "音標": "/ˈsaɪ.əns/",
     "詞性": "n.",
@@ -16180,6 +29124,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "scientist",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is scientist.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "scientist",
     "音標": "",
     "詞性": "",
@@ -16190,6 +29142,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "scissors",
+    "ph": "/ˈsɪz.ɚz/",
+    "pos": "n.",
+    "zh": "剪刀",
+    "ex": "Be careful with scissors.",
+    "exzh": "用剪刀時要小心。",
+    "emoji": "✂️",
+    "pic": "",
     "單字": "scissors",
     "音標": "/ˈsɪz.ɚz/",
     "詞性": "n.",
@@ -16200,6 +29160,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "scooter",
+    "ph": "/ˈskuː.t̬ɚ/",
+    "pos": "n.",
+    "zh": "機車，滑板車",
+    "ex": "He rides a green kick scooter.",
+    "exzh": "他騎著一台綠色滑板車。",
+    "emoji": "🛴",
+    "pic": "",
     "單字": "scooter",
     "音標": "/ˈskuː.t̬ɚ/",
     "詞性": "n.",
@@ -16210,6 +29178,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "score",
+    "ph": "/skɔːr/",
+    "pos": "v./n.",
+    "zh": "得分",
+    "ex": "Score a brilliant soccer goal.",
+    "exzh": "踢進一記精彩的足球得分。",
+    "emoji": "🥅",
+    "pic": "",
     "單字": "score",
     "音標": "/skɔːr/",
     "詞性": "v./n.",
@@ -16220,6 +29196,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "scream",
+    "ph": "/skriːm/",
+    "pos": "v.",
+    "zh": "尖叫",
+    "ex": "Children scream with joy on ride.",
+    "exzh": "孩子們在遊樂設施上開心尖叫。",
+    "emoji": "🎢",
+    "pic": "",
     "單字": "scream",
     "音標": "/skriːm/",
     "詞性": "v.",
@@ -16230,6 +29214,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "screen",
+    "ph": "/skriːn/",
+    "pos": "n.",
+    "zh": "螢幕",
+    "ex": "Don't sit too close to TV screen.",
+    "exzh": "別坐得太靠近電視機螢幕收看。",
+    "emoji": "🖥️",
+    "pic": "",
     "單字": "screen",
     "音標": "/skriːn/",
     "詞性": "n.",
@@ -16240,6 +29232,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sea",
+    "ph": "/siː/",
+    "pos": "n.",
+    "zh": "大海",
+    "ex": "Ships sail on the deep sea.",
+    "exzh": "輪船在深邃的大海上航行。",
+    "emoji": "🌊",
+    "pic": "",
     "單字": "sea",
     "音標": "/siː/",
     "詞性": "n.",
@@ -16250,6 +29250,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "seafood",
+    "ph": "/ˈsiː.fuːd/",
+    "pos": "n.",
+    "zh": "海鮮",
+    "ex": "The island is famous for seafood.",
+    "exzh": "這座島嶼以新鮮海鮮聞名。",
+    "emoji": "🦐",
+    "pic": "",
     "單字": "seafood",
     "音標": "/ˈsiː.fuːd/",
     "詞性": "n.",
@@ -16260,6 +29268,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "seal",
+    "ph": "/siːl/",
+    "pos": "n.",
+    "zh": "海豹",
+    "ex": "The playful seal claps on ice.",
+    "exzh": "頑皮的海豹在冰面上拍手叫好。",
+    "emoji": "🦭",
+    "pic": "",
     "單字": "seal",
     "音標": "/siːl/",
     "詞性": "n.",
@@ -16270,6 +29286,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "search",
+    "ph": "/sɝːtʃ/",
+    "pos": "v.",
+    "zh": "搜尋，尋找",
+    "ex": "Search for lost keys in backpack.",
+    "exzh": "在背包裡尋找弄丟的鑰匙。",
+    "emoji": "🔍",
+    "pic": "",
     "單字": "search",
     "音標": "/sɝːtʃ/",
     "詞性": "v.",
@@ -16280,6 +29304,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "season",
+    "ph": "/ˈsiː.zən/",
+    "pos": "n.",
+    "zh": "季節",
+    "ex": "What is your favorite season?",
+    "exzh": "你最喜愛的季節是哪一個？",
+    "emoji": "🍂",
+    "pic": "",
     "單字": "season",
     "音標": "/ˈsiː.zən/",
     "詞性": "n.",
@@ -16290,6 +29322,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "seat",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is seat.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "seat",
     "音標": "",
     "詞性": "",
@@ -16300,6 +29340,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "second",
+    "ph": "/ˈsek.ənd/",
+    "pos": "adj./n.",
+    "zh": "第二的；秒",
+    "ex": "This is my second try.",
+    "exzh": "這是我第二次嘗試。",
+    "emoji": "🥈",
+    "pic": "",
     "單字": "second",
     "音標": "/ˈsek.ənd/",
     "詞性": "adj./n.",
@@ -16310,6 +29358,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "secondary",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is secondary.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "secondary",
     "音標": "",
     "詞性": "",
@@ -16320,6 +29376,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "secret",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is secret.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "secret",
     "音標": "",
     "詞性": "",
@@ -16330,6 +29394,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "secretary",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is secretary.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "secretary",
     "音標": "",
     "詞性": "",
@@ -16340,6 +29412,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "section",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is section.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "section",
     "音標": "",
     "詞性": "",
@@ -16350,6 +29430,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "see",
+    "ph": "/siː/",
+    "pos": "v.",
+    "zh": "看見",
+    "ex": "I can see birds outside.",
+    "exzh": "我看得到外面的鳥兒。",
+    "emoji": "👀",
+    "pic": "",
     "單字": "see",
     "音標": "/siː/",
     "詞性": "v.",
@@ -16360,6 +29448,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "seed",
+    "ph": "/siːd/",
+    "pos": "n.",
+    "zh": "種子",
+    "ex": "Plant sunflower seeds in sunny soil.",
+    "exzh": "把向日葵種子播撒在向陽的土裡。",
+    "emoji": "🌱",
+    "pic": "",
     "單字": "seed",
     "音標": "/siːd/",
     "詞性": "n.",
@@ -16370,6 +29466,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "seek",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is seek.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "seek",
     "音標": "",
     "詞性": "",
@@ -16380,6 +29484,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "seem",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is seem.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "seem",
     "音標": "",
     "詞性": "",
@@ -16390,6 +29502,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "seesaw",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is seesaw.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "seesaw",
     "音標": "",
     "詞性": "",
@@ -16400,6 +29520,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "seldom",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is seldom.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "seldom",
     "音標": "",
     "詞性": "",
@@ -16410,6 +29538,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "select",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is select.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "select",
     "音標": "",
     "詞性": "",
@@ -16420,6 +29556,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "selfish",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is selfish.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "selfish",
     "音標": "",
     "詞性": "",
@@ -16430,6 +29574,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sell",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sell.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sell",
     "音標": "",
     "詞性": "",
@@ -16440,6 +29592,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "semester",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is semester.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "semester",
     "音標": "",
     "詞性": "",
@@ -16450,6 +29610,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "send",
+    "ph": "/send/",
+    "pos": "v.",
+    "zh": "寄送，派遣",
+    "ex": "Send a warm postcard to penpal.",
+    "exzh": "寄一張溫馨的明信片給筆友。",
+    "emoji": "📮",
+    "pic": "",
     "單字": "send",
     "音標": "/send/",
     "詞性": "v.",
@@ -16460,6 +29628,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "senior high school",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is senior high school.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "senior high school",
     "音標": "",
     "詞性": "",
@@ -16470,6 +29646,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sense",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sense.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sense",
     "音標": "",
     "詞性": "",
@@ -16480,6 +29664,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sentence",
+    "ph": "/ˈsen.təns/",
+    "pos": "n.",
+    "zh": "句子",
+    "ex": "Read this English sentence aloud.",
+    "exzh": "大聲朗讀這個英文句子。",
+    "emoji": "💬",
+    "pic": "",
     "單字": "sentence",
     "音標": "/ˈsen.təns/",
     "詞性": "n.",
@@ -16490,6 +29682,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "September",
+    "ph": "/sepˈtem.bɚ/",
+    "pos": "n.",
+    "zh": "九月",
+    "ex": "Back to school in September.",
+    "exzh": "九月重返校園迎接新學期。",
+    "emoji": "🎒",
+    "pic": "",
     "單字": "September",
     "音標": "/sepˈtem.bɚ/",
     "詞性": "n.",
@@ -16500,6 +29700,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "serious",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is serious.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "serious",
     "音標": "",
     "詞性": "",
@@ -16510,6 +29718,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "servant",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is servant.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "servant",
     "音標": "",
     "詞性": "",
@@ -16520,6 +29736,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "serve",
+    "ph": "/sɝːv/",
+    "pos": "v.",
+    "zh": "端上，服務",
+    "ex": "Serve hot vegetable soup to guests.",
+    "exzh": "給客人們端上熱騰騰的蔬菜湯。",
+    "emoji": "🍲",
+    "pic": "",
     "單字": "serve",
     "音標": "/sɝːv/",
     "詞性": "v.",
@@ -16530,6 +29754,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "service",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is service.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "service",
     "音標": "",
     "詞性": "",
@@ -16540,6 +29772,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "set",
+    "ph": "/set/",
+    "pos": "v.",
+    "zh": "放置，設定",
+    "ex": "Set the alarm clock for seven.",
+    "exzh": "把鬧鐘設定在七點鐘響起。",
+    "emoji": "⏰",
+    "pic": "",
     "單字": "set",
     "音標": "/set/",
     "詞性": "v.",
@@ -16550,6 +29790,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "seven",
+    "ph": "/ˈsev.ən/",
+    "pos": "num.",
+    "zh": "七",
+    "ex": "A week has seven days.",
+    "exzh": "一個星期有七天。",
+    "emoji": "7️⃣",
+    "pic": "",
     "單字": "seven",
     "音標": "/ˈsev.ən/",
     "詞性": "num.",
@@ -16560,6 +29808,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "seventeen",
+    "ph": "/ˌsev.ənˈtiːn/",
+    "pos": "num.",
+    "zh": "十七",
+    "ex": "Seventeen colorful balloons.",
+    "exzh": "十七顆五彩繽紛的氣球。",
+    "emoji": "1️⃣7️⃣",
+    "pic": "",
     "單字": "seventeen",
     "音標": "/ˌsev.ənˈtiːn/",
     "詞性": "num.",
@@ -16570,6 +29826,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "seventy",
+    "ph": "/ˈsev.ən.ti/",
+    "pos": "num.",
+    "zh": "七十",
+    "ex": "Seventy pages in this book.",
+    "exzh": "這本書總共有七十頁。",
+    "emoji": "7️⃣0️⃣",
+    "pic": "",
     "單字": "seventy",
     "音標": "/ˈsev.ən.ti/",
     "詞性": "num.",
@@ -16580,6 +29844,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "several",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is several.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "several",
     "音標": "",
     "詞性": "",
@@ -16590,6 +29862,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shake",
+    "ph": "/ʃeɪk/",
+    "pos": "v.",
+    "zh": "搖晃，握手",
+    "ex": "Shake hands with new classmates.",
+    "exzh": "和新認識的同學們熱情握手。",
+    "emoji": "🤝",
+    "pic": "",
     "單字": "shake",
     "音標": "/ʃeɪk/",
     "詞性": "v.",
@@ -16600,6 +29880,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shall",
+    "ph": "/ʃæl/",
+    "pos": "aux.",
+    "zh": "將要；應該",
+    "ex": "Shall we dance together?",
+    "exzh": "我們一起跳舞好嗎？",
+    "emoji": "💃",
+    "pic": "",
     "單字": "shall",
     "音標": "/ʃæl/",
     "詞性": "aux.",
@@ -16610,6 +29898,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shape",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is shape.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "shape",
     "音標": "",
     "詞性": "",
@@ -16620,6 +29916,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "share",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is share.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "share",
     "音標": "",
     "詞性": "",
@@ -16630,6 +29934,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shark",
+    "ph": "/ʃɑːrk/",
+    "pos": "n.",
+    "zh": "鯊魚",
+    "ex": "Sharks have sharp teeth.",
+    "exzh": "鯊魚有鋒利的牙齒。",
+    "emoji": "🦈",
+    "pic": "",
     "單字": "shark",
     "音標": "/ʃɑːrk/",
     "詞性": "n.",
@@ -16640,6 +29952,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sharp",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sharp.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sharp",
     "音標": "",
     "詞性": "",
@@ -16650,6 +29970,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sharpener",
+    "ph": "/ˈʃɑːr.pən.ɚ/",
+    "pos": "n.",
+    "zh": "削鉛筆機",
+    "ex": "Sharpen your dull pencil with a sharpener.",
+    "exzh": "用削鉛筆機把變鈍的鉛筆削尖。",
+    "emoji": "✏️",
+    "pic": "",
     "單字": "sharpener",
     "音標": "/ˈʃɑːr.pən.ɚ/",
     "詞性": "n.",
@@ -16660,6 +29988,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "she",
+    "ph": "/ʃiː/",
+    "pos": "pron.",
+    "zh": "她",
+    "ex": "She reads a picture book.",
+    "exzh": "她讀著一本繪本。",
+    "emoji": "👧",
+    "pic": "",
     "單字": "she",
     "音標": "/ʃiː/",
     "詞性": "pron.",
@@ -16670,6 +30006,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sheep",
+    "ph": "/ʃiːp/",
+    "pos": "n.",
+    "zh": "綿羊",
+    "ex": "The sheep has warm white wool.",
+    "exzh": "綿羊有溫暖白皙的羊毛。",
+    "emoji": "🐑",
+    "pic": "",
     "單字": "sheep",
     "音標": "/ʃiːp/",
     "詞性": "n.",
@@ -16680,6 +30024,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sheet",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sheet.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sheet",
     "音標": "",
     "詞性": "",
@@ -16690,6 +30042,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shelf",
+    "ph": "/ʃelf/",
+    "pos": "n.",
+    "zh": "架子，書架",
+    "ex": "Put your books on shelf.",
+    "exzh": "把你的書放回書架上。",
+    "emoji": "📚",
+    "pic": "",
     "單字": "shelf",
     "音標": "/ʃelf/",
     "詞性": "n.",
@@ -16700,6 +30060,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shine",
+    "ph": "/ʃaɪn/",
+    "pos": "v.",
+    "zh": "照耀，發光",
+    "ex": "Bright stars shine in midnight sky.",
+    "exzh": "璀璨的星星在午夜天空中照耀。",
+    "emoji": "⭐",
+    "pic": "",
     "單字": "shine",
     "音標": "/ʃaɪn/",
     "詞性": "v.",
@@ -16710,6 +30078,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ship",
+    "ph": "/ʃɪp/",
+    "pos": "n.",
+    "zh": "大輪船",
+    "ex": "A large ship is at the harbor.",
+    "exzh": "一艘大輪船停在港口。",
+    "emoji": "🚢",
+    "pic": "",
     "單字": "ship",
     "音標": "/ʃɪp/",
     "詞性": "n.",
@@ -16720,6 +30096,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shirt",
+    "ph": "/ʃɝːt/",
+    "pos": "n.",
+    "zh": "襯衫",
+    "ex": "He wears a white shirt.",
+    "exzh": "他穿著一件白襯衫。",
+    "emoji": "👔",
+    "pic": "",
     "單字": "shirt",
     "音標": "/ʃɝːt/",
     "詞性": "n.",
@@ -16730,6 +30114,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shoe",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is shoe.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "shoe",
     "音標": "",
     "詞性": "",
@@ -16740,6 +30132,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shoes",
+    "ph": "/ʃuːz/",
+    "pos": "n.",
+    "zh": "鞋子",
+    "ex": "Put on your sports shoes.",
+    "exzh": "穿上你的運動鞋。",
+    "emoji": "👟",
+    "pic": "",
     "單字": "shoes",
     "音標": "/ʃuːz/",
     "詞性": "n.",
@@ -16750,6 +30150,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shoot",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is shoot.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "shoot",
     "音標": "",
     "詞性": "",
@@ -16760,6 +30168,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shop",
+    "ph": "/ʃɑːp/",
+    "pos": "v./n.",
+    "zh": "購物；商店",
+    "ex": "Shop for fresh groceries with Mom.",
+    "exzh": "和媽媽一起去採買新鮮日用品。",
+    "emoji": "🛒",
+    "pic": "",
     "單字": "shop",
     "音標": "/ʃɑːp/",
     "詞性": "v./n.",
@@ -16770,6 +30186,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shopkeeper",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is shopkeeper.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "shopkeeper",
     "音標": "",
     "詞性": "",
@@ -16780,6 +30204,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shore",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is shore.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "shore",
     "音標": "",
     "詞性": "",
@@ -16790,6 +30222,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "short",
+    "ph": "/ʃɔːrt/",
+    "pos": "adj.",
+    "zh": "矮的，短的",
+    "ex": "He wore short blue pants.",
+    "exzh": "他穿著藍色短褲。",
+    "emoji": "🩳",
+    "pic": "",
     "單字": "short",
     "音標": "/ʃɔːrt/",
     "詞性": "adj.",
@@ -16800,6 +30240,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shorts",
+    "ph": "/ʃɔːrts/",
+    "pos": "n.",
+    "zh": "短褲",
+    "ex": "Boys wear shorts in summer.",
+    "exzh": "男孩夏天穿短褲。",
+    "emoji": "🩳",
+    "pic": "",
     "單字": "shorts",
     "音標": "/ʃɔːrts/",
     "詞性": "n.",
@@ -16810,6 +30258,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "should",
+    "ph": "/ʃʊd/",
+    "pos": "aux.",
+    "zh": "應該",
+    "ex": "You should eat vegetables.",
+    "exzh": "你應該多吃蔬菜。",
+    "emoji": "🥦",
+    "pic": "",
     "單字": "should",
     "音標": "/ʃʊd/",
     "詞性": "aux.",
@@ -16820,6 +30276,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shoulder",
+    "ph": "/ˈʃoʊl.dɚ/",
+    "pos": "n.",
+    "zh": "肩膀",
+    "ex": "Carry schoolbag on both shoulders.",
+    "exzh": "用雙肩背起書包。",
+    "emoji": "🎒",
+    "pic": "",
     "單字": "shoulder",
     "音標": "/ˈʃoʊl.dɚ/",
     "詞性": "n.",
@@ -16830,6 +30294,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shout",
+    "ph": "/ʃaʊt/",
+    "pos": "v.",
+    "zh": "大喊，呼喊",
+    "ex": "Do not shout in public library.",
+    "exzh": "不要在公共圖書館裡大聲呼喊。",
+    "emoji": "🤫",
+    "pic": "",
     "單字": "shout",
     "音標": "/ʃaʊt/",
     "詞性": "v.",
@@ -16840,6 +30312,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "show",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is show.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "show",
     "音標": "",
     "詞性": "",
@@ -16850,6 +30330,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shower",
+    "ph": "/ˈʃaʊ.ɚ/",
+    "pos": "n.",
+    "zh": "淋浴",
+    "ex": "Take a quick morning shower.",
+    "exzh": "早上洗個快速的淋浴。",
+    "emoji": "🚿",
+    "pic": "",
     "單字": "shower",
     "音標": "/ˈʃaʊ.ɚ/",
     "詞性": "n.",
@@ -16860,6 +30348,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shrimp",
+    "ph": "/ʃrɪmp/",
+    "pos": "n.",
+    "zh": "蝦子",
+    "ex": "Fried shrimp is crisp and tasty.",
+    "exzh": "炸蝦香酥又可口。",
+    "emoji": "🍤",
+    "pic": "",
     "單字": "shrimp",
     "音標": "/ʃrɪmp/",
     "詞性": "n.",
@@ -16870,6 +30366,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shut",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is shut.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "shut",
     "音標": "",
     "詞性": "",
@@ -16880,6 +30384,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "shy",
+    "ph": "/ʃaɪ/",
+    "pos": "adj.",
+    "zh": "害羞的",
+    "ex": "The shy new student smiled warmly.",
+    "exzh": "害羞的新同學露出了溫暖的笑容。",
+    "emoji": "😊",
+    "pic": "",
     "單字": "shy",
     "音標": "/ʃaɪ/",
     "詞性": "adj.",
@@ -16890,6 +30402,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sick",
+    "ph": "/sɪk/",
+    "pos": "adj.",
+    "zh": "生病的",
+    "ex": "Rest in bed when you feel sick.",
+    "exzh": "感到身體生病不適時要臥床休息。",
+    "emoji": "🛌",
+    "pic": "",
     "單字": "sick",
     "音標": "/sɪk/",
     "詞性": "adj.",
@@ -16900,6 +30420,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "side",
+    "ph": "/saɪd/",
+    "pos": "n.",
+    "zh": "側面，旁邊",
+    "ex": "Stand side by side with friends.",
+    "exzh": "和好朋友們並肩站在同一個隊列。",
+    "emoji": "↔️",
+    "pic": "",
     "單字": "side",
     "音標": "/saɪd/",
     "詞性": "n.",
@@ -16910,6 +30438,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sidewalk",
+    "ph": "/ˈsaɪd.wɑːk/",
+    "pos": "n.",
+    "zh": "人行道",
+    "ex": "Walk safely on the wide sidewalk.",
+    "exzh": "在寬闊的人行道上安全漫步。",
+    "emoji": "🚶",
+    "pic": "",
     "單字": "sidewalk",
     "音標": "/ˈsaɪd.wɑːk/",
     "詞性": "n.",
@@ -16920,6 +30456,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sight",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sight.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sight",
     "音標": "",
     "詞性": "",
@@ -16930,6 +30474,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sign",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sign.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sign",
     "音標": "",
     "詞性": "",
@@ -16940,6 +30492,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "silence",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is silence.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "silence",
     "音標": "",
     "詞性": "",
@@ -16950,6 +30510,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "silent",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is silent.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "silent",
     "音標": "",
     "詞性": "",
@@ -16960,6 +30528,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "silly",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is silly.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "silly",
     "音標": "",
     "詞性": "",
@@ -16970,6 +30546,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "silver",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is silver.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "silver",
     "音標": "",
     "詞性": "",
@@ -16980,6 +30564,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "similar",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is similar.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "similar",
     "音標": "",
     "詞性": "",
@@ -16990,6 +30582,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "simple",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is simple.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "simple",
     "音標": "",
     "詞性": "",
@@ -17000,6 +30600,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "since",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is since.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "since",
     "音標": "",
     "詞性": "",
@@ -17010,6 +30618,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sincere",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sincere.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sincere",
     "音標": "",
     "詞性": "",
@@ -17020,6 +30636,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sing",
+    "ph": "/sɪŋ/",
+    "pos": "v.",
+    "zh": "唱歌",
+    "ex": "Birds sing in the spring.",
+    "exzh": "鳥兒在春天歌唱。",
+    "emoji": "🎤",
+    "pic": "",
     "單字": "sing",
     "音標": "/sɪŋ/",
     "詞性": "v.",
@@ -17030,6 +30654,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "singer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is singer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "singer",
     "音標": "",
     "詞性": "",
@@ -17040,6 +30672,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "single",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is single.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "single",
     "音標": "",
     "詞性": "",
@@ -17050,6 +30690,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sink",
+    "ph": "/sɪŋk/",
+    "pos": "n.",
+    "zh": "水槽，洗手台",
+    "ex": "Wash dirty apples in kitchen sink.",
+    "exzh": "在水槽裡把蘋果清洗乾淨。",
+    "emoji": "🚰",
+    "pic": "",
     "單字": "sink",
     "音標": "/sɪŋk/",
     "詞性": "n.",
@@ -17060,6 +30708,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sir",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sir.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sir",
     "音標": "",
     "詞性": "",
@@ -17070,6 +30726,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sister",
+    "ph": "/ˈsɪs.tɚ/",
+    "pos": "n.",
+    "zh": "姊妹，姊姊，妹妹",
+    "ex": "My sister likes music.",
+    "exzh": "我妹妹喜歡音樂。",
+    "emoji": "👧",
+    "pic": "",
     "單字": "sister",
     "音標": "/ˈsɪs.tɚ/",
     "詞性": "n.",
@@ -17080,6 +30744,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sit",
+    "ph": "/sɪt/",
+    "pos": "v.",
+    "zh": "坐下",
+    "ex": "Sit down on your chair.",
+    "exzh": "在椅子上坐好。",
+    "emoji": "🪑",
+    "pic": "",
     "單字": "sit",
     "音標": "/sɪt/",
     "詞性": "v.",
@@ -17090,6 +30762,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "six",
+    "ph": "/sɪks/",
+    "pos": "num.",
+    "zh": "六",
+    "ex": "Six eggs are in the basket.",
+    "exzh": "籃子裡有六顆蛋。",
+    "emoji": "6️⃣",
+    "pic": "",
     "單字": "six",
     "音標": "/sɪks/",
     "詞性": "num.",
@@ -17100,6 +30780,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sixteen",
+    "ph": "/ˌsɪkˈstiːn/",
+    "pos": "num.",
+    "zh": "十六",
+    "ex": "Sixteen candles on the cake.",
+    "exzh": "蛋糕上插著十六根蠟燭。",
+    "emoji": "1️⃣6️⃣",
+    "pic": "",
     "單字": "sixteen",
     "音標": "/ˌsɪkˈstiːn/",
     "詞性": "num.",
@@ -17110,6 +30798,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sixty",
+    "ph": "/ˈsɪk.sti/",
+    "pos": "num.",
+    "zh": "六十",
+    "ex": "Sixty seconds make one minute.",
+    "exzh": "六十秒組成了一分鐘。",
+    "emoji": "6️⃣0️⃣",
+    "pic": "",
     "單字": "sixty",
     "音標": "/ˈsɪk.sti/",
     "詞性": "num.",
@@ -17120,6 +30816,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "size",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is size.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "size",
     "音標": "",
     "詞性": "",
@@ -17130,6 +30834,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "skate",
+    "ph": "/skeɪt/",
+    "pos": "v.",
+    "zh": "溜冰，滑板",
+    "ex": "Skate on ice during cold winter.",
+    "exzh": "在寒冷的冬天裡在冰上溜冰。",
+    "emoji": "⛸️",
+    "pic": "",
     "單字": "skate",
     "音標": "/skeɪt/",
     "詞性": "v.",
@@ -17140,6 +30852,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ski",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ski.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ski",
     "音標": "",
     "詞性": "",
@@ -17150,6 +30870,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "skill",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is skill.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "skill",
     "音標": "",
     "詞性": "",
@@ -17160,6 +30888,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "skillful",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is skillful.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "skillful",
     "音標": "",
     "詞性": "",
@@ -17170,6 +30906,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "skin",
+    "ph": "/skɪn/",
+    "pos": "n.",
+    "zh": "皮膚",
+    "ex": "Apply sunscreen to protect skin.",
+    "exzh": "塗抹防曬乳保護皮膚。",
+    "emoji": "🧴",
+    "pic": "",
     "單字": "skin",
     "音標": "/skɪn/",
     "詞性": "n.",
@@ -17180,6 +30924,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "skinny",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is skinny.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "skinny",
     "音標": "",
     "詞性": "",
@@ -17190,6 +30942,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "skip",
+    "ph": "/skɪp/",
+    "pos": "v.",
+    "zh": "跳繩，略過",
+    "ex": "Skip rope ten times without stop.",
+    "exzh": "連續跳繩十下不間斷。",
+    "emoji": "🪢",
+    "pic": "",
     "單字": "skip",
     "音標": "/skɪp/",
     "詞性": "v.",
@@ -17200,6 +30960,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "skirt",
+    "ph": "/skɝːt/",
+    "pos": "n.",
+    "zh": "裙子",
+    "ex": "Her skirt is red.",
+    "exzh": "她的裙子是紅色的。",
+    "emoji": "👗",
+    "pic": "",
     "單字": "skirt",
     "音標": "/skɝːt/",
     "詞性": "n.",
@@ -17210,6 +30978,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sky",
+    "ph": "/skaɪ/",
+    "pos": "n.",
+    "zh": "天空",
+    "ex": "Birds fly across the blue sky.",
+    "exzh": "鳥兒飛過藍天。",
+    "emoji": "🌤️",
+    "pic": "",
     "單字": "sky",
     "音標": "/skaɪ/",
     "詞性": "n.",
@@ -17220,6 +30996,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sleep",
+    "ph": "/sliːp/",
+    "pos": "v.",
+    "zh": "睡覺",
+    "ex": "Cats sleep for many hours.",
+    "exzh": "貓咪每天睡很多個小時。",
+    "emoji": "😴",
+    "pic": "",
     "單字": "sleep",
     "音標": "/sliːp/",
     "詞性": "v.",
@@ -17230,6 +31014,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sleepy",
+    "ph": "/ˈsliː.pi/",
+    "pos": "adj.",
+    "zh": "想睡的，睏倦的",
+    "ex": "The sleepy child yawned adorably.",
+    "exzh": "睏意濃濃的小朋友可愛地打了個哈欠。",
+    "emoji": "🥱",
+    "pic": "",
     "單字": "sleepy",
     "音標": "/ˈsliː.pi/",
     "詞性": "adj.",
@@ -17240,6 +31032,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sleeve",
+    "ph": "/sliːv/",
+    "pos": "n.",
+    "zh": "袖子",
+    "ex": "Roll up your sleeves before washing hands.",
+    "exzh": "洗手前先捲起袖子。",
+    "emoji": "👕",
+    "pic": "",
     "單字": "sleeve",
     "音標": "/sliːv/",
     "詞性": "n.",
@@ -17250,6 +31050,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "slender",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is slender.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "slender",
     "音標": "",
     "詞性": "",
@@ -17260,6 +31068,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "slice",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is slice.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "slice",
     "音標": "",
     "詞性": "",
@@ -17270,6 +31086,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "slide",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is slide.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "slide",
     "音標": "",
     "詞性": "",
@@ -17280,6 +31104,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "slim",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is slim.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "slim",
     "音標": "",
     "詞性": "",
@@ -17290,6 +31122,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "slip",
+    "ph": "/slɪp/",
+    "pos": "v.",
+    "zh": "滑倒",
+    "ex": "Watch out or you might slip.",
+    "exzh": "小心腳步，不然你可能會滑倒。",
+    "emoji": "⚠️",
+    "pic": "",
     "單字": "slip",
     "音標": "/slɪp/",
     "詞性": "v.",
@@ -17300,6 +31140,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "slippers",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is slippers.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "slippers",
     "音標": "",
     "詞性": "",
@@ -17310,6 +31158,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sloth",
+    "ph": "/sloʊθ/",
+    "pos": "n.",
+    "zh": "樹懶",
+    "ex": "The lazy sloth moves very slowly.",
+    "exzh": "樹懶在樹枝上移動得非常緩慢。",
+    "emoji": "🦥",
+    "pic": "",
     "單字": "sloth",
     "音標": "/sloʊθ/",
     "詞性": "n.",
@@ -17320,6 +31176,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "slow",
+    "ph": "/sloʊ/",
+    "pos": "adj.",
+    "zh": "緩慢的",
+    "ex": "Turtles walk with slow steps.",
+    "exzh": "烏龜邁著緩慢的步伐。",
+    "emoji": "🐢",
+    "pic": "",
     "單字": "slow",
     "音標": "/sloʊ/",
     "詞性": "adj.",
@@ -17330,6 +31194,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "small",
+    "ph": "/smɑːl/",
+    "pos": "adj.",
+    "zh": "小的",
+    "ex": "Mice have small pink noses.",
+    "exzh": "老鼠有小巧粉嫩的鼻子。",
+    "emoji": "🐁",
+    "pic": "",
     "單字": "small",
     "音標": "/smɑːl/",
     "詞性": "adj.",
@@ -17340,6 +31212,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "smart",
+    "ph": "/smɑːrt/",
+    "pos": "adj.",
+    "zh": "聰明的",
+    "ex": "Dolphins are smart animals.",
+    "exzh": "海豚是聰明的動物。",
+    "emoji": "🐬",
+    "pic": "",
     "單字": "smart",
     "音標": "/smɑːrt/",
     "詞性": "adj.",
@@ -17350,6 +31230,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "smell",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is smell.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "smell",
     "音標": "",
     "詞性": "",
@@ -17360,6 +31248,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "smile",
+    "ph": "/smaɪl/",
+    "pos": "v./n.",
+    "zh": "微笑",
+    "ex": "Smile and take a photo.",
+    "exzh": "微笑拍張照吧。",
+    "emoji": "😊",
+    "pic": "",
     "單字": "smile",
     "音標": "/smaɪl/",
     "詞性": "v./n.",
@@ -17370,6 +31266,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "smoke",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is smoke.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "smoke",
     "音標": "",
     "詞性": "",
@@ -17380,6 +31284,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "snack",
+    "ph": "/snæk/",
+    "pos": "n.",
+    "zh": "點心，零食",
+    "ex": "Apples are my favorite snack.",
+    "exzh": "蘋果是我最愛的點心。",
+    "emoji": "🍎",
+    "pic": "",
     "單字": "snack",
     "音標": "/snæk/",
     "詞性": "n.",
@@ -17390,6 +31302,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "snail",
+    "ph": "/sneɪl/",
+    "pos": "n.",
+    "zh": "蝸牛",
+    "ex": "The snail crawls slowly with shell.",
+    "exzh": "蝸牛背著厚重的外殼緩慢爬行。",
+    "emoji": "🐌",
+    "pic": "",
     "單字": "snail",
     "音標": "/sneɪl/",
     "詞性": "n.",
@@ -17400,6 +31320,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "snake",
+    "ph": "/sneɪk/",
+    "pos": "n.",
+    "zh": "蛇",
+    "ex": "The snake moves quietly.",
+    "exzh": "蛇悄悄地移動。",
+    "emoji": "🐍",
+    "pic": "",
     "單字": "snake",
     "音標": "/sneɪk/",
     "詞性": "n.",
@@ -17410,6 +31338,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sneakers",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sneakers.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sneakers",
     "音標": "",
     "詞性": "",
@@ -17420,6 +31356,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sneaky",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sneaky.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sneaky",
     "音標": "",
     "詞性": "",
@@ -17430,6 +31374,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sneeze",
+    "ph": "/sniːz/",
+    "pos": "n./v.",
+    "zh": "打噴嚏",
+    "ex": "Use a tissue when you sneeze.",
+    "exzh": "打噴嚏時請使用面紙掩蓋。",
+    "emoji": "🤧",
+    "pic": "",
     "單字": "sneeze",
     "音標": "/sniːz/",
     "詞性": "n./v.",
@@ -17440,6 +31392,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "snow",
+    "ph": "/snoʊ/",
+    "pos": "n./v.",
+    "zh": "雪；下雪",
+    "ex": "Children make a snowman in the snow.",
+    "exzh": "孩子們在雪地裡堆雪人。",
+    "emoji": "❄️",
+    "pic": "",
     "單字": "snow",
     "音標": "/snoʊ/",
     "詞性": "n./v.",
@@ -17450,6 +31410,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "snowman",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is snowman.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "snowman",
     "音標": "",
     "詞性": "",
@@ -17460,6 +31428,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "snowy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is snowy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "snowy",
     "音標": "",
     "詞性": "",
@@ -17470,6 +31446,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "so",
+    "ph": "/soʊ/",
+    "pos": "conj./adv.",
+    "zh": "所以；如此",
+    "ex": "It rained so we stayed home.",
+    "exzh": "下雨了所以我們待在家。",
+    "emoji": "🌧️",
+    "pic": "",
     "單字": "so",
     "音標": "/soʊ/",
     "詞性": "conj./adv.",
@@ -17480,6 +31464,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "soap",
+    "ph": "/soʊp/",
+    "pos": "n.",
+    "zh": "肥皂",
+    "ex": "Wash dirty hands with soft soap.",
+    "exzh": "用肥皂把手洗得乾乾淨淨。",
+    "emoji": "🧼",
+    "pic": "",
     "單字": "soap",
     "音標": "/soʊp/",
     "詞性": "n.",
@@ -17490,6 +31482,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "soccer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is soccer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "soccer",
     "音標": "",
     "詞性": "",
@@ -17500,6 +31500,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "social",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is social.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "social",
     "音標": "",
     "詞性": "",
@@ -17510,6 +31518,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "society",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is society.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "society",
     "音標": "",
     "詞性": "",
@@ -17520,6 +31536,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "socks",
+    "ph": "/sɑːks/",
+    "pos": "n.",
+    "zh": "襪子",
+    "ex": "My warm socks are soft.",
+    "exzh": "我保暖的襪子很柔軟。",
+    "emoji": "🧦",
+    "pic": "",
     "單字": "socks",
     "音標": "/sɑːks/",
     "詞性": "n.",
@@ -17530,6 +31554,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "soda",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is soda.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "soda",
     "音標": "",
     "詞性": "",
@@ -17540,6 +31572,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sofa",
+    "ph": "/ˈsoʊ.fə/",
+    "pos": "n.",
+    "zh": "沙發",
+    "ex": "Dad is resting on the sofa.",
+    "exzh": "爸爸在沙發上休息。",
+    "emoji": "🛋️",
+    "pic": "",
     "單字": "sofa",
     "音標": "/ˈsoʊ.fə/",
     "詞性": "n.",
@@ -17550,6 +31590,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "soft",
+    "ph": "/sɑːft/",
+    "pos": "adj.",
+    "zh": "柔軟的",
+    "ex": "This teddy bear is very soft.",
+    "exzh": "這隻泰迪熊抱起來非常柔軟舒服。",
+    "emoji": "🧸",
+    "pic": "",
     "單字": "soft",
     "音標": "/sɑːft/",
     "詞性": "adj.",
@@ -17560,6 +31608,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "soft drink",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is soft drink.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "soft drink",
     "音標": "",
     "詞性": "",
@@ -17570,6 +31626,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "softball",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is softball.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "softball",
     "音標": "",
     "詞性": "",
@@ -17580,6 +31644,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "soil",
+    "ph": "/sɔɪl/",
+    "pos": "n.",
+    "zh": "泥土，土壤",
+    "ex": "Earthworms keep garden soil fertile.",
+    "exzh": "蚯蚓讓花園裡的土壤保持肥沃。",
+    "emoji": "🪴",
+    "pic": "",
     "單字": "soil",
     "音標": "/sɔɪl/",
     "詞性": "n.",
@@ -17590,6 +31662,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "soldier",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is soldier.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "soldier",
     "音標": "",
     "詞性": "",
@@ -17600,6 +31680,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "solve",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is solve.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "solve",
     "音標": "",
     "詞性": "",
@@ -17610,6 +31698,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "some",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is some.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "some",
     "音標": "",
     "詞性": "",
@@ -17620,6 +31716,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "someone",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is someone.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "someone",
     "音標": "",
     "詞性": "",
@@ -17630,6 +31734,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "something",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is something.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "something",
     "音標": "",
     "詞性": "",
@@ -17640,6 +31752,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sometimes",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sometimes.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sometimes",
     "音標": "",
     "詞性": "",
@@ -17650,6 +31770,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "somewhere",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is somewhere.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "somewhere",
     "音標": "",
     "詞性": "",
@@ -17660,6 +31788,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "son",
+    "ph": "/sʌn/",
+    "pos": "n.",
+    "zh": "兒子",
+    "ex": "Their son is eight years old.",
+    "exzh": "他們的兒子今年八歲了。",
+    "emoji": "👦",
+    "pic": "",
     "單字": "son",
     "音標": "/sʌn/",
     "詞性": "n.",
@@ -17670,6 +31806,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "song",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is song.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "song",
     "音標": "",
     "詞性": "",
@@ -17680,6 +31824,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "soon",
+    "ph": "/suːn/",
+    "pos": "adv.",
+    "zh": "很快地",
+    "ex": "See you soon!",
+    "exzh": "待會兒見！",
+    "emoji": "👋",
+    "pic": "",
     "單字": "soon",
     "音標": "/suːn/",
     "詞性": "adv.",
@@ -17690,6 +31842,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sore",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sore.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sore",
     "音標": "",
     "詞性": "",
@@ -17700,6 +31860,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sorry",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sorry.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sorry",
     "音標": "",
     "詞性": "",
@@ -17710,6 +31878,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "soul",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is soul.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "soul",
     "音標": "",
     "詞性": "",
@@ -17720,6 +31896,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sound",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sound.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sound",
     "音標": "",
     "詞性": "",
@@ -17730,6 +31914,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "soup",
+    "ph": "/suːp/",
+    "pos": "n.",
+    "zh": "湯",
+    "ex": "Corn soup smells good.",
+    "exzh": "玉米濃湯聞起來好香。",
+    "emoji": "🥣",
+    "pic": "",
     "單字": "soup",
     "音標": "/suːp/",
     "詞性": "n.",
@@ -17740,6 +31932,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sour",
+    "ph": "/saʊ.ɚ/",
+    "pos": "adj.",
+    "zh": "酸的",
+    "ex": "Lemons taste sour and sharp.",
+    "exzh": "檸檬嚐起來酸溜溜的。",
+    "emoji": "🍋",
+    "pic": "",
     "單字": "sour",
     "音標": "/saʊ.ɚ/",
     "詞性": "adj.",
@@ -17750,6 +31950,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "south",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is south.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "south",
     "音標": "",
     "詞性": "",
@@ -17760,6 +31968,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "soy-sauce",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is soy-sauce.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "soy-sauce",
     "音標": "",
     "詞性": "",
@@ -17770,6 +31986,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "space",
+    "ph": "/speɪs/",
+    "pos": "n.",
+    "zh": "太空，空間",
+    "ex": "Astronauts travel into outer space.",
+    "exzh": "太空人出發前往外太空探險。",
+    "emoji": "🚀",
+    "pic": "",
     "單字": "space",
     "音標": "/speɪs/",
     "詞性": "n.",
@@ -17780,6 +32004,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "spaghetti",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is spaghetti.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "spaghetti",
     "音標": "",
     "詞性": "",
@@ -17790,6 +32022,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "speak",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is speak.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "speak",
     "音標": "",
     "詞性": "",
@@ -17800,6 +32040,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "speaker",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is speaker.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "speaker",
     "音標": "",
     "詞性": "",
@@ -17810,6 +32058,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "special",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is special.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "special",
     "音標": "",
     "詞性": "",
@@ -17820,6 +32076,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "speech",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is speech.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "speech",
     "音標": "",
     "詞性": "",
@@ -17830,6 +32094,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "speed",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is speed.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "speed",
     "音標": "",
     "詞性": "",
@@ -17840,6 +32112,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "spell",
+    "ph": "/spel/",
+    "pos": "v.",
+    "zh": "拼寫",
+    "ex": "Can you spell your full name?",
+    "exzh": "你能拼出你的英文全名嗎？",
+    "emoji": "🔤",
+    "pic": "",
     "單字": "spell",
     "音標": "/spel/",
     "詞性": "v.",
@@ -17850,6 +32130,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "spend",
+    "ph": "/spend/",
+    "pos": "v.",
+    "zh": "花費（時間/金錢）",
+    "ex": "Spend quality time reading with family.",
+    "exzh": "與家人共度美好的溫馨共讀時光。",
+    "emoji": "📖",
+    "pic": "",
     "單字": "spend",
     "音標": "/spend/",
     "詞性": "v.",
@@ -17860,6 +32148,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "spider",
+    "ph": "/ˈspaɪ.dɚ/",
+    "pos": "n.",
+    "zh": "蜘蛛",
+    "ex": "The spider spins a web.",
+    "exzh": "蜘蛛在織網。",
+    "emoji": "🕷️",
+    "pic": "",
     "單字": "spider",
     "音標": "/ˈspaɪ.dɚ/",
     "詞性": "n.",
@@ -17870,6 +32166,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "spill",
+    "ph": "/spɪl/",
+    "pos": "v.",
+    "zh": "灑出，潑翻",
+    "ex": "Wipe up spilled cold milk.",
+    "exzh": "趕快把打翻的冰牛奶擦乾淨。",
+    "emoji": "🥛",
+    "pic": "",
     "單字": "spill",
     "音標": "/spɪl/",
     "詞性": "v.",
@@ -17880,6 +32184,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "spirit",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is spirit.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "spirit",
     "音標": "",
     "詞性": "",
@@ -17890,6 +32202,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sponge",
+    "ph": "/spʌndʒ/",
+    "pos": "n.",
+    "zh": "海綿",
+    "ex": "Wash dishes with a soft sponge.",
+    "exzh": "用柔軟的海綿洗碗盤。",
+    "emoji": "🧽",
+    "pic": "",
     "單字": "sponge",
     "音標": "/spʌndʒ/",
     "詞性": "n.",
@@ -17900,6 +32220,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "spoon",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is spoon.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "spoon",
     "音標": "",
     "詞性": "",
@@ -17910,6 +32238,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sport",
+    "ph": "/spɔːrt/",
+    "pos": "n.",
+    "zh": "運動",
+    "ex": "Swimming is my favorite sport.",
+    "exzh": "游泳是我最喜歡的運動。",
+    "emoji": "🏊",
+    "pic": "",
     "單字": "sport",
     "音標": "/spɔːrt/",
     "詞性": "n.",
@@ -17920,6 +32256,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sports",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sports.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sports",
     "音標": "",
     "詞性": "",
@@ -17930,6 +32274,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "spot",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is spot.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "spot",
     "音標": "",
     "詞性": "",
@@ -17940,6 +32292,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "spread",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is spread.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "spread",
     "音標": "",
     "詞性": "",
@@ -17950,6 +32310,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "spring",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is spring.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "spring",
     "音標": "",
     "詞性": "",
@@ -17960,6 +32328,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sprout",
+    "ph": "/spraʊt/",
+    "pos": "n./v.",
+    "zh": "嫩芽；萌芽",
+    "ex": "Green sprouts appear in early spring.",
+    "exzh": "初春時節綠色嫩芽紛紛冒出。",
+    "emoji": "🌱",
+    "pic": "",
     "單字": "sprout",
     "音標": "/spraʊt/",
     "詞性": "n./v.",
@@ -17970,6 +32346,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "square",
+    "ph": "/skwer/",
+    "pos": "adj./n.",
+    "zh": "正方形的；廣場",
+    "ex": "Chessboards have square tiles.",
+    "exzh": "西洋棋盤上有著方方正正的格子。",
+    "emoji": "🔲",
+    "pic": "",
     "單字": "square",
     "音標": "/skwer/",
     "詞性": "adj./n.",
@@ -17980,6 +32364,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "squirrel",
+    "ph": "/ˈskwɝː.əl/",
+    "pos": "n.",
+    "zh": "松鼠",
+    "ex": "The bushy-tailed squirrel hides acorns.",
+    "exzh": "毛茸茸長尾巴的松鼠把橡果藏起來。",
+    "emoji": "🐿️",
+    "pic": "",
     "單字": "squirrel",
     "音標": "/ˈskwɝː.əl/",
     "詞性": "n.",
@@ -17990,6 +32382,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stadium",
+    "ph": "/ˈsteɪ.di.əm/",
+    "pos": "n.",
+    "zh": "體育場，球場",
+    "ex": "Cheer for athletes in the huge stadium.",
+    "exzh": "在大型體育場裡為運動員大聲加油。",
+    "emoji": "🏟️",
+    "pic": "",
     "單字": "stadium",
     "音標": "/ˈsteɪ.di.əm/",
     "詞性": "n.",
@@ -18000,6 +32400,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stairs",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is stairs.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "stairs",
     "音標": "",
     "詞性": "",
@@ -18010,6 +32418,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stamp",
+    "ph": "/stæmp/",
+    "pos": "n.",
+    "zh": "郵票，印章",
+    "ex": "Stick a postage stamp on envelope.",
+    "exzh": "在信封右上角貼上一張郵票。",
+    "emoji": "📮",
+    "pic": "",
     "單字": "stamp",
     "音標": "/stæmp/",
     "詞性": "n.",
@@ -18020,6 +32436,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stand",
+    "ph": "/stænd/",
+    "pos": "v.",
+    "zh": "站立",
+    "ex": "Stand up straight, please.",
+    "exzh": "請站直立挺。",
+    "emoji": "🧍",
+    "pic": "",
     "單字": "stand",
     "音標": "/stænd/",
     "詞性": "v.",
@@ -18030,6 +32454,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stapler",
+    "ph": "/ˈsteɪ.plɚ/",
+    "pos": "n.",
+    "zh": "訂書機",
+    "ex": "Fasten pages together with a stapler.",
+    "exzh": "用訂書機把幾張紙訂在一起。",
+    "emoji": "📎",
+    "pic": "",
     "單字": "stapler",
     "音標": "/ˈsteɪ.plɚ/",
     "詞性": "n.",
@@ -18040,6 +32472,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "star",
+    "ph": "/stɑːr/",
+    "pos": "n.",
+    "zh": "星星",
+    "ex": "Look at the stars in the dark sky.",
+    "exzh": "看夜空中閃爍的星星。",
+    "emoji": "⭐",
+    "pic": "",
     "單字": "star",
     "音標": "/stɑːr/",
     "詞性": "n.",
@@ -18050,6 +32490,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "start",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is start.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "start",
     "音標": "",
     "詞性": "",
@@ -18060,6 +32508,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "state",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is state.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "state",
     "音標": "",
     "詞性": "",
@@ -18070,6 +32526,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "station",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is station.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "station",
     "音標": "",
     "詞性": "",
@@ -18080,6 +32544,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stationery",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is stationery.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "stationery",
     "音標": "",
     "詞性": "",
@@ -18090,6 +32562,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stay",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is stay.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "stay",
     "音標": "",
     "詞性": "",
@@ -18100,6 +32580,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "steak",
+    "ph": "/steɪk/",
+    "pos": "n.",
+    "zh": "牛排，肉排",
+    "ex": "He ordered a medium steak.",
+    "exzh": "他點了一份五分熟的牛排。",
+    "emoji": "🥩",
+    "pic": "",
     "單字": "steak",
     "音標": "/steɪk/",
     "詞性": "n.",
@@ -18110,6 +32598,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "steal",
+    "ph": "/stiːl/",
+    "pos": "v.",
+    "zh": "偷竊",
+    "ex": "Never steal things from others.",
+    "exzh": "絕不能拿取別人的東西。",
+    "emoji": "🚫",
+    "pic": "",
     "單字": "steal",
     "音標": "/stiːl/",
     "詞性": "v.",
@@ -18120,6 +32616,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "steam",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is steam.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "steam",
     "音標": "",
     "詞性": "",
@@ -18130,6 +32634,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "step",
+    "ph": "/step/",
+    "pos": "v./n.",
+    "zh": "踏步；腳步",
+    "ex": "Step forward and take the stage.",
+    "exzh": "向前踏出一步走上講台。",
+    "emoji": "👟",
+    "pic": "",
     "單字": "step",
     "音標": "/step/",
     "詞性": "v./n.",
@@ -18140,6 +32652,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "still",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is still.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "still",
     "音標": "",
     "詞性": "",
@@ -18150,6 +32670,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stingy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is stingy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "stingy",
     "音標": "",
     "詞性": "",
@@ -18160,6 +32688,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stomach",
+    "ph": "/ˈstʌm.ək/",
+    "pos": "n.",
+    "zh": "胃，肚子",
+    "ex": "My stomach rumbles when hungry.",
+    "exzh": "肚子餓時我的胃咕嚕咕嚕叫。",
+    "emoji": "🥣",
+    "pic": "",
     "單字": "stomach",
     "音標": "/ˈstʌm.ək/",
     "詞性": "n.",
@@ -18170,6 +32706,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stomachache",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is stomachache.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "stomachache",
     "音標": "",
     "詞性": "",
@@ -18180,6 +32724,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stone",
+    "ph": "/stoʊn/",
+    "pos": "n.",
+    "zh": "小石子",
+    "ex": "Skip flat stones across the lake.",
+    "exzh": "在平靜的湖面上丟石子打水漂。",
+    "emoji": "🪨",
+    "pic": "",
     "單字": "stone",
     "音標": "/stoʊn/",
     "詞性": "n.",
@@ -18190,6 +32742,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stop",
+    "ph": "/stɑːp/",
+    "pos": "v.",
+    "zh": "停止",
+    "ex": "Stop at the red traffic light.",
+    "exzh": "紅燈時請停下來。",
+    "emoji": "🛑",
+    "pic": "",
     "單字": "stop",
     "音標": "/stɑːp/",
     "詞性": "v.",
@@ -18200,6 +32760,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "store",
+    "ph": "/stɔːr/",
+    "pos": "n.",
+    "zh": "商店",
+    "ex": "Buy bread at the corner store.",
+    "exzh": "在轉角的商店買麵包。",
+    "emoji": "🏬",
+    "pic": "",
     "單字": "store",
     "音標": "/stɔːr/",
     "詞性": "n.",
@@ -18210,6 +32778,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "storm",
+    "ph": "/stɔːrm/",
+    "pos": "n.",
+    "zh": "暴風雨",
+    "ex": "Stay indoors safely during the storm.",
+    "exzh": "暴風雨期間安全待在室內。",
+    "emoji": "⛈️",
+    "pic": "",
     "單字": "storm",
     "音標": "/stɔːrm/",
     "詞性": "n.",
@@ -18220,6 +32796,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stormy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is stormy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "stormy",
     "音標": "",
     "詞性": "",
@@ -18230,6 +32814,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "story",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is story.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "story",
     "音標": "",
     "詞性": "",
@@ -18240,6 +32832,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stove",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is stove.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "stove",
     "音標": "",
     "詞性": "",
@@ -18250,6 +32850,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "straight",
+    "ph": "/streɪt/",
+    "pos": "adj.",
+    "zh": "筆直的",
+    "ex": "Use ruler to draw straight line.",
+    "exzh": "用直尺畫出一條筆直的線。",
+    "emoji": "📏",
+    "pic": "",
     "單字": "straight",
     "音標": "/streɪt/",
     "詞性": "adj.",
@@ -18260,6 +32868,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "strange",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is strange.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "strange",
     "音標": "",
     "詞性": "",
@@ -18270,6 +32886,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stranger",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is stranger.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "stranger",
     "音標": "",
     "詞性": "",
@@ -18280,6 +32904,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "straw",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is straw.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "straw",
     "音標": "",
     "詞性": "",
@@ -18290,6 +32922,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "strawberry",
+    "ph": "/ˈstrɑːˌber.i/",
+    "pos": "n.",
+    "zh": "草莓",
+    "ex": "Pick sweet ripe strawberries.",
+    "exzh": "親手採摘一顆顆又大又甜的紅草莓。",
+    "emoji": "🍓",
+    "pic": "",
     "單字": "strawberry",
     "音標": "/ˈstrɑːˌber.i/",
     "詞性": "n.",
@@ -18300,6 +32940,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stream",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is stream.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "stream",
     "音標": "",
     "詞性": "",
@@ -18310,6 +32958,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "street",
+    "ph": "/striːt/",
+    "pos": "n.",
+    "zh": "街道",
+    "ex": "Cars drive slowly on street.",
+    "exzh": "車輛在街道上慢速行駛。",
+    "emoji": "🚗",
+    "pic": "",
     "單字": "street",
     "音標": "/striːt/",
     "詞性": "n.",
@@ -18320,6 +32976,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "strike",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is strike.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "strike",
     "音標": "",
     "詞性": "",
@@ -18330,6 +32994,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "strong",
+    "ph": "/strɑːŋ/",
+    "pos": "adj.",
+    "zh": "強壯的",
+    "ex": "Lions have strong paws.",
+    "exzh": "獅子擁有強壯的腳掌。",
+    "emoji": "💪",
+    "pic": "",
     "單字": "strong",
     "音標": "/strɑːŋ/",
     "詞性": "adj.",
@@ -18340,6 +33012,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "student",
+    "ph": "/ˈstuː.dənt/",
+    "pos": "n.",
+    "zh": "學生",
+    "ex": "She is a good student.",
+    "exzh": "她是一個好學生。",
+    "emoji": "🧑‍🎓",
+    "pic": "",
     "單字": "student",
     "音標": "/ˈstuː.dənt/",
     "詞性": "n.",
@@ -18350,6 +33030,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "study",
+    "ph": "/ˈstʌd.i/",
+    "pos": "v.",
+    "zh": "研讀，學習",
+    "ex": "Students study hard at school.",
+    "exzh": "學生在學校努力學習。",
+    "emoji": "📖",
+    "pic": "",
     "單字": "study",
     "音標": "/ˈstʌd.i/",
     "詞性": "v.",
@@ -18360,6 +33048,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "stupid",
+    "ph": "/ˈstuː.pɪd/",
+    "pos": "adj.",
+    "zh": "愚蠢的",
+    "ex": "Do not do silly stupid tricks.",
+    "exzh": "不要去做出無聊愚蠢的危險惡作劇。",
+    "emoji": "🙄",
+    "pic": "",
     "單字": "stupid",
     "音標": "/ˈstuː.pɪd/",
     "詞性": "adj.",
@@ -18370,6 +33066,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "style",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is style.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "style",
     "音標": "",
     "詞性": "",
@@ -18380,6 +33084,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "subject",
+    "ph": "/ˈsʌb.dʒɪkt/",
+    "pos": "n.",
+    "zh": "科目，學科",
+    "ex": "What is your favorite school subject?",
+    "exzh": "你最喜愛的學校科目是什麼？",
+    "emoji": "📚",
+    "pic": "",
     "單字": "subject",
     "音標": "/ˈsʌb.dʒɪkt/",
     "詞性": "n.",
@@ -18390,6 +33102,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "subway",
+    "ph": "/ˈsʌb.weɪ/",
+    "pos": "n.",
+    "zh": "捷運，地下鐵",
+    "ex": "Take the rapid subway across city.",
+    "exzh": "搭乘捷運快速穿梭城市。",
+    "emoji": "🚇",
+    "pic": "",
     "單字": "subway",
     "音標": "/ˈsʌb.weɪ/",
     "詞性": "n.",
@@ -18400,6 +33120,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "succeed",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is succeed.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "succeed",
     "音標": "",
     "詞性": "",
@@ -18410,6 +33138,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "success",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is success.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "success",
     "音標": "",
     "詞性": "",
@@ -18420,6 +33156,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "successful",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is successful.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "successful",
     "音標": "",
     "詞性": "",
@@ -18430,6 +33174,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "such",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is such.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "such",
     "音標": "",
     "詞性": "",
@@ -18440,6 +33192,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sudden",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sudden.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sudden",
     "音標": "",
     "詞性": "",
@@ -18450,6 +33210,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sugar",
+    "ph": "/ˈʃʊɡ.ɚ/",
+    "pos": "n.",
+    "zh": "糖",
+    "ex": "Add a spoonful of sugar.",
+    "exzh": "加一匙白糖吧。",
+    "emoji": "🧂",
+    "pic": "",
     "單字": "sugar",
     "音標": "/ˈʃʊɡ.ɚ/",
     "詞性": "n.",
@@ -18460,6 +33228,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "suggest",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is suggest.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "suggest",
     "音標": "",
     "詞性": "",
@@ -18470,6 +33246,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "suit",
+    "ph": "/suːt/",
+    "pos": "n.",
+    "zh": "西裝，套裝",
+    "ex": "Dad wears a dark suit to the meeting.",
+    "exzh": "爸爸穿著深色西裝去開會。",
+    "emoji": "👔",
+    "pic": "",
     "單字": "suit",
     "音標": "/suːt/",
     "詞性": "n.",
@@ -18480,6 +33264,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "summer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is summer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "summer",
     "音標": "",
     "詞性": "",
@@ -18490,6 +33282,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sun",
+    "ph": "/sʌn/",
+    "pos": "n.",
+    "zh": "太陽",
+    "ex": "The bright sun warms the earth.",
+    "exzh": "明亮的太陽溫暖大地。",
+    "emoji": "☀️",
+    "pic": "",
     "單字": "sun",
     "音標": "/sʌn/",
     "詞性": "n.",
@@ -18500,6 +33300,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Sunday",
+    "ph": "/ˈsʌn.deɪ/",
+    "pos": "n.",
+    "zh": "星期日",
+    "ex": "Visit grandparents on Sunday.",
+    "exzh": "星期日去探望爺爺奶奶。",
+    "emoji": "📅",
+    "pic": "",
     "單字": "Sunday",
     "音標": "/ˈsʌn.deɪ/",
     "詞性": "n.",
@@ -18510,6 +33318,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sunglasses",
+    "ph": "/ˈsʌnˌɡlæs.ɪz/",
+    "pos": "n.",
+    "zh": "太陽眼鏡",
+    "ex": "Wear sunglasses on sunny beach.",
+    "exzh": "在陽光明媚的海灘戴太陽眼鏡。",
+    "emoji": "🕶️",
+    "pic": "",
     "單字": "sunglasses",
     "音標": "/ˈsʌnˌɡlæs.ɪz/",
     "詞性": "n.",
@@ -18520,6 +33336,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sunny",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sunny.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sunny",
     "音標": "",
     "詞性": "",
@@ -18530,6 +33354,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "super",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is super.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "super",
     "音標": "",
     "詞性": "",
@@ -18540,6 +33372,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "supermarket",
+    "ph": "/ˈsuː.pɚˌmɑːr.kɪt/",
+    "pos": "n.",
+    "zh": "超級市場",
+    "ex": "Mom buys fresh vegetables at supermarket.",
+    "exzh": "媽媽在超市購買新鮮蔬菜。",
+    "emoji": "🛒",
+    "pic": "",
     "單字": "supermarket",
     "音標": "/ˈsuː.pɚˌmɑːr.kɪt/",
     "詞性": "n.",
@@ -18550,6 +33390,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "supper",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is supper.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "supper",
     "音標": "",
     "詞性": "",
@@ -18560,6 +33408,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "support",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is support.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "support",
     "音標": "",
     "詞性": "",
@@ -18570,6 +33426,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sure",
+    "ph": "/ʃʊr/",
+    "pos": "adj.",
+    "zh": "確定的",
+    "ex": "I am sure you will do well.",
+    "exzh": "我十分確定你一定會表現得很棒。",
+    "emoji": "👍",
+    "pic": "",
     "單字": "sure",
     "音標": "/ʃʊr/",
     "詞性": "adj.",
@@ -18580,6 +33444,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "surf",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is surf.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "surf",
     "音標": "",
     "詞性": "",
@@ -18590,6 +33462,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "surprise",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is surprise.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "surprise",
     "音標": "",
     "詞性": "",
@@ -18600,6 +33480,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "surprised",
+    "ph": "/sɚˈpraɪzd/",
+    "pos": "adj.",
+    "zh": "驚訝的，驚喜的",
+    "ex": "She was pleasantly surprised by gifts.",
+    "exzh": "她收到意外的驚喜禮物感到喜出望外。",
+    "emoji": "😲",
+    "pic": "",
     "單字": "surprised",
     "音標": "/sɚˈpraɪzd/",
     "詞性": "adj.",
@@ -18610,6 +33498,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "survive",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is survive.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "survive",
     "音標": "",
     "詞性": "",
@@ -18620,6 +33516,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "swallow",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is swallow.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "swallow",
     "音標": "",
     "詞性": "",
@@ -18630,6 +33534,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "swan",
+    "ph": "/swɑːn/",
+    "pos": "n.",
+    "zh": "天鵝",
+    "ex": "The white swan glides across lake.",
+    "exzh": "純白的天鵝優雅地掠過湖面。",
+    "emoji": "🦢",
+    "pic": "",
     "單字": "swan",
     "音標": "/swɑːn/",
     "詞性": "n.",
@@ -18640,6 +33552,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sweater",
+    "ph": "/ˈswet̬.ɚ/",
+    "pos": "n.",
+    "zh": "毛衣",
+    "ex": "This knit sweater keeps me warm.",
+    "exzh": "這件針織毛衣讓我好溫暖。",
+    "emoji": "🧶",
+    "pic": "",
     "單字": "sweater",
     "音標": "/ˈswet̬.ɚ/",
     "詞性": "n.",
@@ -18650,6 +33570,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sweep",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is sweep.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "sweep",
     "音標": "",
     "詞性": "",
@@ -18660,6 +33588,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "sweet",
+    "ph": "/swiːt/",
+    "pos": "adj.",
+    "zh": "甜的，芳香的",
+    "ex": "Ripe strawberries taste sweet.",
+    "exzh": "成熟的草莓嚐起來甜甜的。",
+    "emoji": "🍓",
+    "pic": "",
     "單字": "sweet",
     "音標": "/swiːt/",
     "詞性": "adj.",
@@ -18670,6 +33606,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "swim",
+    "ph": "/swɪm/",
+    "pos": "v.",
+    "zh": "游泳",
+    "ex": "Fishes swim in the ocean.",
+    "exzh": "魚兒在大海裡游泳。",
+    "emoji": "🏊",
+    "pic": "",
     "單字": "swim",
     "音標": "/swɪm/",
     "詞性": "v.",
@@ -18680,6 +33624,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "swimming pool",
+    "ph": "/ˈswɪm.ɪŋ ˌpuːl/",
+    "pos": "n.",
+    "zh": "游泳池",
+    "ex": "Jump into the clean swimming pool.",
+    "exzh": "跳進乾淨的游泳池裡。",
+    "emoji": "🏊",
+    "pic": "",
     "單字": "swimming pool",
     "音標": "/ˈswɪm.ɪŋ ˌpuːl/",
     "詞性": "n.",
@@ -18690,6 +33642,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "swimsuit",
+    "ph": "/ˈswɪm.suːt/",
+    "pos": "n.",
+    "zh": "泳衣",
+    "ex": "Pack your colorful swimsuit.",
+    "exzh": "把鮮豔的泳衣收進包包裡。",
+    "emoji": "🩱",
+    "pic": "",
     "單字": "swimsuit",
     "音標": "/ˈswɪm.suːt/",
     "詞性": "n.",
@@ -18700,6 +33660,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "swing",
+    "ph": "/swɪŋ/",
+    "pos": "v./n.",
+    "zh": "盪鞦韆；搖擺",
+    "ex": "Swing happily in playground.",
+    "exzh": "在遊樂場裡開心地盪鞦韆。",
+    "emoji": "🛝",
+    "pic": "",
     "單字": "swing",
     "音標": "/swɪŋ/",
     "詞性": "v./n.",
@@ -18710,6 +33678,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "switch",
+    "ph": "/swɪtʃ/",
+    "pos": "n.",
+    "zh": "開關",
+    "ex": "Press the light switch on the wall.",
+    "exzh": "按下牆壁上的電燈開關。",
+    "emoji": "🔘",
+    "pic": "",
     "單字": "switch",
     "音標": "/swɪtʃ/",
     "詞性": "n.",
@@ -18720,6 +33696,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "symbol",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is symbol.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "symbol",
     "音標": "",
     "詞性": "",
@@ -18730,6 +33714,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "system",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is system.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "system",
     "音標": "",
     "詞性": "",
@@ -18740,6 +33732,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "T-shirt",
+    "ph": "/ˈtiː.ʃɝːt/",
+    "pos": "n.",
+    "zh": "T恤",
+    "ex": "I like this blue T-shirt.",
+    "exzh": "我喜歡這件藍色T恤。",
+    "emoji": "👕",
+    "pic": "",
     "單字": "T-shirt",
     "音標": "/ˈtiː.ʃɝːt/",
     "詞性": "n.",
@@ -18750,6 +33750,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "table",
+    "ph": "/ˈteɪ.bəl/",
+    "pos": "n.",
+    "zh": "桌子",
+    "ex": "Put plates on the dinner table.",
+    "exzh": "把餐盤擺在餐桌上。",
+    "emoji": "🪵",
+    "pic": "",
     "單字": "table",
     "音標": "/ˈteɪ.bəl/",
     "詞性": "n.",
@@ -18760,6 +33768,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "table tennis",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is table tennis.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "table tennis",
     "音標": "",
     "詞性": "",
@@ -18770,6 +33786,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tablet",
+    "ph": "/ˈtæb.lət/",
+    "pos": "n.",
+    "zh": "平板電腦",
+    "ex": "Read interactive e-books on tablet.",
+    "exzh": "在平板電腦上閱讀生動的電子書。",
+    "emoji": "📱",
+    "pic": "",
     "單字": "tablet",
     "音標": "/ˈtæb.lət/",
     "詞性": "n.",
@@ -18780,6 +33804,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tail",
+    "ph": "/teɪl/",
+    "pos": "n.",
+    "zh": "尾巴",
+    "ex": "The happy dog wags its tail.",
+    "exzh": "開心的狗狗搖著尾巴。",
+    "emoji": "🐕",
+    "pic": "",
     "單字": "tail",
     "音標": "/teɪl/",
     "詞性": "n.",
@@ -18790,6 +33822,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Taiwan",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is Taiwan.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "Taiwan",
     "音標": "",
     "詞性": "",
@@ -18800,6 +33840,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "take",
+    "ph": "/teɪk/",
+    "pos": "v.",
+    "zh": "拿取，攜帶",
+    "ex": "Take your umbrella with you.",
+    "exzh": "隨身帶上你的雨傘。",
+    "emoji": "🎒",
+    "pic": "",
     "單字": "take",
     "音標": "/teɪk/",
     "詞性": "v.",
@@ -18810,6 +33858,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "talent",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is talent.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "talent",
     "音標": "",
     "詞性": "",
@@ -18820,6 +33876,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "talk",
+    "ph": "/tɔːk/",
+    "pos": "v.",
+    "zh": "講話，談天",
+    "ex": "Talk politely with gentle voice.",
+    "exzh": "用溫和柔和的聲音有禮貌地說話。",
+    "emoji": "💬",
+    "pic": "",
     "單字": "talk",
     "音標": "/tɔːk/",
     "詞性": "v.",
@@ -18830,6 +33894,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "talkative",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is talkative.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "talkative",
     "音標": "",
     "詞性": "",
@@ -18840,6 +33912,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tall",
+    "ph": "/tɑːl/",
+    "pos": "adj.",
+    "zh": "高的",
+    "ex": "Giraffes are very tall animals.",
+    "exzh": "長頸鹿是非常高大的動物。",
+    "emoji": "🦒",
+    "pic": "",
     "單字": "tall",
     "音標": "/tɑːl/",
     "詞性": "adj.",
@@ -18850,6 +33930,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tangerine",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is tangerine.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "tangerine",
     "音標": "",
     "詞性": "",
@@ -18860,6 +33948,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tank",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is tank.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "tank",
     "音標": "",
     "詞性": "",
@@ -18870,6 +33966,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tape",
+    "ph": "/teɪp/",
+    "pos": "n.",
+    "zh": "膠帶",
+    "ex": "Fix torn pages with clear tape.",
+    "exzh": "用透明膠帶把破損的書頁黏修好。",
+    "emoji": "🩹",
+    "pic": "",
     "單字": "tape",
     "音標": "/teɪp/",
     "詞性": "n.",
@@ -18880,6 +33984,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "taste",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is taste.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "taste",
     "音標": "",
     "詞性": "",
@@ -18890,6 +34002,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "taxi",
+    "ph": "/ˈtæk.si/",
+    "pos": "n.",
+    "zh": "計程車",
+    "ex": "Hail a yellow taxi in rain.",
+    "exzh": "在雨中招攬一輛黃色計程車。",
+    "emoji": "🚕",
+    "pic": "",
     "單字": "taxi",
     "音標": "/ˈtæk.si/",
     "詞性": "n.",
@@ -18900,6 +34020,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tea",
+    "ph": "/tiː/",
+    "pos": "n.",
+    "zh": "茶",
+    "ex": "Grandpa likes hot tea.",
+    "exzh": "爺爺喜歡喝熱茶。",
+    "emoji": "🍵",
+    "pic": "",
     "單字": "tea",
     "音標": "/tiː/",
     "詞性": "n.",
@@ -18910,6 +34038,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "teach",
+    "ph": "/tiːtʃ/",
+    "pos": "v.",
+    "zh": "教導，傳授",
+    "ex": "Teachers teach us math and English.",
+    "exzh": "老師教導我們數學與英語知識。",
+    "emoji": "🧑‍🏫",
+    "pic": "",
     "單字": "teach",
     "音標": "/tiːtʃ/",
     "詞性": "v.",
@@ -18920,6 +34056,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "teacher",
+    "ph": "/ˈtiː.tʃɚ/",
+    "pos": "n.",
+    "zh": "老師",
+    "ex": "Our teacher is very nice.",
+    "exzh": "我們的老師很好。",
+    "emoji": "🧑‍🏫",
+    "pic": "",
     "單字": "teacher",
     "音標": "/ˈtiː.tʃɚ/",
     "詞性": "n.",
@@ -18930,6 +34074,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "team",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is team.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "team",
     "音標": "",
     "詞性": "",
@@ -18940,6 +34092,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "teapot",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is teapot.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "teapot",
     "音標": "",
     "詞性": "",
@@ -18950,6 +34110,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tear",
+    "ph": "/ter/",
+    "pos": "v.",
+    "zh": "撕破",
+    "ex": "Do not tear paper out of books.",
+    "exzh": "不要把課本上的紙張撕破。",
+    "emoji": "📄",
+    "pic": "",
     "單字": "tear",
     "音標": "/ter/",
     "詞性": "v.",
@@ -18960,6 +34128,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "teenager",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is teenager.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "teenager",
     "音標": "",
     "詞性": "",
@@ -18970,6 +34146,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "telephone",
+    "ph": "/ˈtel.ə.foʊn/",
+    "pos": "n.",
+    "zh": "電話",
+    "ex": "The telephone is ringing.",
+    "exzh": "電話響了。",
+    "emoji": "☎️",
+    "pic": "",
     "單字": "telephone",
     "音標": "/ˈtel.ə.foʊn/",
     "詞性": "n.",
@@ -18980,6 +34164,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "television",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is television.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "television",
     "音標": "",
     "詞性": "",
@@ -18990,6 +34182,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tell",
+    "ph": "/tel/",
+    "pos": "v.",
+    "zh": "告訴",
+    "ex": "Tell me a bedtime story.",
+    "exzh": "告訴我一個睡前故事吧。",
+    "emoji": "🗣️",
+    "pic": "",
     "單字": "tell",
     "音標": "/tel/",
     "詞性": "v.",
@@ -19000,6 +34200,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "temperature",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is temperature.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "temperature",
     "音標": "",
     "詞性": "",
@@ -19010,6 +34218,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "temple",
+    "ph": "/ˈtem.pəl/",
+    "pos": "n.",
+    "zh": "寺廟，廟宇",
+    "ex": "Many people pray for peace at temple.",
+    "exzh": "許多人在寺廟裡祈求平安順遂。",
+    "emoji": "🛕",
+    "pic": "",
     "單字": "temple",
     "音標": "/ˈtem.pəl/",
     "詞性": "n.",
@@ -19020,6 +34236,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ten",
+    "ph": "/ten/",
+    "pos": "num.",
+    "zh": "十",
+    "ex": "Ten fingers help me type.",
+    "exzh": "十隻手指頭幫我打字。",
+    "emoji": "🔟",
+    "pic": "",
     "單字": "ten",
     "音標": "/ten/",
     "詞性": "num.",
@@ -19030,6 +34254,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tennis",
+    "ph": "/ˈten.ɪs/",
+    "pos": "n.",
+    "zh": "網球",
+    "ex": "Hit tennis balls over the net.",
+    "exzh": "把網球打過球網。",
+    "emoji": "🎾",
+    "pic": "",
     "單字": "tennis",
     "音標": "/ˈten.ɪs/",
     "詞性": "n.",
@@ -19040,6 +34272,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tent",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is tent.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "tent",
     "音標": "",
     "詞性": "",
@@ -19050,6 +34290,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "term",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is term.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "term",
     "音標": "",
     "詞性": "",
@@ -19060,6 +34308,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "terrible",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is terrible.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "terrible",
     "音標": "",
     "詞性": "",
@@ -19070,6 +34326,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "terrific",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is terrific.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "terrific",
     "音標": "",
     "詞性": "",
@@ -19080,6 +34344,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "test",
+    "ph": "/test/",
+    "pos": "n./v.",
+    "zh": "測驗，考試",
+    "ex": "Review lessons for the test.",
+    "exzh": "為了考試好好複習功課。",
+    "emoji": "📝",
+    "pic": "",
     "單字": "test",
     "音標": "/test/",
     "詞性": "n./v.",
@@ -19090,6 +34362,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "textbook",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is textbook.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "textbook",
     "音標": "",
     "詞性": "",
@@ -19100,6 +34380,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "than",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is than.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "than",
     "音標": "",
     "詞性": "",
@@ -19110,6 +34398,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "thank",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is thank.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "thank",
     "音標": "",
     "詞性": "",
@@ -19120,6 +34416,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Thanksgiving",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is Thanksgiving.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "Thanksgiving",
     "音標": "",
     "詞性": "",
@@ -19130,6 +34434,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "that",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is that.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "that",
     "音標": "",
     "詞性": "",
@@ -19140,6 +34452,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "the",
+    "ph": "/ðiː/",
+    "pos": "art.",
+    "zh": "這，那（定冠詞）",
+    "ex": "The sun is warm.",
+    "exzh": "太陽很溫暖。",
+    "emoji": "☀️",
+    "pic": "",
     "單字": "the",
     "音標": "/ðiː/",
     "詞性": "art.",
@@ -19150,6 +34470,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "theater",
+    "ph": "/ˈθiː.ə.t̬ɚ/",
+    "pos": "n.",
+    "zh": "劇院，電影院",
+    "ex": "Watch a live puppet play at theater.",
+    "exzh": "在劇場觀賞生動的手偶舞台劇。",
+    "emoji": "🎭",
+    "pic": "",
     "單字": "theater",
     "音標": "/ˈθiː.ə.t̬ɚ/",
     "詞性": "n.",
@@ -19160,6 +34488,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "their",
+    "ph": "/ðer/",
+    "pos": "pron.",
+    "zh": "他們的",
+    "ex": "Their dog is very friendly.",
+    "exzh": "他們的狗非常友善。",
+    "emoji": "🐕",
+    "pic": "",
     "單字": "their",
     "音標": "/ðer/",
     "詞性": "pron.",
@@ -19170,6 +34506,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "them",
+    "ph": "/ðem/",
+    "pos": "pron.",
+    "zh": "他們（受格）",
+    "ex": "Mom called them home.",
+    "exzh": "媽媽叫他們回家。",
+    "emoji": "🏠",
+    "pic": "",
     "單字": "them",
     "音標": "/ðem/",
     "詞性": "pron.",
@@ -19180,6 +34524,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "then",
+    "ph": "/ðen/",
+    "pos": "adv.",
+    "zh": "然後，那時",
+    "ex": "First wash hands, then eat.",
+    "exzh": "先洗手，然後再吃東西。",
+    "emoji": "🧼",
+    "pic": "",
     "單字": "then",
     "音標": "/ðen/",
     "詞性": "adv.",
@@ -19190,6 +34542,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "there",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is there.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "there",
     "音標": "",
     "詞性": "",
@@ -19200,6 +34560,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "therefore",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is therefore.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "therefore",
     "音標": "",
     "詞性": "",
@@ -19210,6 +34578,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "thermometer",
+    "ph": "/θɚˈmɑː.mə.t̬ɚ/",
+    "pos": "n.",
+    "zh": "體溫計",
+    "ex": "Measure body temperature with thermometer.",
+    "exzh": "用體溫計量測目前的身體溫度。",
+    "emoji": "🌡️",
+    "pic": "",
     "單字": "thermometer",
     "音標": "/θɚˈmɑː.mə.t̬ɚ/",
     "詞性": "n.",
@@ -19220,6 +34596,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "these",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is these.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "these",
     "音標": "",
     "詞性": "",
@@ -19230,6 +34614,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "they",
+    "ph": "/ðeɪ/",
+    "pos": "pron.",
+    "zh": "他們，牠們",
+    "ex": "They play in the garden.",
+    "exzh": "他們在花園裡玩耍。",
+    "emoji": "🧑‍🤝‍🧑",
+    "pic": "",
     "單字": "they",
     "音標": "/ðeɪ/",
     "詞性": "pron.",
@@ -19240,6 +34632,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "thick",
+    "ph": "/θɪk/",
+    "pos": "adj.",
+    "zh": "厚實的，粗的",
+    "ex": "Read a thick exciting novel.",
+    "exzh": "讀一本厚厚且精彩刺激的小說。",
+    "emoji": "📚",
+    "pic": "",
     "單字": "thick",
     "音標": "/θɪk/",
     "詞性": "adj.",
@@ -19250,6 +34650,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "thief",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is thief.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "thief",
     "音標": "",
     "詞性": "",
@@ -19260,6 +34668,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "thin",
+    "ph": "/θɪn/",
+    "pos": "adj.",
+    "zh": "纖瘦的，薄的",
+    "ex": "Draw with a thin fine pencil.",
+    "exzh": "用一筆細細薄薄的鉛筆來作畫。",
+    "emoji": "✏️",
+    "pic": "",
     "單字": "thin",
     "音標": "/θɪn/",
     "詞性": "adj.",
@@ -19270,6 +34686,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "thing",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is thing.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "thing",
     "音標": "",
     "詞性": "",
@@ -19280,6 +34704,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "think",
+    "ph": "/θɪŋk/",
+    "pos": "v.",
+    "zh": "思考，想",
+    "ex": "Think before you speak.",
+    "exzh": "開口說話前先思考。",
+    "emoji": "🤔",
+    "pic": "",
     "單字": "think",
     "音標": "/θɪŋk/",
     "詞性": "v.",
@@ -19290,6 +34722,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "third",
+    "ph": "/θɝːd/",
+    "pos": "adj.",
+    "zh": "第三的",
+    "ex": "The third floor has a library.",
+    "exzh": "三樓有一間圖書館。",
+    "emoji": "🥉",
+    "pic": "",
     "單字": "third",
     "音標": "/θɝːd/",
     "詞性": "adj.",
@@ -19300,6 +34740,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "thirsty",
+    "ph": "/ˈθɝː.sti/",
+    "pos": "adj.",
+    "zh": "口渴的",
+    "ex": "Drink water when thirsty.",
+    "exzh": "口渴時記得喝水。",
+    "emoji": "🥤",
+    "pic": "",
     "單字": "thirsty",
     "音標": "/ˈθɝː.sti/",
     "詞性": "adj.",
@@ -19310,6 +34758,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "thirteen",
+    "ph": "/θɝːˈtiːn/",
+    "pos": "num.",
+    "zh": "十三",
+    "ex": "Thirteen black cats sat quietly.",
+    "exzh": "十三隻黑貓安靜坐著。",
+    "emoji": "1️⃣3️⃣",
+    "pic": "",
     "單字": "thirteen",
     "音標": "/θɝːˈtiːn/",
     "詞性": "num.",
@@ -19320,6 +34776,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "thirty",
+    "ph": "/ˈθɝː.t̬i/",
+    "pos": "num.",
+    "zh": "三十",
+    "ex": "Thirty days in September.",
+    "exzh": "九月份一共有三十天。",
+    "emoji": "3️⃣0️⃣",
+    "pic": "",
     "單字": "thirty",
     "音標": "/ˈθɝː.t̬i/",
     "詞性": "num.",
@@ -19330,6 +34794,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "this",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is this.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "this",
     "音標": "",
     "詞性": "",
@@ -19340,6 +34812,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "those",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is those.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "those",
     "音標": "",
     "詞性": "",
@@ -19350,6 +34830,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "though",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is though.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "though",
     "音標": "",
     "詞性": "",
@@ -19360,6 +34848,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "thought",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is thought.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "thought",
     "音標": "",
     "詞性": "",
@@ -19370,6 +34866,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "thousand",
+    "ph": "/ˈθaʊ.zənd/",
+    "pos": "num.",
+    "zh": "一千",
+    "ex": "One thousand stars twinkle bright.",
+    "exzh": "一千顆繁星閃爍光芒。",
+    "emoji": "✨",
+    "pic": "",
     "單字": "thousand",
     "音標": "/ˈθaʊ.zənd/",
     "詞性": "num.",
@@ -19380,6 +34884,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "three",
+    "ph": "/θriː/",
+    "pos": "num.",
+    "zh": "三",
+    "ex": "There are three birds in the tree.",
+    "exzh": "樹上有三隻鳥。",
+    "emoji": "3️⃣",
+    "pic": "",
     "單字": "three",
     "音標": "/θriː/",
     "詞性": "num.",
@@ -19390,6 +34902,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "throat",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is throat.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "throat",
     "音標": "",
     "詞性": "",
@@ -19400,6 +34920,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "through",
+    "ph": "/θruː/",
+    "pos": "prep.",
+    "zh": "穿過，通過",
+    "ex": "The train goes through tunnel.",
+    "exzh": "火車穿過隧道。",
+    "emoji": "🚆",
+    "pic": "",
     "單字": "through",
     "音標": "/θruː/",
     "詞性": "prep.",
@@ -19410,6 +34938,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "throw",
+    "ph": "/θroʊ/",
+    "pos": "v.",
+    "zh": "丟，投擲",
+    "ex": "Throw the ball to Tom.",
+    "exzh": "把球丟給湯姆。",
+    "emoji": "🏐",
+    "pic": "",
     "單字": "throw",
     "音標": "/θroʊ/",
     "詞性": "v.",
@@ -19420,6 +34956,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "thumb",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is thumb.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "thumb",
     "音標": "",
     "詞性": "",
@@ -19430,6 +34974,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "thunder",
+    "ph": "/ˈθʌn.dɚ/",
+    "pos": "n.",
+    "zh": "打雷，雷聲",
+    "ex": "Loud thunder shook the windows.",
+    "exzh": "轟隆隆的雷聲震動了窗戶。",
+    "emoji": "🌩️",
+    "pic": "",
     "單字": "thunder",
     "音標": "/ˈθʌn.dɚ/",
     "詞性": "n.",
@@ -19440,6 +34992,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Thursday",
+    "ph": "/ˈθɝːz.deɪ/",
+    "pos": "n.",
+    "zh": "星期四",
+    "ex": "Art class is on Thursday afternoon.",
+    "exzh": "美術課在星期四下午。",
+    "emoji": "📅",
+    "pic": "",
     "單字": "Thursday",
     "音標": "/ˈθɝːz.deɪ/",
     "詞性": "n.",
@@ -19450,6 +35010,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ticket",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ticket.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ticket",
     "音標": "",
     "詞性": "",
@@ -19460,6 +35028,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tidy",
+    "ph": "/ˈtaɪ.di/",
+    "pos": "v./adj.",
+    "zh": "收拾；整齊的",
+    "ex": "Tidy up your bedroom toys.",
+    "exzh": "把你臥室裡的玩具收拾乾淨。",
+    "emoji": "🧸",
+    "pic": "",
     "單字": "tidy",
     "音標": "/ˈtaɪ.di/",
     "詞性": "v./adj.",
@@ -19470,6 +35046,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tie",
+    "ph": "/taɪ/",
+    "pos": "v./n.",
+    "zh": "綁，繫；領帶",
+    "ex": "Learn how to tie shoelaces.",
+    "exzh": "學習如何把球鞋鞋帶綁好。",
+    "emoji": "👟",
+    "pic": "",
     "單字": "tie",
     "音標": "/taɪ/",
     "詞性": "v./n.",
@@ -19480,6 +35064,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tiger",
+    "ph": "/ˈtaɪ.ɡɚ/",
+    "pos": "n.",
+    "zh": "老虎",
+    "ex": "The tiger has orange stripes.",
+    "exzh": "老虎有橘色的條紋。",
+    "emoji": "🐯",
+    "pic": "",
     "單字": "tiger",
     "音標": "/ˈtaɪ.ɡɚ/",
     "詞性": "n.",
@@ -19490,6 +35082,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "till",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is till.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "till",
     "音標": "",
     "詞性": "",
@@ -19500,6 +35100,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "time",
+    "ph": "/taɪm/",
+    "pos": "n.",
+    "zh": "時間",
+    "ex": "What time is it now?",
+    "exzh": "現在幾點了？",
+    "emoji": "⏰",
+    "pic": "",
     "單字": "time",
     "音標": "/taɪm/",
     "詞性": "n.",
@@ -19510,6 +35118,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tin",
+    "ph": "/tɪn/",
+    "pos": "n.",
+    "zh": "錫罐，金屬盒",
+    "ex": "Cookies are packed in a tin box.",
+    "exzh": "餅乾裝在精美的鐵盒裡。",
+    "emoji": "🥫",
+    "pic": "",
     "單字": "tin",
     "音標": "/tɪn/",
     "詞性": "n.",
@@ -19520,6 +35136,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tiny",
+    "ph": "/ˈtaɪ.ni/",
+    "pos": "adj.",
+    "zh": "微小的",
+    "ex": "Ants are tiny industrious bugs.",
+    "exzh": "螞蟻是微小且勤奮努力的昆蟲。",
+    "emoji": "🐜",
+    "pic": "",
     "單字": "tiny",
     "音標": "/ˈtaɪ.ni/",
     "詞性": "adj.",
@@ -19530,6 +35154,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tip",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is tip.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "tip",
     "音標": "",
     "詞性": "",
@@ -19540,6 +35172,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tired",
+    "ph": "/ˈtaɪ.ɚd/",
+    "pos": "adj.",
+    "zh": "疲累的",
+    "ex": "I am tired after running.",
+    "exzh": "跑步後我覺得很累。",
+    "emoji": "🥱",
+    "pic": "",
     "單字": "tired",
     "音標": "/ˈtaɪ.ɚd/",
     "詞性": "adj.",
@@ -19550,6 +35190,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tissue",
+    "ph": "/ˈtɪʃ.uː/",
+    "pos": "n.",
+    "zh": "面紙，紙巾",
+    "ex": "Can I have a tissue, please?",
+    "exzh": "可以給我一張面紙嗎？",
+    "emoji": "🧻",
+    "pic": "",
     "單字": "tissue",
     "音標": "/ˈtɪʃ.uː/",
     "詞性": "n.",
@@ -19560,6 +35208,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "title",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is title.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "title",
     "音標": "",
     "詞性": "",
@@ -19570,6 +35226,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "to",
+    "ph": "/tuː/",
+    "pos": "prep.",
+    "zh": "往，向，到",
+    "ex": "Walk to the door.",
+    "exzh": "走向門口。",
+    "emoji": "🚪",
+    "pic": "",
     "單字": "to",
     "音標": "/tuː/",
     "詞性": "prep.",
@@ -19580,6 +35244,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "toast",
+    "ph": "/toʊst/",
+    "pos": "n.",
+    "zh": "烤吐司",
+    "ex": "Spread strawberry jam on warm toast.",
+    "exzh": "在熱騰騰的烤吐司上抹上草莓果醬。",
+    "emoji": "🍞",
+    "pic": "",
     "單字": "toast",
     "音標": "/toʊst/",
     "詞性": "n.",
@@ -19590,6 +35262,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "today",
+    "ph": "/təˈdeɪ/",
+    "pos": "n./adv.",
+    "zh": "今天",
+    "ex": "Today is sunny and warm.",
+    "exzh": "今天天氣晴朗溫暖。",
+    "emoji": "📅",
+    "pic": "",
     "單字": "today",
     "音標": "/təˈdeɪ/",
     "詞性": "n./adv.",
@@ -19600,6 +35280,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "toe",
+    "ph": "/toʊ/",
+    "pos": "n.",
+    "zh": "腳趾",
+    "ex": "Can you touch your toes?",
+    "exzh": "你能碰得到腳趾嗎？",
+    "emoji": "🦶",
+    "pic": "",
     "單字": "toe",
     "音標": "/toʊ/",
     "詞性": "n.",
@@ -19610,6 +35298,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tofu",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is tofu.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "tofu",
     "音標": "",
     "詞性": "",
@@ -19620,6 +35316,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "together",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is together.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "together",
     "音標": "",
     "詞性": "",
@@ -19630,6 +35334,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "toilet",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is toilet.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "toilet",
     "音標": "",
     "詞性": "",
@@ -19640,6 +35352,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tomato",
+    "ph": "/təˈmeɪ.t̬oʊ/",
+    "pos": "n.",
+    "zh": "番茄",
+    "ex": "Red tomatoes are healthy.",
+    "exzh": "紅番茄對身體很健康。",
+    "emoji": "🍅",
+    "pic": "",
     "單字": "tomato",
     "音標": "/təˈmeɪ.t̬oʊ/",
     "詞性": "n.",
@@ -19650,6 +35370,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tomorrow",
+    "ph": "/təˈmɔːr.oʊ/",
+    "pos": "n./adv.",
+    "zh": "明天",
+    "ex": "See you at school tomorrow.",
+    "exzh": "明天學校見。",
+    "emoji": "📅",
+    "pic": "",
     "單字": "tomorrow",
     "音標": "/təˈmɔːr.oʊ/",
     "詞性": "n./adv.",
@@ -19660,6 +35388,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tongue",
+    "ph": "/tʌŋ/",
+    "pos": "n.",
+    "zh": "舌頭",
+    "ex": "Stick out tongue at the clinic.",
+    "exzh": "看診時把舌頭伸出來。",
+    "emoji": "👅",
+    "pic": "",
     "單字": "tongue",
     "音標": "/tʌŋ/",
     "詞性": "n.",
@@ -19670,6 +35406,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tonight",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is tonight.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "tonight",
     "音標": "",
     "詞性": "",
@@ -19680,6 +35424,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "too",
+    "ph": "/tuː/",
+    "pos": "adv.",
+    "zh": "也；太...",
+    "ex": "I like chocolate too.",
+    "exzh": "我也喜歡巧克力。",
+    "emoji": "🍫",
+    "pic": "",
     "單字": "too",
     "音標": "/tuː/",
     "詞性": "adv.",
@@ -19690,6 +35442,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tool",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is tool.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "tool",
     "音標": "",
     "詞性": "",
@@ -19700,6 +35460,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tooth",
+    "ph": "/tuːθ/",
+    "pos": "n.",
+    "zh": "牙齒",
+    "ex": "Brush your teeth every day.",
+    "exzh": "每天都要刷牙。",
+    "emoji": "🦷",
+    "pic": "",
     "單字": "tooth",
     "音標": "/tuːθ/",
     "詞性": "n.",
@@ -19710,6 +35478,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "toothache",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is toothache.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "toothache",
     "音標": "",
     "詞性": "",
@@ -19720,6 +35496,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "toothbrush",
+    "ph": "/ˈtuːθ.brʌʃ/",
+    "pos": "n.",
+    "zh": "牙刷",
+    "ex": "Use toothbrush to clean teeth.",
+    "exzh": "用牙刷仔細清潔牙齒。",
+    "emoji": "🪥",
+    "pic": "",
     "單字": "toothbrush",
     "音標": "/ˈtuːθ.brʌʃ/",
     "詞性": "n.",
@@ -19730,6 +35514,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "toothpaste",
+    "ph": "/ˈtuːθ.peɪst/",
+    "pos": "n.",
+    "zh": "牙膏",
+    "ex": "Squeeze strawberry toothpaste.",
+    "exzh": "擠一點草莓口味的牙膏。",
+    "emoji": "🪥",
+    "pic": "",
     "單字": "toothpaste",
     "音標": "/ˈtuːθ.peɪst/",
     "詞性": "n.",
@@ -19740,6 +35532,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "top",
+    "ph": "/tɑːp/",
+    "pos": "n./adj.",
+    "zh": "頂端；頂部的",
+    "ex": "Place the shiny star on top of tree.",
+    "exzh": "把閃耀的金色星星放在聖誕樹頂端。",
+    "emoji": "🔝",
+    "pic": "",
     "單字": "top",
     "音標": "/tɑːp/",
     "詞性": "n./adj.",
@@ -19750,6 +35550,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "topic",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is topic.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "topic",
     "音標": "",
     "詞性": "",
@@ -19760,6 +35568,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "total",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is total.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "total",
     "音標": "",
     "詞性": "",
@@ -19770,6 +35586,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "touch",
+    "ph": "/tʌtʃ/",
+    "pos": "v.",
+    "zh": "觸摸，碰",
+    "ex": "Don't touch the wet paint.",
+    "exzh": "不要碰未乾的油漆。",
+    "emoji": "👉",
+    "pic": "",
     "單字": "touch",
     "音標": "/tʌtʃ/",
     "詞性": "v.",
@@ -19780,6 +35604,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "toward",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is toward.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "toward",
     "音標": "",
     "詞性": "",
@@ -19790,6 +35622,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "towel",
+    "ph": "/ˈtaʊ.əl/",
+    "pos": "n.",
+    "zh": "毛巾",
+    "ex": "Dry your wet face with towel.",
+    "exzh": "用毛巾擦乾濕漉漉的臉。",
+    "emoji": "🧖",
+    "pic": "",
     "單字": "towel",
     "音標": "/ˈtaʊ.əl/",
     "詞性": "n.",
@@ -19800,6 +35640,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tower",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is tower.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "tower",
     "音標": "",
     "詞性": "",
@@ -19810,6 +35658,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "town",
+    "ph": "/taʊn/",
+    "pos": "n.",
+    "zh": "城鎮",
+    "ex": "Our peaceful town has many trees.",
+    "exzh": "我們平靜的城鎮綠樹成蔭。",
+    "emoji": "🏘️",
+    "pic": "",
     "單字": "town",
     "音標": "/taʊn/",
     "詞性": "n.",
@@ -19820,6 +35676,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "toy",
+    "ph": "/tɔɪ/",
+    "pos": "n.",
+    "zh": "玩具",
+    "ex": "Share your toy trains with friends.",
+    "exzh": "和好朋友們一起分享你的玩具火車。",
+    "emoji": "🧸",
+    "pic": "",
     "單字": "toy",
     "音標": "/tɔɪ/",
     "詞性": "n.",
@@ -19830,6 +35694,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "toy store",
+    "ph": "/ˈtɔɪ ˌstɔːr/",
+    "pos": "n.",
+    "zh": "玩具店",
+    "ex": "Kids love the toy store.",
+    "exzh": "孩子們都喜愛玩具店。",
+    "emoji": "🧸",
+    "pic": "",
     "單字": "toy store",
     "音標": "/ˈtɔɪ ˌstɔːr/",
     "詞性": "n.",
@@ -19840,6 +35712,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "trace",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is trace.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "trace",
     "音標": "",
     "詞性": "",
@@ -19850,6 +35730,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "trade",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is trade.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "trade",
     "音標": "",
     "詞性": "",
@@ -19860,6 +35748,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tradition",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is tradition.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "tradition",
     "音標": "",
     "詞性": "",
@@ -19870,6 +35766,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "traditional",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is traditional.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "traditional",
     "音標": "",
     "詞性": "",
@@ -19880,6 +35784,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "traffic",
+    "ph": "/ˈtræf.ɪk/",
+    "pos": "n.",
+    "zh": "交通，車流",
+    "ex": "There is heavy traffic in the morning.",
+    "exzh": "早晨的交通車流非常繁忙。",
+    "emoji": "🚦",
+    "pic": "",
     "單字": "traffic",
     "音標": "/ˈtræf.ɪk/",
     "詞性": "n.",
@@ -19890,6 +35802,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "traffic light",
+    "ph": "/ˈtræf.ɪk ˌlaɪt/",
+    "pos": "n.",
+    "zh": "紅綠燈，交通號誌",
+    "ex": "Wait at the red traffic light.",
+    "exzh": "在紅燈前耐心停等。",
+    "emoji": "🚦",
+    "pic": "",
     "單字": "traffic light",
     "音標": "/ˈtræf.ɪk ˌlaɪt/",
     "詞性": "n.",
@@ -19900,6 +35820,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "train",
+    "ph": "/treɪn/",
+    "pos": "n.",
+    "zh": "火車",
+    "ex": "The high-speed train is fast.",
+    "exzh": "高鐵速度很快。",
+    "emoji": "🚆",
+    "pic": "",
     "單字": "train",
     "音標": "/treɪn/",
     "詞性": "n.",
@@ -19910,6 +35838,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "train pass",
+    "ph": "/treɪn pæs/",
+    "pos": "n.",
+    "zh": "火車月票，車票",
+    "ex": "Don't forget your train pass.",
+    "exzh": "別忘了你的火車月票。",
+    "emoji": "🎫",
+    "pic": "",
     "單字": "train pass",
     "音標": "/treɪn pæs/",
     "詞性": "n.",
@@ -19920,6 +35856,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "trap",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is trap.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "trap",
     "音標": "",
     "詞性": "",
@@ -19930,6 +35874,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "trash",
+    "ph": "/træʃ/",
+    "pos": "n.",
+    "zh": "垃圾",
+    "ex": "Throw the candy wrapper in the trash.",
+    "exzh": "把糖果包裝紙丟進垃圾桶。",
+    "emoji": "🗑️",
+    "pic": "",
     "單字": "trash",
     "音標": "/træʃ/",
     "詞性": "n.",
@@ -19940,6 +35892,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "travel",
+    "ph": "/ˈtræv.əl/",
+    "pos": "v.",
+    "zh": "旅行",
+    "ex": "Travel to Japan during holiday.",
+    "exzh": "在放假期間到日本去旅行。",
+    "emoji": "✈️",
+    "pic": "",
     "單字": "travel",
     "音標": "/ˈtræv.əl/",
     "詞性": "v.",
@@ -19950,6 +35910,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tray",
+    "ph": "/treɪ/",
+    "pos": "n.",
+    "zh": "托盤",
+    "ex": "She carried drinks on a wooden tray.",
+    "exzh": "她用木托盤端著飲料。",
+    "emoji": "🪵",
+    "pic": "",
     "單字": "tray",
     "音標": "/treɪ/",
     "詞性": "n.",
@@ -19960,6 +35928,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "treasure",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is treasure.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "treasure",
     "音標": "",
     "詞性": "",
@@ -19970,6 +35946,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "treat",
+    "ph": "/triːt/",
+    "pos": "v./n.",
+    "zh": "請客，對待；點心",
+    "ex": "Treat everyone with kindness.",
+    "exzh": "用善良友愛的態度對待每個人。",
+    "emoji": "😇",
+    "pic": "",
     "單字": "treat",
     "音標": "/triːt/",
     "詞性": "v./n.",
@@ -19980,6 +35964,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tree",
+    "ph": "/triː/",
+    "pos": "n.",
+    "zh": "樹木",
+    "ex": "Birds build nests in tall trees.",
+    "exzh": "鳥兒在高高的樹上築巢。",
+    "emoji": "🌳",
+    "pic": "",
     "單字": "tree",
     "音標": "/triː/",
     "詞性": "n.",
@@ -19990,6 +35982,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "triangle",
+    "ph": "/ˈtraɪ.æŋ.ɡəl/",
+    "pos": "n.",
+    "zh": "三角形",
+    "ex": "A slice of pizza is a triangle.",
+    "exzh": "切好的一片披薩呈現三角形狀。",
+    "emoji": "🔺",
+    "pic": "",
     "單字": "triangle",
     "音標": "/ˈtraɪ.æŋ.ɡəl/",
     "詞性": "n.",
@@ -20000,6 +36000,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "trick",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is trick.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "trick",
     "音標": "",
     "詞性": "",
@@ -20010,6 +36018,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "trip",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is trip.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "trip",
     "音標": "",
     "詞性": "",
@@ -20020,6 +36036,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "trouble",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is trouble.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "trouble",
     "音標": "",
     "詞性": "",
@@ -20030,6 +36054,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "trousers",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is trousers.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "trousers",
     "音標": "",
     "詞性": "",
@@ -20040,6 +36072,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "truck",
+    "ph": "/trʌk/",
+    "pos": "n.",
+    "zh": "卡車，貨車",
+    "ex": "A big red truck carries goods.",
+    "exzh": "一輛紅色大卡車運送著貨物。",
+    "emoji": "🚚",
+    "pic": "",
     "單字": "truck",
     "音標": "/trʌk/",
     "詞性": "n.",
@@ -20050,6 +36090,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "true",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is true.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "true",
     "音標": "",
     "詞性": "",
@@ -20060,6 +36108,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "trumpet",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is trumpet.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "trumpet",
     "音標": "",
     "詞性": "",
@@ -20070,6 +36126,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "trust",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is trust.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "trust",
     "音標": "",
     "詞性": "",
@@ -20080,6 +36144,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "truth",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is truth.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "truth",
     "音標": "",
     "詞性": "",
@@ -20090,6 +36162,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "try",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is try.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "try",
     "音標": "",
     "詞性": "",
@@ -20100,6 +36180,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tub",
+    "ph": "/tʌb/",
+    "pos": "n.",
+    "zh": "浴缸，盆",
+    "ex": "The toddler splashes water in the tub.",
+    "exzh": "小寶寶在浴缸裡開心地潑水。",
+    "emoji": "🛁",
+    "pic": "",
     "單字": "tub",
     "音標": "/tʌb/",
     "詞性": "n.",
@@ -20110,6 +36198,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tube",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is tube.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "tube",
     "音標": "",
     "詞性": "",
@@ -20120,6 +36216,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Tuesday",
+    "ph": "/ˈtuːz.deɪ/",
+    "pos": "n.",
+    "zh": "星期二",
+    "ex": "We have science on Tuesday.",
+    "exzh": "我們星期二有自然科學課。",
+    "emoji": "📅",
+    "pic": "",
     "單字": "Tuesday",
     "音標": "/ˈtuːz.deɪ/",
     "詞性": "n.",
@@ -20130,6 +36234,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tuna",
+    "ph": "/ˈtuː.nə/",
+    "pos": "n.",
+    "zh": "鮪魚",
+    "ex": "I like tuna sandwiches for lunch.",
+    "exzh": "我喜歡吃鮪魚三明治當午餐。",
+    "emoji": "🐟",
+    "pic": "",
     "單字": "tuna",
     "音標": "/ˈtuː.nə/",
     "詞性": "n.",
@@ -20140,6 +36252,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "tunnel",
+    "ph": "/ˈtʌn.əl/",
+    "pos": "n.",
+    "zh": "隧道",
+    "ex": "The speeding train zooms through tunnel.",
+    "exzh": "奔馳的火車呼嘯穿過深邃隧道。",
+    "emoji": "🚇",
+    "pic": "",
     "單字": "tunnel",
     "音標": "/ˈtʌn.əl/",
     "詞性": "n.",
@@ -20150,6 +36270,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "turkey",
+    "ph": "/ˈtɝː.ki/",
+    "pos": "n.",
+    "zh": "火雞",
+    "ex": "Turkeys make gobbling sounds on farm.",
+    "exzh": "農場裡的火雞發出咕嚕咕嚕的叫聲。",
+    "emoji": "🦃",
+    "pic": "",
     "單字": "turkey",
     "音標": "/ˈtɝː.ki/",
     "詞性": "n.",
@@ -20160,6 +36288,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "turn",
+    "ph": "/tɝːn/",
+    "pos": "v.",
+    "zh": "轉彎，翻轉",
+    "ex": "Turn the light switch off.",
+    "exzh": "把電燈的開關關閉起來。",
+    "emoji": "💡",
+    "pic": "",
     "單字": "turn",
     "音標": "/tɝːn/",
     "詞性": "v.",
@@ -20170,6 +36306,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "turtle",
+    "ph": "/ˈtɝː.t̬əl/",
+    "pos": "n.",
+    "zh": "烏龜",
+    "ex": "The turtle walks slowly.",
+    "exzh": "烏龜走得很慢。",
+    "emoji": "🐢",
+    "pic": "",
     "單字": "turtle",
     "音標": "/ˈtɝː.t̬əl/",
     "詞性": "n.",
@@ -20180,6 +36324,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "twelve",
+    "ph": "/twelv/",
+    "pos": "num.",
+    "zh": "十二",
+    "ex": "There are twelve months in a year.",
+    "exzh": "一年有十二個月。",
+    "emoji": "1️⃣2️⃣",
+    "pic": "",
     "單字": "twelve",
     "音標": "/twelv/",
     "詞性": "num.",
@@ -20190,6 +36342,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "twenty",
+    "ph": "/ˈtwen.ti/",
+    "pos": "num.",
+    "zh": "二十",
+    "ex": "Twenty kids attend the party.",
+    "exzh": "二十個小朋友參加了派對。",
+    "emoji": "2️⃣0️⃣",
+    "pic": "",
     "單字": "twenty",
     "音標": "/ˈtwen.ti/",
     "詞性": "num.",
@@ -20200,6 +36360,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "twice",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is twice.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "twice",
     "音標": "",
     "詞性": "",
@@ -20210,6 +36378,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "two",
+    "ph": "/tuː/",
+    "pos": "num.",
+    "zh": "二",
+    "ex": "She has two cats.",
+    "exzh": "她有兩隻貓。",
+    "emoji": "2️⃣",
+    "pic": "",
     "單字": "two",
     "音標": "/tuː/",
     "詞性": "num.",
@@ -20220,6 +36396,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "type",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is type.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "type",
     "音標": "",
     "詞性": "",
@@ -20230,6 +36414,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "typhoon",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is typhoon.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "typhoon",
     "音標": "",
     "詞性": "",
@@ -20240,6 +36432,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "ugly",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is ugly.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "ugly",
     "音標": "",
     "詞性": "",
@@ -20250,6 +36450,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "umbrella",
+    "ph": "/ʌmˈbrel.ə/",
+    "pos": "n.",
+    "zh": "雨傘",
+    "ex": "Take an umbrella on a rainy day.",
+    "exzh": "下雨天要帶傘。",
+    "emoji": "☂️",
+    "pic": "",
     "單字": "umbrella",
     "音標": "/ʌmˈbrel.ə/",
     "詞性": "n.",
@@ -20260,6 +36468,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "uncle",
+    "ph": "/ˈʌŋ.kəl/",
+    "pos": "n.",
+    "zh": "叔叔，伯伯，舅舅",
+    "ex": "Uncle lives in a sunny town.",
+    "exzh": "叔叔住在一個陽光明媚的小鎮。",
+    "emoji": "👨",
+    "pic": "",
     "單字": "uncle",
     "音標": "/ˈʌŋ.kəl/",
     "詞性": "n.",
@@ -20270,6 +36486,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "under",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is under.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "under",
     "音標": "",
     "詞性": "",
@@ -20280,6 +36504,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "underline",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is underline.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "underline",
     "音標": "",
     "詞性": "",
@@ -20290,6 +36522,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "underpass",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is underpass.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "underpass",
     "音標": "",
     "詞性": "",
@@ -20300,6 +36540,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "understand",
+    "ph": "/ˌʌn.dɚˈstænd/",
+    "pos": "v.",
+    "zh": "理解，明白",
+    "ex": "I understand today's lesson easily.",
+    "exzh": "我很容易就聽懂了今天的課程。",
+    "emoji": "💡",
+    "pic": "",
     "單字": "understand",
     "音標": "/ˌʌn.dɚˈstænd/",
     "詞性": "v.",
@@ -20310,6 +36558,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "underwear",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is underwear.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "underwear",
     "音標": "",
     "詞性": "",
@@ -20320,6 +36576,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "unhappy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is unhappy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "unhappy",
     "音標": "",
     "詞性": "",
@@ -20330,6 +36594,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "uniform",
+    "ph": "/ˈjuː.nə.fɔːrm/",
+    "pos": "n.",
+    "zh": "制服",
+    "ex": "Students wear school uniforms.",
+    "exzh": "學生們穿著整齊的學校制服。",
+    "emoji": "👔",
+    "pic": "",
     "單字": "uniform",
     "音標": "/ˈjuː.nə.fɔːrm/",
     "詞性": "n.",
@@ -20340,6 +36612,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "unique",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is unique.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "unique",
     "音標": "",
     "詞性": "",
@@ -20350,6 +36630,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "universe",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is universe.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "universe",
     "音標": "",
     "詞性": "",
@@ -20360,6 +36648,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "university",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is university.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "university",
     "音標": "",
     "詞性": "",
@@ -20370,6 +36666,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "until",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is until.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "until",
     "音標": "",
     "詞性": "",
@@ -20380,6 +36684,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "up",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is up.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "up",
     "音標": "",
     "詞性": "",
@@ -20390,6 +36702,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "upon",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is upon.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "upon",
     "音標": "",
     "詞性": "",
@@ -20400,6 +36720,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "upper",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is upper.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "upper",
     "音標": "",
     "詞性": "",
@@ -20410,6 +36738,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "upstairs",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is upstairs.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "upstairs",
     "音標": "",
     "詞性": "",
@@ -20420,6 +36756,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "us",
+    "ph": "/ʌs/",
+    "pos": "pron.",
+    "zh": "我們（受格）",
+    "ex": "Join us for lunch.",
+    "exzh": "加入我們一起吃午餐吧。",
+    "emoji": "🥪",
+    "pic": "",
     "單字": "us",
     "音標": "/ʌs/",
     "詞性": "pron.",
@@ -20430,6 +36774,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "USA",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is USA.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "USA",
     "音標": "",
     "詞性": "",
@@ -20440,6 +36792,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "use",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is use.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "use",
     "音標": "",
     "詞性": "",
@@ -20450,6 +36810,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "useful",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is useful.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "useful",
     "音標": "",
     "詞性": "",
@@ -20460,6 +36828,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "usual",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is usual.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "usual",
     "音標": "",
     "詞性": "",
@@ -20470,6 +36846,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "usually",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is usually.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "usually",
     "音標": "",
     "詞性": "",
@@ -20480,6 +36864,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "vacation",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is vacation.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "vacation",
     "音標": "",
     "詞性": "",
@@ -20490,6 +36882,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Valentine",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is Valentine.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "Valentine",
     "音標": "",
     "詞性": "",
@@ -20500,6 +36900,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "valley",
+    "ph": "/ˈvæl.i/",
+    "pos": "n.",
+    "zh": "山谷",
+    "ex": "A river flows through the green valley.",
+    "exzh": "一條河流緩緩穿過翠綠的山谷。",
+    "emoji": "🏞️",
+    "pic": "",
     "單字": "valley",
     "音標": "/ˈvæl.i/",
     "詞性": "n.",
@@ -20510,6 +36918,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "valuable",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is valuable.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "valuable",
     "音標": "",
     "詞性": "",
@@ -20520,6 +36936,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "value",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is value.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "value",
     "音標": "",
     "詞性": "",
@@ -20530,6 +36954,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "van",
+    "ph": "/væn/",
+    "pos": "n.",
+    "zh": "廂型車，客貨車",
+    "ex": "Dad drives a white van to work.",
+    "exzh": "爸爸開著一輛白色廂型車去上班。",
+    "emoji": "🚐",
+    "pic": "",
     "單字": "van",
     "音標": "/væn/",
     "詞性": "n.",
@@ -20540,6 +36972,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "vase",
+    "ph": "/veɪs/",
+    "pos": "n.",
+    "zh": "花瓶",
+    "ex": "Put fresh flowers in the glass vase.",
+    "exzh": "把鮮花插進玻璃花瓶裡。",
+    "emoji": "🏺",
+    "pic": "",
     "單字": "vase",
     "音標": "/veɪs/",
     "詞性": "n.",
@@ -20550,6 +36990,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "vegetable",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is vegetable.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "vegetable",
     "音標": "",
     "詞性": "",
@@ -20560,6 +37008,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "vendor",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is vendor.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "vendor",
     "音標": "",
     "詞性": "",
@@ -20570,6 +37026,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "very",
+    "ph": "/ˈver.i/",
+    "pos": "adv.",
+    "zh": "非常",
+    "ex": "You are very kind.",
+    "exzh": "你非常善良。",
+    "emoji": "❤️",
+    "pic": "",
     "單字": "very",
     "音標": "/ˈver.i/",
     "詞性": "adv.",
@@ -20580,6 +37044,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "vest",
+    "ph": "/vest/",
+    "pos": "n.",
+    "zh": "背心",
+    "ex": "He wears a warm fleece vest.",
+    "exzh": "他穿著一件溫暖的刷毛背心。",
+    "emoji": "🦺",
+    "pic": "",
     "單字": "vest",
     "音標": "/vest/",
     "詞性": "n.",
@@ -20590,6 +37062,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "victory",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is victory.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "victory",
     "音標": "",
     "詞性": "",
@@ -20600,6 +37080,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "video",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is video.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "video",
     "音標": "",
     "詞性": "",
@@ -20610,6 +37098,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "village",
+    "ph": "/ˈvɪl.ɪdʒ/",
+    "pos": "n.",
+    "zh": "鄉村，村莊",
+    "ex": "Grandparents live in quiet village.",
+    "exzh": "祖父母住在寧靜的小村莊。",
+    "emoji": "🏡",
+    "pic": "",
     "單字": "village",
     "音標": "/ˈvɪl.ɪdʒ/",
     "詞性": "n.",
@@ -20620,6 +37116,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "vinegar",
+    "ph": "/ˈvɪn.ə.ɡɚ/",
+    "pos": "n.",
+    "zh": "醋",
+    "ex": "Add a drop of vinegar for flavor.",
+    "exzh": "加一滴醋來提味。",
+    "emoji": "🍶",
+    "pic": "",
     "單字": "vinegar",
     "音標": "/ˈvɪn.ə.ɡɚ/",
     "詞性": "n.",
@@ -20630,6 +37134,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "violin",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is violin.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "violin",
     "音標": "",
     "詞性": "",
@@ -20640,6 +37152,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "visit",
+    "ph": "/ˈvɪz.ɪt/",
+    "pos": "v.",
+    "zh": "拜訪，參觀",
+    "ex": "Visit cousins during winter break.",
+    "exzh": "寒假期間去拜訪表哥表姐。",
+    "emoji": "🏡",
+    "pic": "",
     "單字": "visit",
     "音標": "/ˈvɪz.ɪt/",
     "詞性": "v.",
@@ -20650,6 +37170,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "visitor",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is visitor.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "visitor",
     "音標": "",
     "詞性": "",
@@ -20660,6 +37188,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "vocabulary",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is vocabulary.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "vocabulary",
     "音標": "",
     "詞性": "",
@@ -20670,6 +37206,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "voice",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is voice.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "voice",
     "音標": "",
     "詞性": "",
@@ -20680,6 +37224,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "volleyball",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is volleyball.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "volleyball",
     "音標": "",
     "詞性": "",
@@ -20690,6 +37242,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "vote",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is vote.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "vote",
     "音標": "",
     "詞性": "",
@@ -20700,6 +37260,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wagon",
+    "ph": "/ˈwæɡ.ən/",
+    "pos": "n.",
+    "zh": "小拖車，馬車",
+    "ex": "The boy pulls his red toy wagon.",
+    "exzh": "小男孩拉著他的紅色玩具拖車。",
+    "emoji": "🛒",
+    "pic": "",
     "單字": "wagon",
     "音標": "/ˈwæɡ.ən/",
     "詞性": "n.",
@@ -20710,6 +37278,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "waist",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is waist.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "waist",
     "音標": "",
     "詞性": "",
@@ -20720,6 +37296,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wait",
+    "ph": "/weɪt/",
+    "pos": "v.",
+    "zh": "等待",
+    "ex": "Wait for the green light.",
+    "exzh": "耐心等待綠燈。",
+    "emoji": "⏳",
+    "pic": "",
     "單字": "wait",
     "音標": "/weɪt/",
     "詞性": "v.",
@@ -20730,6 +37314,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "waiter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is waiter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "waiter",
     "音標": "",
     "詞性": "",
@@ -20740,6 +37332,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "waitress",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is waitress.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "waitress",
     "音標": "",
     "詞性": "",
@@ -20750,6 +37350,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wake",
+    "ph": "/weɪk/",
+    "pos": "v.",
+    "zh": "醒來",
+    "ex": "Wake up early in the morning.",
+    "exzh": "早上早早醒來。",
+    "emoji": "⏰",
+    "pic": "",
     "單字": "wake",
     "音標": "/weɪk/",
     "詞性": "v.",
@@ -20760,6 +37368,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "walk",
+    "ph": "/wɔk/",
+    "pos": "v.",
+    "zh": "走路",
+    "ex": "We walk to school.",
+    "exzh": "我們走路去學校。",
+    "emoji": "",
+    "pic": "",
     "單字": "walk",
     "音標": "/wɔk/",
     "詞性": "v.",
@@ -20770,6 +37386,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "walkman",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is walkman.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "walkman",
     "音標": "",
     "詞性": "",
@@ -20780,6 +37404,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wall",
+    "ph": "/wɑːl/",
+    "pos": "n.",
+    "zh": "牆壁",
+    "ex": "Hang the family photo on wall.",
+    "exzh": "把全家福掛在牆壁上。",
+    "emoji": "🧱",
+    "pic": "",
     "單字": "wall",
     "音標": "/wɑːl/",
     "詞性": "n.",
@@ -20790,6 +37422,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wallet",
+    "ph": "/ˈwɑː.lɪt/",
+    "pos": "n.",
+    "zh": "皮夾，錢包",
+    "ex": "My wallet is in the backpack.",
+    "exzh": "我的皮夾在背包裡。",
+    "emoji": "👛",
+    "pic": "",
     "單字": "wallet",
     "音標": "/ˈwɑː.lɪt/",
     "詞性": "n.",
@@ -20800,6 +37440,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "want",
+    "ph": "/wɑːnt/",
+    "pos": "v.",
+    "zh": "想要",
+    "ex": "Do you want some warm milk?",
+    "exzh": "你想要喝點溫牛奶嗎？",
+    "emoji": "🥛",
+    "pic": "",
     "單字": "want",
     "音標": "/wɑːnt/",
     "詞性": "v.",
@@ -20810,6 +37458,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "war",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is war.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "war",
     "音標": "",
     "詞性": "",
@@ -20820,6 +37476,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "warm",
+    "ph": "/wɔːrm/",
+    "pos": "adj.",
+    "zh": "溫暖的",
+    "ex": "Drink a cup of warm tea.",
+    "exzh": "喝一杯溫暖的茶。",
+    "emoji": "☕",
+    "pic": "",
     "單字": "warm",
     "音標": "/wɔːrm/",
     "詞性": "adj.",
@@ -20830,6 +37494,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "was",
+    "ph": "/wɑːz/",
+    "pos": "v.",
+    "zh": "是（is/am 過去式）",
+    "ex": "Yesterday was sunny.",
+    "exzh": "昨天是個大晴天。",
+    "emoji": "☀️",
+    "pic": "",
     "單字": "was",
     "音標": "/wɑːz/",
     "詞性": "v.",
@@ -20840,6 +37512,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wash",
+    "ph": "/wɑːʃ/",
+    "pos": "v.",
+    "zh": "清洗",
+    "ex": "Wash your hands before eating.",
+    "exzh": "吃東西前要洗手。",
+    "emoji": "🧼",
+    "pic": "",
     "單字": "wash",
     "音標": "/wɑːʃ/",
     "詞性": "v.",
@@ -20850,6 +37530,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "waste",
+    "ph": "/weɪst/",
+    "pos": "v.",
+    "zh": "浪費",
+    "ex": "Do not waste water while brushing teeth.",
+    "exzh": "刷牙時隨手關水龍頭不要浪費水資源。",
+    "emoji": "🚰",
+    "pic": "",
     "單字": "waste",
     "音標": "/weɪst/",
     "詞性": "v.",
@@ -20860,6 +37548,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "watch",
+    "ph": "/wɑːtʃ/",
+    "pos": "n.",
+    "zh": "手錶",
+    "ex": "Look at my new watch.",
+    "exzh": "看我的新手錶。",
+    "emoji": "⌚",
+    "pic": "",
     "單字": "watch",
     "音標": "/wɑːtʃ/",
     "詞性": "n.",
@@ -20870,6 +37566,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "water",
+    "ph": "/ˈwɑː.t̬ɚ/",
+    "pos": "n.",
+    "zh": "水",
+    "ex": "Please drink enough water.",
+    "exzh": "請多喝足夠的水。",
+    "emoji": "💧",
+    "pic": "",
     "單字": "water",
     "音標": "/ˈwɑː.t̬ɚ/",
     "詞性": "n.",
@@ -20880,6 +37584,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "waterfalls",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is waterfalls.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "waterfalls",
     "音標": "",
     "詞性": "",
@@ -20890,6 +37602,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "watermelon",
+    "ph": "/ˈwɑː.t̬ɚˌmel.ən/",
+    "pos": "n.",
+    "zh": "西瓜",
+    "ex": "Cool watermelon beats heat.",
+    "exzh": "冰涼的西瓜可以消暑。",
+    "emoji": "🍉",
+    "pic": "",
     "單字": "watermelon",
     "音標": "/ˈwɑː.t̬ɚˌmel.ən/",
     "詞性": "n.",
@@ -20900,6 +37620,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wave",
+    "ph": "/weɪv/",
+    "pos": "v./n.",
+    "zh": "揮手；海浪",
+    "ex": "Wave goodbye to your classmates.",
+    "exzh": "揮手向放學的同學們道別。",
+    "emoji": "👋",
+    "pic": "",
     "單字": "wave",
     "音標": "/weɪv/",
     "詞性": "v./n.",
@@ -20910,6 +37638,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "way",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is way.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "way",
     "音標": "",
     "詞性": "",
@@ -20920,6 +37656,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "we",
+    "ph": "/wiː/",
+    "pos": "pron.",
+    "zh": "我們",
+    "ex": "We sing songs together.",
+    "exzh": "我們一起唱歌。",
+    "emoji": "👫",
+    "pic": "",
     "單字": "we",
     "音標": "/wiː/",
     "詞性": "pron.",
@@ -20930,6 +37674,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "weak",
+    "ph": "/wiːk/",
+    "pos": "adj.",
+    "zh": "虛弱的",
+    "ex": "He felt weak when sick.",
+    "exzh": "他生病時感到虛弱無力。",
+    "emoji": "🤒",
+    "pic": "",
     "單字": "weak",
     "音標": "/wiːk/",
     "詞性": "adj.",
@@ -20940,6 +37692,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wear",
+    "ph": "/wer/",
+    "pos": "v.",
+    "zh": "穿，戴",
+    "ex": "Wear a warm coat today.",
+    "exzh": "今天穿件暖和的外套吧。",
+    "emoji": "🧥",
+    "pic": "",
     "單字": "wear",
     "音標": "/wer/",
     "詞性": "v.",
@@ -20950,6 +37710,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "weather",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is weather.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "weather",
     "音標": "",
     "詞性": "",
@@ -20960,6 +37728,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wedding",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is wedding.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "wedding",
     "音標": "",
     "詞性": "",
@@ -20970,6 +37746,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "Wednesday",
+    "ph": "/ˈwenz.deɪ/",
+    "pos": "n.",
+    "zh": "星期三",
+    "ex": "Library club meets on Wednesday.",
+    "exzh": "圖書社在星期三聚會。",
+    "emoji": "📅",
+    "pic": "",
     "單字": "Wednesday",
     "音標": "/ˈwenz.deɪ/",
     "詞性": "n.",
@@ -20980,6 +37764,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "week",
+    "ph": "/wiːk/",
+    "pos": "n.",
+    "zh": "星期，週",
+    "ex": "See you next week.",
+    "exzh": "下週見。",
+    "emoji": "🗓️",
+    "pic": "",
     "單字": "week",
     "音標": "/wiːk/",
     "詞性": "n.",
@@ -20990,6 +37782,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "weekday",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is weekday.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "weekday",
     "音標": "",
     "詞性": "",
@@ -21000,6 +37800,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "weekend",
+    "ph": "/ˈwiːk.end/",
+    "pos": "n.",
+    "zh": "週末",
+    "ex": "Have a relaxing restful weekend.",
+    "exzh": "祝你有個放鬆休息的週末。",
+    "emoji": "🏖️",
+    "pic": "",
     "單字": "weekend",
     "音標": "/ˈwiːk.end/",
     "詞性": "n.",
@@ -21010,6 +37818,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "weight",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is weight.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "weight",
     "音標": "",
     "詞性": "",
@@ -21020,6 +37836,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "welcome",
+    "ph": "/ˈwel.kəm/",
+    "pos": "adj.",
+    "zh": "受歡迎的",
+    "ex": "You are always welcome in our home.",
+    "exzh": "我們家隨時都熱烈歡迎你的到來。",
+    "emoji": "🏡",
+    "pic": "",
     "單字": "welcome",
     "音標": "/ˈwel.kəm/",
     "詞性": "adj.",
@@ -21030,6 +37854,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "well",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is well.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "well",
     "音標": "",
     "詞性": "",
@@ -21040,6 +37872,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "were",
+    "ph": "/wɝː/",
+    "pos": "v.",
+    "zh": "是（are 過去式）",
+    "ex": "We were at the zoo.",
+    "exzh": "我們昨天在動物園。",
+    "emoji": "🦁",
+    "pic": "",
     "單字": "were",
     "音標": "/wɝː/",
     "詞性": "v.",
@@ -21050,6 +37890,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "west",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is west.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "west",
     "音標": "",
     "詞性": "",
@@ -21060,6 +37908,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wet",
+    "ph": "/wet/",
+    "pos": "adj.",
+    "zh": "潮濕的，濕透的",
+    "ex": "Take off wet socks after rain.",
+    "exzh": "下雨後把濕透的襪子脫下來換掉。",
+    "emoji": "🧦",
+    "pic": "",
     "單字": "wet",
     "音標": "/wet/",
     "詞性": "adj.",
@@ -21070,6 +37926,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "whale",
+    "ph": "/weɪl/",
+    "pos": "n.",
+    "zh": "鯨魚",
+    "ex": "The blue whale is enormous.",
+    "exzh": "藍鯨體型非常龐大。",
+    "emoji": "🐋",
+    "pic": "",
     "單字": "whale",
     "音標": "/weɪl/",
     "詞性": "n.",
@@ -21080,6 +37944,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "what",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is what.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "what",
     "音標": "",
     "詞性": "",
@@ -21090,6 +37962,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wheel",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is wheel.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "wheel",
     "音標": "",
     "詞性": "",
@@ -21100,6 +37980,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "when",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is when.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "when",
     "音標": "",
     "詞性": "",
@@ -21110,6 +37998,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "where",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is where.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "where",
     "音標": "",
     "詞性": "",
@@ -21120,6 +38016,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "whether",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is whether.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "whether",
     "音標": "",
     "詞性": "",
@@ -21130,6 +38034,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "which",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is which.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "which",
     "音標": "",
     "詞性": "",
@@ -21140,6 +38052,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "while",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is while.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "while",
     "音標": "",
     "詞性": "",
@@ -21150,6 +38070,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "whisper",
+    "ph": "/ˈwɪs.pɚ/",
+    "pos": "v.",
+    "zh": "耳語，低聲說",
+    "ex": "Whisper quietly in library hall.",
+    "exzh": "在圖書館大廳裡輕聲細語。",
+    "emoji": "🤫",
+    "pic": "",
     "單字": "whisper",
     "音標": "/ˈwɪs.pɚ/",
     "詞性": "v.",
@@ -21160,6 +38088,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "whistle",
+    "ph": "/ˈwɪs.əl/",
+    "pos": "v./n.",
+    "zh": "吹口哨；哨子",
+    "ex": "The coach blew his loud whistle.",
+    "exzh": "教練吹響了他響亮的哨子。",
+    "emoji": "🎷",
+    "pic": "",
     "單字": "whistle",
     "音標": "/ˈwɪs.əl/",
     "詞性": "v./n.",
@@ -21170,6 +38106,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "white",
+    "ph": "/waɪt/",
+    "pos": "adj./n.",
+    "zh": "白色的；白色",
+    "ex": "Snow is cold and white.",
+    "exzh": "雪很冷而且是白色的。",
+    "emoji": "⬜",
+    "pic": "",
     "單字": "white",
     "音標": "/waɪt/",
     "詞性": "adj./n.",
@@ -21180,6 +38124,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "whiteboard",
+    "ph": "/ˈwaɪt.bɔːrd/",
+    "pos": "n.",
+    "zh": "白板",
+    "ex": "Erase the whiteboard marker.",
+    "exzh": "把白板筆跡擦乾淨。",
+    "emoji": "⬜",
+    "pic": "",
     "單字": "whiteboard",
     "音標": "/ˈwaɪt.bɔːrd/",
     "詞性": "n.",
@@ -21190,6 +38142,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "who",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is who.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "who",
     "音標": "",
     "詞性": "",
@@ -21200,6 +38160,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "whole",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is whole.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "whole",
     "音標": "",
     "詞性": "",
@@ -21210,6 +38178,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "whose",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is whose.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "whose",
     "音標": "",
     "詞性": "",
@@ -21220,6 +38196,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "why",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is why.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "why",
     "音標": "",
     "詞性": "",
@@ -21230,6 +38214,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wide",
+    "ph": "/waɪd/",
+    "pos": "adj.",
+    "zh": "寬闊的",
+    "ex": "The big river is very wide.",
+    "exzh": "這條大江河流水面相當寬闊。",
+    "emoji": "🌊",
+    "pic": "",
     "單字": "wide",
     "音標": "/waɪd/",
     "詞性": "adj.",
@@ -21240,6 +38232,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wife",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is wife.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "wife",
     "音標": "",
     "詞性": "",
@@ -21250,6 +38250,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wild",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is wild.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "wild",
     "音標": "",
     "詞性": "",
@@ -21260,6 +38268,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "will",
+    "ph": "/wɪl/",
+    "pos": "aux.",
+    "zh": "將會",
+    "ex": "I will see you tomorrow.",
+    "exzh": "我明天會見到你。",
+    "emoji": "📅",
+    "pic": "",
     "單字": "will",
     "音標": "/wɪl/",
     "詞性": "aux.",
@@ -21270,6 +38286,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "win",
+    "ph": "/wɪn/",
+    "pos": "v.",
+    "zh": "獲勝，贏得",
+    "ex": "Practice teamwork to win the game.",
+    "exzh": "發揮團隊合作來贏得比賽。",
+    "emoji": "🏆",
+    "pic": "",
     "單字": "win",
     "音標": "/wɪn/",
     "詞性": "v.",
@@ -21280,6 +38304,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wind",
+    "ph": "/wɪnd/",
+    "pos": "n.",
+    "zh": "風",
+    "ex": "The cool autumn wind blows softly.",
+    "exzh": "涼爽的秋風輕輕吹拂。",
+    "emoji": "💨",
+    "pic": "",
     "單字": "wind",
     "音標": "/wɪnd/",
     "詞性": "n.",
@@ -21290,6 +38322,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "window",
+    "ph": "/ˈwɪn.doʊ/",
+    "pos": "n.",
+    "zh": "窗戶",
+    "ex": "Look out the window.",
+    "exzh": "看看窗外。",
+    "emoji": "🪟",
+    "pic": "",
     "單字": "window",
     "音標": "/ˈwɪn.doʊ/",
     "詞性": "n.",
@@ -21300,6 +38340,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "windy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is windy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "windy",
     "音標": "",
     "詞性": "",
@@ -21310,6 +38358,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wing",
+    "ph": "/wɪŋ/",
+    "pos": "n.",
+    "zh": "翅膀",
+    "ex": "Birds spread their wings.",
+    "exzh": "鳥兒展翅高飛。",
+    "emoji": "🪽",
+    "pic": "",
     "單字": "wing",
     "音標": "/wɪŋ/",
     "詞性": "n.",
@@ -21320,6 +38376,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "winner",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is winner.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "winner",
     "音標": "",
     "詞性": "",
@@ -21330,6 +38394,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "winter",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is winter.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "winter",
     "音標": "",
     "詞性": "",
@@ -21340,6 +38412,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wire",
+    "ph": "/waɪr/",
+    "pos": "n.",
+    "zh": "電線，金屬線",
+    "ex": "Keep loose wires tidy and neat.",
+    "exzh": "把散落的電線收納整齊。",
+    "emoji": "➰",
+    "pic": "",
     "單字": "wire",
     "音標": "/waɪr/",
     "詞性": "n.",
@@ -21350,6 +38430,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wise",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is wise.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "wise",
     "音標": "",
     "詞性": "",
@@ -21360,6 +38448,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wish",
+    "ph": "/wɪʃ/",
+    "pos": "v./n.",
+    "zh": "許願，希望",
+    "ex": "Make a secret birthday wish.",
+    "exzh": "在心裡許下一個神秘的生日願望。",
+    "emoji": "✨",
+    "pic": "",
     "單字": "wish",
     "音標": "/wɪʃ/",
     "詞性": "v./n.",
@@ -21370,6 +38466,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "with",
+    "ph": "/wɪð/",
+    "pos": "prep.",
+    "zh": "和...一起；用",
+    "ex": "Play with your friends.",
+    "exzh": "和你的朋友們一起玩。",
+    "emoji": "🧑‍🤝‍🧑",
+    "pic": "",
     "單字": "with",
     "音標": "/wɪð/",
     "詞性": "prep.",
@@ -21380,6 +38484,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "without",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is without.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "without",
     "音標": "",
     "詞性": "",
@@ -21390,6 +38502,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wok",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is wok.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "wok",
     "音標": "",
     "詞性": "",
@@ -21400,6 +38520,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wolf",
+    "ph": "/wʊlf/",
+    "pos": "n.",
+    "zh": "狼",
+    "ex": "The gray wolf howls at the moon.",
+    "exzh": "灰狼對著夜空中的明月長嚎。",
+    "emoji": "🐺",
+    "pic": "",
     "單字": "wolf",
     "音標": "/wʊlf/",
     "詞性": "n.",
@@ -21410,6 +38538,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "woman",
+    "ph": "/ˈwʊm.ən/",
+    "pos": "n.",
+    "zh": "女人",
+    "ex": "The woman is reading a book.",
+    "exzh": "那位女士正在看書。",
+    "emoji": "👩",
+    "pic": "",
     "單字": "woman",
     "音標": "/ˈwʊm.ən/",
     "詞性": "n.",
@@ -21420,6 +38556,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "women's room",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is women's room.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "women's room",
     "音標": "",
     "詞性": "",
@@ -21430,6 +38574,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wonderful",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is wonderful.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "wonderful",
     "音標": "",
     "詞性": "",
@@ -21440,6 +38592,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wood",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is wood.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "wood",
     "音標": "",
     "詞性": "",
@@ -21450,6 +38610,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "woods",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is woods.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "woods",
     "音標": "",
     "詞性": "",
@@ -21460,6 +38628,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "word",
+    "ph": "/wɝːd/",
+    "pos": "n.",
+    "zh": "單字，字詞",
+    "ex": "Learn ten new words daily.",
+    "exzh": "每天學習十個新單字。",
+    "emoji": "🔤",
+    "pic": "",
     "單字": "word",
     "音標": "/wɝːd/",
     "詞性": "n.",
@@ -21470,6 +38646,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "work",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is work.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "work",
     "音標": "",
     "詞性": "",
@@ -21480,6 +38664,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "workbook",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is workbook.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "workbook",
     "音標": "",
     "詞性": "",
@@ -21490,6 +38682,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "worker",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is worker.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "worker",
     "音標": "",
     "詞性": "",
@@ -21500,6 +38700,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "world",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is world.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "world",
     "音標": "",
     "詞性": "",
@@ -21510,6 +38718,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "worm",
+    "ph": "/wɝːm/",
+    "pos": "n.",
+    "zh": "小蟲，蠕蟲",
+    "ex": "Earthworms enrich garden soil.",
+    "exzh": "小蚯蚓在花園土壤裡鑽動鬆土。",
+    "emoji": "🪱",
+    "pic": "",
     "單字": "worm",
     "音標": "/wɝːm/",
     "詞性": "n.",
@@ -21520,6 +38736,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "worry",
+    "ph": "/ˈwɝː.i/",
+    "pos": "v.",
+    "zh": "擔憂，擔心",
+    "ex": "Don't worry about minor mistakes.",
+    "exzh": "別為小小的失誤過度擔心。",
+    "emoji": "🙂",
+    "pic": "",
     "單字": "worry",
     "音標": "/ˈwɝː.i/",
     "詞性": "v.",
@@ -21530,6 +38754,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "would",
+    "ph": "/wʊd/",
+    "pos": "aux.",
+    "zh": "想要；將會",
+    "ex": "Would you like some juice?",
+    "exzh": "你想喝點果汁嗎？",
+    "emoji": "🧃",
+    "pic": "",
     "單字": "would",
     "音標": "/wʊd/",
     "詞性": "aux.",
@@ -21540,6 +38772,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wound",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is wound.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "wound",
     "音標": "",
     "詞性": "",
@@ -21550,6 +38790,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wrap",
+    "ph": "/ræp/",
+    "pos": "v.",
+    "zh": "包裝，包裹",
+    "ex": "Wrap the gift in pretty paper.",
+    "exzh": "用漂亮的包裝紙把禮物包好。",
+    "emoji": "🎁",
+    "pic": "",
     "單字": "wrap",
     "音標": "/ræp/",
     "詞性": "v.",
@@ -21560,6 +38808,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wrist",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is wrist.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "wrist",
     "音標": "",
     "詞性": "",
@@ -21570,6 +38826,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "write",
+    "ph": "/raɪt/",
+    "pos": "v.",
+    "zh": "書寫",
+    "ex": "Write your name on this paper.",
+    "exzh": "在這張紙上寫下你的名字。",
+    "emoji": "✍️",
+    "pic": "",
     "單字": "write",
     "音標": "/raɪt/",
     "詞性": "v.",
@@ -21580,6 +38844,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "writer",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is writer.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "writer",
     "音標": "",
     "詞性": "",
@@ -21590,6 +38862,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "wrong",
+    "ph": "/rɑːŋ/",
+    "pos": "adj.",
+    "zh": "錯誤的",
+    "ex": "Erase wrong letters on test.",
+    "exzh": "用橡皮擦把測驗紙上的錯字擦掉。",
+    "emoji": "❌",
+    "pic": "",
     "單字": "wrong",
     "音標": "/rɑːŋ/",
     "詞性": "adj.",
@@ -21600,6 +38880,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "yacht",
+    "ph": "/jɑːt/",
+    "pos": "n.",
+    "zh": "遊艇",
+    "ex": "A white yacht floats on the water.",
+    "exzh": "一艘白色遊艇漂浮在水面上。",
+    "emoji": "🛥️",
+    "pic": "",
     "單字": "yacht",
     "音標": "/jɑːt/",
     "詞性": "n.",
@@ -21610,6 +38898,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "yard",
+    "ph": "/jɑːrd/",
+    "pos": "n.",
+    "zh": "庭院，院子",
+    "ex": "Play ball games in the yard.",
+    "exzh": "在院子裡玩球類遊戲。",
+    "emoji": "🏡",
+    "pic": "",
     "單字": "yard",
     "音標": "/jɑːrd/",
     "詞性": "n.",
@@ -21620,6 +38916,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "year",
+    "ph": "/jɪr/",
+    "pos": "n.",
+    "zh": "年",
+    "ex": "Happy New Year!",
+    "exzh": "新年快樂！",
+    "emoji": "🎉",
+    "pic": "",
     "單字": "year",
     "音標": "/jɪr/",
     "詞性": "n.",
@@ -21630,6 +38934,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "yell",
+    "ph": "/jel/",
+    "pos": "v.",
+    "zh": "大聲嚷嚷",
+    "ex": "Do not yell inside quiet rooms.",
+    "exzh": "不要在安靜的房間裡大聲嚷嚷。",
+    "emoji": "📢",
+    "pic": "",
     "單字": "yell",
     "音標": "/jel/",
     "詞性": "v.",
@@ -21640,6 +38952,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "yellow",
+    "ph": "/ˈjel.oʊ/",
+    "pos": "adj./n.",
+    "zh": "黃色的；黃色",
+    "ex": "Bananas are yellow.",
+    "exzh": "香蕉是黃色的。",
+    "emoji": "🟡",
+    "pic": "",
     "單字": "yellow",
     "音標": "/ˈjel.oʊ/",
     "詞性": "adj./n.",
@@ -21650,6 +38970,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "yes",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is yes.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "yes",
     "音標": "",
     "詞性": "",
@@ -21660,6 +38988,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "yesterday",
+    "ph": "/ˈjes.tɚ.deɪ/",
+    "pos": "n./adv.",
+    "zh": "昨天",
+    "ex": "Yesterday was Sunday.",
+    "exzh": "昨天是星期日。",
+    "emoji": "📅",
+    "pic": "",
     "單字": "yesterday",
     "音標": "/ˈjes.tɚ.deɪ/",
     "詞性": "n./adv.",
@@ -21670,6 +39006,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "yet",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is yet.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "yet",
     "音標": "",
     "詞性": "",
@@ -21680,6 +39024,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "you",
+    "ph": "/juː/",
+    "pos": "pron.",
+    "zh": "你，你們",
+    "ex": "You have a bright smile.",
+    "exzh": "你有燦爛的笑容。",
+    "emoji": "😊",
+    "pic": "",
     "單字": "you",
     "音標": "/juː/",
     "詞性": "pron.",
@@ -21690,6 +39042,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "young",
+    "ph": "/jʌŋ/",
+    "pos": "adj.",
+    "zh": "年輕的",
+    "ex": "The young puppy learns new tricks.",
+    "exzh": "年幼的小狗狗學習著新才藝技巧。",
+    "emoji": "🐕",
+    "pic": "",
     "單字": "young",
     "音標": "/jʌŋ/",
     "詞性": "adj.",
@@ -21700,6 +39060,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "your",
+    "ph": "/jɔːr/",
+    "pos": "pron.",
+    "zh": "你的，你們的",
+    "ex": "Wash your hands first.",
+    "exzh": "先洗洗你的手。",
+    "emoji": "🧼",
+    "pic": "",
     "單字": "your",
     "音標": "/jɔːr/",
     "詞性": "pron.",
@@ -21710,6 +39078,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "youth",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is youth.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "youth",
     "音標": "",
     "詞性": "",
@@ -21720,6 +39096,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "yummy",
+    "ph": "",
+    "pos": "",
+    "zh": "",
+    "ex": "This is yummy.",
+    "exzh": "",
+    "emoji": "",
+    "pic": "",
     "單字": "yummy",
     "音標": "",
     "詞性": "",
@@ -21730,6 +39114,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "zebra",
+    "ph": "/ˈziː.brə/",
+    "pos": "n.",
+    "zh": "斑馬",
+    "ex": "Zebras have black stripes.",
+    "exzh": "斑馬有黑色的條紋。",
+    "emoji": "🦓",
+    "pic": "",
     "單字": "zebra",
     "音標": "/ˈziː.brə/",
     "詞性": "n.",
@@ -21740,6 +39132,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "zero",
+    "ph": "/ˈzɪr.oʊ/",
+    "pos": "num.",
+    "zh": "零",
+    "ex": "Zero comes before number one.",
+    "exzh": "數字零排在數字一前面。",
+    "emoji": "0️⃣",
+    "pic": "",
     "單字": "zero",
     "音標": "/ˈzɪr.oʊ/",
     "詞性": "num.",
@@ -21750,6 +39150,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "zipper",
+    "ph": "/ˈzɪp.ɚ/",
+    "pos": "n.",
+    "zh": "拉鍊",
+    "ex": "The backpack zipper is stuck.",
+    "exzh": "後背包的拉鍊卡住了。",
+    "emoji": "🤐",
+    "pic": "",
     "單字": "zipper",
     "音標": "/ˈzɪp.ɚ/",
     "詞性": "n.",
@@ -21760,6 +39168,14 @@ var WORDS = [
     "圖片": ""
   },
   {
+    "w": "zoo",
+    "ph": "/zuː/",
+    "pos": "n.",
+    "zh": "動物園",
+    "ex": "We see monkeys at the zoo.",
+    "exzh": "我們在動物園看到猴子。",
+    "emoji": "🦁",
+    "pic": "",
     "單字": "zoo",
     "音標": "/zuː/",
     "詞性": "n.",
@@ -21771,5 +39187,23 @@ var WORDS = [
   }
 ];
 
-DB = WORDS;
-wordsData = WORDS;
+var DB = WORDS;
+var imported = WORDS;
+var wordsData = WORDS;
+
+// 頁面載入完成時，確保 DB 與 imported 完整對齊並更新顯示數量
+window.addEventListener('DOMContentLoaded', function() {
+  if (typeof DB !== 'undefined') DB = WORDS;
+  if (typeof imported !== 'undefined') imported = WORDS;
+  
+  // 更新介面上的單字統計數量
+  var countSpans = document.querySelectorAll('.word-count, span, div');
+  countSpans.forEach(function(el) {
+    if (el.children.length === 0 && el.textContent.indexOf('個單字') !== -1) {
+      el.textContent = '共 ' + WORDS.length + ' 個單字';
+    }
+  });
+  if (typeof updateStats === 'function') updateStats();
+  if (typeof updateWordCount === 'function') updateWordCount();
+  if (typeof renderList === 'function') renderList();
+});
