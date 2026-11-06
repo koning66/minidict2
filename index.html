@@ -45,4 +45,265 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
 .say.small{width:42px;height:42px;font-size:1.15rem}
 .meta{font-family:Helvetica,Arial,sans-serif;text-align:center;margin-top:6px;color:#3F7F7B;font-size:1.15rem}
 .pos{display:inline-block;background:#BFE2D3;border-radius:999px;padding:1px 12px;margin-left:8px;font-size:1rem;color:#0F6F6B}
-.zh{text-align:center;font-size:2rem;font-weight:800;margin:1
+.zh{text-align:center;font-size:2rem;font-weight:800;margin:14px 0 4px}
+.ex{margin-top:16px;background:#F0D3CB;border-radius:20px;padding:12px 14px;display:flex;gap:10px;align-items:center}
+.ex p{margin:0}
+.ex .en{font-size:1.2rem;font-weight:800}
+.ex .cn{opacity:.8;margin-top:2px}
+.msg{text-align:center;padding:26px 12px}
+.sugs{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-top:14px}
+.near{margin-top:24px;background:#FFFFFF;border-radius:28px;padding:14px 14px 18px}
+.near h2{margin:0 0 10px;font-size:1.05rem;text-align:center}
+.chips{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
+.chip{border-radius:999px;padding:7px 14px;font-size:1.05rem;font-weight:800;background:#DADBF6}
+.chip:nth-child(3n+1){background:#F0D3CB}.chip:nth-child(3n+2){background:#BFE2D3}.chip:nth-child(3n){background:#DADBF6}
+.chip.now{background:#3F42C8;color:#FFFFFF}
+</style>
+</head>
+<body>
+<main>
+  <svg class="logo" viewBox="0 0 120 94" aria-hidden="true"><path d="M18 64A40 40 0 0 1 92 42" fill="none" stroke="#3F42C8" stroke-width="9" stroke-linecap="round"/><rect x="38" y="34" width="32" height="34" rx="14" fill="#E3B3A8" transform="rotate(-18 54 51)"/><circle cx="90" cy="64" r="8" fill="#EE7650"/><rect x="30" y="77" width="62" height="9" rx="4.5" fill="#BFE2D3"/></svg>
+  <h1>MiniDict</h1>
+  
+  <div class="search">
+    <input id="q" type="search" placeholder="輸入英文單字，例如 apple" autocomplete="off" autocapitalize="none" spellcheck="false">
+    <button class="go" id="go">查詢</button>
+  </div>
+
+  <div class="tools">
+    <button class="tbtn" id="imp" type="button">📂 匯入單字</button>
+    <button class="tbtn" id="clear" type="button" style="display:none">🧹 清除匯入</button>
+    <input id="file" type="file" accept=".csv,.json,.txt">
+    <span id="status"></span>
+  </div>
+  
+  <section class="stage" id="stage"></section>
+  <section class="near" id="near" style="display:none">
+    <h2>附近的單字</h2>
+    <div class="chips" id="chips"></div>
+  </section>
+</main>
+
+<!-- 外連獨立單字檔 -->
+<script src="words.js"></script>
+
+<script>
+if (!Array.prototype.find) {
+  Array.prototype.find = function(predicate) {
+    for (var i = 0; i < this.length; i++) {
+      if (predicate(this[i], i, this)) return this[i];
+    }
+    return undefined;
+  };
+}
+
+if (typeof WORDS === 'undefined') {
+  var WORDS = [];
+}
+
+function $(id){ return document.getElementById(id); }
+var stage = $('stage'), q = $('q');
+var IMG_BASE = 'img/';
+var POS_ICON = {'n.':'📝','v.':'🏃','adj.':'✨','adv.':'🎈','prep.':'📍','pron.':'👤','conj.':'🔗','num.':'🔢'};
+var STORE_KEY = 'kidsdict-imported-v1';
+
+function toEntry(r){
+  var s = function(i){ return String(r[i] == null ? '' : r[i]).trim(); };
+  return {w:s(0), ph:s(1), pos:s(2), zh:s(3), ex:s(4), exzh:s(5), em:s(6) || POS_ICON[s(2).split('/')[0]] || '📝', img:s(7)};
+}
+
+var DB = [];
+var imported = [];
+try {
+  imported = JSON.parse(localStorage.getItem(STORE_KEY) || '[]');
+  if (!Array.isArray(imported)) imported = [];
+} catch(e) {
+  imported = [];
+}
+
+function rebuild(){
+  var dict = {};
+  var all = WORDS.concat(imported);
+  DB = [];
+  for (var i = 0; i < all.length; i++) {
+    var e = toEntry(all[i]);
+    if (e.w && !dict[e.w.toLowerCase()]) {
+      dict[e.w.toLowerCase()] = true;
+      DB.push(e);
+    }
+  }
+  $('near').style.display = 'none';
+  $('clear').style.display = imported.length ? 'inline-block' : 'none';
+  $('status').textContent = imported.length ? ('共 ' + DB.length + ' 個單字（匯入 ' + imported.length + ' 個）') : ('共 ' + DB.length + ' 個單字');
+}
+
+function parseCSV(t){
+  t = t.replace(/^\uFEFF/, '');
+  var rows = []; var row = [], cur = '', inQuote = false;
+  for(var i = 0; i < t.length; i++){
+    var ch = t[i];
+    if(inQuote){
+      if(ch === '"'){
+        if(t[i+1] === '"'){ cur += '"'; i++; } else inQuote = false;
+      } else cur += ch;
+    } else if(ch === '"'){
+      inQuote = true;
+    } else if(ch === ','){
+      row.push(cur); cur = '';
+    } else if(ch === '\n' || ch === '\r'){
+      if(ch === '\r' && t[i+1] === '\n') i++;
+      row.push(cur); cur = ''; rows.push(row); row = [];
+    } else {
+      cur += ch;
+    }
+  }
+  if(cur !== '' || row.length){ row.push(cur); rows.push(row); }
+  return rows;
+}
+
+function esc(t){
+  return String(t).replace(/[&<>"]/g, function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];
+  });
+}
+
+function pic(d){
+  var emo = '<span class="emoji" aria-hidden="true"' + (d.img ? ' style="display:none"' : '') + '>' + esc(d.em) + '</span>';
+  if(!d.img) return emo;
+  var src = /^(data:|https?:|\/)/.test(d.img) ? d.img : (IMG_BASE + d.img);
+  return '<img class="pic" src="' + esc(src) + '" alt="" onerror="this.style.display=\'none\';this.nextSibling.style.display=\'block\'">' + emo;
+}
+
+function speak(text){
+  try {
+    var s = window.speechSynthesis;
+    if(!s) return;
+    s.cancel();
+    var u = new SpeechSynthesisUtterance(text);
+    u.lang = 'en-US';
+    u.rate = 0.8;
+    s.speak(u);
+  } catch(e) {}
+}
+
+function showWord(d){
+  q.value = d.w;
+  stage.innerHTML = '<article class="card">' +
+    pic(d) +
+    '<div class="wordrow"><h3 class="word">' + esc(d.w) + '</h3>' +
+      '<button class="say" id="sayw" aria-label="聽發音">🔊</button></div>' +
+    '<div class="meta">' + esc(d.ph) + '<span class="pos">' + esc(d.pos) + '</span></div>' +
+    '<div class="zh">' + esc(d.zh) + '</div>' +
+    '<div class="ex"><button class="say small" id="saye" aria-label="聽例句">🔊</button>' +
+      '<div><p class="en">' + esc(d.ex) + '</p><p class="cn">' + esc(d.exzh) + '</p></div></div>' +
+  '</article>';
+  $('sayw').onclick = function(){ speak(d.w); };
+  $('saye').onclick = function(){ speak(d.ex); };
+  renderNear(d);
+  speak(d.w);
+}
+
+function renderNear(d){
+  var idx = -1;
+  for(var i = 0; i < DB.length; i++){ if(DB[i] === d){ idx = i; break; } }
+  if(idx < 0) return;
+  var box = $('chips'); box.innerHTML = '';
+  var start = Math.max(0, idx - 10);
+  var end = Math.min(DB.length, idx + 11);
+  for(var j = start; j < end; j++){
+    var item = DB[j];
+    var b = chip(item);
+    if(item === d) b.className += ' now';
+    box.appendChild(b);
+  }
+  $('near').style.display = 'block';
+}
+
+function showMsg(emoji, text, list){
+  $('near').style.display = 'none';
+  var sugHtml = (list && list.length) ? '<div class="sugs"></div>' : '';
+  stage.innerHTML = '<div class="card msg"><span class="emoji">' + emoji + '</span><p>' + text + '</p>' + sugHtml + '</div>';
+  if(list && list.length){
+    var box = stage.querySelector('.sugs');
+    for(var i = 0; i < list.length; i++) box.appendChild(chip(list[i]));
+  }
+}
+
+function chip(d){
+  var b = document.createElement('button');
+  b.className = 'chip';
+  b.textContent = d.w;
+  b.onclick = function(){ showWord(d); };
+  return b;
+}
+
+function search(){
+  var t = q.value.trim().toLowerCase();
+  if(!t){ showMsg('🔍','先輸入一個英文單字吧！'); return; }
+  var hit = DB.find(function(d){ return d.w === t; });
+  if(hit){ showWord(hit); return; }
+  
+  var near = [];
+  for(var i = 0; i < DB.length; i++){
+    if(DB[i].w.indexOf(t) === 0 || DB[i].zh.indexOf(t) !== -1){
+      near.push(DB[i]);
+      if(near.length >= 8) break;
+    }
+  }
+  if(near.length === 1){ showWord(near[0]); return; }
+  if(near.length){ showMsg('🤔','你是想找這些字嗎？', near); return; }
+  showMsg('🐣','這個字還沒有收進來，試試下面的單字，或檢查拼字。');
+}
+
+q.addEventListener('search', function(){
+  if(!q.value){
+    showMsg('🐣','你好！輸入英文單字，我來告訴你意思和怎麼唸。');
+  }
+});
+
+$('go').onclick = search;
+q.addEventListener('keydown', function(e){ if(e.keyCode === 13 || e.key === 'Enter') search(); });
+
+$('imp').onclick = function(){
+  $('file').click();
+};
+
+$('file').addEventListener('change', function(e){
+  var f = e.target.files[0]; e.target.value = '';
+  if(!f) return;
+  var reader = new FileReader();
+  reader.onload = function(evt){
+    try {
+      var text = evt.target.result;
+      var rows = parseCSV(text);
+      var validRows = [];
+      for(var i = 0; i < rows.length; i++){
+        var r = rows[i];
+        if(r[0] && !/^(單字|word)$/i.test(r[0].trim())){
+          validRows.push(r);
+        }
+      }
+      if(!validRows.length){ showMsg('😵','檔案裡沒有找到單字，請確認格式。'); return; }
+      imported = validRows.slice(0, 5000);
+      try { localStorage.setItem(STORE_KEY, JSON.stringify(imported)); } catch(err){}
+      rebuild();
+      showMsg('🎉', '匯入完成，共 ' + imported.length + ' 個單字！');
+    } catch(err) {
+      showMsg('😵','讀取失敗，請確認檔案格式。');
+    }
+  };
+  reader.readAsText(f);
+});
+
+$('clear').onclick = function(){
+  imported = [];
+  try{ localStorage.removeItem(STORE_KEY); }catch(err){}
+  rebuild();
+  showMsg('🧹','已清除匯入的單字，回到內建單字。');
+};
+
+rebuild();
+showMsg('🐣','你好！輸入英文單字，我來告訴你意思和怎麼唸。');
+</script>
+</body>
+</html>
