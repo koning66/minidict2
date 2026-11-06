@@ -15,7 +15,12 @@ var WORDS = [
     "英文例句": "I see a little cat.",
     "例句中文": "我看見一隻小貓。",
     "表情符號": "🐱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐱",
+    "icon": "🐱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "a few",
@@ -33,7 +38,12 @@ var WORDS = [
     "英文例句": "I have a few apples in my bag.",
     "例句中文": "我的包包裡有幾顆蘋果。",
     "表情符號": "🍎",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍎",
+    "icon": "🍎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "a little",
@@ -51,7 +61,12 @@ var WORDS = [
     "英文例句": "Please give me a little water.",
     "例句中文": "請給我一點點水。",
     "表情符號": "💧",
-    "圖片": ""
+    "圖片": "",
+    "em": "💧",
+    "icon": "💧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "a lot",
@@ -69,7 +84,12 @@ var WORDS = [
     "英文例句": "Thank you a lot for your help.",
     "例句中文": "非常感謝你的幫忙。",
     "表情符號": "🙏",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙏",
+    "icon": "🙏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "a.m.",
@@ -87,7 +107,12 @@ var WORDS = [
     "英文例句": "School starts at eight a.m.",
     "例句中文": "學校在上午八點開始上課。",
     "表情符號": "⏰",
-    "圖片": ""
+    "圖片": "",
+    "em": "⏰",
+    "icon": "⏰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "able",
@@ -105,7 +130,12 @@ var WORDS = [
     "英文例句": "He is able to swim across the pool.",
     "例句中文": "他能夠游過這座游泳池。",
     "表情符號": "🏊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏊",
+    "icon": "🏊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "about",
@@ -123,7 +153,12 @@ var WORDS = [
     "英文例句": "Tell me about your pet.",
     "例句中文": "跟我聊聊你的寵物吧。",
     "表情符號": "🐶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐶",
+    "icon": "🐶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "above",
@@ -141,7 +176,12 @@ var WORDS = [
     "英文例句": "The plane flies above the clouds.",
     "例句中文": "飛機在雲層上方飛行。",
     "表情符號": "☁️",
-    "圖片": ""
+    "圖片": "",
+    "em": "☁️",
+    "icon": "☁️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "abroad",
@@ -159,7 +199,12 @@ var WORDS = [
     "英文例句": "We will travel abroad this summer.",
     "例句中文": "我們今年夏天要出國旅行。",
     "表情符號": "✈️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✈️",
+    "icon": "✈️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "absent",
@@ -177,7 +222,12 @@ var WORDS = [
     "英文例句": "Tom is absent from school today.",
     "例句中文": "湯姆今天學校請假缺席。",
     "表情符號": "🤒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤒",
+    "icon": "🤒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "accept",
@@ -195,7 +245,12 @@ var WORDS = [
     "英文例句": "She accepted my birthday gift.",
     "例句中文": "她收下了我的生日禮物。",
     "表情符號": "🎁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎁",
+    "icon": "🎁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "accident",
@@ -213,7 +268,12 @@ var WORDS = [
     "英文例句": "Be careful to avoid car accidents.",
     "例句中文": "行車請小心以避免車禍意外。",
     "表情符號": "🚗",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚗",
+    "icon": "🚗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "across",
@@ -231,7 +291,12 @@ var WORDS = [
     "英文例句": "Walk across the street safely.",
     "例句中文": "安全地走過街道。",
     "表情符號": "🚶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚶",
+    "icon": "🚶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "act",
@@ -249,7 +314,12 @@ var WORDS = [
     "英文例句": "Act out the story dialogue.",
     "例句中文": "把故事裡的對話演出來。",
     "表情符號": "🎭",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎭",
+    "icon": "🎭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "action",
@@ -267,7 +337,12 @@ var WORDS = [
     "英文例句": "Action speaks louder than words.",
     "例句中文": "坐而言不如起而行。",
     "表情符號": "🏃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏃",
+    "icon": "🏃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "active",
@@ -285,7 +360,12 @@ var WORDS = [
     "英文例句": "Monkeys are very active animals.",
     "例句中文": "猴子是非常好動活躍的動物。",
     "表情符號": "🐒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐒",
+    "icon": "🐒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "activity",
@@ -303,7 +383,12 @@ var WORDS = [
     "英文例句": "We enjoy fun outdoor activities.",
     "例句中文": "我們喜歡有趣的戶外活動。",
     "表情符號": "⚽",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚽",
+    "icon": "⚽",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "actor",
@@ -321,7 +406,12 @@ var WORDS = [
     "英文例句": "He is a famous movie actor.",
     "例句中文": "他是一位著名的電影男演員。",
     "表情符號": "🎬",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎬",
+    "icon": "🎬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "actress",
@@ -339,7 +429,12 @@ var WORDS = [
     "英文例句": "The actress smiled at everyone.",
     "例句中文": "那位女演員向大家微笑致意。",
     "表情符號": "🎭",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎭",
+    "icon": "🎭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "actually",
@@ -357,7 +452,12 @@ var WORDS = [
     "英文例句": "Actually, I like milk tea better.",
     "例句中文": "其實我更喜歡喝奶茶。",
     "表情符號": "🧋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧋",
+    "icon": "🧋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "add",
@@ -375,7 +475,12 @@ var WORDS = [
     "英文例句": "Add three and four to get seven.",
     "例句中文": "三加四等於七。",
     "表情符號": "➕",
-    "圖片": ""
+    "圖片": "",
+    "em": "➕",
+    "icon": "➕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "address",
@@ -393,7 +498,12 @@ var WORDS = [
     "英文例句": "Write your home address on paper.",
     "例句中文": "把你的家裡地址寫在紙上。",
     "表情符號": "🏡",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏡",
+    "icon": "🏡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "admire",
@@ -411,7 +521,12 @@ var WORDS = [
     "英文例句": "I admire my teacher very much.",
     "例句中文": "我非常欽佩我的老師。",
     "表情符號": "🌟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌟",
+    "icon": "🌟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "adult",
@@ -429,7 +544,12 @@ var WORDS = [
     "英文例句": "Children must be with an adult.",
     "例句中文": "小朋友必須有大人陪同。",
     "表情符號": "🧑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑",
+    "icon": "🧑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "advertisement",
@@ -447,7 +567,12 @@ var WORDS = [
     "英文例句": "I saw a fun toy advertisement.",
     "例句中文": "我看到了一個好玩的玩具廣告。",
     "表情符號": "📺",
-    "圖片": ""
+    "圖片": "",
+    "em": "📺",
+    "icon": "📺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "advice",
@@ -465,7 +590,12 @@ var WORDS = [
     "英文例句": "Listen to your doctor's advice.",
     "例句中文": "請聽從醫生的專業建議。",
     "表情符號": "💡",
-    "圖片": ""
+    "圖片": "",
+    "em": "💡",
+    "icon": "💡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "advise",
@@ -483,7 +613,12 @@ var WORDS = [
     "英文例句": "Mom advises me to sleep early.",
     "例句中文": "媽媽建議我早點上床睡覺。",
     "表情符號": "🛌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛌",
+    "icon": "🛌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "affect",
@@ -501,7 +636,12 @@ var WORDS = [
     "英文例句": "Rain will affect our picnic plan.",
     "例句中文": "下雨會影響我們的野餐計畫。",
     "表情符號": "🌧️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌧️",
+    "icon": "🌧️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "afraid",
@@ -519,7 +659,12 @@ var WORDS = [
     "英文例句": "Don't be afraid of the dark.",
     "例句中文": "不要害怕漆黑的夜晚。",
     "表情符號": "👻",
-    "圖片": ""
+    "圖片": "",
+    "em": "👻",
+    "icon": "👻",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "after",
@@ -537,7 +682,12 @@ var WORDS = [
     "英文例句": "Wash your hands after playing.",
     "例句中文": "玩耍之後一定要先洗洗手。",
     "表情符號": "🧼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧼",
+    "icon": "🧼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "afternoon",
@@ -555,7 +705,12 @@ var WORDS = [
     "英文例句": "We have sports in the afternoon.",
     "例句中文": "我們下午有體育課。",
     "表情符號": "🌇",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌇",
+    "icon": "🌇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "again",
@@ -573,7 +728,12 @@ var WORDS = [
     "英文例句": "Please read the sentence again.",
     "例句中文": "請再朗讀一次這個句子。",
     "表情符號": "🔁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔁",
+    "icon": "🔁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "against",
@@ -591,7 +751,12 @@ var WORDS = [
     "英文例句": "Lean your bike against the wall.",
     "例句中文": "把腳踏車靠在牆壁旁邊。",
     "表情符號": "🚲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚲",
+    "icon": "🚲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "age",
@@ -609,7 +774,12 @@ var WORDS = [
     "英文例句": "What is your little sister's age?",
     "例句中文": "你的小妹妹現在幾歲呢？",
     "表情符號": "🎂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎂",
+    "icon": "🎂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ago",
@@ -627,7 +797,12 @@ var WORDS = [
     "英文例句": "The train left ten minutes ago.",
     "例句中文": "火車在十分鐘前已經開走了。",
     "表情符號": "🚆",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚆",
+    "icon": "🚆",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "agree",
@@ -645,7 +820,12 @@ var WORDS = [
     "英文例句": "We all agree with your idea.",
     "例句中文": "我們都同意你的想法。",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ahead",
@@ -663,7 +843,12 @@ var WORDS = [
     "英文例句": "Look ahead when you ride a bike.",
     "例句中文": "騎車時眼睛要看著正前方。",
     "表情符號": "👀",
-    "圖片": ""
+    "圖片": "",
+    "em": "👀",
+    "icon": "👀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "aim",
@@ -681,7 +866,12 @@ var WORDS = [
     "英文例句": "Aim at the target and throw.",
     "例句中文": "瞄準目標然後把球投出去。",
     "表情符號": "🎯",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎯",
+    "icon": "🎯",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "air",
@@ -699,7 +889,12 @@ var WORDS = [
     "英文例句": "Fresh air in mountains is great.",
     "例句中文": "山上的新鮮空氣非常舒服。",
     "表情符號": "🍃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍃",
+    "icon": "🍃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "air conditioner",
@@ -717,7 +912,12 @@ var WORDS = [
     "英文例句": "Turn on the air conditioner today.",
     "例句中文": "今天天氣熱把冷氣機打開吧。",
     "表情符號": "❄️",
-    "圖片": ""
+    "圖片": "",
+    "em": "❄️",
+    "icon": "❄️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "airlines",
@@ -735,7 +935,12 @@ var WORDS = [
     "英文例句": "STARLUX Airlines offers nice trips.",
     "例句中文": "星宇航空提供舒適的飛行旅程。",
     "表情符號": "✈️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✈️",
+    "icon": "✈️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "airplane",
@@ -753,7 +958,12 @@ var WORDS = [
     "英文例句": "The airplane flies high above the clouds.",
     "例句中文": "飛機在高高的雲層上方飛行。",
     "表情符號": "✈️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✈️",
+    "icon": "✈️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "airport",
@@ -771,7 +981,12 @@ var WORDS = [
     "英文例句": "Planes take off at the airport.",
     "例句中文": "飛機在機場跑道起飛。",
     "表情符號": "🛫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛫",
+    "icon": "🛫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "alarm",
@@ -789,7 +1004,12 @@ var WORDS = [
     "英文例句": "My morning alarm rings at seven.",
     "例句中文": "我的晨間鬧鐘在七點響起。",
     "表情符號": "⏰",
-    "圖片": ""
+    "圖片": "",
+    "em": "⏰",
+    "icon": "⏰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "album",
@@ -807,7 +1027,12 @@ var WORDS = [
     "英文例句": "We looked at family photo albums.",
     "例句中文": "我們一起翻閱全家福相簿。",
     "表情符號": "📸",
-    "圖片": ""
+    "圖片": "",
+    "em": "📸",
+    "icon": "📸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "alike",
@@ -825,7 +1050,12 @@ var WORDS = [
     "英文例句": "The twin sisters look very alike.",
     "例句中文": "這對雙胞胎姊妹長得很相像。",
     "表情符號": "👭",
-    "圖片": ""
+    "圖片": "",
+    "em": "👭",
+    "icon": "👭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "alive",
@@ -843,7 +1073,12 @@ var WORDS = [
     "英文例句": "The delicate plant is still alive.",
     "例句中文": "這株嬌嫩的植物依然活得好好的。",
     "表情符號": "🌱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌱",
+    "icon": "🌱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "all",
@@ -861,7 +1096,12 @@ var WORDS = [
     "英文例句": "All the children love ice cream.",
     "例句中文": "所有的小朋友都喜歡吃冰淇淋。",
     "表情符號": "🍦",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍦",
+    "icon": "🍦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "alligator",
@@ -879,7 +1119,12 @@ var WORDS = [
     "英文例句": "Look at the big alligator.",
     "例句中文": "看看那隻大短吻鱷。",
     "表情符號": "🐊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐊",
+    "icon": "🐊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "allow",
@@ -897,7 +1142,12 @@ var WORDS = [
     "英文例句": "Mom allows me to play games.",
     "例句中文": "媽媽允許我玩遊戲。",
     "表情符號": "👌",
-    "圖片": ""
+    "圖片": "",
+    "em": "👌",
+    "icon": "👌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "almost",
@@ -915,7 +1165,12 @@ var WORDS = [
     "英文例句": "My homework is almost finished.",
     "例句中文": "我的家庭作業差不多寫完了。",
     "表情符號": "📝",
-    "圖片": ""
+    "圖片": "",
+    "em": "📝",
+    "icon": "📝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "alone",
@@ -933,7 +1188,12 @@ var WORDS = [
     "英文例句": "Never swim alone in deep rivers.",
     "例句中文": "千萬不要獨自一人在深河裡游泳。",
     "表情符號": "⚠️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚠️",
+    "icon": "⚠️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "along",
@@ -951,7 +1211,12 @@ var WORDS = [
     "英文例句": "Walk along the quiet river bank.",
     "例句中文": "沿著安靜的河岸悠閒散步。",
     "表情符號": "🚶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚶",
+    "icon": "🚶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "aloud",
@@ -969,7 +1234,12 @@ var WORDS = [
     "英文例句": "Read the English story aloud.",
     "例句中文": "大聲地朗讀這篇英文故事。",
     "表情符號": "🗣️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗣️",
+    "icon": "🗣️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "alphabet",
@@ -987,7 +1257,12 @@ var WORDS = [
     "英文例句": "Sing the English alphabet song.",
     "例句中文": "唱一首英文字母歌吧。",
     "表情符號": "🔤",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔤",
+    "icon": "🔤",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "already",
@@ -1005,7 +1280,12 @@ var WORDS = [
     "英文例句": "Dinner is already on the table.",
     "例句中文": "晚餐已經端上餐桌擺好了。",
     "表情符號": "🍲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍲",
+    "icon": "🍲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "also",
@@ -1023,7 +1303,12 @@ var WORDS = [
     "英文例句": "He can also play the piano.",
     "例句中文": "他也會彈鋼琴。",
     "表情符號": "🎹",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎹",
+    "icon": "🎹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "altogether",
@@ -1041,7 +1326,12 @@ var WORDS = [
     "英文例句": "That is fifty dollars altogether.",
     "例句中文": "那些東西總共是五十元整。",
     "表情符號": "💰",
-    "圖片": ""
+    "圖片": "",
+    "em": "💰",
+    "icon": "💰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "always",
@@ -1059,7 +1349,12 @@ var WORDS = [
     "英文例句": "Always be polite to others.",
     "例句中文": "對待他人總是要有禮貌。",
     "表情符號": "😇",
-    "圖片": ""
+    "圖片": "",
+    "em": "😇",
+    "icon": "😇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "am",
@@ -1077,7 +1372,12 @@ var WORDS = [
     "英文例句": "I am ready for school.",
     "例句中文": "我準備好上學了。",
     "表情符號": "🎒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎒",
+    "icon": "🎒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ambulance",
@@ -1095,7 +1395,12 @@ var WORDS = [
     "英文例句": "Give way to the loud ambulance.",
     "例句中文": "請讓路給鳴笛響亮的救護車。",
     "表情符號": "🚑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚑",
+    "icon": "🚑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "America",
@@ -1113,7 +1418,12 @@ var WORDS = [
     "英文例句": "New York is a big city in America.",
     "例句中文": "紐約是美國的一座大城市。",
     "表情符號": "🗽",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗽",
+    "icon": "🗽",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "American",
@@ -1131,7 +1441,12 @@ var WORDS = [
     "英文例句": "Baseball is popular in American culture.",
     "例句中文": "棒球在美國文化中非常受歡迎。",
     "表情符號": "⚾",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚾",
+    "icon": "⚾",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "among",
@@ -1149,7 +1464,12 @@ var WORDS = [
     "英文例句": "A small cat hides among flowers.",
     "例句中文": "一隻小貓咪躲在花叢之中。",
     "表情符號": "🐱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐱",
+    "icon": "🐱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "amount",
@@ -1167,7 +1487,12 @@ var WORDS = [
     "英文例句": "A large amount of milk was spilled.",
     "例句中文": "一大瓶牛奶不小心打翻了。",
     "表情符號": "🥛",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥛",
+    "icon": "🥛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "an",
@@ -1185,7 +1510,12 @@ var WORDS = [
     "英文例句": "She eats an orange.",
     "例句中文": "她吃了一顆柳橙。",
     "表情符號": "🍊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍊",
+    "icon": "🍊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ancient",
@@ -1203,7 +1533,12 @@ var WORDS = [
     "英文例句": "Dinosaurs lived in ancient times.",
     "例句中文": "恐龍生活在極為古老的時代。",
     "表情符號": "🦖",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦖",
+    "icon": "🦖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "and",
@@ -1221,7 +1556,12 @@ var WORDS = [
     "英文例句": "You and I are good friends.",
     "例句中文": "你和我是好朋友。",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "angel",
@@ -1239,7 +1579,12 @@ var WORDS = [
     "英文例句": "The little girl looked like an angel.",
     "例句中文": "那個小女孩笑得像個小天使。",
     "表情符號": "👼",
-    "圖片": ""
+    "圖片": "",
+    "em": "👼",
+    "icon": "👼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "anger",
@@ -1257,7 +1602,12 @@ var WORDS = [
     "英文例句": "He controlled his sudden anger.",
     "例句中文": "他慢慢平復了心中突然的怒氣。",
     "表情符號": "😤",
-    "圖片": ""
+    "圖片": "",
+    "em": "😤",
+    "icon": "😤",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "angry",
@@ -1275,7 +1625,12 @@ var WORDS = [
     "英文例句": "Take deep breaths when angry.",
     "例句中文": "生氣時請深呼吸。",
     "表情符號": "😠",
-    "圖片": ""
+    "圖片": "",
+    "em": "😠",
+    "icon": "😠",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "animal",
@@ -1293,7 +1648,12 @@ var WORDS = [
     "英文例句": "Lions and tigers are animals.",
     "例句中文": "獅子和老虎是動物。",
     "表情符號": "🐾",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐾",
+    "icon": "🐾",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ankle",
@@ -1311,7 +1671,12 @@ var WORDS = [
     "英文例句": "She twisted her ankle while running.",
     "例句中文": "她在跑步時不小心扭到了腳踝。",
     "表情符號": "🦶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦶",
+    "icon": "🦶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "another",
@@ -1329,7 +1694,12 @@ var WORDS = [
     "英文例句": "May I have another slice of cake?",
     "例句中文": "我可以再吃一塊美味蛋糕嗎？",
     "表情符號": "🍰",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍰",
+    "icon": "🍰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "answer",
@@ -1347,7 +1717,12 @@ var WORDS = [
     "英文例句": "Raise your hand to answer.",
     "例句中文": "舉手回答問題。",
     "表情符號": "✋",
-    "圖片": ""
+    "圖片": "",
+    "em": "✋",
+    "icon": "✋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ant",
@@ -1365,7 +1740,12 @@ var WORDS = [
     "英文例句": "Little ants carry sweet sugar.",
     "例句中文": "小螞蟻搬運甜甜的糖。",
     "表情符號": "🐜",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐜",
+    "icon": "🐜",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "any",
@@ -1383,7 +1763,12 @@ var WORDS = [
     "英文例句": "Do you have any questions for me?",
     "例句中文": "大家對我有任何問題想問嗎？",
     "表情符號": "❓",
-    "圖片": ""
+    "圖片": "",
+    "em": "❓",
+    "icon": "❓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "anyone",
@@ -1401,7 +1786,12 @@ var WORDS = [
     "英文例句": "Can anyone solve this math puzzle?",
     "例句中文": "有任何人能解開這道數學謎題嗎？",
     "表情符號": "🙋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙋",
+    "icon": "🙋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "anything",
@@ -1419,7 +1809,12 @@ var WORDS = [
     "英文例句": "Is there anything to drink inside?",
     "例句中文": "冰箱裡面有任何飲料能喝嗎？",
     "表情符號": "🧃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧃",
+    "icon": "🧃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "anywhere",
@@ -1437,7 +1832,12 @@ var WORDS = [
     "英文例句": "You can sit anywhere you like.",
     "例句中文": "你可以挑選任何喜歡的位子坐。",
     "表情符號": "🪑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪑",
+    "icon": "🪑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "apartment",
@@ -1455,7 +1855,12 @@ var WORDS = [
     "英文例句": "Our apartment has three rooms.",
     "例句中文": "我們的公寓有三個房間。",
     "表情符號": "🏢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏢",
+    "icon": "🏢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "apologize",
@@ -1473,7 +1878,12 @@ var WORDS = [
     "英文例句": "He apologized for breaking the cup.",
     "例句中文": "他為了打破杯子向媽媽誠懇道歉。",
     "表情符號": "🙇",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙇",
+    "icon": "🙇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "appear",
@@ -1491,7 +1901,12 @@ var WORDS = [
     "英文例句": "A rainbow appeared after the rain.",
     "例句中文": "大雨停歇後天空中出現了一道彩虹。",
     "表情符號": "🌈",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌈",
+    "icon": "🌈",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "apple",
@@ -1509,7 +1924,12 @@ var WORDS = [
     "英文例句": "An apple a day keeps the doctor away.",
     "例句中文": "一天一蘋果，醫生遠離我。",
     "表情符號": "🍎",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍎",
+    "icon": "🍎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "appreciate",
@@ -1527,7 +1947,12 @@ var WORDS = [
     "英文例句": "I really appreciate your kind help.",
     "例句中文": "我非常感激你熱心的協助與幫忙。",
     "表情符號": "💖",
-    "圖片": ""
+    "圖片": "",
+    "em": "💖",
+    "icon": "💖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "April",
@@ -1545,7 +1970,12 @@ var WORDS = [
     "英文例句": "April showers bring flowers.",
     "例句中文": "四月的陣雨滋潤了花朵。",
     "表情符號": "🌧️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌧️",
+    "icon": "🌧️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "are",
@@ -1563,7 +1993,12 @@ var WORDS = [
     "英文例句": "They are playing tag.",
     "例句中文": "他們正在玩捉迷藏。",
     "表情符號": "🏃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏃",
+    "icon": "🏃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "area",
@@ -1581,7 +2016,12 @@ var WORDS = [
     "英文例句": "Children play in the safety area.",
     "例句中文": "小朋友在安全防護區域內玩耍。",
     "表情符號": "🏞️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏞️",
+    "icon": "🏞️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "argue",
@@ -1599,7 +2039,12 @@ var WORDS = [
     "英文例句": "Don't argue over small silly things.",
     "例句中文": "不要為了雞毛蒜皮的小事爭吵。",
     "表情符號": "🗣️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗣️",
+    "icon": "🗣️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "arm",
@@ -1617,7 +2062,12 @@ var WORDS = [
     "英文例句": "Raise your right arm.",
     "例句中文": "舉起你的右手。",
     "表情符號": "💪",
-    "圖片": ""
+    "圖片": "",
+    "em": "💪",
+    "icon": "💪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "armchair",
@@ -1635,7 +2085,12 @@ var WORDS = [
     "英文例句": "Grandpa rests on a soft armchair.",
     "例句中文": "爺爺悠閒地坐在柔軟的扶手椅上。",
     "表情符號": "🪑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪑",
+    "icon": "🪑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "army",
@@ -1653,7 +2108,12 @@ var WORDS = [
     "英文例句": "Brave soldiers serve in the army.",
     "例句中文": "勇敢的士兵們在軍隊裡保家衛國。",
     "表情符號": "🎖️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎖️",
+    "icon": "🎖️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "around",
@@ -1671,7 +2131,12 @@ var WORDS = [
     "英文例句": "Run around the playground.",
     "例句中文": "繞著操場跑步。",
     "表情符號": "🏃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏃",
+    "icon": "🏃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "arrange",
@@ -1689,7 +2154,12 @@ var WORDS = [
     "英文例句": "Arrange your color books neatly.",
     "例句中文": "把你的彩色童書整齊地排在書架上。",
     "表情符號": "📚",
-    "圖片": ""
+    "圖片": "",
+    "em": "📚",
+    "icon": "📚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "arrive",
@@ -1707,7 +2177,12 @@ var WORDS = [
     "英文例句": "The yellow school bus arrives at eight.",
     "例句中文": "黃色校車在上午八點準時抵達學校。",
     "表情符號": "🚌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚌",
+    "icon": "🚌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "art",
@@ -1725,7 +2200,12 @@ var WORDS = [
     "英文例句": "Draw animals in art class.",
     "例句中文": "在美術課上畫出各種可愛動物。",
     "表情符號": "🎨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎨",
+    "icon": "🎨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "artist",
@@ -1743,7 +2223,12 @@ var WORDS = [
     "英文例句": "The artist painted a lovely cat.",
     "例句中文": "那位畫家畫了一隻可愛的小貓咪。",
     "表情符號": "🎨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎨",
+    "icon": "🎨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "as",
@@ -1761,7 +2246,12 @@ var WORDS = [
     "英文例句": "She runs as fast as a cheetah.",
     "例句中文": "她奔跑的速度像獵豹一樣飛快。",
     "表情符號": "🐆",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐆",
+    "icon": "🐆",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ask",
@@ -1779,7 +2269,12 @@ var WORDS = [
     "英文例句": "Ask the teacher if you have doubts.",
     "例句中文": "有疑惑時可以詢問老師。",
     "表情符號": "🙋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙋",
+    "icon": "🙋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "asleep",
@@ -1797,7 +2292,12 @@ var WORDS = [
     "英文例句": "The baby is fast asleep in crib.",
     "例句中文": "小嬰兒在嬰兒床上沉沉睡著了。",
     "表情符號": "👶",
-    "圖片": ""
+    "圖片": "",
+    "em": "👶",
+    "icon": "👶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "assistant",
@@ -1815,7 +2315,12 @@ var WORDS = [
     "英文例句": "The shop assistant helped us nicely.",
     "例句中文": "店裡的助理親切地為我們服務。",
     "表情符號": "🧑‍💼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍💼",
+    "icon": "🧑‍💼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "assume",
@@ -1833,7 +2338,12 @@ var WORDS = [
     "英文例句": "Don't assume without asking first.",
     "例句中文": "不要還沒開口詢問就擅自假定。",
     "表情符號": "💭",
-    "圖片": ""
+    "圖片": "",
+    "em": "💭",
+    "icon": "💭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "at",
@@ -1851,7 +2361,12 @@ var WORDS = [
     "英文例句": "School begins at eight.",
     "例句中文": "學校八點開始上課。",
     "表情符號": "⏰",
-    "圖片": ""
+    "圖片": "",
+    "em": "⏰",
+    "icon": "⏰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "attack",
@@ -1869,7 +2384,12 @@ var WORDS = [
     "英文例句": "Lions attack quick wild deer.",
     "例句中文": "獅子在草原上追逐攻擊野生鹿群。",
     "表情符號": "🦁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦁",
+    "icon": "🦁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "attention",
@@ -1887,7 +2407,12 @@ var WORDS = [
     "英文例句": "Pay close attention to teacher.",
     "例句中文": "上課請專心聆聽老師的講解。",
     "表情符號": "👂",
-    "圖片": ""
+    "圖片": "",
+    "em": "👂",
+    "icon": "👂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "August",
@@ -1905,7 +2430,12 @@ var WORDS = [
     "英文例句": "Family trips during sunny August.",
     "例句中文": "陽光普照的八月全家出遊。",
     "表情符號": "🏖️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏖️",
+    "icon": "🏖️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "aunt",
@@ -1923,7 +2453,12 @@ var WORDS = [
     "英文例句": "Aunt brought us delicious fruit.",
     "例句中文": "阿姨給我們帶來了美味的水果。",
     "表情符號": "👩",
-    "圖片": ""
+    "圖片": "",
+    "em": "👩",
+    "icon": "👩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "autumn",
@@ -1941,7 +2476,12 @@ var WORDS = [
     "英文例句": "Leaves turn bright red in autumn.",
     "例句中文": "樹上的葉子在秋天會變成艷麗的紅色。",
     "表情符號": "🍁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍁",
+    "icon": "🍁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "available",
@@ -1959,7 +2499,12 @@ var WORDS = [
     "英文例句": "The library seats are all available.",
     "例句中文": "圖書館裡的自習座位全部都可以使用。",
     "表情符號": "🪑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪑",
+    "icon": "🪑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "avoid",
@@ -1977,7 +2522,12 @@ var WORDS = [
     "英文例句": "Wash hands to avoid catching a cold.",
     "例句中文": "常常勤洗手可以避免不小心感冒。",
     "表情符號": "🧼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧼",
+    "icon": "🧼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "awake",
@@ -1995,7 +2545,12 @@ var WORDS = [
     "英文例句": "Wide awake early before dawn.",
     "例句中文": "破曉前就早早清醒了過來。",
     "表情符號": "👀",
-    "圖片": ""
+    "圖片": "",
+    "em": "👀",
+    "icon": "👀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "away",
@@ -2013,7 +2568,12 @@ var WORDS = [
     "英文例句": "The frightened rabbit hopped away.",
     "例句中文": "受到驚嚇的小兔子快步蹦蹦跳跳離開了。",
     "表情符號": "🐰",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐰",
+    "icon": "🐰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "baby",
@@ -2031,7 +2591,12 @@ var WORDS = [
     "英文例句": "The baby is sleeping.",
     "例句中文": "小嬰兒正在睡覺。",
     "表情符號": "👶",
-    "圖片": ""
+    "圖片": "",
+    "em": "👶",
+    "icon": "👶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "baby sitter",
@@ -2049,7 +2614,12 @@ var WORDS = [
     "英文例句": "The kind baby sitter read us stories.",
     "例句中文": "親切的保母阿姨講睡前故事給我們聽。",
     "表情符號": "👩‍🍼",
-    "圖片": ""
+    "圖片": "",
+    "em": "👩‍🍼",
+    "icon": "👩‍🍼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "back",
@@ -2067,7 +2637,12 @@ var WORDS = [
     "英文例句": "Keep your back straight when sitting.",
     "例句中文": "坐著時保持背部挺直。",
     "表情符號": "🧍",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧍",
+    "icon": "🧍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "backpack",
@@ -2085,7 +2660,12 @@ var WORDS = [
     "英文例句": "Zip up your school backpack.",
     "例句中文": "拉上你上學用的雙肩後背包拉鍊。",
     "表情符號": "🎒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎒",
+    "icon": "🎒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "backward",
@@ -2103,7 +2683,12 @@ var WORDS = [
     "英文例句": "Take three steps backward slowly.",
     "例句中文": "慢慢向後倒退走三步。",
     "表情符號": "🔙",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔙",
+    "icon": "🔙",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bacon",
@@ -2121,7 +2706,12 @@ var WORDS = [
     "英文例句": "Crispy bacon smells delicious.",
     "例句中文": "香脆的培根聞起來非常誘人。",
     "表情符號": "🥓",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥓",
+    "icon": "🥓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bad",
@@ -2139,7 +2729,12 @@ var WORDS = [
     "英文例句": "Smoking is bad for your health.",
     "例句中文": "抽菸對健康不好。",
     "表情符號": "👎",
-    "圖片": ""
+    "圖片": "",
+    "em": "👎",
+    "icon": "👎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "badminton",
@@ -2157,7 +2752,12 @@ var WORDS = [
     "英文例句": "Play badminton in gymnasium.",
     "例句中文": "在體育館裡打羽毛球。",
     "表情符號": "🏸",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏸",
+    "icon": "🏸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bag",
@@ -2175,7 +2775,12 @@ var WORDS = [
     "英文例句": "Put your books in the bag.",
     "例句中文": "把書放進書包裡。",
     "表情符號": "🎒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎒",
+    "icon": "🎒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bake",
@@ -2193,7 +2798,12 @@ var WORDS = [
     "英文例句": "Bake chocolate cookies today.",
     "例句中文": "今天一起烤巧克力餅乾吧。",
     "表情符號": "🍪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍪",
+    "icon": "🍪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bakery",
@@ -2211,7 +2821,12 @@ var WORDS = [
     "英文例句": "The bakery smells of hot bread.",
     "例句中文": "麵包店飄出熱騰騰的麵包香。",
     "表情符號": "🥖",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥖",
+    "icon": "🥖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "balcony",
@@ -2229,7 +2844,12 @@ var WORDS = [
     "英文例句": "Potted plants sit on balcony.",
     "例句中文": "盆栽植物整齊放在陽台上。",
     "表情符號": "🪴",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪴",
+    "icon": "🪴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ball",
@@ -2247,7 +2867,12 @@ var WORDS = [
     "英文例句": "Kick the soccer ball into the goal.",
     "例句中文": "把足球大力踢進球門裡得分吧。",
     "表情符號": "⚽",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚽",
+    "icon": "⚽",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "balloon",
@@ -2265,7 +2890,12 @@ var WORDS = [
     "英文例句": "The red balloon floated into sky.",
     "例句中文": "紅色的氣球輕輕飄向了蔚藍的天空。",
     "表情符號": "🎈",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎈",
+    "icon": "🎈",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "banana",
@@ -2283,7 +2913,12 @@ var WORDS = [
     "英文例句": "Monkeys love bananas.",
     "例句中文": "猴子喜愛香蕉。",
     "表情符號": "🍌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍌",
+    "icon": "🍌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "band",
@@ -2301,7 +2936,12 @@ var WORDS = [
     "英文例句": "The school music band played tunes.",
     "例句中文": "學校的管樂隊演奏了輕快悅耳的曲子。",
     "表情符號": "🎺",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎺",
+    "icon": "🎺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "band-aid",
@@ -2319,7 +2959,12 @@ var WORDS = [
     "英文例句": "Stick a cute band-aid on scraped finger.",
     "例句中文": "在擦傷的手指上貼一張可愛OK繃。",
     "表情符號": "🩹",
-    "圖片": ""
+    "圖片": "",
+    "em": "🩹",
+    "icon": "🩹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bandage",
@@ -2337,7 +2982,12 @@ var WORDS = [
     "英文例句": "Wrap a clean white bandage on sprain.",
     "例句中文": "用乾淨的白繃帶包紮扭傷部位。",
     "表情符號": "🩹",
-    "圖片": ""
+    "圖片": "",
+    "em": "🩹",
+    "icon": "🩹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bank",
@@ -2355,7 +3005,12 @@ var WORDS = [
     "英文例句": "People keep money safe in bank.",
     "例句中文": "人們在銀行安全地存錢。",
     "表情符號": "🏦",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏦",
+    "icon": "🏦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "barbecue",
@@ -2373,7 +3028,12 @@ var WORDS = [
     "英文例句": "We had a family barbecue outdoors.",
     "例句中文": "我們全家人在戶外開心地烤肉野餐。",
     "表情符號": "🍢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍢",
+    "icon": "🍢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "barber",
@@ -2391,7 +3051,12 @@ var WORDS = [
     "英文例句": "The skilled barber trimmed my hair.",
     "例句中文": "熟練的理髮師俐落地替我修剪了頭髮。",
     "表情符號": "💈",
-    "圖片": ""
+    "圖片": "",
+    "em": "💈",
+    "icon": "💈",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bark",
@@ -2409,7 +3074,12 @@ var WORDS = [
     "英文例句": "Dogs bark when happy.",
     "例句中文": "狗狗開心時會輕快吠叫。",
     "表情符號": "🐶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐶",
+    "icon": "🐶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "base",
@@ -2427,7 +3097,12 @@ var WORDS = [
     "英文例句": "Run fast to the next baseball base.",
     "例句中文": "邁開步伐全力衝向下一座棒球壘包。",
     "表情符號": "⚾",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚾",
+    "icon": "⚾",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "baseball",
@@ -2445,7 +3120,12 @@ var WORDS = [
     "英文例句": "Baseball is my favorite sport.",
     "例句中文": "棒球是我日常最熱愛投入的運動。",
     "表情符號": "⚾",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚾",
+    "icon": "⚾",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "basement",
@@ -2463,7 +3143,12 @@ var WORDS = [
     "英文例句": "We store empty boxes in basement.",
     "例句中文": "我們把多餘的空紙箱整齊收在地下室。",
     "表情符號": "📦",
-    "圖片": ""
+    "圖片": "",
+    "em": "📦",
+    "icon": "📦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "basic",
@@ -2481,7 +3166,12 @@ var WORDS = [
     "英文例句": "Learn basic English words every day.",
     "例句中文": "每天穩健學習基礎實用的實用單字。",
     "表情符號": "🔤",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔤",
+    "icon": "🔤",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "basket",
@@ -2499,7 +3189,12 @@ var WORDS = [
     "英文例句": "A basket full of ripe fruit.",
     "例句中文": "一個裝滿了成熟新鮮水果的竹籃。",
     "表情符號": "🧺",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧺",
+    "icon": "🧺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "basketball",
@@ -2517,7 +3212,12 @@ var WORDS = [
     "英文例句": "Shoot the orange basketball into hoop.",
     "例句中文": "把橘色的籃球精準投進籃框當中。",
     "表情符號": "🏀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏀",
+    "icon": "🏀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bat",
@@ -2535,7 +3235,12 @@ var WORDS = [
     "英文例句": "Bats fly at night.",
     "例句中文": "蝙蝠在夜晚飛行。",
     "表情符號": "🦇",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦇",
+    "icon": "🦇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bath",
@@ -2553,7 +3258,12 @@ var WORDS = [
     "英文例句": "Take a warm relaxing bath.",
     "例句中文": "洗個舒服溫暖的熱水澡吧。",
     "表情符號": "🛁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛁",
+    "icon": "🛁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bathe",
@@ -2571,7 +3281,12 @@ var WORDS = [
     "英文例句": "Bathe the dirty dog cleanly.",
     "例句中文": "把骯髒的小狗洗得乾乾淨淨。",
     "表情符號": "🛁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛁",
+    "icon": "🛁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bathroom",
@@ -2589,7 +3304,12 @@ var WORDS = [
     "英文例句": "Wash hands in the bathroom.",
     "例句中文": "去浴室洗洗手。",
     "表情符號": "🛁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛁",
+    "icon": "🛁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "battery",
@@ -2607,7 +3327,12 @@ var WORDS = [
     "英文例句": "Put a new battery into clock.",
     "例句中文": "為牆上的時鐘換上一顆全新電池。",
     "表情符號": "🔋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔋",
+    "icon": "🔋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "be",
@@ -2625,7 +3350,12 @@ var WORDS = [
     "英文例句": "Be quiet in class.",
     "例句中文": "課堂上請保持安靜。",
     "表情符號": "🤫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤫",
+    "icon": "🤫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "beach",
@@ -2643,7 +3373,12 @@ var WORDS = [
     "英文例句": "Let's collect seashells on the beach.",
     "例句中文": "我們去海灘撿貝殼吧。",
     "表情符號": "🏖️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏖️",
+    "icon": "🏖️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bean",
@@ -2661,7 +3396,12 @@ var WORDS = [
     "英文例句": "Green beans are full of fiber.",
     "例句中文": "四季豆富含膳食纖維。",
     "表情符號": "🫘",
-    "圖片": ""
+    "圖片": "",
+    "em": "🫘",
+    "icon": "🫘",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bear",
@@ -2679,7 +3419,12 @@ var WORDS = [
     "英文例句": "A big brown bear catches fish.",
     "例句中文": "一隻大棕熊在抓魚。",
     "表情符號": "🐻",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐻",
+    "icon": "🐻",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "beard",
@@ -2697,7 +3442,12 @@ var WORDS = [
     "英文例句": "Santa Claus has a long white beard.",
     "例句中文": "聖誕老公公留著長長濃密的白鬍子。",
     "表情符號": "🎅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎅",
+    "icon": "🎅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "beat",
@@ -2715,7 +3465,12 @@ var WORDS = [
     "英文例句": "We beat the other team in race.",
     "例句中文": "我們在接力賽跑中擊敗了對手隊伍。",
     "表情符號": "🏆",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏆",
+    "icon": "🏆",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "beautiful",
@@ -2733,7 +3488,12 @@ var WORDS = [
     "英文例句": "Cherry blossoms are very beautiful.",
     "例句中文": "春天盛開的粉紅櫻花顯得格外美麗。",
     "表情符號": "🌸",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌸",
+    "icon": "🌸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "beauty",
@@ -2751,7 +3511,12 @@ var WORDS = [
     "英文例句": "Admire the natural beauty of trees.",
     "例句中文": "靜靜欣賞大自然草木所展現的美好。",
     "表情符號": "🌺",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌺",
+    "icon": "🌺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "beaver",
@@ -2769,7 +3534,12 @@ var WORDS = [
     "英文例句": "Busy beavers build wooden dams.",
     "例句中文": "忙碌的海狸用樹枝築起水壩。",
     "表情符號": "🦫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦫",
+    "icon": "🦫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "because",
@@ -2787,7 +3557,12 @@ var WORDS = [
     "英文例句": "I am happy because it is Friday.",
     "例句中文": "因為今天是星期五，所以我很快樂。",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "become",
@@ -2805,7 +3580,12 @@ var WORDS = [
     "英文例句": "Caterpillars become lovely butterflies.",
     "例句中文": "毛毛蟲長大後會羽化變成美麗的蝴蝶。",
     "表情符號": "🦋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦋",
+    "icon": "🦋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bed",
@@ -2823,7 +3603,12 @@ var WORDS = [
     "英文例句": "Go to bed early tonight.",
     "例句中文": "今晚早點上床睡覺。",
     "表情符號": "🛏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛏️",
+    "icon": "🛏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bedroom",
@@ -2841,7 +3626,12 @@ var WORDS = [
     "英文例句": "My bedroom is cozy.",
     "例句中文": "我的臥室很舒適。",
     "表情符號": "🛏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛏️",
+    "icon": "🛏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bee",
@@ -2859,7 +3649,12 @@ var WORDS = [
     "英文例句": "The bee buzzes around flower.",
     "例句中文": "蜜蜂在花朵旁嗡嗡叫。",
     "表情符號": "🐝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐝",
+    "icon": "🐝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "beef",
@@ -2877,7 +3672,12 @@ var WORDS = [
     "英文例句": "We had hot beef noodle soup.",
     "例句中文": "我們吃了熱騰騰的牛肉麵。",
     "表情符號": "🥩",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥩",
+    "icon": "🥩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "been",
@@ -2895,7 +3695,12 @@ var WORDS = [
     "英文例句": "Have you been to Taipei?",
     "例句中文": "你去過台北嗎？",
     "表情符號": "🏙️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏙️",
+    "icon": "🏙️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "beer",
@@ -2913,7 +3718,12 @@ var WORDS = [
     "英文例句": "Only adults are allowed to drink beer.",
     "例句中文": "只有年滿十八歲的大人才能喝啤酒。",
     "表情符號": "🍺",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍺",
+    "icon": "🍺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "beetle",
@@ -2931,7 +3741,12 @@ var WORDS = [
     "英文例句": "The horned beetle has a shiny black shell.",
     "例句中文": "獨角仙甲蟲有著光亮的黑色外殼。",
     "表情符號": "🪲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪲",
+    "icon": "🪲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "before",
@@ -2949,7 +3764,12 @@ var WORDS = [
     "英文例句": "Brush your clean teeth before bed.",
     "例句中文": "在晚上上床睡覺前一定要把牙齒刷乾淨。",
     "表情符號": "🪥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪥",
+    "icon": "🪥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "begin",
@@ -2967,7 +3787,12 @@ var WORDS = [
     "英文例句": "Let class begin right now.",
     "例句中文": "讓課堂現在馬上開始吧。",
     "表情符號": "🔔",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔔",
+    "icon": "🔔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "beginner",
@@ -2985,7 +3810,12 @@ var WORDS = [
     "英文例句": "This book is great for a beginner.",
     "例句中文": "這本英語入門書對初學者來說非常適合。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "beginning",
@@ -3003,7 +3833,12 @@ var WORDS = [
     "英文例句": "Read the story from the beginning.",
     "例句中文": "從故事最一開始的起頭章節好好讀起。",
     "表情符號": "🎬",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎬",
+    "icon": "🎬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "behave",
@@ -3021,7 +3856,12 @@ var WORDS = [
     "英文例句": "Please behave well in public places.",
     "例句中文": "在公共圖書館等場所請遵守秩序講規矩。",
     "表情符號": "😇",
-    "圖片": ""
+    "圖片": "",
+    "em": "😇",
+    "icon": "😇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "behind",
@@ -3039,7 +3879,12 @@ var WORDS = [
     "英文例句": "The shy cat hides behind the sofa.",
     "例句中文": "害羞膽小的小貓咪偷偷躲在沙發後面。",
     "表情符號": "🛋️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛋️",
+    "icon": "🛋️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "believe",
@@ -3057,7 +3902,12 @@ var WORDS = [
     "英文例句": "Always believe in yourself.",
     "例句中文": "請永遠都要堅定地相信自己的潛力。",
     "表情符號": "🌟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌟",
+    "icon": "🌟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bell",
@@ -3075,7 +3925,12 @@ var WORDS = [
     "英文例句": "The school bell rang loudly.",
     "例句中文": "下課時學校的鐘聲清脆響亮地響起。",
     "表情符號": "🔔",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔔",
+    "icon": "🔔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "belong",
@@ -3093,7 +3948,12 @@ var WORDS = [
     "英文例句": "This blue pencil belongs to me.",
     "例句中文": "這支漂亮的藍色鉛筆是屬於我的所有物。",
     "表情符號": "✏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✏️",
+    "icon": "✏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "below",
@@ -3111,7 +3971,12 @@ var WORDS = [
     "英文例句": "Sign your full name below line.",
     "例句中文": "在黑色橫線下方工整簽上你的全名。",
     "表情符號": "✍️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✍️",
+    "icon": "✍️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "belt",
@@ -3129,7 +3994,12 @@ var WORDS = [
     "英文例句": "Fasten your leather belt.",
     "例句中文": "繫緊你的皮帶。",
     "表情符號": "🪢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪢",
+    "icon": "🪢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bench",
@@ -3147,7 +4017,12 @@ var WORDS = [
     "英文例句": "We sat on a wooden park bench.",
     "例句中文": "我們並肩坐在公園綠蔭下的木製長椅上。",
     "表情符號": "🪵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪵",
+    "icon": "🪵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "beside",
@@ -3165,7 +4040,12 @@ var WORDS = [
     "英文例句": "Sit beside me on the school bus.",
     "例句中文": "在搭乘校車時請走到我身邊坐在一起吧。",
     "表情符號": "🚌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚌",
+    "icon": "🚌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "besides",
@@ -3183,7 +4063,12 @@ var WORDS = [
     "英文例句": "I like apples, and oranges besides.",
     "例句中文": "我喜歡吃蘋果，除此之外我也很愛柳橙。",
     "表情符號": "🍊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍊",
+    "icon": "🍊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "between",
@@ -3201,7 +4086,12 @@ var WORDS = [
     "英文例句": "Sit between Mom and Dad.",
     "例句中文": "坐在媽媽和爸爸中間。",
     "表情符號": "👨‍👩‍👦",
-    "圖片": ""
+    "圖片": "",
+    "em": "👨‍👩‍👦",
+    "icon": "👨‍👩‍👦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "beyond",
@@ -3219,7 +4109,12 @@ var WORDS = [
     "英文例句": "The bright sun set beyond mountains.",
     "例句中文": "夕陽在綿延起伏的高山遠方緩緩落下。",
     "表情符號": "🌄",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌄",
+    "icon": "🌄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bicycle",
@@ -3237,7 +4132,12 @@ var WORDS = [
     "英文例句": "Wear a safety helmet on bicycle.",
     "例句中文": "騎乘雙輪腳踏車時記得戴好安全帽。",
     "表情符號": "🚲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚲",
+    "icon": "🚲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "big",
@@ -3255,7 +4155,12 @@ var WORDS = [
     "英文例句": "Elephants have big ears.",
     "例句中文": "大象有大大的耳朵。",
     "表情符號": "🐘",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐘",
+    "icon": "🐘",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bike",
@@ -3273,7 +4178,12 @@ var WORDS = [
     "英文例句": "I ride my bike in the park.",
     "例句中文": "我在公園裡騎腳踏車。",
     "表情符號": "🚲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚲",
+    "icon": "🚲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bill",
@@ -3291,7 +4201,12 @@ var WORDS = [
     "英文例句": "Dad paid the dinner food bill.",
     "例句中文": "爸爸在櫃檯結帳支付了今晚的晚餐費用。",
     "表情符號": "💵",
-    "圖片": ""
+    "圖片": "",
+    "em": "💵",
+    "icon": "💵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bin",
@@ -3309,7 +4224,12 @@ var WORDS = [
     "英文例句": "Drop empty cans into the recycle bin.",
     "例句中文": "把空鐵罐投入資源回收箱。",
     "表情符號": "🗑️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗑️",
+    "icon": "🗑️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "biology",
@@ -3327,7 +4247,12 @@ var WORDS = [
     "英文例句": "We study plant cells in biology.",
     "例句中文": "我們在生物學課堂上觀察植物的微小細胞。",
     "表情符號": "🔬",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔬",
+    "icon": "🔬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bird",
@@ -3345,7 +4270,12 @@ var WORDS = [
     "英文例句": "A small bird sings in the tree.",
     "例句中文": "一隻小鳥在樹上唱歌。",
     "表情符號": "🐦",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐦",
+    "icon": "🐦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "birthday",
@@ -3363,7 +4293,12 @@ var WORDS = [
     "英文例句": "Happy birthday to you, my dear friend!",
     "例句中文": "祝我最親愛的好朋友生日快樂、心想事成！",
     "表情符號": "🎂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎂",
+    "icon": "🎂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "biscuit",
@@ -3381,7 +4316,12 @@ var WORDS = [
     "英文例句": "Dunk crunchy biscuits in milk.",
     "例句中文": "把香脆的小餅乾浸泡在牛奶裡吃。",
     "表情符號": "🍪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍪",
+    "icon": "🍪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bite",
@@ -3399,7 +4339,12 @@ var WORDS = [
     "英文例句": "Take a small careful bite of apple.",
     "例句中文": "輕輕咬一小口香甜爽脆的紅蘋果試試。",
     "表情符號": "🍎",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍎",
+    "icon": "🍎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bitter",
@@ -3417,7 +4362,12 @@ var WORDS = [
     "英文例句": "The herbal medicine tastes bitter.",
     "例句中文": "這碗熬煮好的深色中藥嚐起來特別苦。",
     "表情符號": "🍵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍵",
+    "icon": "🍵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "black",
@@ -3435,7 +4385,12 @@ var WORDS = [
     "英文例句": "The cat is black.",
     "例句中文": "那隻貓是黑色的。",
     "表情符號": "⬛",
-    "圖片": ""
+    "圖片": "",
+    "em": "⬛",
+    "icon": "⬛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "blackboard",
@@ -3453,7 +4408,12 @@ var WORDS = [
     "英文例句": "Write with white chalk on board.",
     "例句中文": "用白粉筆在黑板上寫字。",
     "表情符號": "⬛",
-    "圖片": ""
+    "圖片": "",
+    "em": "⬛",
+    "icon": "⬛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "blame",
@@ -3471,7 +4431,12 @@ var WORDS = [
     "英文例句": "Don't blame others for your mistake.",
     "例句中文": "不要把自己犯下的錯誤轉頭推卸怪罪別人。",
     "表情符號": "🙅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙅",
+    "icon": "🙅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "blank",
@@ -3489,7 +4454,12 @@ var WORDS = [
     "英文例句": "Fill in the blank with correct word.",
     "例句中文": "在題目留下的空白處填入正確的英文單字。",
     "表情符號": "✏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✏️",
+    "icon": "✏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "blanket",
@@ -3507,7 +4477,12 @@ var WORDS = [
     "英文例句": "Cover yourself with a warm blanket.",
     "例句中文": "天冷時給自己蓋上一條溫暖毛毯。",
     "表情符號": "🛏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛏️",
+    "icon": "🛏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bless",
@@ -3525,7 +4500,12 @@ var WORDS = [
     "英文例句": "God bless you and your family.",
     "例句中文": "願平安與喜樂永遠眷顧祝福你與家人。",
     "表情符號": "🙏",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙏",
+    "icon": "🙏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "blind",
@@ -3543,7 +4523,12 @@ var WORDS = [
     "英文例句": "Guide dogs assist blind walkers.",
     "例句中文": "導盲犬協助視障朋友行走。",
     "表情符號": "🦮",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦮",
+    "icon": "🦮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "block",
@@ -3561,7 +4546,12 @@ var WORDS = [
     "英文例句": "Walk two blocks to the bookstore.",
     "例句中文": "朝前方走過兩個街區就能看見那家書店。",
     "表情符號": "🏢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏢",
+    "icon": "🏢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "blood",
@@ -3579,7 +4569,12 @@ var WORDS = [
     "英文例句": "Red blood carries oxygen in body.",
     "例句中文": "鮮紅色的血液在身體血管裡輸送著氧氣。",
     "表情符號": "🩸",
-    "圖片": ""
+    "圖片": "",
+    "em": "🩸",
+    "icon": "🩸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "blouse",
@@ -3597,7 +4592,12 @@ var WORDS = [
     "英文例句": "Mom wore a pretty silk blouse.",
     "例句中文": "媽媽今天穿了一件質料高雅的絲質女襯衫。",
     "表情符號": "👚",
-    "圖片": ""
+    "圖片": "",
+    "em": "👚",
+    "icon": "👚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "blow",
@@ -3615,7 +4615,12 @@ var WORDS = [
     "英文例句": "Blow out birthday candles.",
     "例句中文": "吹熄蛋糕上的生日蠟燭。",
     "表情符號": "🎂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎂",
+    "icon": "🎂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "blue",
@@ -3633,7 +4638,12 @@ var WORDS = [
     "英文例句": "The sky is blue today.",
     "例句中文": "今天的天空很藍。",
     "表情符號": "🔵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔵",
+    "icon": "🔵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "board",
@@ -3651,7 +4661,12 @@ var WORDS = [
     "英文例句": "Look at the teacher's board.",
     "例句中文": "看老師寫的板書。",
     "表情符號": "📋",
-    "圖片": ""
+    "圖片": "",
+    "em": "📋",
+    "icon": "📋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "boat",
@@ -3669,7 +4684,12 @@ var WORDS = [
     "英文例句": "Row your boat gently.",
     "例句中文": "輕輕地划著你的小船。",
     "表情符號": "🛶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛶",
+    "icon": "🛶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "body",
@@ -3687,7 +4707,12 @@ var WORDS = [
     "英文例句": "Exercise keeps your body healthy.",
     "例句中文": "運動能讓身體保持健康。",
     "表情符號": "🧍",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧍",
+    "icon": "🧍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "boil",
@@ -3705,7 +4730,12 @@ var WORDS = [
     "英文例句": "Boil water for sweet herbal tea.",
     "例句中文": "燒開水來泡甜甜的花草茶。",
     "表情符號": "🫖",
-    "圖片": ""
+    "圖片": "",
+    "em": "🫖",
+    "icon": "🫖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bomb",
@@ -3723,7 +4753,12 @@ var WORDS = [
     "英文例句": "Stay away from danger zones.",
     "例句中文": "隨時保持警覺並遠離任何危險未爆物品。",
     "表情符號": "💣",
-    "圖片": ""
+    "圖片": "",
+    "em": "💣",
+    "icon": "💣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bone",
@@ -3741,7 +4776,12 @@ var WORDS = [
     "英文例句": "Dogs love chewing bones.",
     "例句中文": "狗狗喜歡啃咬骨頭。",
     "表情符號": "🦴",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦴",
+    "icon": "🦴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "book",
@@ -3759,7 +4799,12 @@ var WORDS = [
     "英文例句": "Open your English book.",
     "例句中文": "翻開你的英文書。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bookcase",
@@ -3777,7 +4822,12 @@ var WORDS = [
     "英文例句": "The bookcase is full of novels.",
     "例句中文": "書櫃裡擺滿了故事書。",
     "表情符號": "📚",
-    "圖片": ""
+    "圖片": "",
+    "em": "📚",
+    "icon": "📚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bookmark",
@@ -3795,7 +4845,12 @@ var WORDS = [
     "英文例句": "Place a cute bookmark on page ten.",
     "例句中文": "在第十頁放進一張可愛的書籤。",
     "表情符號": "🔖",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔖",
+    "icon": "🔖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bookstore",
@@ -3813,7 +4868,12 @@ var WORDS = [
     "英文例句": "We bought novel books at bookstore.",
     "例句中文": "我們在巷口的書店買了幾本喜愛的小說。",
     "表情符號": "📚",
-    "圖片": ""
+    "圖片": "",
+    "em": "📚",
+    "icon": "📚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "boots",
@@ -3831,7 +4891,12 @@ var WORDS = [
     "英文例句": "Wear yellow rain boots today.",
     "例句中文": "今天出門穿黃色雨靴吧。",
     "表情符號": "👢",
-    "圖片": ""
+    "圖片": "",
+    "em": "👢",
+    "icon": "👢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bored",
@@ -3849,7 +4914,12 @@ var WORDS = [
     "英文例句": "Read a riddle book when feeling bored.",
     "例句中文": "感到無聊時不妨讀一本益智謎語書。",
     "表情符號": "😑",
-    "圖片": ""
+    "圖片": "",
+    "em": "😑",
+    "icon": "😑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "boring",
@@ -3867,7 +4937,12 @@ var WORDS = [
     "英文例句": "The long movie was quite boring.",
     "例句中文": "那部漫長的電影相當沉悶無聊。",
     "表情符號": "🥱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥱",
+    "icon": "🥱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "born",
@@ -3885,7 +4960,12 @@ var WORDS = [
     "英文例句": "She was born in lovely Taiwan.",
     "例句中文": "她在風景秀麗且人情溫暖的台灣出生。",
     "表情符號": "🇹🇼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🇹🇼",
+    "icon": "🇹🇼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "borrow",
@@ -3903,7 +4983,12 @@ var WORDS = [
     "英文例句": "May I borrow your color crayon?",
     "例句中文": "我可以借你的彩色蠟筆嗎？",
     "表情符號": "🖍️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🖍️",
+    "icon": "🖍️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "boss",
@@ -3921,7 +5006,12 @@ var WORDS = [
     "英文例句": "The company boss is kind to staff.",
     "例句中文": "這家公司的老闆對待員工非常客氣體貼。",
     "表情符號": "👔",
-    "圖片": ""
+    "圖片": "",
+    "em": "👔",
+    "icon": "👔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "both",
@@ -3939,7 +5029,12 @@ var WORDS = [
     "英文例句": "Both of my hands are clean.",
     "例句中文": "吃點心之前我的雙手都已經徹底洗乾淨了。",
     "表情符號": "👐",
-    "圖片": ""
+    "圖片": "",
+    "em": "👐",
+    "icon": "👐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bother",
@@ -3957,7 +5052,12 @@ var WORDS = [
     "英文例句": "Don't bother brother while studying.",
     "例句中文": "哥哥在用功讀書時請不要過去吵鬧打擾他。",
     "表情符號": "🤫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤫",
+    "icon": "🤫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bottle",
@@ -3975,7 +5075,12 @@ var WORDS = [
     "英文例句": "Drink water from your own bottle.",
     "例句中文": "養成用自己專屬環保水瓶多喝水的好習慣。",
     "表情符號": "🧴",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧴",
+    "icon": "🧴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bottom",
@@ -3993,7 +5098,12 @@ var WORDS = [
     "英文例句": "Sign your name at bottom of page.",
     "例句中文": "在書頁的最下方簽上你的名字。",
     "表情符號": "⬇️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⬇️",
+    "icon": "⬇️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bounce",
@@ -4011,7 +5121,12 @@ var WORDS = [
     "英文例句": "Bounce the basketball five times.",
     "例句中文": "拍打籃球彈跳五次。",
     "表情符號": "🏀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏀",
+    "icon": "🏀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bow",
@@ -4029,7 +5144,12 @@ var WORDS = [
     "英文例句": "She tied a pretty ribbon into a bow.",
     "例句中文": "她把緞帶綁成漂亮的蝴蝶結。",
     "表情符號": "🎀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎀",
+    "icon": "🎀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bowl",
@@ -4047,7 +5167,12 @@ var WORDS = [
     "英文例句": "Eat warm soup from this bowl.",
     "例句中文": "用這個陶瓷大碗盛裝熱騰騰的營養蔬菜湯。",
     "表情符號": "🥣",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥣",
+    "icon": "🥣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bowling",
@@ -4065,7 +5190,12 @@ var WORDS = [
     "英文例句": "We had fun playing bowling together.",
     "例句中文": "我們週末大家聚在一起打保齡球玩得很高興。",
     "表情符號": "🎳",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎳",
+    "icon": "🎳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "box",
@@ -4083,7 +5213,12 @@ var WORDS = [
     "英文例句": "What is inside the gift box?",
     "例句中文": "禮物盒裡面裝了什麼？",
     "表情符號": "📦",
-    "圖片": ""
+    "圖片": "",
+    "em": "📦",
+    "icon": "📦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "boy",
@@ -4101,7 +5236,12 @@ var WORDS = [
     "英文例句": "The boy is playing soccer.",
     "例句中文": "那個男孩在踢足球。",
     "表情符號": "👦",
-    "圖片": ""
+    "圖片": "",
+    "em": "👦",
+    "icon": "👦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "branch",
@@ -4119,7 +5259,12 @@ var WORDS = [
     "英文例句": "A squirrel hopped onto a high branch.",
     "例句中文": "小松鼠輕盈地躍上高高的樹枝。",
     "表情符號": "🪵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪵",
+    "icon": "🪵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "brave",
@@ -4137,7 +5282,12 @@ var WORDS = [
     "英文例句": "Firefighters are brave heroes.",
     "例句中文": "消防隊員是勇敢無比的英雄。",
     "表情符號": "🚒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚒",
+    "icon": "🚒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bread",
@@ -4155,7 +5305,12 @@ var WORDS = [
     "英文例句": "I eat bread for breakfast.",
     "例句中文": "我早餐吃麵包。",
     "表情符號": "🍞",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍞",
+    "icon": "🍞",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "break",
@@ -4173,7 +5328,12 @@ var WORDS = [
     "英文例句": "Take a ten-minute recess break.",
     "例句中文": "課間下課休息十分鐘。",
     "表情符號": "☕",
-    "圖片": ""
+    "圖片": "",
+    "em": "☕",
+    "icon": "☕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "breakfast",
@@ -4191,7 +5351,12 @@ var WORDS = [
     "英文例句": "Eat breakfast every morning.",
     "例句中文": "每天早晨都要吃早餐。",
     "表情符號": "🍳",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍳",
+    "icon": "🍳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "breeze",
@@ -4209,7 +5374,12 @@ var WORDS = [
     "英文例句": "A gentle cool breeze blew softly.",
     "例句中文": "陣陣溫和涼爽的微風輕輕吹拂。",
     "表情符號": "🍃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍃",
+    "icon": "🍃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "brick",
@@ -4227,7 +5397,12 @@ var WORDS = [
     "英文例句": "Builders laid solid red bricks.",
     "例句中文": "建築工人將一塊塊結實的紅磚整齊砌在牆上。",
     "表情符號": "🧱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧱",
+    "icon": "🧱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bridge",
@@ -4245,7 +5420,12 @@ var WORDS = [
     "英文例句": "Walk safely across the pedestrian bridge.",
     "例句中文": "從人行天橋上安全地走過去。",
     "表情符號": "🌉",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌉",
+    "icon": "🌉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bright",
@@ -4263,7 +5443,12 @@ var WORDS = [
     "英文例句": "The sun is bright at noon.",
     "例句中文": "正午的陽光格外明亮。",
     "表情符號": "☀️",
-    "圖片": ""
+    "圖片": "",
+    "em": "☀️",
+    "icon": "☀️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bring",
@@ -4281,7 +5466,12 @@ var WORDS = [
     "英文例句": "Remember to bring your lunch box.",
     "例句中文": "出門上學時千萬別忘了帶上美味的愛心便當。",
     "表情符號": "🍱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍱",
+    "icon": "🍱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "broad",
@@ -4299,7 +5489,12 @@ var WORDS = [
     "英文例句": "The highway has broad traffic lanes.",
     "例句中文": "這條新開闢的高速公路車道顯得格外寬廣。",
     "表情符號": "🛣️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛣️",
+    "icon": "🛣️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "broadcast",
@@ -4317,7 +5512,12 @@ var WORDS = [
     "英文例句": "The radio broadcasts morning news.",
     "例句中文": "廣播收音機每天準時播送最新晨間新聞氣象。",
     "表情符號": "📻",
-    "圖片": ""
+    "圖片": "",
+    "em": "📻",
+    "icon": "📻",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "broom",
@@ -4335,7 +5535,12 @@ var WORDS = [
     "英文例句": "Sweep the dusty floor with a broom.",
     "例句中文": "用掃帚把積灰塵的地板掃乾淨。",
     "表情符號": "🧹",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧹",
+    "icon": "🧹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "brother",
@@ -4353,7 +5558,12 @@ var WORDS = [
     "英文例句": "I have an older brother.",
     "例句中文": "我有一個哥哥。",
     "表情符號": "👦",
-    "圖片": ""
+    "圖片": "",
+    "em": "👦",
+    "icon": "👦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "brown",
@@ -4371,7 +5581,12 @@ var WORDS = [
     "英文例句": "Bears have brown fur.",
     "例句中文": "熊有棕色的毛皮。",
     "表情符號": "🟫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🟫",
+    "icon": "🟫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "brunch",
@@ -4389,7 +5604,12 @@ var WORDS = [
     "英文例句": "We enjoy tasty weekend brunch.",
     "例句中文": "放假時我們全家最喜歡悠哉享用豐盛的早午餐。",
     "表情符號": "🥞",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥞",
+    "icon": "🥞",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "brush",
@@ -4407,7 +5627,12 @@ var WORDS = [
     "英文例句": "I need a hair brush.",
     "例句中文": "我需要一把髮刷。",
     "表情符號": "🖌️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🖌️",
+    "icon": "🖌️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bucket",
@@ -4425,7 +5650,12 @@ var WORDS = [
     "英文例句": "Fill yellow bucket with sea sand.",
     "例句中文": "用黃色小水桶裝滿海灘上的細沙。",
     "表情符號": "🪣",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪣",
+    "icon": "🪣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "buffet",
@@ -4443,7 +5673,12 @@ var WORDS = [
     "英文例句": "Choose yummy dishes at hotel buffet.",
     "例句中文": "在飯店的歐式百匯自助餐盡情挑選愛吃的佳餚。",
     "表情符號": "🍽️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍽️",
+    "icon": "🍽️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bug",
@@ -4461,7 +5696,12 @@ var WORDS = [
     "英文例句": "There is a bug on the leaf.",
     "例句中文": "葉片上有一隻小蟲。",
     "表情符號": "🐛",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐛",
+    "icon": "🐛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "build",
@@ -4479,7 +5719,12 @@ var WORDS = [
     "英文例句": "Build a tall tower with blocks.",
     "例句中文": "用積木堆一座高高的塔。",
     "表情符號": "🧱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧱",
+    "icon": "🧱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "building",
@@ -4497,7 +5742,12 @@ var WORDS = [
     "英文例句": "Taipei 101 is a very tall building.",
     "例句中文": "台北101是一座揚名國際、高聳入雲的代表建築。",
     "表情符號": "🏙️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏙️",
+    "icon": "🏙️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bulb",
@@ -4515,7 +5765,12 @@ var WORDS = [
     "英文例句": "Replace the burnt-out light bulb.",
     "例句中文": "更換燒壞的燈泡。",
     "表情符號": "💡",
-    "圖片": ""
+    "圖片": "",
+    "em": "💡",
+    "icon": "💡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bun",
@@ -4533,7 +5788,12 @@ var WORDS = [
     "英文例句": "Steamed pork bun smells delicious.",
     "例句中文": "剛掀開蒸籠的熱騰騰鮮肉包香氣四溢、十分誘人。",
     "表情符號": "🥯",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥯",
+    "icon": "🥯",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bundle",
@@ -4551,7 +5811,12 @@ var WORDS = [
     "英文例句": "A bundle of colorful pens arrived.",
     "例句中文": "桌上放著一整捆剛拆封的五顏六色原子筆。",
     "表情符號": "✏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✏️",
+    "icon": "✏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "burger",
@@ -4569,7 +5834,12 @@ var WORDS = [
     "英文例句": "He ordered a chicken burger.",
     "例句中文": "他點了一份雞肉漢堡。",
     "表情符號": "🍔",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍔",
+    "icon": "🍔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "burn",
@@ -4587,7 +5857,12 @@ var WORDS = [
     "英文例句": "Campfires burn warm at night.",
     "例句中文": "營火在夜裡溫暖地燃燒。",
     "表情符號": "🔥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔥",
+    "icon": "🔥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "burst",
@@ -4605,7 +5880,12 @@ var WORDS = [
     "英文例句": "The thin party balloon burst loudly.",
     "例句中文": "派對上吹得太薄的氣球突然砰一聲爆開了。",
     "表情符號": "💥",
-    "圖片": ""
+    "圖片": "",
+    "em": "💥",
+    "icon": "💥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bus",
@@ -4623,7 +5903,12 @@ var WORDS = [
     "英文例句": "The yellow bus stops here.",
     "例句中文": "黃色公車停在這裡。",
     "表情符號": "🚌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚌",
+    "icon": "🚌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "bus stop",
@@ -4641,7 +5926,12 @@ var WORDS = [
     "英文例句": "Wait patiently for bus at bus stop.",
     "例句中文": "在公車站耐心等待公車抵達。",
     "表情符號": "🚏",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚏",
+    "icon": "🚏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "business",
@@ -4659,7 +5949,12 @@ var WORDS = [
     "英文例句": "They run a small local tea business.",
     "例句中文": "他們在當地經營著一家很有口碑的在地茶行生意。",
     "表情符號": "💼",
-    "圖片": ""
+    "圖片": "",
+    "em": "💼",
+    "icon": "💼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "businessman",
@@ -4677,7 +5972,12 @@ var WORDS = [
     "英文例句": "The busy businessman travels often.",
     "例句中文": "那位繁忙的企業家經常需要搭機出國洽談公務。",
     "表情符號": "👔",
-    "圖片": ""
+    "圖片": "",
+    "em": "👔",
+    "icon": "👔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "busy",
@@ -4695,7 +5995,12 @@ var WORDS = [
     "英文例句": "Bees are busy collecting honey.",
     "例句中文": "蜜蜂忙著採蜜。",
     "表情符號": "🐝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐝",
+    "icon": "🐝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "but",
@@ -4713,7 +6018,12 @@ var WORDS = [
     "英文例句": "I am tired but happy.",
     "例句中文": "我很累但是很快樂。",
     "表情符號": "😊",
-    "圖片": ""
+    "圖片": "",
+    "em": "😊",
+    "icon": "😊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "butter",
@@ -4731,7 +6041,12 @@ var WORDS = [
     "英文例句": "Melt yellow butter on pancakes.",
     "例句中文": "將香濃的黃奶油融化在鬆餅上面。",
     "表情符號": "🧈",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧈",
+    "icon": "🧈",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "butterfly",
@@ -4749,7 +6064,12 @@ var WORDS = [
     "英文例句": "A butterfly rests on petal.",
     "例句中文": "蝴蝶停在花瓣上。",
     "表情符號": "🦋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦋",
+    "icon": "🦋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "button",
@@ -4767,7 +6087,12 @@ var WORDS = [
     "英文例句": "Sew a lost button onto the shirt.",
     "例句中文": "把掉落的鈕扣縫回襯衫上。",
     "表情符號": "🔘",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔘",
+    "icon": "🔘",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "buy",
@@ -4785,7 +6110,12 @@ var WORDS = [
     "英文例句": "Let's buy apples at the market.",
     "例句中文": "我們在市場買些蘋果吧。",
     "表情符號": "🛒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛒",
+    "icon": "🛒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "by",
@@ -4803,7 +6133,12 @@ var WORDS = [
     "英文例句": "Go to school by bus every day.",
     "例句中文": "每天早晨我都搭乘市區公車安全抵達學校上課。",
     "表情符號": "🚌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚌",
+    "icon": "🚌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cabbage",
@@ -4821,7 +6156,12 @@ var WORDS = [
     "英文例句": "Stir-fried cabbage is crunchy.",
     "例句中文": "清炒高麗菜口感清脆爽口。",
     "表情符號": "🥬",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥬",
+    "icon": "🥬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cable",
@@ -4839,7 +6179,12 @@ var WORDS = [
     "英文例句": "Plug the USB cable into computer.",
     "例句中文": "把白色USB傳輸線穩固插進電腦的連接插孔。",
     "表情符號": "🔌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔌",
+    "icon": "🔌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cafe",
@@ -4857,7 +6202,12 @@ var WORDS = [
     "英文例句": "Dad drinks coffee in cozy cafe.",
     "例句中文": "爸爸在舒適的咖啡廳喝咖啡。",
     "表情符號": "☕",
-    "圖片": ""
+    "圖片": "",
+    "em": "☕",
+    "icon": "☕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cafeteria",
@@ -4875,7 +6225,12 @@ var WORDS = [
     "英文例句": "Students eat lunch in school cafeteria.",
     "例句中文": "全校同學中午都在乾淨寬敞的學生餐廳享用午餐。",
     "表情符號": "🍱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍱",
+    "icon": "🍱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cage",
@@ -4893,7 +6248,12 @@ var WORDS = [
     "英文例句": "The yellow canary sings in cage.",
     "例句中文": "金黃色的金絲雀在陽台乾淨的鳥籠裡悅耳鳴叫。",
     "表情符號": "🦜",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦜",
+    "icon": "🦜",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cake",
@@ -4911,7 +6271,12 @@ var WORDS = [
     "英文例句": "We have a birthday cake.",
     "例句中文": "我們有一個生日蛋糕。",
     "表情符號": "🎂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎂",
+    "icon": "🎂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "calculator",
@@ -4929,7 +6294,12 @@ var WORDS = [
     "英文例句": "We use a calculator in math class.",
     "例句中文": "我們在數學課上使用計算機。",
     "表情符號": "🔢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔢",
+    "icon": "🔢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "calendar",
@@ -4947,7 +6317,12 @@ var WORDS = [
     "英文例句": "Check the test date on calendar.",
     "例句中文": "快點翻開牆上的月曆確認看看期中考試的日期。",
     "表情符號": "📅",
-    "圖片": ""
+    "圖片": "",
+    "em": "📅",
+    "icon": "📅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "calf",
@@ -4965,7 +6340,12 @@ var WORDS = [
     "英文例句": "The little calf drinks milk from mother.",
     "例句中文": "小牛依偎在母牛身邊喝牛奶。",
     "表情符號": "🐮",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐮",
+    "icon": "🐮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "call",
@@ -4983,7 +6363,12 @@ var WORDS = [
     "英文例句": "Call Mom when you arrive safely.",
     "例句中文": "放學平安抵達安親班後記得打通電話向媽媽報備。",
     "表情符號": "📞",
-    "圖片": ""
+    "圖片": "",
+    "em": "📞",
+    "icon": "📞",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "calm",
@@ -5001,7 +6386,12 @@ var WORDS = [
     "英文例句": "Stay calm during school earthquake drill.",
     "例句中文": "在學校防震演習中保持冷靜。",
     "表情符號": "🧘",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧘",
+    "icon": "🧘",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "camel",
@@ -5019,7 +6409,12 @@ var WORDS = [
     "英文例句": "The camel stores fat in its humps.",
     "例句中文": "駱駝將脂肪儲存在牠的駝峰裡面。",
     "表情符號": "🐪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐪",
+    "icon": "🐪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "camera",
@@ -5037,7 +6432,12 @@ var WORDS = [
     "英文例句": "Take bright family photos with a digital camera.",
     "例句中文": "用這台數位相機拍下色彩鮮明的溫馨全家福照片。",
     "表情符號": "📷",
-    "圖片": ""
+    "圖片": "",
+    "em": "📷",
+    "icon": "📷",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "camp",
@@ -5055,7 +6455,12 @@ var WORDS = [
     "英文例句": "Pitch a canvas tent at summer camp.",
     "例句中文": "大家齊心協力在夏令營營地搭起舒適的帆布帳篷。",
     "表情符號": "⛺",
-    "圖片": ""
+    "圖片": "",
+    "em": "⛺",
+    "icon": "⛺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "campus",
@@ -5073,7 +6478,12 @@ var WORDS = [
     "英文例句": "Our green school campus is large.",
     "例句中文": "我們充滿綠意盎然的大學校園既開闊又非常美麗。",
     "表情符號": "🏫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏫",
+    "icon": "🏫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "can",
@@ -5091,7 +6501,12 @@ var WORDS = [
     "英文例句": "I can swim and run.",
     "例句中文": "我會游泳和跑步。",
     "表情符號": "🏊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏊",
+    "icon": "🏊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cancel",
@@ -5109,7 +6524,12 @@ var WORDS = [
     "英文例句": "Rain forced them to cancel the game.",
     "例句中文": "連綿不絕的傾盆大雨迫使主辦單位取消了球賽。",
     "表情符號": "❌",
-    "圖片": ""
+    "圖片": "",
+    "em": "❌",
+    "icon": "❌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cancer",
@@ -5127,7 +6547,12 @@ var WORDS = [
     "英文例句": "Healthy habits help prevent cancer.",
     "例句中文": "養成良好的飲食作息習慣有助於維持健康遠離疾病。",
     "表情符號": "🏥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏥",
+    "icon": "🏥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "candle",
@@ -5145,7 +6570,12 @@ var WORDS = [
     "英文例句": "Light a birthday cake candle.",
     "例句中文": "點亮插在生日蛋糕上的漂亮蠟燭。",
     "表情符號": "🕯️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🕯️",
+    "icon": "🕯️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "candy",
@@ -5163,7 +6593,12 @@ var WORDS = [
     "英文例句": "Don't eat too much candy.",
     "例句中文": "不要吃太多的糖果。",
     "表情符號": "🍬",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍬",
+    "icon": "🍬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "candy bar",
@@ -5181,7 +6616,12 @@ var WORDS = [
     "英文例句": "Do you want a candy bar?",
     "例句中文": "你想要一根糖果棒嗎？",
     "表情符號": "🍫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍫",
+    "icon": "🍫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "canteen",
@@ -5199,7 +6639,12 @@ var WORDS = [
     "英文例句": "Buy warm lunch at the canteen.",
     "例句中文": "在福利社買熱騰騰的午餐。",
     "表情符號": "🍱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍱",
+    "icon": "🍱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cap",
@@ -5217,7 +6662,12 @@ var WORDS = [
     "英文例句": "He puts on his baseball cap.",
     "例句中文": "他戴上他的棒球帽。",
     "表情符號": "🧢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧢",
+    "icon": "🧢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "captain",
@@ -5235,7 +6685,12 @@ var WORDS = [
     "英文例句": "The team captain led us forward.",
     "例句中文": "充滿責任感的足球隊長帶領著全隊團結奮力向前。",
     "表情符號": "🧑‍✈️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍✈️",
+    "icon": "🧑‍✈️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "car",
@@ -5253,7 +6708,12 @@ var WORDS = [
     "英文例句": "Dad drives his blue car.",
     "例句中文": "爸爸開著他的藍色汽車。",
     "表情符號": "🚗",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚗",
+    "icon": "🚗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "card",
@@ -5271,7 +6731,12 @@ var WORDS = [
     "英文例句": "Send a warm Christmas card to friends.",
     "例句中文": "親筆寫一張溫暖誠摯的聖誕卡片寄送給好朋友們。",
     "表情符號": "💌",
-    "圖片": ""
+    "圖片": "",
+    "em": "💌",
+    "icon": "💌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "care",
@@ -5289,7 +6754,12 @@ var WORDS = [
     "英文例句": "Take good care of your pets.",
     "例句中文": "無論晴雨請隨時用心呵護照顧家裡的心愛小寵物。",
     "表情符號": "🐶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐶",
+    "icon": "🐶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "careful",
@@ -5307,7 +6777,12 @@ var WORDS = [
     "英文例句": "Be careful when crossing busy roads.",
     "例句中文": "過車潮擁擠的馬路時要格外小心注意。",
     "表情符號": "⚠️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚠️",
+    "icon": "⚠️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "careless",
@@ -5325,7 +6800,12 @@ var WORDS = [
     "英文例句": "Don't lose your keys through careless habits.",
     "例句中文": "別因為粗心大意的壞習慣把鑰匙弄丟了。",
     "表情符號": "🤦",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤦",
+    "icon": "🤦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "carpet",
@@ -5343,7 +6823,12 @@ var WORDS = [
     "英文例句": "Sit comfortably on the carpet.",
     "例句中文": "舒服地坐在地毯上。",
     "表情符號": "🛋️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛋️",
+    "icon": "🛋️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "carrot",
@@ -5361,7 +6846,12 @@ var WORDS = [
     "英文例句": "Rabbits love crunchy carrots.",
     "例句中文": "兔子喜歡清脆的胡蘿蔔。",
     "表情符號": "🥕",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥕",
+    "icon": "🥕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "carry",
@@ -5379,7 +6869,12 @@ var WORDS = [
     "英文例句": "Carry your bag to school.",
     "例句中文": "提著你的包包去上學。",
     "表情符號": "🎒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎒",
+    "icon": "🎒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cart",
@@ -5397,7 +6892,12 @@ var WORDS = [
     "英文例句": "Put the groceries into the cart.",
     "例句中文": "把採買的物品放進手推車裡。",
     "表情符號": "🛒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛒",
+    "icon": "🛒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cartoon",
@@ -5415,7 +6915,12 @@ var WORDS = [
     "英文例句": "Kids laugh happily at comic cartoons.",
     "例句中文": "小朋友圍坐在電視機前面看趣味卡通逗得哈哈大笑。",
     "表情符號": "📺",
-    "圖片": ""
+    "圖片": "",
+    "em": "📺",
+    "icon": "📺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "case",
@@ -5433,7 +6938,12 @@ var WORDS = [
     "英文例句": "Put your pencils into pencil case.",
     "例句中文": "把桌上的彩色色筆與尺整齊收進文具鉛筆盒裡面。",
     "表情符號": "✏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✏️",
+    "icon": "✏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cash",
@@ -5451,7 +6961,12 @@ var WORDS = [
     "英文例句": "Pay in paper cash at local market.",
     "例句中文": "在傳統熱鬧的早市買菜時通常需要使用紙幣現金支付。",
     "表情符號": "💵",
-    "圖片": ""
+    "圖片": "",
+    "em": "💵",
+    "icon": "💵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cassette",
@@ -5469,7 +6984,12 @@ var WORDS = [
     "英文例句": "Grandpa still plays retro cassette tapes.",
     "例句中文": "爺爺房間的收音機至今依然播放著經典復古錄音帶。",
     "表情符號": "📼",
-    "圖片": ""
+    "圖片": "",
+    "em": "📼",
+    "icon": "📼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "castle",
@@ -5487,7 +7007,12 @@ var WORDS = [
     "英文例句": "The fairy tale king lived in stone castle.",
     "例句中文": "童話裡的國王居住在堅固的石造城堡中。",
     "表情符號": "🏰",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏰",
+    "icon": "🏰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cat",
@@ -5505,7 +7030,12 @@ var WORDS = [
     "英文例句": "The cat is sleeping on the sofa.",
     "例句中文": "貓咪在沙發上睡覺。",
     "表情符號": "🐱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐱",
+    "icon": "🐱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "catch",
@@ -5523,7 +7053,12 @@ var WORDS = [
     "英文例句": "Catch the soft ball.",
     "例句中文": "接住這顆軟球。",
     "表情符號": "⚾",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚾",
+    "icon": "⚾",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "caterpillar",
@@ -5541,7 +7076,12 @@ var WORDS = [
     "英文例句": "The green caterpillar will become a butterfly.",
     "例句中文": "綠色毛毛蟲將來會羽化成蝴蝶。",
     "表情符號": "🐛",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐛",
+    "icon": "🐛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cause",
@@ -5559,7 +7099,12 @@ var WORDS = [
     "英文例句": "Heavy fog caused traffic delays.",
     "例句中文": "清晨籠罩的濃密大霧造成了上班尖峰路段交通延誤。",
     "表情符號": "🌫️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌫️",
+    "icon": "🌫️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cave",
@@ -5577,7 +7122,12 @@ var WORDS = [
     "英文例句": "Bears sleep inside the cozy cave.",
     "例句中文": "大熊在溫暖的洞穴裡冬眠。",
     "表情符號": "🕳️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🕳️",
+    "icon": "🕳️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ceiling",
@@ -5595,7 +7145,12 @@ var WORDS = [
     "英文例句": "Gaze up at stickers on bedroom ceiling.",
     "例句中文": "躺在床上抬頭看著貼在臥室天花板上的發光星星壁貼。",
     "表情符號": "🌌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌌",
+    "icon": "🌌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "celebrate",
@@ -5613,7 +7168,12 @@ var WORDS = [
     "英文例句": "Celebrate New Year with family dinner.",
     "例句中文": "與家人一起吃團圓飯歡度慶祝新年。",
     "表情符號": "🎉",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎉",
+    "icon": "🎉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cellphone",
@@ -5631,7 +7191,12 @@ var WORDS = [
     "英文例句": "Silence your cellphone in the movie theater.",
     "例句中文": "走進電影院觀影時請主動將個人手機設定為靜音模式。",
     "表情符號": "📱",
-    "圖片": ""
+    "圖片": "",
+    "em": "📱",
+    "icon": "📱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cent",
@@ -5649,7 +7214,12 @@ var WORDS = [
     "英文例句": "One dollar equals one hundred cents.",
     "例句中文": "一美圓的貨幣價值等同於整整一百美分零錢。",
     "表情符號": "🪙",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪙",
+    "icon": "🪙",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "center",
@@ -5667,7 +7237,12 @@ var WORDS = [
     "英文例句": "The fountain is in the center of park.",
     "例句中文": "噴水池坐落於整個公園的正中心。",
     "表情符號": "🎯",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎯",
+    "icon": "🎯",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "centimeter",
@@ -5685,7 +7260,12 @@ var WORDS = [
     "英文例句": "Measure ribbon length in centimeters.",
     "例句中文": "拿出塑膠尺精準測量這段包裝彩色緞帶共有幾公分長。",
     "表情符號": "📏",
-    "圖片": ""
+    "圖片": "",
+    "em": "📏",
+    "icon": "📏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "central",
@@ -5703,7 +7283,12 @@ var WORDS = [
     "英文例句": "Meet up at the central train station.",
     "例句中文": "放學後我們約在市中心人來人往的中央火車站大廳碰面。",
     "表情符號": "🚉",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚉",
+    "icon": "🚉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "century",
@@ -5721,7 +7306,12 @@ var WORDS = [
     "英文例句": "We are living in twenty-first century.",
     "例句中文": "我們大家目前共同生活在進步繁榮的二十一世紀時代。",
     "表情符號": "🌍",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌍",
+    "icon": "🌍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cereal",
@@ -5739,7 +7329,12 @@ var WORDS = [
     "英文例句": "Pour fresh cold milk over cereal.",
     "例句中文": "在裝滿酥脆穀物麥片的碗裡倒入新鮮香濃的冰牛奶。",
     "表情符號": "🥣",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥣",
+    "icon": "🥣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "certain",
@@ -5757,7 +7352,12 @@ var WORDS = [
     "英文例句": "I am quite certain of my answer.",
     "例句中文": "我經過仔細反覆驗算後，對自己填寫的答案非常確定。",
     "表情符號": "✔️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✔️",
+    "icon": "✔️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "chair",
@@ -5775,7 +7375,12 @@ var WORDS = [
     "英文例句": "Please sit on the chair.",
     "例句中文": "請坐在椅子上。",
     "表情符號": "🪑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪑",
+    "icon": "🪑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "chalk",
@@ -5793,7 +7398,12 @@ var WORDS = [
     "英文例句": "The teacher wrote with white chalk.",
     "例句中文": "老師用白粉筆在黑板上書寫。",
     "表情符號": "🖍️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🖍️",
+    "icon": "🖍️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "chance",
@@ -5811,7 +7421,12 @@ var WORDS = [
     "英文例句": "Give him another chance to try.",
     "例句中文": "多給他一次上台放手嘗試的好機會，相信他能做得到。",
     "表情符號": "🍀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍀",
+    "icon": "🍀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "change",
@@ -5829,7 +7444,12 @@ var WORDS = [
     "英文例句": "Change into clean clothes.",
     "例句中文": "換上乾淨舒適的衣服。",
     "表情符號": "👕",
-    "圖片": ""
+    "圖片": "",
+    "em": "👕",
+    "icon": "👕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "channel",
@@ -5847,7 +7467,12 @@ var WORDS = [
     "英文例句": "Switch television channel to cartoons.",
     "例句中文": "拿起遙控器把電視播放頻道切換到小朋友最愛的卡通台。",
     "表情符號": "📺",
-    "圖片": ""
+    "圖片": "",
+    "em": "📺",
+    "icon": "📺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "character",
@@ -5865,7 +7490,12 @@ var WORDS = [
     "英文例句": "My favorite story character is brave.",
     "例句中文": "這本奇幻冒險故事裡我最喜愛的主角個性十分勇敢。",
     "表情符號": "🦸",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦸",
+    "icon": "🦸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "charge",
@@ -5883,7 +7513,12 @@ var WORDS = [
     "英文例句": "Charge your empty tablet battery tonight.",
     "例句中文": "今晚記得把電量快要見底的平板電腦插上電源充電。",
     "表情符號": "🔋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔋",
+    "icon": "🔋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "chart",
@@ -5901,7 +7536,12 @@ var WORDS = [
     "英文例句": "Draw a colorful growth chart on wall.",
     "例句中文": "用彩色蠟筆在房間牆面畫一張記錄身高的可愛成長圖表。",
     "表情符號": "📊",
-    "圖片": ""
+    "圖片": "",
+    "em": "📊",
+    "icon": "📊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "chase",
@@ -5919,7 +7559,12 @@ var WORDS = [
     "英文例句": "Playful dogs chase balls across yard.",
     "例句中文": "活潑好動的狗狗在綠草如茵的庭院裡開心地追著球跑。",
     "表情符號": "🐕",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐕",
+    "icon": "🐕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cheap",
@@ -5937,7 +7582,12 @@ var WORDS = [
     "英文例句": "Apples are cheap during harvest.",
     "例句中文": "盛產季節的水果相當便宜實惠。",
     "表情符號": "🍎",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍎",
+    "icon": "🍎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cheat",
@@ -5955,7 +7605,12 @@ var WORDS = [
     "英文例句": "Never cheat on school examination.",
     "例句中文": "在學校面對任何考試測驗時都要保持誠信絕對不可作弊。",
     "表情符號": "🚫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚫",
+    "icon": "🚫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "check",
@@ -5973,7 +7628,12 @@ var WORDS = [
     "英文例句": "Check your test answers carefully.",
     "例句中文": "仔細檢查你的測驗答案。",
     "表情符號": "✔️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✔️",
+    "icon": "✔️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cheer",
@@ -5991,7 +7651,12 @@ var WORDS = [
     "英文例句": "Cheer loudly for your team.",
     "例句中文": "大聲為你的隊伍加油歡呼。",
     "表情符號": "📣",
-    "圖片": ""
+    "圖片": "",
+    "em": "📣",
+    "icon": "📣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cheese",
@@ -6009,7 +7674,12 @@ var WORDS = [
     "英文例句": "Mice love yellow cheese.",
     "例句中文": "老鼠喜歡黃色起司。",
     "表情符號": "🧀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧀",
+    "icon": "🧀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "chemistry",
@@ -6027,7 +7697,12 @@ var WORDS = [
     "英文例句": "Mix liquids carefully in chemistry lab.",
     "例句中文": "在學校化學實驗室裡遵照安全守則小心謹慎混合試劑。",
     "表情符號": "🧪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧪",
+    "icon": "🧪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cherry",
@@ -6045,7 +7720,12 @@ var WORDS = [
     "英文例句": "Top the ice cream with a red cherry.",
     "例句中文": "在冰淇淋上方點綴一顆鮮紅櫻桃。",
     "表情符號": "🍒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍒",
+    "icon": "🍒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "chess",
@@ -6063,7 +7743,12 @@ var WORDS = [
     "英文例句": "Grandpa taught me how to play chess.",
     "例句中文": "爺爺耐心地坐在客廳棋桌前教我一步步學會下西洋棋。",
     "表情符號": "♟️",
-    "圖片": ""
+    "圖片": "",
+    "em": "♟️",
+    "icon": "♟️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "chest",
@@ -6081,7 +7766,12 @@ var WORDS = [
     "英文例句": "Take a deep breath into chest.",
     "例句中文": "深深吸一口氣進入胸膛。",
     "表情符號": "🫁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🫁",
+    "icon": "🫁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "chick",
@@ -6099,7 +7789,12 @@ var WORDS = [
     "英文例句": "Fluffy yellow chicks follow their mother.",
     "例句中文": "黃澄澄毛茸茸的小雞跟著母雞走。",
     "表情符號": "🐥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐥",
+    "icon": "🐥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "chicken",
@@ -6117,7 +7812,12 @@ var WORDS = [
     "英文例句": "The chicken lays eggs.",
     "例句中文": "母雞會下蛋。",
     "表情符號": "🐔",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐔",
+    "icon": "🐔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "child",
@@ -6135,7 +7835,12 @@ var WORDS = [
     "英文例句": "Every child loves listening to stories.",
     "例句中文": "每一個好奇心滿滿的小朋友都熱愛聽長輩講有趣的睡前故事。",
     "表情符號": "🧒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧒",
+    "icon": "🧒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "childhood",
@@ -6153,7 +7858,12 @@ var WORDS = [
     "英文例句": "She spent happy childhood on farm.",
     "例句中文": "她在充滿動物與花草的大農場裡度過了無憂無慮的童年。",
     "表情符號": "🎠",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎠",
+    "icon": "🎠",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "childish",
@@ -6171,7 +7881,12 @@ var WORDS = [
     "英文例句": "Pouting over a lost game is childish.",
     "例句中文": "因為輸掉一場遊戲就在旁邊嘟嘴生悶氣是非常孩子氣的。",
     "表情符號": "👶",
-    "圖片": ""
+    "圖片": "",
+    "em": "👶",
+    "icon": "👶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "childlike",
@@ -6189,7 +7904,12 @@ var WORDS = [
     "英文例句": "He viewed modern world with childlike wonder.",
     "例句中文": "他始終用充滿童真、純潔清澈的好奇雙眼看待身邊的世界。",
     "表情符號": "✨",
-    "圖片": ""
+    "圖片": "",
+    "em": "✨",
+    "icon": "✨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "chin",
@@ -6207,7 +7927,12 @@ var WORDS = [
     "英文例句": "Rest your chin on hand thoughtfully.",
     "例句中文": "托著下巴若有所思地望著窗外藍天，思考著解題的新靈感。",
     "表情符號": "🤔",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤔",
+    "icon": "🤔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "China",
@@ -6225,7 +7950,12 @@ var WORDS = [
     "英文例句": "Delicate tea sets are made of fine china.",
     "例句中文": "這套晶瑩剔透、花紋細膩的典雅茶具是用頂級精美瓷器燒製的。",
     "表情符號": "🫖",
-    "圖片": ""
+    "圖片": "",
+    "em": "🫖",
+    "icon": "🫖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Chinese",
@@ -6243,7 +7973,12 @@ var WORDS = [
     "英文例句": "Write Chinese characters neatly.",
     "例句中文": "把中文字寫得工整漂亮。",
     "表情符號": "🇹🇼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🇹🇼",
+    "icon": "🇹🇼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "chocolate",
@@ -6261,7 +7996,12 @@ var WORDS = [
     "英文例句": "A piece of chocolate tastes rich.",
     "例句中文": "一片巧克力嚐起來濃郁香甜。",
     "表情符號": "🍫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍫",
+    "icon": "🍫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "choice",
@@ -6279,7 +8019,12 @@ var WORDS = [
     "英文例句": "Healthy fruit salad is a wise food choice.",
     "例句中文": "選擇新鮮水果沙拉當點心絕對是一項聰明又營養的健康抉擇。",
     "表情符號": "🥗",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥗",
+    "icon": "🥗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "choose",
@@ -6297,7 +8042,12 @@ var WORDS = [
     "英文例句": "Choose your favorite flavor.",
     "例句中文": "選擇你最喜歡的口味。",
     "表情符號": "👉",
-    "圖片": ""
+    "圖片": "",
+    "em": "👉",
+    "icon": "👉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "chopsticks",
@@ -6315,7 +8065,12 @@ var WORDS = [
     "英文例句": "Pick up tasty dumplings with chopsticks.",
     "例句中文": "練習靈巧地用木筷子夾起熱騰騰皮薄餡多的多汁水餃品嚐。",
     "表情符號": "🥢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥢",
+    "icon": "🥢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Christmas",
@@ -6333,7 +8088,12 @@ var WORDS = [
     "英文例句": "Decorate pine tree for joyful Christmas.",
     "例句中文": "全家同心協力掛上閃爍彩燈，為歡樂的聖誕節裝飾聖誕樹。",
     "表情符號": "🎄",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎄",
+    "icon": "🎄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "chubby",
@@ -6351,7 +8111,12 @@ var WORDS = [
     "英文例句": "The baby has sweet chubby red cheeks.",
     "例句中文": "小嬰兒臉上長著一雙紅通通、肉嘟嘟且惹人憐愛的圓圓臉頰。",
     "表情符號": "👶",
-    "圖片": ""
+    "圖片": "",
+    "em": "👶",
+    "icon": "👶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "church",
@@ -6369,7 +8134,12 @@ var WORDS = [
     "英文例句": "The church bell chimes on Sunday morning.",
     "例句中文": "週日早晨教堂的鐘聲悠揚響起。",
     "表情符號": "⛪",
-    "圖片": ""
+    "圖片": "",
+    "em": "⛪",
+    "icon": "⛪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cinema",
@@ -6387,7 +8157,12 @@ var WORDS = [
     "英文例句": "Watch an animated movie at cinema.",
     "例句中文": "去電影院看一場動畫電影。",
     "表情符號": "🎬",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎬",
+    "icon": "🎬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "circle",
@@ -6405,7 +8180,12 @@ var WORDS = [
     "英文例句": "Circle the correct English letter.",
     "例句中文": "圈出正確的英文字母。",
     "表情符號": "⭕",
-    "圖片": ""
+    "圖片": "",
+    "em": "⭕",
+    "icon": "⭕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "circus",
@@ -6423,7 +8203,12 @@ var WORDS = [
     "英文例句": "Clowns and acrobats perform at circus.",
     "例句中文": "小丑和雜技演員在馬戲團裡演出。",
     "表情符號": "🎪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎪",
+    "icon": "🎪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "city",
@@ -6441,7 +8226,12 @@ var WORDS = [
     "英文例句": "Taipei is a very busy modern city.",
     "例句中文": "台北是一座交通網絡便捷、生活步調緊湊的現代化大都市。",
     "表情符號": "🏙️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏙️",
+    "icon": "🏙️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "clap",
@@ -6459,7 +8249,12 @@ var WORDS = [
     "英文例句": "Clap your hands along with music.",
     "例句中文": "配合著歡樂熱鬧的音樂節奏，跟著大家一起開心地拍手鼓掌。",
     "表情符號": "👏",
-    "圖片": ""
+    "圖片": "",
+    "em": "👏",
+    "icon": "👏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "class",
@@ -6477,7 +8272,12 @@ var WORDS = [
     "英文例句": "Class is about to begin.",
     "例句中文": "馬上就要開始上課了。",
     "表情符號": "🔔",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔔",
+    "icon": "🔔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "classical",
@@ -6495,7 +8295,12 @@ var WORDS = [
     "英文例句": "Listen to calm classical violin tunes.",
     "例句中文": "寫作業時戴上耳機聆聽溫和優雅的古典小提琴曲能沉澱心靈。",
     "表情符號": "🎻",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎻",
+    "icon": "🎻",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "classmate",
@@ -6513,7 +8318,12 @@ var WORDS = [
     "英文例句": "My classmate lent me a pen.",
     "例句中文": "我的同學借了我一支筆。",
     "表情符號": "🧑‍🤝‍🧑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍🤝‍🧑",
+    "icon": "🧑‍🤝‍🧑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "classroom",
@@ -6531,7 +8341,12 @@ var WORDS = [
     "英文例句": "Our classroom is bright and clean.",
     "例句中文": "我們的教室既明亮又乾淨。",
     "表情符號": "🏫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏫",
+    "icon": "🏫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "clean",
@@ -6549,7 +8364,12 @@ var WORDS = [
     "英文例句": "Clean your desk before leaving.",
     "例句中文": "離開前把桌子收拾乾淨。",
     "表情符號": "🧹",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧹",
+    "icon": "🧹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "clear",
@@ -6567,7 +8387,12 @@ var WORDS = [
     "英文例句": "The mountain stream water is clear.",
     "例句中文": "高山溪流的水質清澈見底。",
     "表情符號": "💧",
-    "圖片": ""
+    "圖片": "",
+    "em": "💧",
+    "icon": "💧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "clerk",
@@ -6585,7 +8410,12 @@ var WORDS = [
     "英文例句": "The kind bookstore clerk helped us find book.",
     "例句中文": "書店裡態度和藹可親的店員熱心主動幫我們找出了想買的書。",
     "表情符號": "🧑‍💼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍💼",
+    "icon": "🧑‍💼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "clever",
@@ -6603,7 +8433,12 @@ var WORDS = [
     "英文例句": "The clever monkey peeled banana.",
     "例句中文": "聰明伶俐的猴子剝開了香蕉皮。",
     "表情符號": "🐒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐒",
+    "icon": "🐒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "climate",
@@ -6621,7 +8456,12 @@ var WORDS = [
     "英文例句": "Taiwan has a warm humid island climate.",
     "例句中文": "台灣四面環海，屬於四季宜人且溫暖潮濕的海島型氣候型態。",
     "表情符號": "☀️",
-    "圖片": ""
+    "圖片": "",
+    "em": "☀️",
+    "icon": "☀️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "climb",
@@ -6639,7 +8479,12 @@ var WORDS = [
     "英文例句": "Monkeys climb tall trees.",
     "例句中文": "猴子攀爬高高的樹木。",
     "表情符號": "🧗",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧗",
+    "icon": "🧗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "clock",
@@ -6657,7 +8502,12 @@ var WORDS = [
     "英文例句": "The wall clock says three o'clock.",
     "例句中文": "牆上的時鐘指著三點鐘。",
     "表情符號": "🕒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🕒",
+    "icon": "🕒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "close",
@@ -6675,7 +8525,12 @@ var WORDS = [
     "英文例句": "Please close the window.",
     "例句中文": "請把窗戶關上。",
     "表情符號": "🚪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚪",
+    "icon": "🚪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "closet",
@@ -6693,7 +8548,12 @@ var WORDS = [
     "英文例句": "Hang winter jackets inside wooden closet.",
     "例句中文": "把厚實保暖的過冬大衣整齊吊掛進臥室的大木製衣櫥內收納。",
     "表情符號": "🚪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚪",
+    "icon": "🚪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "clothes",
@@ -6711,7 +8571,12 @@ var WORDS = [
     "英文例句": "Hang clean clothes neatly.",
     "例句中文": "把洗乾淨的衣服整齊掛好。",
     "表情符號": "👗",
-    "圖片": ""
+    "圖片": "",
+    "em": "👗",
+    "icon": "👗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cloud",
@@ -6729,7 +8594,12 @@ var WORDS = [
     "英文例句": "White clouds float peacefully.",
     "例句中文": "白雲平靜地漂浮著。",
     "表情符號": "☁️",
-    "圖片": ""
+    "圖片": "",
+    "em": "☁️",
+    "icon": "☁️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cloudy",
@@ -6747,7 +8617,12 @@ var WORDS = [
     "英文例句": "It is cloudy today with soft cool breezes.",
     "例句中文": "今天天空雲層較厚是個陰天，迎面吹拂著令人感到舒爽的微風。",
     "表情符號": "☁️",
-    "圖片": ""
+    "圖片": "",
+    "em": "☁️",
+    "icon": "☁️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "club",
@@ -6765,7 +8640,12 @@ var WORDS = [
     "英文例句": "Join the school science robot club.",
     "例句中文": "熱情報名參加學校開辦的機器人科學研究社團探索新技術知識。",
     "表情符號": "🤖",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤖",
+    "icon": "🤖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "coach",
@@ -6783,7 +8663,12 @@ var WORDS = [
     "英文例句": "Our basketball coach teaches great skills.",
     "例句中文": "我們的籃球教練在球場上非常用心傳授運球與投籃的實用技巧。",
     "表情符號": "🏀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏀",
+    "icon": "🏀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "coast",
@@ -6801,7 +8686,12 @@ var WORDS = [
     "英文例句": "Drive scenic roads along eastern coast.",
     "例句中文": "沿著東部壯麗開闊的太平洋海岸線公路兜風，飽覽壯麗的海景。",
     "表情符號": "🌊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌊",
+    "icon": "🌊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "coat",
@@ -6819,7 +8709,12 @@ var WORDS = [
     "英文例句": "Put on your heavy coat.",
     "例句中文": "穿上你的厚大衣。",
     "表情符號": "🧥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧥",
+    "icon": "🧥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cockroach",
@@ -6837,7 +8732,12 @@ var WORDS = [
     "英文例句": "Keep kitchen clean to stop cockroaches.",
     "例句中文": "隨手保持廚房流理台整潔乾燥，才能徹底杜絕蟑螂在此孳生出沒。",
     "表情符號": "🪳",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪳",
+    "icon": "🪳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "coconut",
@@ -6855,7 +8755,12 @@ var WORDS = [
     "英文例句": "Coconut trees grow on beach.",
     "例句中文": "椰子樹生長在海灘上。",
     "表情符號": "🥥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥥",
+    "icon": "🥥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "coffee",
@@ -6873,7 +8778,12 @@ var WORDS = [
     "英文例句": "Dad drinks fragrant black coffee every morning.",
     "例句中文": "爸爸每天早晨起床習慣悠閒地沖泡一杯香醇濃郁的熱黑咖啡醒腦。",
     "表情符號": "☕",
-    "圖片": ""
+    "圖片": "",
+    "em": "☕",
+    "icon": "☕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "coin",
@@ -6891,7 +8801,12 @@ var WORDS = [
     "英文例句": "There is a shiny coin on the table.",
     "例句中文": "桌上有一枚閃亮的硬幣。",
     "表情符號": "🪙",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪙",
+    "icon": "🪙",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Coke",
@@ -6909,7 +8824,12 @@ var WORDS = [
     "英文例句": "Sip cold sweet Coke on hot sunny afternoon.",
     "例句中文": "在豔陽高照的炎熱午後喝上一口加了冰塊的清涼可樂實在很痛快。",
     "表情符號": "🥤",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥤",
+    "icon": "🥤",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cold",
@@ -6927,7 +8847,12 @@ var WORDS = [
     "英文例句": "Winter nights are very cold.",
     "例句中文": "冬天的夜晚十分寒冷。",
     "表情符號": "🥶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥶",
+    "icon": "🥶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "collect",
@@ -6945,7 +8870,12 @@ var WORDS = [
     "英文例句": "Collect shiny sea shells on sand.",
     "例句中文": "在沙灘上收集發亮的貝殼。",
     "表情符號": "🐚",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐚",
+    "icon": "🐚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "college",
@@ -6963,7 +8893,12 @@ var WORDS = [
     "英文例句": "Her older brother studies law at college.",
     "例句中文": "她的親哥哥目前正在著名大學的法律學院認真修讀專業法學課程。",
     "表情符號": "🎓",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎓",
+    "icon": "🎓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "color",
@@ -6981,7 +8916,12 @@ var WORDS = [
     "英文例句": "What is your favorite painting color?",
     "例句中文": "在所有繽紛豐富的彩色蠟筆裡面，你個人最喜愛的顏色是哪一種？",
     "表情符號": "🎨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎨",
+    "icon": "🎨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "colorful",
@@ -6999,7 +8939,12 @@ var WORDS = [
     "英文例句": "Butterflies with colorful wings fly around garden.",
     "例句中文": "長著五彩斑斕美麗翅膀的各色蝴蝶在花團錦簇的庭園中飛舞跳躍。",
     "表情符號": "🦋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦋",
+    "icon": "🦋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "comb",
@@ -7017,7 +8962,12 @@ var WORDS = [
     "英文例句": "She uses a comb to fix her hair.",
     "例句中文": "她用扁梳整理頭髮。",
     "表情符號": "🪮",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪮",
+    "icon": "🪮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "come",
@@ -7035,7 +8985,12 @@ var WORDS = [
     "英文例句": "Come here and take a look.",
     "例句中文": "過來這裡看看。",
     "表情符號": "👋",
-    "圖片": ""
+    "圖片": "",
+    "em": "👋",
+    "icon": "👋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "comfortable",
@@ -7053,7 +9008,12 @@ var WORDS = [
     "英文例句": "This soft new bed is really comfortable.",
     "例句中文": "這張鋪上全新柔軟床墊的床鋪睡起來讓人感到無比放鬆與舒適。",
     "表情符號": "🛏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛏️",
+    "icon": "🛏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "comic",
@@ -7071,7 +9031,12 @@ var WORDS = [
     "英文例句": "Read funny comic books during recess.",
     "例句中文": "下課短暫休息時間坐在座位上翻閱生動爆笑的精彩連環漫畫書放鬆。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "comic book",
@@ -7089,7 +9054,12 @@ var WORDS = [
     "英文例句": "He is reading an interesting comic book.",
     "例句中文": "他正在讀一本有趣的漫畫書。",
     "表情符號": "📚",
-    "圖片": ""
+    "圖片": "",
+    "em": "📚",
+    "icon": "📚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "command",
@@ -7107,7 +9077,12 @@ var WORDS = [
     "英文例句": "The trained dog follows every single command.",
     "例句中文": "這隻受過專業訓練的聰明警犬能夠精準服從主人下達的每一道指令。",
     "表情符號": "🐕",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐕",
+    "icon": "🐕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "comment",
@@ -7125,7 +9100,12 @@ var WORDS = [
     "英文例句": "Teacher wrote a nice positive comment on essay.",
     "例句中文": "語文老師在期末作文評語欄位上親切寫下了一段非常鼓勵人心的正面評價。",
     "表情符號": "✍️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✍️",
+    "icon": "✍️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "common",
@@ -7143,7 +9123,12 @@ var WORDS = [
     "英文例句": "Sparrows are very common birds in Taiwan.",
     "例句中文": "活潑可愛的麻雀是台灣都市公園與住宅區路旁最隨處可見的普遍鳥類。",
     "表情符號": "🐦",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐦",
+    "icon": "🐦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "company",
@@ -7161,7 +9146,12 @@ var WORDS = [
     "英文例句": "Mom works at an international computer company.",
     "例句中文": "媽媽在一間聲譽卓著、規模龐大的跨國知名電腦硬體科技公司上班服務。",
     "表情符號": "🏢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏢",
+    "icon": "🏢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "compare",
@@ -7179,7 +9169,12 @@ var WORDS = [
     "英文例句": "Compare prices before buying expensive toys.",
     "例句中文": "在實體店面選購價格昂貴的高級玩具前，先貨比三家才不容易多花冤枉錢。",
     "表情符號": "🔍",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔍",
+    "icon": "🔍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "complain",
@@ -7197,7 +9192,12 @@ var WORDS = [
     "英文例句": "Don't complain about a little rain.",
     "例句中文": "面對戶外落下的一點點綿綿細雨不要輕易抱怨，撐起雨傘依然能享受生活。",
     "表情符號": "☔",
-    "圖片": ""
+    "圖片": "",
+    "em": "☔",
+    "icon": "☔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "complete",
@@ -7215,7 +9215,12 @@ var WORDS = [
     "英文例句": "I completed the whole puzzle by myself.",
     "例句中文": "我完全憑藉自己的耐心與邏輯推理，獨自一人拼湊完成了整幅繁複千片拼圖。",
     "表情符號": "🧩",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧩",
+    "icon": "🧩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "computer",
@@ -7233,7 +9238,12 @@ var WORDS = [
     "英文例句": "We learn typing skills on computer.",
     "例句中文": "在學校資訊電腦課上，大家認真練習英文字母鍵盤的盲打指法與各項技巧。",
     "表情符號": "💻",
-    "圖片": ""
+    "圖片": "",
+    "em": "💻",
+    "icon": "💻",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "concern",
@@ -7251,7 +9261,12 @@ var WORDS = [
     "英文例句": "Parents show deep loving concern for children.",
     "例句中文": "天下父母無時無刻不對自己孩子的身心成長與日常生活展現深厚的關愛與關心。",
     "表情符號": "❤️",
-    "圖片": ""
+    "圖片": "",
+    "em": "❤️",
+    "icon": "❤️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "confident",
@@ -7269,7 +9284,12 @@ var WORDS = [
     "英文例句": "Speak with clear confident voice on stage.",
     "例句中文": "站在眾人矚目的講台上演講時，請展現自信昂首闊步並用清晰響亮的聲音表達。",
     "表情符號": "🎤",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎤",
+    "icon": "🎤",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "confuse",
@@ -7287,7 +9307,12 @@ var WORDS = [
     "英文例句": "Similar English spellings can confuse students.",
     "例句中文": "許多字形與拼法十分相近的英文單字，常常容易讓剛入門學習的學生產生混淆。",
     "表情符號": "😵‍💫",
-    "圖片": ""
+    "圖片": "",
+    "em": "😵‍💫",
+    "icon": "😵‍💫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "congratulate",
@@ -7305,7 +9330,12 @@ var WORDS = [
     "英文例句": "Congratulate your friend on winning.",
     "例句中文": "向贏得比賽勝利的朋友熱烈道賀。",
     "表情符號": "🎊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎊",
+    "icon": "🎊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "congratulation",
@@ -7323,7 +9353,12 @@ var WORDS = [
     "英文例句": "Send warm congratulations on winning the prize.",
     "例句中文": "在得知朋友榮獲繪畫首獎的第一時間，熱情向他送上最誠摯熱烈的祝賀與道賀。",
     "表情符號": "🎉",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎉",
+    "icon": "🎉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "consider",
@@ -7341,7 +9376,12 @@ var WORDS = [
     "英文例句": "Carefully consider all choices before choosing.",
     "例句中文": "在做出關鍵的最終決定之前，務必深思熟慮權衡所有可能的選項與各項後果。",
     "表情符號": "🤔",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤔",
+    "icon": "🤔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "considerate",
@@ -7359,7 +9399,12 @@ var WORDS = [
     "英文例句": "Offering your seat to seniors is very considerate.",
     "例句中文": "在尖峰時間的捷運車廂主動禮讓座位給年長者，是一項非常體貼溫暖的良好舉動。",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "contact lens",
@@ -7377,7 +9422,12 @@ var WORDS = [
     "英文例句": "Clean your contact lenses before wearing.",
     "例句中文": "佩戴隱形眼鏡鏡片之前，一定要用合格清潔保養液將雙手及鏡片徹底清洗乾淨。",
     "表情符號": "👁️",
-    "圖片": ""
+    "圖片": "",
+    "em": "👁️",
+    "icon": "👁️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "continue",
@@ -7395,7 +9445,12 @@ var WORDS = [
     "英文例句": "Continue reading chapter two after dinner.",
     "例句中文": "吃完美味豐盛的晚餐後，回到書桌前繼續閱讀這本充滿想像力的冒險故事第二章。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "contract",
@@ -7413,7 +9468,12 @@ var WORDS = [
     "英文例句": "Read every legal term in the contract.",
     "例句中文": "在正式簽署紙本協議文件前，務必逐字逐句看清楚合約條款裡的每一項具體權利義務。",
     "表情符號": "📄",
-    "圖片": ""
+    "圖片": "",
+    "em": "📄",
+    "icon": "📄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "control",
@@ -7431,7 +9491,12 @@ var WORDS = [
     "英文例句": "Use remote controller to steer toy race car.",
     "例句中文": "手裡握著無線遙控器，靈巧地在客廳平坦的地板上自由操縱著帥氣的玩具競速賽車。",
     "表情符號": "🎮",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎮",
+    "icon": "🎮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "convenience store",
@@ -7449,7 +9514,12 @@ var WORDS = [
     "英文例句": "Buy cold drinks at corner convenience store.",
     "例句中文": "走進轉角燈光明亮的二十四小時便利商店，順手挑選幾瓶清涼解渴的茶飲點心解饞。",
     "表情符號": "🏪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏪",
+    "icon": "🏪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "convenient",
@@ -7467,7 +9537,12 @@ var WORDS = [
     "英文例句": "The MRT system is very fast and convenient.",
     "例句中文": "台北與新北都會區普及的大眾捷運交通系統，搭乘起來既安全舒適又非常快捷便利。",
     "表情符號": "🚇",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚇",
+    "icon": "🚇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "conversation",
@@ -7485,7 +9560,12 @@ var WORDS = [
     "英文例句": "Practice daily English conversations with classmates.",
     "例句中文": "在實體外語課程中把握寶貴機會，積極和身旁的同班同學進行生活化的實用英語情境對話。",
     "表情符號": "💬",
-    "圖片": ""
+    "圖片": "",
+    "em": "💬",
+    "icon": "💬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cook",
@@ -7503,7 +9583,12 @@ var WORDS = [
     "英文例句": "My uncle is a great cook.",
     "例句中文": "我叔叔是一位很棒的廚師。",
     "表情符號": "🧑‍🍳",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍🍳",
+    "icon": "🧑‍🍳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cookie",
@@ -7521,7 +9606,12 @@ var WORDS = [
     "英文例句": "Mom bakes chocolate cookies.",
     "例句中文": "媽媽烤了巧克力餅乾。",
     "表情符號": "🍪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍪",
+    "icon": "🍪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cool",
@@ -7539,7 +9629,12 @@ var WORDS = [
     "英文例句": "Autumn has cool gentle breezes.",
     "例句中文": "秋天有涼爽微風。",
     "表情符號": "😎",
-    "圖片": ""
+    "圖片": "",
+    "em": "😎",
+    "icon": "😎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "copy",
@@ -7557,7 +9652,12 @@ var WORDS = [
     "英文例句": "Copy down the board notes in notebook.",
     "例句中文": "手裡握著筆，專注而工整地將老師在黑板上條列歸納出的重要考試重點抄寫進個人筆記本中。",
     "表情符號": "📝",
-    "圖片": ""
+    "圖片": "",
+    "em": "📝",
+    "icon": "📝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "corn",
@@ -7575,7 +9675,12 @@ var WORDS = [
     "英文例句": "Yellow sweet corn smells nice.",
     "例句中文": "甜甜的黃玉米聞起來很香。",
     "表情符號": "🌽",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌽",
+    "icon": "🌽",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "corner",
@@ -7593,7 +9698,12 @@ var WORDS = [
     "英文例句": "Turn right at the street corner.",
     "例句中文": "在街道轉角處向右轉。",
     "表情符號": "↪️",
-    "圖片": ""
+    "圖片": "",
+    "em": "↪️",
+    "icon": "↪️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "correct",
@@ -7611,7 +9721,12 @@ var WORDS = [
     "英文例句": "Check if your math answer is completely correct.",
     "例句中文": "交卷前務必再次動筆反覆驗算，仔細確認自己計算出的數學題目答案是否毫無破綻完全正確。",
     "表情符號": "✔️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✔️",
+    "icon": "✔️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cost",
@@ -7629,7 +9744,12 @@ var WORDS = [
     "英文例句": "The lovely plush doll costs two hundred dollars.",
     "例句中文": "擺在玻璃櫥窗裡那隻觸感細緻的高人氣可愛絨毛玩偶，標籤上的售價為新台幣兩百元整。",
     "表情符號": "🏷️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏷️",
+    "icon": "🏷️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cotton",
@@ -7647,7 +9767,12 @@ var WORDS = [
     "英文例句": "This light summer T-shirt is made of cotton.",
     "例句中文": "這件適合在炎炎夏日外出穿著的透氣短袖T恤，是由天然柔軟親膚的純棉纖維織造而成的。",
     "表情符號": "👕",
-    "圖片": ""
+    "圖片": "",
+    "em": "👕",
+    "icon": "👕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "couch",
@@ -7665,7 +9790,12 @@ var WORDS = [
     "英文例句": "Lie comfortably on the living room couch.",
     "例句中文": "結束了一整天在學校的充實學習，回到溫暖的家中放鬆地躺在客廳柔軟的大長沙發上歇息片刻。",
     "表情符號": "🛋️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛋️",
+    "icon": "🛋️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cough",
@@ -7683,7 +9813,12 @@ var WORDS = [
     "英文例句": "Cover your mouth when you cough.",
     "例句中文": "咳嗽時記得用手肘或衛生紙掩住嘴巴。",
     "表情符號": "😷",
-    "圖片": ""
+    "圖片": "",
+    "em": "😷",
+    "icon": "😷",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "could",
@@ -7701,7 +9836,12 @@ var WORDS = [
     "英文例句": "Could you help me, please?",
     "例句中文": "你可以幫幫我嗎？",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "count",
@@ -7719,7 +9859,12 @@ var WORDS = [
     "英文例句": "Count numbers from one up to twenty.",
     "例句中文": "跟著老師親切的帶讀節奏，大家一起開口大聲練習從數字一循序漸進數到數字二十。",
     "表情符號": "🔢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔢",
+    "icon": "🔢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "country",
@@ -7737,7 +9882,12 @@ var WORDS = [
     "英文例句": "We live in a beautiful and peaceful country.",
     "例句中文": "我們無比幸運地生活在一個風光明媚、人情溫暖且社會繁榮祥和的美麗島嶼國家之中。",
     "表情符號": "🇹🇼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🇹🇼",
+    "icon": "🇹🇼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "couple",
@@ -7755,7 +9905,12 @@ var WORDS = [
     "英文例句": "A sweet couple walked hand in hand.",
     "例句中文": "一對感情融洽甜蜜的年輕恩愛伴侶，手牽著手悠然漫步在落日餘暉映照下的微風林蔭大道上。",
     "表情符號": "👫",
-    "圖片": ""
+    "圖片": "",
+    "em": "👫",
+    "icon": "👫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "courage",
@@ -7773,7 +9928,12 @@ var WORDS = [
     "英文例句": "It takes courage to speak in public.",
     "例句中文": "要在眾多陌生的群眾與同學面前勇敢站上講台開口發表個人想法，需要克服內心恐懼具備莫大勇氣。",
     "表情符號": "🦁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦁",
+    "icon": "🦁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "course",
@@ -7791,7 +9951,12 @@ var WORDS = [
     "英文例句": "I enrolled in an online graphic design course.",
     "例句中文": "我利用課餘閒暇時間在網路上報名參加了專業的立體建模與電腦繪圖進階實用培訓課程。",
     "表情符號": "💻",
-    "圖片": ""
+    "圖片": "",
+    "em": "💻",
+    "icon": "💻",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "court",
@@ -7809,7 +9974,12 @@ var WORDS = [
     "英文例句": "Play tennis with friends on outdoor court.",
     "例句中文": "在風和日麗的週末下午，相約好友們一起來到社區戶外網球場上痛快揮拍對打舒展筋骨。",
     "表情符號": "🎾",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎾",
+    "icon": "🎾",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cousin",
@@ -7827,7 +9997,12 @@ var WORDS = [
     "英文例句": "I play board games with my cousin.",
     "例句中文": "我和堂哥一起玩桌上遊戲。",
     "表情符號": "🧑‍🤝‍🧑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍🤝‍🧑",
+    "icon": "🧑‍🤝‍🧑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cover",
@@ -7845,7 +10020,12 @@ var WORDS = [
     "英文例句": "The hard book cover protects inner pages.",
     "例句中文": "這本精裝典藏故事書有著厚實堅固的彩色外封面，能有效保護裡面脆弱細緻的印刷內頁。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cow",
@@ -7863,7 +10043,12 @@ var WORDS = [
     "英文例句": "Cows give us fresh milk.",
     "例句中文": "乳牛給我們新鮮的牛奶。",
     "表情符號": "🐮",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐮",
+    "icon": "🐮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cowboy",
@@ -7881,7 +10066,12 @@ var WORDS = [
     "英文例句": "The American cowboy rode a horse across plains.",
     "例句中文": "在美國西部拓荒歷史中，英姿煥發的傳統牛仔戴著寬邊皮帽、騎著駿馬奔馳在遼闊的大平原上。",
     "表情符號": "🤠",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤠",
+    "icon": "🤠",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "crab",
@@ -7899,7 +10089,12 @@ var WORDS = [
     "英文例句": "A little crab walks sideways.",
     "例句中文": "小螃蟹橫著在沙灘上快步行走。",
     "表情符號": "🦀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦀",
+    "icon": "🦀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "crayon",
@@ -7917,7 +10112,12 @@ var WORDS = [
     "英文例句": "Color the picture with crayons.",
     "例句中文": "用蠟筆為圖畫著色。",
     "表情符號": "🖍️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🖍️",
+    "icon": "🖍️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "crazy",
@@ -7935,7 +10135,12 @@ var WORDS = [
     "英文例句": "He is crazy about playing football every day.",
     "例句中文": "他對戶外運動充滿無限狂熱，每天只要一下課就迫不及待呼朋引伴衝到操場瘋狂踢足球練習。",
     "表情符號": "🤪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤪",
+    "icon": "🤪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cream",
@@ -7953,7 +10158,12 @@ var WORDS = [
     "英文例句": "Put whipped sweet cream on strawberry cake.",
     "例句中文": "在新鮮烘焙出爐的草莓戚風蛋糕表面，厚厚抹上一層口感綿密滑順、香甜誘人的特調鮮奶油。",
     "表情符號": "🧁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧁",
+    "icon": "🧁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "create",
@@ -7971,7 +10181,12 @@ var WORDS = [
     "英文例句": "Create pretty artwork with paper.",
     "例句中文": "用紙張動手創造美麗的美術作品。",
     "表情符號": "🎨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎨",
+    "icon": "🎨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "credit card",
@@ -7989,7 +10204,12 @@ var WORDS = [
     "英文例句": "Pay for daily shopping with a credit card.",
     "例句中文": "在百貨商場採買各類生活用品與居家物資時，拿出感應式信用卡刷卡付款既衛生又非常便捷。",
     "表情符號": "💳",
-    "圖片": ""
+    "圖片": "",
+    "em": "💳",
+    "icon": "💳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "crime",
@@ -8007,7 +10227,12 @@ var WORDS = [
     "英文例句": "Police officers work hard to stop local crimes.",
     "例句中文": "正義勇敢的警察同仁在街頭巷尾日夜不懈地加強巡邏執勤，只為了有效遏止各類犯罪維護社區治安。",
     "表情符號": "👮",
-    "圖片": ""
+    "圖片": "",
+    "em": "👮",
+    "icon": "👮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "crocodile",
@@ -8025,7 +10250,12 @@ var WORDS = [
     "英文例句": "The crocodile swims in river.",
     "例句中文": "鱷魚在河裡游泳。",
     "表情符號": "🐊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐊",
+    "icon": "🐊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cross",
@@ -8043,7 +10273,12 @@ var WORDS = [
     "英文例句": "Cross at zebra crossing safely.",
     "例句中文": "走斑馬線安全地穿越馬路。",
     "表情符號": "🚶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚶",
+    "icon": "🚶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "crosswalk",
@@ -8061,7 +10296,12 @@ var WORDS = [
     "英文例句": "Always use the striped crosswalk.",
     "例句中文": "過馬路時請務必走斑馬線。",
     "表情符號": "🦓",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦓",
+    "icon": "🦓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "crow",
@@ -8079,7 +10319,12 @@ var WORDS = [
     "英文例句": "The black crow is very intelligent.",
     "例句中文": "黑烏鴉是非常聰明靈巧的鳥類。",
     "表情符號": "🐦‍⬛",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐦‍⬛",
+    "icon": "🐦‍⬛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "crowd",
@@ -8097,7 +10342,12 @@ var WORDS = [
     "英文例句": "A large happy crowd gathered at festival.",
     "例句中文": "數以千計滿面笑容的熱情歡樂群眾紛紛湧入大型戶外音樂節會場，共同慶祝這一年一度的盛大慶典。",
     "表情符號": "👥",
-    "圖片": ""
+    "圖片": "",
+    "em": "👥",
+    "icon": "👥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "crowded",
@@ -8115,7 +10365,12 @@ var WORDS = [
     "英文例句": "The MRT night train is very crowded.",
     "例句中文": "每當到了傍晚繁忙的下班與放學通勤尖峰時段，行駛於市區地下的捷運車廂內部總是顯得異常擁擠。",
     "表情符號": "🚇",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚇",
+    "icon": "🚇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cruel",
@@ -8133,7 +10388,12 @@ var WORDS = [
     "英文例句": "It is very cruel to abandon pet animals.",
     "例句中文": "家裡飼養的寵物是一輩子的忠實家人，任何無端將其惡意遺棄在街頭風吹雨淋的行徑都是極端殘忍的。",
     "表情符號": "😢",
-    "圖片": ""
+    "圖片": "",
+    "em": "😢",
+    "icon": "😢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cry",
@@ -8151,7 +10411,12 @@ var WORDS = [
     "英文例句": "Don't cry; everything is fine.",
     "例句中文": "別哭，一切都會很好的。",
     "表情符號": "😢",
-    "圖片": ""
+    "圖片": "",
+    "em": "😢",
+    "icon": "😢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cucumber",
@@ -8169,7 +10434,12 @@ var WORDS = [
     "英文例句": "Add sliced cucumber to the salad.",
     "例句中文": "把切片的小黃瓜加入沙拉中。",
     "表情符號": "🥒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥒",
+    "icon": "🥒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "culture",
@@ -8187,7 +10457,12 @@ var WORDS = [
     "英文例句": "Learn about rich Taiwanese culture and customs.",
     "例句中文": "走訪各地的歷史古蹟與傳統老街，深入認識並用心體會台灣多元包容且深厚豐沛的在地民俗文化。",
     "表情符號": "🏮",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏮",
+    "icon": "🏮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cup",
@@ -8205,7 +10480,12 @@ var WORDS = [
     "英文例句": "Drink a warm cup of soothing tea.",
     "例句中文": "在氣溫微涼的初秋夜晚，捧著陶瓷馬克杯靜靜啜飲一口溫暖甘甜的現泡熱花草茶放鬆身心。",
     "表情符號": "🍵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍵",
+    "icon": "🍵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cupboard",
@@ -8223,7 +10503,12 @@ var WORDS = [
     "英文例句": "Dishes are placed in cupboard.",
     "例句中文": "碗盤擺放在櫥櫃裡面。",
     "表情符號": "🗄️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗄️",
+    "icon": "🗄️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cure",
@@ -8241,7 +10526,12 @@ var WORDS = [
     "英文例句": "Good doctors and medicine cure sickness.",
     "例句中文": "仁心仁術的專業醫療團隊搭配精準對症的現代醫藥，能有效消滅病灶並幫助病人早日徹底治癒病痛。",
     "表情符號": "💊",
-    "圖片": ""
+    "圖片": "",
+    "em": "💊",
+    "icon": "💊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "curious",
@@ -8259,7 +10549,12 @@ var WORDS = [
     "英文例句": "Curious monkeys inspect everything.",
     "例句中文": "好奇心十足的猴子對每樣東西都東瞧西看。",
     "表情符號": "🧐",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧐",
+    "icon": "🧐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "curly",
@@ -8277,7 +10572,12 @@ var WORDS = [
     "英文例句": "She has pretty natural curly hair.",
     "例句中文": "她有一頭漂亮的自然捲長髮。",
     "表情符號": "💇‍♀️",
-    "圖片": ""
+    "圖片": "",
+    "em": "💇‍♀️",
+    "icon": "💇‍♀️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "current",
@@ -8295,7 +10595,12 @@ var WORDS = [
     "英文例句": "Check the current weather forecast before travel.",
     "例句中文": "在興高采烈全家收拾行囊準備出門遠行前，務必先上網查詢確認觀光景點當前最新的即時天氣預報。",
     "表情符號": "📱",
-    "圖片": ""
+    "圖片": "",
+    "em": "📱",
+    "icon": "📱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "curtain",
@@ -8313,7 +10618,12 @@ var WORDS = [
     "英文例句": "Open curtains to let sun in.",
     "例句中文": "拉開窗簾讓陽光灑進來。",
     "表情符號": "🪟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪟",
+    "icon": "🪟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "curve",
@@ -8331,7 +10641,12 @@ var WORDS = [
     "英文例句": "Slow down around the sharp road curve.",
     "例句中文": "車輛沿著蜿蜒陡峭的盤山公路行駛時，每逢視野不佳的急轉彎盲彎路段務必提早踩煞車減速慢行。",
     "表情符號": "↪️",
-    "圖片": ""
+    "圖片": "",
+    "em": "↪️",
+    "icon": "↪️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cushion",
@@ -8349,7 +10664,12 @@ var WORDS = [
     "英文例句": "Rest your back against soft cushion.",
     "例句中文": "把背舒服地靠在柔軟的沙發抱枕上。",
     "表情符號": "🛋️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛋️",
+    "icon": "🛋️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "custom",
@@ -8367,7 +10687,12 @@ var WORDS = [
     "英文例句": "Giving red envelopes is a happy Lunar New Year custom.",
     "例句中文": "在農曆除夕圍爐夜由長輩發放裝滿祝福的討喜紅包給晚輩，是源遠流長且充滿人情味的溫暖傳統習俗。",
     "表情符號": "🧧",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧧",
+    "icon": "🧧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "customer",
@@ -8385,7 +10710,12 @@ var WORDS = [
     "英文例句": "The friendly shop clerk welcomed every customer.",
     "例句中文": "站在收銀台前服務的熱心超商店員，總是面帶親切開朗的微笑真誠迎接每一位推門而入的消費顧客。",
     "表情符號": "🧑‍💼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍💼",
+    "icon": "🧑‍💼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cut",
@@ -8403,7 +10733,12 @@ var WORDS = [
     "英文例句": "Cut shapes out of colored paper with scissors.",
     "例句中文": "手裡握著圓頭兒童安全剪刀，專注小心地沿著描繪好的線條從彩色圖畫紙上剪下各種生動的幾何形狀。",
     "表情符號": "✂️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✂️",
+    "icon": "✂️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "cute",
@@ -8421,7 +10756,12 @@ var WORDS = [
     "英文例句": "The little kitten is cute.",
     "例句中文": "那隻小貓咪非常可愛。",
     "表情符號": "🐱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐱",
+    "icon": "🐱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "daily",
@@ -8439,7 +10779,12 @@ var WORDS = [
     "英文例句": "Walking every morning is my daily routine.",
     "例句中文": "每天早晨散步是我持之以恆的日常作息。",
     "表情符號": "🗓️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗓️",
+    "icon": "🗓️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "damage",
@@ -8457,7 +10802,12 @@ var WORDS = [
     "英文例句": "The strong typhoon caused serious road damage.",
     "例句中文": "強烈颱風過境對沿線山路造成了嚴重損害。",
     "表情符號": "⚠️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚠️",
+    "icon": "⚠️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dance",
@@ -8475,7 +10825,12 @@ var WORDS = [
     "英文例句": "She loves to dance with friends.",
     "例句中文": "她喜歡和朋友一起跳舞。",
     "表情符號": "💃",
-    "圖片": ""
+    "圖片": "",
+    "em": "💃",
+    "icon": "💃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "danger",
@@ -8493,7 +10848,12 @@ var WORDS = [
     "英文例句": "Always stay away from deep water danger.",
     "例句中文": "去海邊遊玩時務必隨時遠離深水危險區域。",
     "表情符號": "⚠️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚠️",
+    "icon": "⚠️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dangerous",
@@ -8511,7 +10871,12 @@ var WORDS = [
     "英文例句": "Playing with fire is dangerous.",
     "例句中文": "玩火是一件極度危險的事情。",
     "表情符號": "🔥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔥",
+    "icon": "🔥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dark",
@@ -8529,7 +10894,12 @@ var WORDS = [
     "英文例句": "The night is dark and quiet.",
     "例句中文": "夜晚又黑又安靜。",
     "表情符號": "🌑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌑",
+    "icon": "🌑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "date",
@@ -8547,7 +10917,12 @@ var WORDS = [
     "英文例句": "Check today's date on classroom calendar.",
     "例句中文": "抬頭看著教室牆上的月曆確認今天的日期。",
     "表情符號": "📅",
-    "圖片": ""
+    "圖片": "",
+    "em": "📅",
+    "icon": "📅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "daughter",
@@ -8565,7 +10940,12 @@ var WORDS = [
     "英文例句": "Their daughter plays violin nicely.",
     "例句中文": "他們的女兒小提琴拉得很好聽。",
     "表情符號": "👧",
-    "圖片": ""
+    "圖片": "",
+    "em": "👧",
+    "icon": "👧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dawn",
@@ -8583,7 +10963,12 @@ var WORDS = [
     "英文例句": "Birds start singing happily at early dawn.",
     "例句中文": "清晨拂曉破曉時分，鳥兒就在枝頭歡快鳴叫。",
     "表情符號": "🌅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌅",
+    "icon": "🌅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "day",
@@ -8601,7 +10986,12 @@ var WORDS = [
     "英文例句": "Have a wonderful day!",
     "例句中文": "祝你有美好的一天！",
     "表情符號": "☀️",
-    "圖片": ""
+    "圖片": "",
+    "em": "☀️",
+    "icon": "☀️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dead",
@@ -8619,7 +11009,12 @@ var WORDS = [
     "英文例句": "Clear dead brown leaves away.",
     "例句中文": "把枯乾的褐色落葉打掃清理掉。",
     "表情符號": "🍂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍂",
+    "icon": "🍂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "deaf",
@@ -8637,7 +11032,12 @@ var WORDS = [
     "英文例句": "Communicate with deaf using sign.",
     "例句中文": "用手語與聽障朋友進行溝通交流。",
     "表情符號": "🤟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤟",
+    "icon": "🤟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "deal",
@@ -8655,7 +11055,12 @@ var WORDS = [
     "英文例句": "It is a deal, we will share the toy.",
     "例句中文": "一言為定，我們輪流分享這個好玩的玩具。",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dear",
@@ -8673,7 +11078,12 @@ var WORDS = [
     "英文例句": "Write a sweet letter to your dear parents.",
     "例句中文": "動手寫一封溫暖貼心的信送給親愛的父母。",
     "表情符號": "💌",
-    "圖片": ""
+    "圖片": "",
+    "em": "💌",
+    "icon": "💌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "death",
@@ -8691,7 +11101,12 @@ var WORDS = [
     "英文例句": "Doctors work hard to prevent patient death.",
     "例句中文": "專業醫師竭盡全力搶救並避免病人失去生命。",
     "表情符號": "🏥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏥",
+    "icon": "🏥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "debate",
@@ -8709,7 +11124,12 @@ var WORDS = [
     "英文例句": "Our class had a lively debate on pets.",
     "例句中文": "我們全班針對飼養寵物展開了一場熱烈辯論。",
     "表情符號": "🗣️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗣️",
+    "icon": "🗣️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "December",
@@ -8727,7 +11147,12 @@ var WORDS = [
     "英文例句": "Christmas bells ring in December.",
     "例句中文": "聖誕鐘聲在十二月敲響。",
     "表情符號": "🎄",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎄",
+    "icon": "🎄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "decide",
@@ -8745,7 +11170,12 @@ var WORDS = [
     "英文例句": "Decide which game to play first.",
     "例句中文": "決定先玩哪一個遊戲。",
     "表情符號": "🎯",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎯",
+    "icon": "🎯",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "decision",
@@ -8763,7 +11193,12 @@ var WORDS = [
     "英文例句": "Think carefully before making a final decision.",
     "例句中文": "在做出關鍵的最終決定前，請務必再三思量。",
     "表情符號": "🎯",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎯",
+    "icon": "🎯",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "decorate",
@@ -8781,7 +11216,12 @@ var WORDS = [
     "英文例句": "We decorated our classroom with colorful balloons.",
     "例句中文": "我們用繽紛的氣球把整間教室佈置得煥然一新。",
     "表情符號": "🎈",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎈",
+    "icon": "🎈",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "decrease",
@@ -8799,7 +11239,12 @@ var WORDS = [
     "英文例句": "Turn down music to decrease loud noise.",
     "例句中文": "把音樂音量調低一些以減少刺耳的噪音干擾。",
     "表情符號": "📉",
-    "圖片": ""
+    "圖片": "",
+    "em": "📉",
+    "icon": "📉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "deep",
@@ -8817,7 +11262,12 @@ var WORDS = [
     "英文例句": "Never swim in deep water without adults.",
     "例句中文": "沒有大人在旁陪同時，絕對不可以去深水區游泳。",
     "表情符號": "🌊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌊",
+    "icon": "🌊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "deer",
@@ -8835,7 +11285,12 @@ var WORDS = [
     "英文例句": "A gentle deer grazes near woods.",
     "例句中文": "一隻溫馴的鹿在森林邊緣吃草。",
     "表情符號": "🦌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦌",
+    "icon": "🦌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "degree",
@@ -8853,7 +11308,12 @@ var WORDS = [
     "英文例句": "Summer heat reached thirty-five degrees Celsius.",
     "例句中文": "盛夏正午的戶外氣溫高達攝氏三十五度。",
     "表情符號": "🌡️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌡️",
+    "icon": "🌡️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "delicious",
@@ -8871,7 +11331,12 @@ var WORDS = [
     "英文例句": "Mom cooked delicious noodles for our lunch.",
     "例句中文": "媽媽為我們的午餐煮了一大碗香氣撲鼻的美味湯麵。",
     "表情符號": "🍜",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍜",
+    "icon": "🍜",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "deliver",
@@ -8889,7 +11354,12 @@ var WORDS = [
     "英文例句": "Postmen deliver letters rain or shine.",
     "例句中文": "風雨無阻的郵差每天準時把重要信件遞送到府。",
     "表情符號": "📦",
-    "圖片": ""
+    "圖片": "",
+    "em": "📦",
+    "icon": "📦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dentist",
@@ -8907,7 +11377,12 @@ var WORDS = [
     "英文例句": "Visit the dentist every six months.",
     "例句中文": "每隔半年請定期回診找牙醫檢查口腔牙齒健康。",
     "表情符號": "🦷",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦷",
+    "icon": "🦷",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "department",
@@ -8925,7 +11400,12 @@ var WORDS = [
     "英文例句": "Dad works in the design department.",
     "例句中文": "爸爸在這間科技公司的產品外觀設計部門任職。",
     "表情符號": "🏢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏢",
+    "icon": "🏢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "department store",
@@ -8943,7 +11423,12 @@ var WORDS = [
     "英文例句": "Buy new school shoes at department store.",
     "例句中文": "週末全家人一起到繁華的百貨公司挑選新球鞋。",
     "表情符號": "🏬",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏬",
+    "icon": "🏬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "depend",
@@ -8961,7 +11446,12 @@ var WORDS = [
     "英文例句": "Plants depend on warm sunlight to grow.",
     "例句中文": "生機蓬勃的花草植物必須仰賴溫暖的陽光生長。",
     "表情符號": "🌱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌱",
+    "icon": "🌱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "describe",
@@ -8979,7 +11469,12 @@ var WORDS = [
     "英文例句": "Describe your favorite animal in detail.",
     "例句中文": "詳細生動地描述你最喜愛的動物。",
     "表情符號": "🗣️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗣️",
+    "icon": "🗣️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "desert",
@@ -8997,7 +11492,12 @@ var WORDS = [
     "英文例句": "Camels walk across the hot desert.",
     "例句中文": "駱駝穩步走過炎熱的沙漠。",
     "表情符號": "🏜️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏜️",
+    "icon": "🏜️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "design",
@@ -9015,7 +11515,12 @@ var WORDS = [
     "英文例句": "We design 3D models with creative ideas.",
     "例句中文": "我們結合源源不絕的創意靈感動手設計3D立體模型。",
     "表情符號": "📐",
-    "圖片": ""
+    "圖片": "",
+    "em": "📐",
+    "icon": "📐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "desire",
@@ -9033,7 +11538,12 @@ var WORDS = [
     "英文例句": "She showed a strong desire to learn painting.",
     "例句中文": "她展現出想要深入精進繪畫技巧的強烈學習渴望。",
     "表情符號": "✨",
-    "圖片": ""
+    "圖片": "",
+    "em": "✨",
+    "icon": "✨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "desk",
@@ -9051,7 +11561,12 @@ var WORDS = [
     "英文例句": "Keep your desk tidy.",
     "例句中文": "保持你的書桌整潔。",
     "表情符號": "🪑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪑",
+    "icon": "🪑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dessert",
@@ -9069,7 +11584,12 @@ var WORDS = [
     "英文例句": "We enjoyed sweet ice cream for dessert.",
     "例句中文": "吃完正餐後，大家開心享用香甜冰淇淋當作甜點。",
     "表情符號": "🍨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍨",
+    "icon": "🍨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "detect",
@@ -9087,7 +11607,12 @@ var WORDS = [
     "英文例句": "Dogs can easily detect tiny quiet sounds.",
     "例句中文": "聽覺靈敏的狗狗能輕易察覺周遭極微弱的聲音。",
     "表情符號": "🐕",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐕",
+    "icon": "🐕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "develop",
@@ -9105,7 +11630,12 @@ var WORDS = [
     "英文例句": "Develop good study habits from young age.",
     "例句中文": "從小養成規律用功的良好讀書習慣會受用一生。",
     "表情符號": "🌱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌱",
+    "icon": "🌱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dial",
@@ -9123,7 +11653,12 @@ var WORDS = [
     "英文例句": "Dial emergency number one-one-nine for fire.",
     "例句中文": "發生火災時請迅速在電話上撥打一一九緊急號碼。",
     "表情符號": "☎️",
-    "圖片": ""
+    "圖片": "",
+    "em": "☎️",
+    "icon": "☎️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "diamond",
@@ -9141,7 +11676,12 @@ var WORDS = [
     "英文例句": "The diamond ring sparkles under warm lights.",
     "例句中文": "晶瑩的鑽石戒指在柔和燈光照耀下閃爍著光芒。",
     "表情符號": "💎",
-    "圖片": ""
+    "圖片": "",
+    "em": "💎",
+    "icon": "💎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "diary",
@@ -9159,7 +11699,12 @@ var WORDS = [
     "英文例句": "Write down your happy feelings in diary.",
     "例句中文": "每晚睡前把一整天的快樂點滴與心情寫在日記本裡。",
     "表情符號": "📔",
-    "圖片": ""
+    "圖片": "",
+    "em": "📔",
+    "icon": "📔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dictionary",
@@ -9177,7 +11722,12 @@ var WORDS = [
     "英文例句": "Look up unknown new words in dictionary.",
     "例句中文": "遇到不認識的生難英文單字時，翻開字典查閱釋義。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "did",
@@ -9195,7 +11745,12 @@ var WORDS = [
     "英文例句": "Did you brush your teeth?",
     "例句中文": "你刷牙了嗎？",
     "表情符號": "🪥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪥",
+    "icon": "🪥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "die",
@@ -9213,7 +11768,12 @@ var WORDS = [
     "英文例句": "Water plants so they don't die.",
     "例句中文": "給植物澆水讓它們不枯萎。",
     "表情符號": "🥀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥀",
+    "icon": "🥀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "diet",
@@ -9231,7 +11791,12 @@ var WORDS = [
     "英文例句": "A balanced food diet keeps you fit.",
     "例句中文": "均衡攝取各類營養的日常飲食能維持身體健康有活力。",
     "表情符號": "🥗",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥗",
+    "icon": "🥗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "difference",
@@ -9249,7 +11814,12 @@ var WORDS = [
     "英文例句": "Spot the difference between these two pictures.",
     "例句中文": "發揮觀察力找出這兩張插圖之間細微的有趣差異。",
     "表情符號": "🔍",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔍",
+    "icon": "🔍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "different",
@@ -9267,7 +11837,12 @@ var WORDS = [
     "英文例句": "We have different colored crayons.",
     "例句中文": "我們擁有各種不同顏色的蠟筆。",
     "表情符號": "🖍️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🖍️",
+    "icon": "🖍️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "difficult",
@@ -9285,7 +11860,12 @@ var WORDS = [
     "英文例句": "Don't give up on difficult math problems.",
     "例句中文": "面對繁複困難的數學試題不要輕易氣餒放棄思考。",
     "表情符號": "🧩",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧩",
+    "icon": "🧩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "difficulty",
@@ -9303,7 +11883,12 @@ var WORDS = [
     "英文例句": "Ask your kind teacher when facing difficulty.",
     "例句中文": "在課業上遇到難以突破的困難時，主動請教老師指點。",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dig",
@@ -9321,7 +11906,12 @@ var WORDS = [
     "英文例句": "Dogs dig deep holes in sand.",
     "例句中文": "狗狗在沙堆裡挖深洞。",
     "表情符號": "🏖️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏖️",
+    "icon": "🏖️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "diligent",
@@ -9339,7 +11929,12 @@ var WORDS = [
     "英文例句": "The diligent student practices English daily.",
     "例句中文": "勤勉用功的好學生每天都主動自律地練習英語口說。",
     "表情符號": "📚",
-    "圖片": ""
+    "圖片": "",
+    "em": "📚",
+    "icon": "📚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dining room",
@@ -9357,7 +11952,12 @@ var WORDS = [
     "英文例句": "Our whole family eats in the dining room.",
     "例句中文": "每逢晚飯時間，我們全家人都會聚在溫馨的飯廳用餐。",
     "表情符號": "🍽️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍽️",
+    "icon": "🍽️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dinner",
@@ -9375,7 +11975,12 @@ var WORDS = [
     "英文例句": "Dinner is ready on the table.",
     "例句中文": "晚餐已經在桌上準備好了。",
     "表情符號": "🍲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍲",
+    "icon": "🍲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dinosaur",
@@ -9393,7 +11998,12 @@ var WORDS = [
     "英文例句": "Huge dinosaurs lived millions of years ago.",
     "例句中文": "巨大威武的恐龍生活在距今數百萬年前的遠古地球。",
     "表情符號": "🦖",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦖",
+    "icon": "🦖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "diplomat",
@@ -9411,7 +12021,12 @@ var WORDS = [
     "英文例句": "The diplomat represents our country abroad.",
     "例句中文": "駐外使節外交官在國際場合代表國家維護尊嚴與權益。",
     "表情符號": "🌐",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌐",
+    "icon": "🌐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "direct",
@@ -9429,7 +12044,12 @@ var WORDS = [
     "英文例句": "Polite police officers direct city traffic.",
     "例句中文": "盡責的交通警察在車水馬龍的十字路口指揮車流。",
     "表情符號": "👮",
-    "圖片": ""
+    "圖片": "",
+    "em": "👮",
+    "icon": "👮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "direction",
@@ -9447,7 +12067,12 @@ var WORDS = [
     "英文例句": "Follow the road direction signs carefully.",
     "例句中文": "出門開車時請仔細注意路旁豎立的綠色方向指示牌。",
     "表情符號": "🧭",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧭",
+    "icon": "🧭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dirty",
@@ -9465,7 +12090,12 @@ var WORDS = [
     "英文例句": "Wash dirty sports shoes.",
     "例句中文": "把骯髒的運動鞋洗乾淨。",
     "表情符號": "🧦",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧦",
+    "icon": "🧦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "disappear",
@@ -9483,7 +12113,12 @@ var WORDS = [
     "英文例句": "The shy rabbit disappeared into bushes.",
     "例句中文": "生性害羞的小白兔一溜煙鑽進濃密的草叢中消失不見。",
     "表情符號": "🐇",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐇",
+    "icon": "🐇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "discover",
@@ -9501,7 +12136,12 @@ var WORDS = [
     "英文例句": "Discover wonderful new worlds in books.",
     "例句中文": "在書本中發現精彩新天地。",
     "表情符號": "🔍",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔍",
+    "icon": "🔍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "discuss",
@@ -9519,7 +12159,12 @@ var WORDS = [
     "英文例句": "Discuss the science project in small groups.",
     "例句中文": "大家分成小組圍坐在一起熱烈討論自然科學專題。",
     "表情符號": "👥",
-    "圖片": ""
+    "圖片": "",
+    "em": "👥",
+    "icon": "👥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "discussion",
@@ -9537,7 +12182,12 @@ var WORDS = [
     "英文例句": "Join our active class book discussion.",
     "例句中文": "熱情投入我們班上舉辦的每週課外好書心得研討分享。",
     "表情符號": "💬",
-    "圖片": ""
+    "圖片": "",
+    "em": "💬",
+    "icon": "💬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dish",
@@ -9555,7 +12205,12 @@ var WORDS = [
     "英文例句": "Wash your own dinner dish cleanly.",
     "例句中文": "吃完晚飯後主動把自己用過的大餐盤拿到水槽清洗乾淨。",
     "表情符號": "🍽️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍽️",
+    "icon": "🍽️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dishonest",
@@ -9573,7 +12228,12 @@ var WORDS = [
     "英文例句": "Never tell dishonest lies to family.",
     "例句中文": "對待朝夕相處的親愛家人，永遠不要說出不誠實的謊話。",
     "表情符號": "🙅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙅",
+    "icon": "🙅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "distance",
@@ -9591,7 +12251,12 @@ var WORDS = [
     "英文例句": "Keep a safe car distance on roads.",
     "例句中文": "在公路上跟車行駛時，請隨時與前車保持足夠的安全距離。",
     "表情符號": "📏",
-    "圖片": ""
+    "圖片": "",
+    "em": "📏",
+    "icon": "📏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "distant",
@@ -9609,7 +12274,12 @@ var WORDS = [
     "英文例句": "We heard soft sounds of distant thunder.",
     "例句中文": "我們在窗邊隱約聽見了遠方天際傳來的隱隱雷鳴聲響。",
     "表情符號": "⚡",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚡",
+    "icon": "⚡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "divide",
@@ -9627,7 +12297,12 @@ var WORDS = [
     "英文例句": "Divide the sweet pie into four parts.",
     "例句中文": "用小刀把烤好的香甜蘋果派平均切分成均等的四塊。",
     "表情符號": "🥧",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥧",
+    "icon": "🥧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dizzy",
@@ -9645,7 +12320,12 @@ var WORDS = [
     "英文例句": "Spinning too fast makes you feel dizzy.",
     "例句中文": "原地轉圈轉太快會讓你感到頭暈。",
     "表情符號": "💫",
-    "圖片": ""
+    "圖片": "",
+    "em": "💫",
+    "icon": "💫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "do",
@@ -9663,7 +12343,12 @@ var WORDS = [
     "英文例句": "Do you like apples?",
     "例句中文": "你喜歡蘋果嗎？",
     "表情符號": "🍎",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍎",
+    "icon": "🍎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "doctor",
@@ -9681,7 +12366,12 @@ var WORDS = [
     "英文例句": "The doctor helps sick people.",
     "例句中文": "醫生幫助生病的人。",
     "表情符號": "👨‍⚕️",
-    "圖片": ""
+    "圖片": "",
+    "em": "👨‍⚕️",
+    "icon": "👨‍⚕️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dodge ball",
@@ -9699,7 +12389,12 @@ var WORDS = [
     "英文例句": "Children play dodge ball in PE class.",
     "例句中文": "小學生們在學校體育課操場上玩躲避球玩得滿頭大汗。",
     "表情符號": "🏐",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏐",
+    "icon": "🏐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "does",
@@ -9717,7 +12412,12 @@ var WORDS = [
     "英文例句": "She does her homework well.",
     "例句中文": "她功課做得很好。",
     "表情符號": "📝",
-    "圖片": ""
+    "圖片": "",
+    "em": "📝",
+    "icon": "📝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dog",
@@ -9735,7 +12435,12 @@ var WORDS = [
     "英文例句": "The dog barks happily.",
     "例句中文": "小狗開心地吠叫。",
     "表情符號": "🐶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐶",
+    "icon": "🐶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "doll",
@@ -9753,7 +12458,12 @@ var WORDS = [
     "英文例句": "She hugs her favorite cloth doll to sleep.",
     "例句中文": "小女孩每晚睡覺時都要緊緊抱著心愛的布質洋娃娃。",
     "表情符號": "🧸",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧸",
+    "icon": "🧸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dollar",
@@ -9771,7 +12481,12 @@ var WORDS = [
     "英文例句": "This color storybook costs ten dollars.",
     "例句中文": "這本印刷精美全彩插圖的故事書售價為新台幣十元整。",
     "表情符號": "💵",
-    "圖片": ""
+    "圖片": "",
+    "em": "💵",
+    "icon": "💵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dolphin",
@@ -9789,7 +12504,12 @@ var WORDS = [
     "英文例句": "Dolphins leap gracefully.",
     "例句中文": "海豚優雅地躍出水面。",
     "表情符號": "🐬",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐬",
+    "icon": "🐬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "donkey",
@@ -9807,7 +12527,12 @@ var WORDS = [
     "英文例句": "The donkey carries heavy sacks.",
     "例句中文": "驢子馱著重重的袋子。",
     "表情符號": "🫏",
-    "圖片": ""
+    "圖片": "",
+    "em": "🫏",
+    "icon": "🫏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "door",
@@ -9825,7 +12550,12 @@ var WORDS = [
     "英文例句": "Please close the door.",
     "例句中文": "請關上門。",
     "表情符號": "🚪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚪",
+    "icon": "🚪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dormitory",
@@ -9843,7 +12573,12 @@ var WORDS = [
     "英文例句": "College students live in modern dormitory.",
     "例句中文": "大學生們住在現代化宿舍裡。",
     "表情符號": "🏢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏢",
+    "icon": "🏢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dot",
@@ -9861,7 +12596,12 @@ var WORDS = [
     "英文例句": "Put a dot at the end of sentence.",
     "例句中文": "寫完英文句子結尾時，千萬別忘了點上一個黑色句點。",
     "表情符號": "⚪",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚪",
+    "icon": "⚪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "double",
@@ -9879,7 +12619,12 @@ var WORDS = [
     "英文例句": "Double check your test before turning in.",
     "例句中文": "在鐘響交卷前，務必再重新全面仔細檢查雙重確認試題。",
     "表情符號": "✔️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✔️",
+    "icon": "✔️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "doubt",
@@ -9897,7 +12642,12 @@ var WORDS = [
     "英文例句": "Ask teacher when you have any doubt.",
     "例句中文": "聽課時心中一旦產生任何疑問困惑，立刻舉手向老師請教。",
     "表情符號": "❓",
-    "圖片": ""
+    "圖片": "",
+    "em": "❓",
+    "icon": "❓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "doughnut",
@@ -9915,7 +12665,12 @@ var WORDS = [
     "英文例句": "Chocolate doughnuts taste sweet and fluffy.",
     "例句中文": "裹滿香濃巧克力糖霜的甜甜圈吃起來既鬆軟又甜蜜。",
     "表情符號": "🍩",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍩",
+    "icon": "🍩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "down",
@@ -9933,7 +12688,12 @@ var WORDS = [
     "英文例句": "Sit down quietly on the soft rug.",
     "例句中文": "走到客廳柔軟的地毯上安安靜靜地坐下來閱讀童書。",
     "表情符號": "⬇️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⬇️",
+    "icon": "⬇️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "downstairs",
@@ -9951,7 +12711,12 @@ var WORDS = [
     "英文例句": "Grandpa is reading morning news downstairs.",
     "例句中文": "晨起悠閒的爺爺正在樓下的客廳沙發上翻閱晨報。",
     "表情符號": "🪜",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪜",
+    "icon": "🪜",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "downtown",
@@ -9969,7 +12734,12 @@ var WORDS = [
     "英文例句": "We took the subway to bustling downtown.",
     "例句中文": "我們搭乘班次密集的大眾捷運來到熱鬧喧囂的市中心。",
     "表情符號": "🏙️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏙️",
+    "icon": "🏙️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dozen",
@@ -9987,7 +12757,12 @@ var WORDS = [
     "英文例句": "Mom bought a dozen fresh chicken eggs.",
     "例句中文": "媽媽在傳統市場蛋行挑選了一打新鮮優質的紅殼雞蛋。",
     "表情符號": "🥚",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥚",
+    "icon": "🥚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dragon",
@@ -10005,7 +12780,12 @@ var WORDS = [
     "英文例句": "The golden dragon danced at festival.",
     "例句中文": "慶典踩街隊伍中金光閃閃的舞龍在鼓聲中神氣穿梭翻騰。",
     "表情符號": "🐉",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐉",
+    "icon": "🐉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dragonfly",
@@ -10023,7 +12803,12 @@ var WORDS = [
     "英文例句": "Dragonflies hover over the lily pond.",
     "例句中文": "蜻蜓在睡蓮池塘上方懸停飛舞。",
     "表情符號": "🪰",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪰",
+    "icon": "🪰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "drama",
@@ -10041,7 +12826,12 @@ var WORDS = [
     "英文例句": "Our school club performed a fun drama.",
     "例句中文": "我們學校的表演藝術社團在禮堂舞台上演出了精采話劇。",
     "表情符號": "🎭",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎭",
+    "icon": "🎭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "draw",
@@ -10059,7 +12849,12 @@ var WORDS = [
     "英文例句": "Draw a big yellow sun.",
     "例句中文": "畫一個大大的黃色太陽。",
     "表情符號": "🎨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎨",
+    "icon": "🎨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "drawer",
@@ -10077,7 +12872,12 @@ var WORDS = [
     "英文例句": "Open drawer and grab a ruler.",
     "例句中文": "拉開抽屜拿一把尺。",
     "表情符號": "🗄️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗄️",
+    "icon": "🗄️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dream",
@@ -10095,7 +12895,12 @@ var WORDS = [
     "英文例句": "Work hard to achieve your future dream.",
     "例句中文": "把握學生時光努力用功充實自我，勇敢實現未來的偉大夢想。",
     "表情符號": "⭐",
-    "圖片": ""
+    "圖片": "",
+    "em": "⭐",
+    "icon": "⭐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dress",
@@ -10113,7 +12918,12 @@ var WORDS = [
     "英文例句": "She wears a pretty dress.",
     "例句中文": "她穿著漂亮的洋裝。",
     "表情符號": "👗",
-    "圖片": ""
+    "圖片": "",
+    "em": "👗",
+    "icon": "👗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dresser",
@@ -10131,7 +12941,12 @@ var WORDS = [
     "英文例句": "Brush hair before the bedroom dresser mirror.",
     "例句中文": "出門前站在臥室化妝台大鏡子前，拿起扁梳把頭髮整理整齊。",
     "表情符號": "🪞",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪞",
+    "icon": "🪞",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "drink",
@@ -10149,7 +12964,12 @@ var WORDS = [
     "英文例句": "Drink warm milk before sleep.",
     "例句中文": "睡前喝杯溫牛奶。",
     "表情符號": "🥛",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥛",
+    "icon": "🥛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "drive",
@@ -10167,7 +12987,12 @@ var WORDS = [
     "英文例句": "Drive slowly on rainy days.",
     "例句中文": "下雨天要慢速開車。",
     "表情符號": "🚗",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚗",
+    "icon": "🚗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "driver",
@@ -10185,7 +13010,12 @@ var WORDS = [
     "英文例句": "The school bus driver drives very safely.",
     "例句中文": "每天載送我們上下學的校車司機開車技術穩健非常注重安全。",
     "表情符號": "🚌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚌",
+    "icon": "🚌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "drop",
@@ -10203,7 +13033,12 @@ var WORDS = [
     "英文例句": "Don't drop the fragile glass cup.",
     "例句中文": "別把易碎的玻璃杯摔落。",
     "表情符號": "🥛",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥛",
+    "icon": "🥛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "drugstore",
@@ -10221,7 +13056,12 @@ var WORDS = [
     "英文例句": "Buy bandages at the neighborhood drugstore.",
     "例句中文": "走到住家轉角的社區連鎖藥局購買家庭必備的消毒紗布繃帶。",
     "表情符號": "💊",
-    "圖片": ""
+    "圖片": "",
+    "em": "💊",
+    "icon": "💊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "drum",
@@ -10239,7 +13079,12 @@ var WORDS = [
     "英文例句": "Beat the loud drum along with song.",
     "例句中文": "雙手握緊鼓棒，配合著動感歡快的歌曲旋律用力敲響大鼓。",
     "表情符號": "🥁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥁",
+    "icon": "🥁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dry",
@@ -10257,7 +13102,12 @@ var WORDS = [
     "英文例句": "Dry wet hair with towel.",
     "例句中文": "用毛巾把濕頭髮擦乾。",
     "表情符號": "🧖",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧖",
+    "icon": "🧖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dryer",
@@ -10275,7 +13125,12 @@ var WORDS = [
     "英文例句": "Put damp towels in the clothes dryer.",
     "例句中文": "把剛剛洗好的潮濕厚毛巾放進熱風烘乾機裡烘乾殺菌。",
     "表情符號": "🧺",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧺",
+    "icon": "🧺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "duck",
@@ -10293,7 +13148,12 @@ var WORDS = [
     "英文例句": "The yellow duck swims in water.",
     "例句中文": "黃色小鴨在水裡游泳。",
     "表情符號": "🦆",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦆",
+    "icon": "🦆",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dumb",
@@ -10311,7 +13171,12 @@ var WORDS = [
     "英文例句": "Sign language helps those born mute or dumb.",
     "例句中文": "普及手語教學有助於先天失語的朋友在社會中順暢表達交流。",
     "表情符號": "🤟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤟",
+    "icon": "🤟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dumpling",
@@ -10329,7 +13194,12 @@ var WORDS = [
     "英文例句": "We made handmade pork dumplings together.",
     "例句中文": "全家人假日圍在餐桌前一起動手包鮮甜多汁的手工鮮肉水餃。",
     "表情符號": "🥟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥟",
+    "icon": "🥟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "during",
@@ -10347,7 +13217,12 @@ var WORDS = [
     "英文例句": "Keep quiet during the library study hour.",
     "例句中文": "在圖書館安靜自習時段內，請務必輕聲細語保持周遭寧靜。",
     "表情符號": "🤫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤫",
+    "icon": "🤫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "dust",
@@ -10365,7 +13240,12 @@ var WORDS = [
     "英文例句": "Wipe the dust off the bookshelf.",
     "例句中文": "把書架上的灰塵擦掉。",
     "表情符號": "💨",
-    "圖片": ""
+    "圖片": "",
+    "em": "💨",
+    "icon": "💨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "duty",
@@ -10383,7 +13263,12 @@ var WORDS = [
     "英文例句": "It is our duty to keep classroom clean.",
     "例句中文": "每天放學時輪流分工將教室打掃得一塵不染是每個人的責任。",
     "表情符號": "🧹",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧹",
+    "icon": "🧹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "e-mail",
@@ -10401,7 +13286,12 @@ var WORDS = [
     "英文例句": "Send an e-mail to your pen pal.",
     "例句中文": "坐在電腦桌前打開信箱，發送一封熱情的電子郵件給遠方筆友。",
     "表情符號": "📧",
-    "圖片": ""
+    "圖片": "",
+    "em": "📧",
+    "icon": "📧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "each",
@@ -10419,7 +13309,12 @@ var WORDS = [
     "英文例句": "Each student received a new notebook.",
     "例句中文": "開學典禮上，班上的每位同學都領到了一本嶄新漂亮的筆記本。",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "eagle",
@@ -10437,7 +13332,12 @@ var WORDS = [
     "英文例句": "The golden eagle circles high in sky.",
     "例句中文": "金雕在蔚藍的天空中盤旋翱翔。",
     "表情符號": "🦅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦅",
+    "icon": "🦅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ear",
@@ -10455,7 +13355,12 @@ var WORDS = [
     "英文例句": "Rabbits have long ears.",
     "例句中文": "兔子有長長的耳朵。",
     "表情符號": "👂",
-    "圖片": ""
+    "圖片": "",
+    "em": "👂",
+    "icon": "👂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "early",
@@ -10473,7 +13378,12 @@ var WORDS = [
     "英文例句": "Wake up early to catch the morning train.",
     "例句中文": "早睡早起神清氣爽，提早出門才不會匆忙錯過早班通勤火車。",
     "表情符號": "🌅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌅",
+    "icon": "🌅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "earn",
@@ -10491,7 +13401,12 @@ var WORDS = [
     "英文例句": "Diligent workers earn praise and rewards.",
     "例句中文": "在職場上腳踏實地默默耕耘的辛勤工作者，終將贏得眾人讚賞。",
     "表情符號": "🏆",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏆",
+    "icon": "🏆",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "earrings",
@@ -10509,7 +13424,12 @@ var WORDS = [
     "英文例句": "Mom wore shiny pearl earrings today.",
     "例句中文": "媽媽今天出門參加晚宴時戴上了一對優雅璀璨的白色珍珠耳環。",
     "表情符號": "💎",
-    "圖片": ""
+    "圖片": "",
+    "em": "💎",
+    "icon": "💎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "earth",
@@ -10527,7 +13447,12 @@ var WORDS = [
     "英文例句": "The Earth is our wonderful blue home.",
     "例句中文": "蔚藍美麗的地球是宇宙中滋養萬物生生不息的共同溫暖家園。",
     "表情符號": "🌍",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌍",
+    "icon": "🌍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ease",
@@ -10545,7 +13470,12 @@ var WORDS = [
     "英文例句": "Take slow deep breaths to put mind at ease.",
     "例句中文": "緩慢閉上雙眼進行深呼吸，有助於舒緩緊繃的情緒放鬆身心。",
     "表情符號": "🧘",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧘",
+    "icon": "🧘",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "east",
@@ -10563,7 +13493,12 @@ var WORDS = [
     "英文例句": "The bright sun rises from the east.",
     "例句中文": "溫暖金黃的朝陽每天早晨從遙遠東方的群山頂峰緩緩升起。",
     "表情符號": "🌅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌅",
+    "icon": "🌅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Easter",
@@ -10581,7 +13516,12 @@ var WORDS = [
     "英文例句": "Children hunt for pastel eggs on Easter.",
     "例句中文": "在充滿生機的春季復活節清晨，小朋友興高采烈在草地上找彩蛋。",
     "表情符號": "🥚",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥚",
+    "icon": "🥚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "easy",
@@ -10599,7 +13539,12 @@ var WORDS = [
     "英文例句": "This English riddle is easy.",
     "例句中文": "這個英文謎語很容易。",
     "表情符號": "👌",
-    "圖片": ""
+    "圖片": "",
+    "em": "👌",
+    "icon": "👌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "eat",
@@ -10617,7 +13562,12 @@ var WORDS = [
     "英文例句": "Eat your vegetables for health.",
     "例句中文": "多吃蔬菜有益健康。",
     "表情符號": "🍽️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍽️",
+    "icon": "🍽️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "edge",
@@ -10635,7 +13585,12 @@ var WORDS = [
     "英文例句": "Don't place fragile glass cups near table edge.",
     "例句中文": "千萬不要把容易打破的玻璃杯隨手擺在桌子邊緣以防摔落。",
     "表情符號": "⚠️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚠️",
+    "icon": "⚠️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "education",
@@ -10653,7 +13608,12 @@ var WORDS = [
     "英文例句": "School education builds a bright future.",
     "例句中文": "在各級校園接受良好扎實的基礎教育，能為孩子開拓光明未來。",
     "表情符號": "🏫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏫",
+    "icon": "🏫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "effort",
@@ -10671,7 +13631,12 @@ var WORDS = [
     "英文例句": "Put continuous effort into English learning.",
     "例句中文": "只要持之以恆付出努力每天接觸英文，聽說讀寫必定大有進步。",
     "表情符號": "💪",
-    "圖片": ""
+    "圖片": "",
+    "em": "💪",
+    "icon": "💪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "egg",
@@ -10689,7 +13654,12 @@ var WORDS = [
     "英文例句": "She cooks an egg every morning.",
     "例句中文": "她每天早上煎一顆蛋。",
     "表情符號": "🥚",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥚",
+    "icon": "🥚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "eight",
@@ -10707,7 +13677,12 @@ var WORDS = [
     "英文例句": "An octopus has eight arms.",
     "例句中文": "章魚有八隻觸手。",
     "表情符號": "8️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "8️⃣",
+    "icon": "8️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "eighteen",
@@ -10725,7 +13700,12 @@ var WORDS = [
     "英文例句": "Eighteen kids join the picnic.",
     "例句中文": "十八個小朋友參加了野餐。",
     "表情符號": "1️⃣8️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "1️⃣8️⃣",
+    "icon": "1️⃣8️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "eighty",
@@ -10743,7 +13723,12 @@ var WORDS = [
     "英文例句": "Eighty people watched the game.",
     "例句中文": "八十位觀眾觀看了球賽。",
     "表情符號": "8️⃣0️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "8️⃣0️⃣",
+    "icon": "8️⃣0️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "either",
@@ -10761,7 +13746,12 @@ var WORDS = [
     "英文例句": "You can choose either red or blue pencil.",
     "例句中文": "桌上放著紅藍兩支筆，你可以隨心所欲挑選其中任何一支使用。",
     "表情符號": "✏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✏️",
+    "icon": "✏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "elder",
@@ -10779,7 +13769,12 @@ var WORDS = [
     "英文例句": "Show polite respect to your family elders.",
     "例句中文": "待人處事隨時保有一顆感恩的心，對待家庭長輩一定要有禮貌。",
     "表情符號": "👴",
-    "圖片": ""
+    "圖片": "",
+    "em": "👴",
+    "icon": "👴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "elect",
@@ -10797,7 +13792,12 @@ var WORDS = [
     "英文例句": "We elected a responsible new class leader.",
     "例句中文": "全班透過公正公開的民主投票，推選出一位認真負責的模範班長。",
     "表情符號": "🗳️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗳️",
+    "icon": "🗳️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "electric",
@@ -10815,7 +13815,12 @@ var WORDS = [
     "英文例句": "Riding a clean electric scooter is quiet.",
     "例句中文": "騎乘節能減碳的綠能電動機車在路上行駛，既安靜又非常環保。",
     "表情符號": "⚡",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚡",
+    "icon": "⚡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "elementary school",
@@ -10833,7 +13838,12 @@ var WORDS = [
     "英文例句": "I made many good friends in elementary school.",
     "例句中文": "我在充滿歡聲笑語的國民小學校園裡，結交了許多一輩子的摯友。",
     "表情符號": "🏫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏫",
+    "icon": "🏫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "elephant",
@@ -10851,7 +13861,12 @@ var WORDS = [
     "英文例句": "An elephant has a long nose.",
     "例句中文": "大象有長長的鼻子。",
     "表情符號": "🐘",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐘",
+    "icon": "🐘",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "eleven",
@@ -10869,7 +13884,12 @@ var WORDS = [
     "英文例句": "He scored eleven points.",
     "例句中文": "他得到了十一分。",
     "表情符號": "1️⃣1️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "1️⃣1️⃣",
+    "icon": "1️⃣1️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "else",
@@ -10887,7 +13907,12 @@ var WORDS = [
     "英文例句": "Would you like anything else to eat?",
     "例句中文": "吃完了香濃的餐前熱濃湯，您還想點用其他任何美味點心嗎？",
     "表情符號": "❓",
-    "圖片": ""
+    "圖片": "",
+    "em": "❓",
+    "icon": "❓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "embarrass",
@@ -10905,7 +13930,12 @@ var WORDS = [
     "英文例句": "Tripping on the flat floor embarrassed him.",
     "例句中文": "在眾目睽睽的平坦走廊上不小心絆倒跌坐，讓他頓時感到十分尷尬。",
     "表情符號": "😳",
-    "圖片": ""
+    "圖片": "",
+    "em": "😳",
+    "icon": "😳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "emotion",
@@ -10923,7 +13953,12 @@ var WORDS = [
     "英文例句": "Music can convey strong joyful emotion.",
     "例句中文": "優美動聽的悠揚樂章能夠跨越語言隔閡，傳遞出強烈深刻的情感。",
     "表情符號": "💖",
-    "圖片": ""
+    "圖片": "",
+    "em": "💖",
+    "icon": "💖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "emphasize",
@@ -10941,7 +13976,12 @@ var WORDS = [
     "英文例句": "Teachers emphasize safety rules in science lab.",
     "例句中文": "自然科學老師在進入實驗室前，會特別三令五申強調安全守則。",
     "表情符號": "⚠️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚠️",
+    "icon": "⚠️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "employ",
@@ -10959,7 +13999,12 @@ var WORDS = [
     "英文例句": "The bakery employs friendly young staff.",
     "例句中文": "這家高人氣的手工烘焙麵包店，聘請了數位待客親切開朗的店員。",
     "表情符號": "🧑‍🍳",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍🍳",
+    "icon": "🧑‍🍳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "empty",
@@ -10977,7 +14022,12 @@ var WORDS = [
     "英文例句": "The cup is completely empty.",
     "例句中文": "這個杯子完全是空的。",
     "表情符號": "🥛",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥛",
+    "icon": "🥛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "end",
@@ -10995,7 +14045,12 @@ var WORDS = [
     "英文例句": "The happy movie reached a sweet end.",
     "例句中文": "這部溫馨感人的闔家歡動畫電影，最終迎來了皆大歡喜的美滿結局。",
     "表情符號": "🎬",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎬",
+    "icon": "🎬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "enemy",
@@ -11013,7 +14068,12 @@ var WORDS = [
     "英文例句": "Turn your former enemy into a good friend.",
     "例句中文": "發揮包容寬厚的開闊胸襟化干戈為玉帛，把昔日對手變成莫逆之交。",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "energetic",
@@ -11031,7 +14091,12 @@ var WORDS = [
     "英文例句": "Playful puppies are always full and energetic.",
     "例句中文": "剛吃飽的小狗整天活蹦亂跳、精力充沛地在庭院草皮上追逐撲滾。",
     "表情符號": "🐶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐶",
+    "icon": "🐶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "energy",
@@ -11049,7 +14114,12 @@ var WORDS = [
     "英文例句": "Healthy food provides body good energy.",
     "例句中文": "三餐定時攝取均衡營養的新鮮蔬果，能為人體提供源源不絕的能量。",
     "表情符號": "⚡",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚡",
+    "icon": "⚡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "engine",
@@ -11067,7 +14137,12 @@ var WORDS = [
     "英文例句": "The powerful train engine pulls heavy cargo.",
     "例句中文": "馬力強勁的重型火車頭引擎，穩健拖曳著滿載民生物資的長節貨車。",
     "表情符號": "🚂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚂",
+    "icon": "🚂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "engineer",
@@ -11085,7 +14160,12 @@ var WORDS = [
     "英文例句": "The software engineer codes useful apps.",
     "例句中文": "專業的軟體工程師運用程式邏輯，開發出造福大眾的實用生活軟體。",
     "表情符號": "💻",
-    "圖片": ""
+    "圖片": "",
+    "em": "💻",
+    "icon": "💻",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "English",
@@ -11103,7 +14183,12 @@ var WORDS = [
     "英文例句": "We practice English speaking.",
     "例句中文": "我們每天練習英語口說。",
     "表情符號": "🇬🇧",
-    "圖片": ""
+    "圖片": "",
+    "em": "🇬🇧",
+    "icon": "🇬🇧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "enjoy",
@@ -11121,7 +14206,12 @@ var WORDS = [
     "英文例句": "Enjoy the joyful music together.",
     "例句中文": "一起享受歡樂的音樂吧。",
     "表情符號": "🎶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎶",
+    "icon": "🎶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "enough",
@@ -11139,7 +14229,12 @@ var WORDS = [
     "英文例句": "We have enough water for the long hike.",
     "例句中文": "出發登高山健行前仔細清點背包，我們備妥了充裕足夠的飲用水。",
     "表情符號": "💧",
-    "圖片": ""
+    "圖片": "",
+    "em": "💧",
+    "icon": "💧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "enter",
@@ -11157,7 +14252,12 @@ var WORDS = [
     "英文例句": "Knock before you enter the room.",
     "例句中文": "進房間前請先敲敲門。",
     "表情符號": "🚪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚪",
+    "icon": "🚪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "entrance",
@@ -11175,7 +14275,12 @@ var WORDS = [
     "英文例句": "Meet up at the main museum entrance.",
     "例句中文": "參觀校外教學當天上午，大家相約在國立博物館的宏偉正門入口集合。",
     "表情符號": "🚪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚪",
+    "icon": "🚪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "envelope",
@@ -11193,7 +14298,12 @@ var WORDS = [
     "英文例句": "Seal the birthday card envelope.",
     "例句中文": "把裝著生日卡片的信封封口黏好。",
     "表情符號": "✉️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✉️",
+    "icon": "✉️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "environment",
@@ -11211,7 +14321,12 @@ var WORDS = [
     "英文例句": "Protect our green forest environment.",
     "例句中文": "從隨手做資源回收做起，全心珍惜呵護我們身邊珍貴的森林自然環境。",
     "表情符號": "🌲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌲",
+    "icon": "🌲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "envy",
@@ -11229,7 +14344,12 @@ var WORDS = [
     "英文例句": "Don't envy others; cherish what you have.",
     "例句中文": "不要盲目攀比羨慕他人的光鮮亮麗，用心珍惜自己所擁有的平安幸福。",
     "表情符號": "💖",
-    "圖片": ""
+    "圖片": "",
+    "em": "💖",
+    "icon": "💖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "equal",
@@ -11247,7 +14367,12 @@ var WORDS = [
     "英文例句": "Two plus three is equal to five.",
     "例句中文": "在基礎算術中，二加上三所得到的總和完全等於數字五。",
     "表情符號": "🟰",
-    "圖片": ""
+    "圖片": "",
+    "em": "🟰",
+    "icon": "🟰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "eraser",
@@ -11265,7 +14390,12 @@ var WORDS = [
     "英文例句": "Borrow me your eraser, please.",
     "例句中文": "請借我你的橡皮擦。",
     "表情符號": "🧼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧼",
+    "icon": "🧼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "error",
@@ -11283,7 +14413,12 @@ var WORDS = [
     "英文例句": "Correct the tiny spelling error carefully.",
     "例句中文": "在交作業前仔細通讀全文，把作文裡幾處不小心寫錯的拼字差錯訂正過來。",
     "表情符號": "✏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✏️",
+    "icon": "✏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "especially",
@@ -11301,7 +14436,12 @@ var WORDS = [
     "英文例句": "I love eating sweet fruit, especially red apples.",
     "例句中文": "我平常很喜歡吃各類新鮮水果，尤其是口感香甜清脆的日本大紅蘋果。",
     "表情符號": "🍎",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍎",
+    "icon": "🍎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "eve",
@@ -11319,7 +14459,12 @@ var WORDS = [
     "英文例句": "We celebrate family dinner on New Year's Eve.",
     "例句中文": "在歲末年終的農曆除夕圍爐前夕，全家人歡聚一堂享用熱騰騰年夜飯。",
     "表情符號": "🏮",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏮",
+    "icon": "🏮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "even",
@@ -11337,7 +14482,12 @@ var WORDS = [
     "英文例句": "Even a small child can learn to share.",
     "例句中文": "哪怕是心智尚未成熟的小朋友，也能在父母引導下學會與他人分享。",
     "表情符號": "👶",
-    "圖片": ""
+    "圖片": "",
+    "em": "👶",
+    "icon": "👶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "evening",
@@ -11355,7 +14505,12 @@ var WORDS = [
     "英文例句": "We eat dinner in the evening.",
     "例句中文": "我們在傍晚吃晚餐。",
     "表情符號": "🌆",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌆",
+    "icon": "🌆",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "event",
@@ -11373,7 +14528,12 @@ var WORDS = [
     "英文例句": "The school sports day is an exciting event.",
     "例句中文": "一年一度全校師生熱血沸騰的運動會，是校園裡最受矚目的盛大盛事。",
     "表情符號": "🏅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏅",
+    "icon": "🏅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ever",
@@ -11391,7 +14551,12 @@ var WORDS = [
     "英文例句": "Have you ever traveled to Japan on vacation?",
     "例句中文": "在你的成長回憶當中，你是否曾經與家人一起搭機前往日本觀光旅遊呢？",
     "表情符號": "✈️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✈️",
+    "icon": "✈️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "every",
@@ -11409,7 +14574,12 @@ var WORDS = [
     "英文例句": "We practice reading English words every single day.",
     "例句中文": "想要學好外語不二法門，在於每天持之以恆堅持大聲朗讀實用單字。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "everyone",
@@ -11427,7 +14597,12 @@ var WORDS = [
     "英文例句": "Everyone cheered happily for our soccer team.",
     "例句中文": "當足球隊在最後一分鐘破門得分時，看台上的每個人都起立興奮歡呼。",
     "表情符號": "🙌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙌",
+    "icon": "🙌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "everything",
@@ -11445,7 +14620,12 @@ var WORDS = [
     "英文例句": "Everything in this world has its unique beauty.",
     "例句中文": "以開放溫柔的心胸觀察自然，這世間上的所有事物都有其獨一無二的美。",
     "表情符號": "✨",
-    "圖片": ""
+    "圖片": "",
+    "em": "✨",
+    "icon": "✨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "everywhere",
@@ -11463,7 +14643,12 @@ var WORDS = [
     "英文例句": "Bright yellow flowers bloomed everywhere in spring.",
     "例句中文": "當春風吹拂大地萬物復甦之際，明媚嬌豔的黃色小花在田野間處處綻放。",
     "表情符號": "🌼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌼",
+    "icon": "🌼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "evil",
@@ -11481,7 +14666,12 @@ var WORDS = [
     "英文例句": "The fairy tale hero defeated evil dragon.",
     "例句中文": "在童話故事的精彩高潮中，正義勇敢的年輕英雄成功打敗了邪惡惡龍。",
     "表情符號": "🛡️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛡️",
+    "icon": "🛡️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "exam",
@@ -11499,7 +14689,12 @@ var WORDS = [
     "英文例句": "Study hard for the midterm exam.",
     "例句中文": "為了期中考試認真溫習功課。",
     "表情符號": "📝",
-    "圖片": ""
+    "圖片": "",
+    "em": "📝",
+    "icon": "📝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "example",
@@ -11517,7 +14712,12 @@ var WORDS = [
     "英文例句": "Give a clear daily life example in class.",
     "例句中文": "回答老師的問題時，不妨試著舉出一個淺顯易懂、貼近生活的生動例子。",
     "表情符號": "💡",
-    "圖片": ""
+    "圖片": "",
+    "em": "💡",
+    "icon": "💡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "excellent",
@@ -11535,7 +14735,12 @@ var WORDS = [
     "英文例句": "You did an excellent job on your project.",
     "例句中文": "你在這次期末個人科學專題的研究與發表上，展現了極佳優秀的水準。",
     "表情符號": "🌟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌟",
+    "icon": "🌟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "except",
@@ -11553,7 +14758,12 @@ var WORDS = [
     "英文例句": "Everyone was present except sick Tommy.",
     "例句中文": "除了因為感冒發燒在家休養的湯米之外，班上其他同學今天全部準時到齊。",
     "表情符號": "🎒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎒",
+    "icon": "🎒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "excite",
@@ -11571,7 +14781,12 @@ var WORDS = [
     "英文例句": "Theme park roller coasters excite many children.",
     "例句中文": "主題遊樂園裡風馳電掣的雲霄飛車，總是讓熱愛冒險的小朋友們興奮不已。",
     "表情符號": "🎢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎢",
+    "icon": "🎢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "excited",
@@ -11589,7 +14804,12 @@ var WORDS = [
     "英文例句": "Kids are excited about amusement park.",
     "例句中文": "小朋友對要去遊樂園玩感到非常興奮。",
     "表情符號": "🤩",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤩",
+    "icon": "🤩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "exciting",
@@ -11607,7 +14827,12 @@ var WORDS = [
     "英文例句": "The finals of basketball match was very exciting.",
     "例句中文": "這場勢均力敵的校際籃球總決賽過程高潮迭起，實在是太令人熱血沸騰了。",
     "表情符號": "🏀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏀",
+    "icon": "🏀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "excuse",
@@ -11625,7 +14850,12 @@ var WORDS = [
     "英文例句": "Excuse me, could you tell me time, please?",
     "例句中文": "禮貌開口詢問路人：不好意思打擾一下，請問您現在手錶上是幾點鐘了呢？",
     "表情符號": "⌚",
-    "圖片": ""
+    "圖片": "",
+    "em": "⌚",
+    "icon": "⌚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "exercise",
@@ -11643,7 +14873,12 @@ var WORDS = [
     "英文例句": "Do daily morning exercise to stay fit.",
     "例句中文": "每天清晨早起做三十分鐘有氧體操伸展筋骨，有助於維持體態與身心健康。",
     "表情符號": "🏃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏃",
+    "icon": "🏃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "exist",
@@ -11661,7 +14896,12 @@ var WORDS = [
     "英文例句": "Do scary alien monsters really exist in space?",
     "例句中文": "在廣袤無垠的浩瀚宇宙當中，真的存在電影中那些可怕的外星奇異怪物嗎？",
     "表情符號": "🛸",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛸",
+    "icon": "🛸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "exit",
@@ -11679,7 +14919,12 @@ var WORDS = [
     "英文例句": "Look for illuminated green exit sign in hall.",
     "例句中文": "走進大型電影院或演藝廳時，先用雙眼確認四周發光的綠色緊急逃生出口。",
     "表情符號": "🚪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚪",
+    "icon": "🚪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "expect",
@@ -11697,7 +14942,12 @@ var WORDS = [
     "英文例句": "We expect sunny warm weather this weekend.",
     "例句中文": "我們熱切期盼這個週末出遊時，天空會是晴空萬里、風和日麗的溫暖好天氣。",
     "表情符號": "☀️",
-    "圖片": ""
+    "圖片": "",
+    "em": "☀️",
+    "icon": "☀️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "expensive",
@@ -11715,7 +14965,12 @@ var WORDS = [
     "英文例句": "That sports car is too expensive.",
     "例句中文": "那輛跑車價格實在太昂貴了。",
     "表情符號": "🏎️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏎️",
+    "icon": "🏎️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "experience",
@@ -11733,7 +14988,12 @@ var WORDS = [
     "英文例句": "Travel brings memorable life experience.",
     "例句中文": "背起行囊走訪世界各地的風土民情，能為人生帶來難以磨滅的豐富寶貴經驗。",
     "表情符號": "🎒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎒",
+    "icon": "🎒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "explain",
@@ -11751,7 +15011,12 @@ var WORDS = [
     "英文例句": "The teacher explained difficult words clearly.",
     "例句中文": "老師清楚明瞭地解釋了生難字詞。",
     "表情符號": "🧑‍🏫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍🏫",
+    "icon": "🧑‍🏫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "express",
@@ -11769,7 +15034,12 @@ var WORDS = [
     "英文例句": "Express your deep love to parents openly.",
     "例句中文": "愛要及時大聲說出口，平時就要勇於向辛勞的父母坦率表達自己內心的愛意。",
     "表情符號": "💖",
-    "圖片": ""
+    "圖片": "",
+    "em": "💖",
+    "icon": "💖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "extra",
@@ -11787,7 +15057,12 @@ var WORDS = [
     "英文例句": "Teacher gave us an extra ten minutes.",
     "例句中文": "考慮到考卷題型豐富需要思考，耐心和藹的監考老師特別外加延長了十分鐘。",
     "表情符號": "⏰",
-    "圖片": ""
+    "圖片": "",
+    "em": "⏰",
+    "icon": "⏰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "eye",
@@ -11805,7 +15080,12 @@ var WORDS = [
     "英文例句": "She has big brown eyes.",
     "例句中文": "她有一雙大大的棕色眼睛。",
     "表情符號": "👁️",
-    "圖片": ""
+    "圖片": "",
+    "em": "👁️",
+    "icon": "👁️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "face",
@@ -11823,7 +15103,12 @@ var WORDS = [
     "英文例句": "Wash your face in the morning.",
     "例句中文": "早上洗洗你的臉。",
     "表情符號": "🙂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙂",
+    "icon": "🙂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fact",
@@ -11841,7 +15126,12 @@ var WORDS = [
     "英文例句": "It is a proven scientific fact that Earth orbits sun.",
     "例句中文": "經過科學嚴格驗證的客觀事實證明，我們所處的地球確實是繞著太陽公轉。",
     "表情符號": "🌍",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌍",
+    "icon": "🌍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "factory",
@@ -11859,7 +15149,12 @@ var WORDS = [
     "英文例句": "This automated factory produces toy cars.",
     "例句中文": "這座自動化智慧工廠生產玩具小車。",
     "表情符號": "🏭",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏭",
+    "icon": "🏭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fail",
@@ -11877,7 +15172,12 @@ var WORDS = [
     "英文例句": "Don't be afraid to fail, keep trying.",
     "例句中文": "人生難免會遭遇挫折與失敗，最重要的是吸取經驗重拾信心勇敢繼續嘗試。",
     "表情符號": "💪",
-    "圖片": ""
+    "圖片": "",
+    "em": "💪",
+    "icon": "💪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fair",
@@ -11895,7 +15195,12 @@ var WORDS = [
     "英文例句": "Always play by the fair game rules.",
     "例句中文": "在各類體育競技或桌上遊戲比賽中，大家務必自律遵守公平正義的競賽規則。",
     "表情符號": "⚖️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚖️",
+    "icon": "⚖️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fall",
@@ -11913,7 +15218,12 @@ var WORDS = [
     "英文例句": "Be careful not to fall down.",
     "例句中文": "小心走路，不要跌倒了。",
     "表情符號": "🍂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍂",
+    "icon": "🍂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "false",
@@ -11931,7 +15241,12 @@ var WORDS = [
     "英文例句": "Mark true or false for each question.",
     "例句中文": "仔細審視每道題目，在答案卡相對應的框格內正確打勾標註是非對錯。",
     "表情符號": "❌",
-    "圖片": ""
+    "圖片": "",
+    "em": "❌",
+    "icon": "❌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "family",
@@ -11949,7 +15264,12 @@ var WORDS = [
     "英文例句": "I love my caring sweet family deeply.",
     "例句中文": "我深深熱愛著這個隨時充滿歡聲笑語、給予我無條件關愛支持的溫馨甜蜜家庭。",
     "表情符號": "👨‍👩‍👦",
-    "圖片": ""
+    "圖片": "",
+    "em": "👨‍👩‍👦",
+    "icon": "👨‍👩‍👦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "famous",
@@ -11967,7 +15287,12 @@ var WORDS = [
     "英文例句": "He is a famous world piano master.",
     "例句中文": "他是享譽全球樂壇、演奏技巧出神入化且廣受古典樂迷推崇的著名鋼琴大師。",
     "表情符號": "🎹",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎹",
+    "icon": "🎹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fan",
@@ -11985,7 +15310,12 @@ var WORDS = [
     "英文例句": "Cool down under the ceiling fan.",
     "例句中文": "站在吊扇底下吹風涼爽一下。",
     "表情符號": "🪭",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪭",
+    "icon": "🪭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fancy",
@@ -12003,7 +15333,12 @@ var WORDS = [
     "英文例句": "She wore a fancy lace dress to party.",
     "例句中文": "她今天特地換上一身做工精緻、蕾絲繡花華麗高雅的晚禮服盛裝出席派對。",
     "表情符號": "👗",
-    "圖片": ""
+    "圖片": "",
+    "em": "👗",
+    "icon": "👗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fantastic",
@@ -12021,7 +15356,12 @@ var WORDS = [
     "英文例句": "The magic show was absolutely fantastic.",
     "例句中文": "這場由魔術大師親自演出的舞台魔術秀高潮迭起，現場效果絕對是棒極了。",
     "表情符號": "✨",
-    "圖片": ""
+    "圖片": "",
+    "em": "✨",
+    "icon": "✨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "far",
@@ -12039,7 +15379,12 @@ var WORDS = [
     "英文例句": "The moon is very far away.",
     "例句中文": "月亮非常遙遠。",
     "表情符號": "🌙",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌙",
+    "icon": "🌙",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "farm",
@@ -12057,7 +15402,12 @@ var WORDS = [
     "英文例句": "Pigs and cows live on countryside farm.",
     "例句中文": "肥嘟嘟的小豬與溫馴的黑白乳牛，在遠離塵囂的鄉間大農莊裡悠閒生活。",
     "表情符號": "🚜",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚜",
+    "icon": "🚜",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "farmer",
@@ -12075,7 +15425,12 @@ var WORDS = [
     "英文例句": "Hardworking farmers harvest yellow wheat.",
     "例句中文": "面朝黃土背朝天的辛勤農夫們，在大太陽底下忙著收割一片片金黃色的小麥田。",
     "表情符號": "🌾",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌾",
+    "icon": "🌾",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fashionable",
@@ -12093,7 +15448,12 @@ var WORDS = [
     "英文例句": "She looks very fashionable in that coat.",
     "例句中文": "她身上穿著那件剪裁俐落的長版駝色大衣，整個人散發出時髦洗練的時尚品味。",
     "表情符號": "🧥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧥",
+    "icon": "🧥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fast",
@@ -12111,7 +15471,12 @@ var WORDS = [
     "英文例句": "Cheetahs run very fast.",
     "例句中文": "獵豹奔跑速度非常快。",
     "表情符號": "🐆",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐆",
+    "icon": "🐆",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fat",
@@ -12129,7 +15494,12 @@ var WORDS = [
     "英文例句": "A fat cute cat naps in box.",
     "例句中文": "一隻胖嘟嘟的可愛貓咪在箱子打盹。",
     "表情符號": "🐱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐱",
+    "icon": "🐱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "father",
@@ -12147,7 +15517,12 @@ var WORDS = [
     "英文例句": "My father is very kind.",
     "例句中文": "我的父親很親切。",
     "表情符號": "👨",
-    "圖片": ""
+    "圖片": "",
+    "em": "👨",
+    "icon": "👨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "faucet",
@@ -12165,7 +15540,12 @@ var WORDS = [
     "英文例句": "Turn off running water faucet tightly.",
     "例句中文": "用洗手乳把雙手洗乾淨之後，請順手將洗手台上的水龍頭旋緊以免浪費水資源。",
     "表情符號": "🚰",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚰",
+    "icon": "🚰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fault",
@@ -12183,7 +15563,12 @@ var WORDS = [
     "英文例句": "It was not your fault, don't worry.",
     "例句中文": "那純粹只是一場料想不到的偶發意外並不是你的過錯，請放寬心不要過度自責。",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "favorite",
@@ -12201,7 +15586,12 @@ var WORDS = [
     "英文例句": "Yellow is my absolute favorite color.",
     "例句中文": "在調色盤所有絢爛繽紛的顏料色彩當中，亮麗溫暖的黃色是我個人最喜愛的顏色。",
     "表情符號": "💛",
-    "圖片": ""
+    "圖片": "",
+    "em": "💛",
+    "icon": "💛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fear",
@@ -12219,7 +15609,12 @@ var WORDS = [
     "英文例句": "Overcome your fear of dark places.",
     "例句中文": "只要心中常懷勇氣並攜帶手電筒照亮四周，就能勇敢克服對漆黑陰暗處的恐懼。",
     "表情符號": "🦁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦁",
+    "icon": "🦁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "feather",
@@ -12237,7 +15632,12 @@ var WORDS = [
     "英文例句": "The goose feather is soft.",
     "例句中文": "鵝毛非常柔軟。",
     "表情符號": "🪶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪶",
+    "icon": "🪶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "February",
@@ -12255,7 +15655,12 @@ var WORDS = [
     "英文例句": "Chinese New Year is in February.",
     "例句中文": "農曆新年常常落在二月份。",
     "表情符號": "🧧",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧧",
+    "icon": "🧧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fee",
@@ -12273,7 +15678,12 @@ var WORDS = [
     "英文例句": "Pay the small museum admission fee.",
     "例句中文": "走進國立歷史博物館參觀前，在售票亭依規定繳納銅板價格的學生優待門票費用。",
     "表情符號": "🎟️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎟️",
+    "icon": "🎟️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "feed",
@@ -12291,7 +15701,12 @@ var WORDS = [
     "英文例句": "Feed the golden fish daily.",
     "例句中文": "每天給金魚餵飼料。",
     "表情符號": "🐟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐟",
+    "icon": "🐟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "feel",
@@ -12309,7 +15724,12 @@ var WORDS = [
     "英文例句": "I feel happy playing in sunny park.",
     "例句中文": "在風和日麗、陽光灑落的社區綠地公園裡盡情奔跑玩耍，我感到無比快樂舒暢。",
     "表情符號": "😊",
-    "圖片": ""
+    "圖片": "",
+    "em": "😊",
+    "icon": "😊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "feeling",
@@ -12327,7 +15747,12 @@ var WORDS = [
     "英文例句": "Share your true honest feeling with friends.",
     "例句中文": "遇到煩惱或開心的事情時，找時間打開心扉與身邊最值得信賴的摯友坦誠分享感受。",
     "表情符號": "💬",
-    "圖片": ""
+    "圖片": "",
+    "em": "💬",
+    "icon": "💬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "female",
@@ -12345,7 +15770,12 @@ var WORDS = [
     "英文例句": "The female lion cares for her baby cubs.",
     "例句中文": "充滿母愛的母獅子在草原隱密處，溫柔細心地呵護照料著剛出生不久的可愛小幼獅。",
     "表情符號": "🦁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦁",
+    "icon": "🦁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fence",
@@ -12363,7 +15793,12 @@ var WORDS = [
     "英文例句": "Paint the white garden fence together.",
     "例句中文": "全家人利用放假的晴朗午後，同心協力拿著刷子把院子周圍的木製白籬笆粉刷一新。",
     "表情符號": "🪵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪵",
+    "icon": "🪵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ferry",
@@ -12381,7 +15816,12 @@ var WORDS = [
     "英文例句": "We took a ferry across the bay.",
     "例句中文": "我們搭乘渡輪橫越海灣。",
     "表情符號": "⛴️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⛴️",
+    "icon": "⛴️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "festival",
@@ -12399,7 +15839,12 @@ var WORDS = [
     "英文例句": "Moon Festival is a happy family reunion.",
     "例句中文": "八月十五中秋節是台灣文化中月圓人團圓、大家圍坐烤肉賞月歡度的重要溫馨節慶。",
     "表情符號": "🥮",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥮",
+    "icon": "🥮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fever",
@@ -12417,7 +15862,12 @@ var WORDS = [
     "英文例句": "Drink plenty of water when you have fever.",
     "例句中文": "發燒時要多喝水並充分休息。",
     "表情符號": "🌡️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌡️",
+    "icon": "🌡️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "few",
@@ -12435,7 +15885,12 @@ var WORDS = [
     "英文例句": "Few students like getting up very early.",
     "例句中文": "在寒風刺骨的冬天早晨，幾乎很少有小學生會喜歡從溫暖被窩中過早起床出門。",
     "表情符號": "🛌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛌",
+    "icon": "🛌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fifteen",
@@ -12453,7 +15908,12 @@ var WORDS = [
     "英文例句": "The clock shows fifteen minutes.",
     "例句中文": "時鐘顯示經過了十五分鐘。",
     "表情符號": "1️⃣5️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "1️⃣5️⃣",
+    "icon": "1️⃣5️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fifty",
@@ -12471,7 +15931,12 @@ var WORDS = [
     "英文例句": "Fifty cents buys a sweet candy.",
     "例句中文": "五十分可以買一顆甜糖果。",
     "表情符號": "5️⃣0️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "5️⃣0️⃣",
+    "icon": "5️⃣0️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fight",
@@ -12489,7 +15954,12 @@ var WORDS = [
     "英文例句": "Good friends do not fight.",
     "例句中文": "好朋友是不會吵架打架的。",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fill",
@@ -12507,7 +15977,12 @@ var WORDS = [
     "英文例句": "Fill the water bottle full.",
     "例句中文": "把水壺裝滿乾淨的水。",
     "表情符號": "🧴",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧴",
+    "icon": "🧴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "film",
@@ -12525,7 +16000,12 @@ var WORDS = [
     "英文例句": "We watched an educational nature film.",
     "例句中文": "我們在學校視聽教室的大螢幕前，認真觀看了一部富有啟發性的國家地理生態紀錄電影。",
     "表情符號": "🎞️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎞️",
+    "icon": "🎞️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "final",
@@ -12543,7 +16023,12 @@ var WORDS = [
     "英文例句": "Study hard for the final school exam.",
     "例句中文": "面對攸關一整學期努力成果的期末總結測驗，大家無不嚴陣以待全力以赴用功溫習。",
     "表情符號": "📝",
-    "圖片": ""
+    "圖片": "",
+    "em": "📝",
+    "icon": "📝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "finally",
@@ -12561,7 +16046,12 @@ var WORDS = [
     "英文例句": "We finally reached mountain peak at noon.",
     "例句中文": "歷經了數個小時蜿蜒陡峭的長途跋涉，我們一行人終於在正午時分順利登上壯麗山頂。",
     "表情符號": "🏔️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏔️",
+    "icon": "🏔️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "find",
@@ -12579,7 +16069,12 @@ var WORDS = [
     "英文例句": "Can you find my lost pencil?",
     "例句中文": "你能找到我遺失的鉛筆嗎？",
     "表情符號": "🔍",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔍",
+    "icon": "🔍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fine",
@@ -12597,7 +16092,12 @@ var WORDS = [
     "英文例句": "I feel fine and energetic today.",
     "例句中文": "我今天感覺神清氣爽，狀態很好。",
     "表情符號": "✨",
-    "圖片": ""
+    "圖片": "",
+    "em": "✨",
+    "icon": "✨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "finger",
@@ -12615,7 +16115,12 @@ var WORDS = [
     "英文例句": "She has ten fingers.",
     "例句中文": "她有十隻手指頭。",
     "表情符號": "👆",
-    "圖片": ""
+    "圖片": "",
+    "em": "👆",
+    "icon": "👆",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "finish",
@@ -12633,7 +16138,12 @@ var WORDS = [
     "英文例句": "Finish your math homework before dinner.",
     "例句中文": "養成自律優良作息，在媽媽呼喚全家開飯前把當天的所有數學練習題通通完成寫好。",
     "表情符號": "✅",
-    "圖片": ""
+    "圖片": "",
+    "em": "✅",
+    "icon": "✅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fire",
@@ -12651,7 +16161,12 @@ var WORDS = [
     "英文例句": "Firefighters bravely put out house fire.",
     "例句中文": "英勇無私的打火弟兄在第一時間趕抵現場鋪設水線，迅速撲滅了住宅發生的猛烈大火。",
     "表情符號": "🚒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚒",
+    "icon": "🚒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fire station",
@@ -12669,7 +16184,12 @@ var WORDS = [
     "英文例句": "Red fire engines wait at fire station.",
     "例句中文": "紅色消防車在消防局待命。",
     "表情符號": "🚒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚒",
+    "icon": "🚒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "first",
@@ -12687,7 +16207,12 @@ var WORDS = [
     "英文例句": "He won the first prize.",
     "例句中文": "他贏得了第一名頭獎。",
     "表情符號": "🥇",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥇",
+    "icon": "🥇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fish",
@@ -12705,7 +16230,12 @@ var WORDS = [
     "英文例句": "Goldfish swim in the pond.",
     "例句中文": "金魚在池塘裡游泳。",
     "表情符號": "🐟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐟",
+    "icon": "🐟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fisherman",
@@ -12723,7 +16253,12 @@ var WORDS = [
     "英文例句": "The skilled fisherman cast net into sea.",
     "例句中文": "經驗豐富的討海漁夫迎著海風站穩船舷，靈巧地將巨大的尼龍漁網撒向波濤洶湧的深海。",
     "表情符號": "🎣",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎣",
+    "icon": "🎣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fit",
@@ -12741,7 +16276,12 @@ var WORDS = [
     "英文例句": "Jogging every morning keeps you fit.",
     "例句中文": "每天清晨在晨曦鳥鳴中進行慢跑有氧鍛鍊，能有效增強心肺功能維持健康的強健體魄。",
     "表情符號": "🏃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏃",
+    "icon": "🏃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "five",
@@ -12759,7 +16299,12 @@ var WORDS = [
     "英文例句": "Give me a high five!",
     "例句中文": "跟我擊掌一下！",
     "表情符號": "5️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "5️⃣",
+    "icon": "5️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fix",
@@ -12777,7 +16322,12 @@ var WORDS = [
     "英文例句": "Dad can fix the broken toy car.",
     "例句中文": "爸爸會修壞掉的玩具小車。",
     "表情符號": "🔧",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔧",
+    "icon": "🔧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "flag",
@@ -12795,7 +16345,12 @@ var WORDS = [
     "英文例句": "The national flag waves in breeze.",
     "例句中文": "旗幟在徐徐微風中飄揚展現。",
     "表情符號": "🚩",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚩",
+    "icon": "🚩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "flashlight",
@@ -12813,7 +16368,12 @@ var WORDS = [
     "英文例句": "Turn on flashlight in dark night.",
     "例句中文": "在漆黑的夜晚中打開手電筒照路。",
     "表情符號": "🔦",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔦",
+    "icon": "🔦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "flat",
@@ -12831,7 +16391,12 @@ var WORDS = [
     "英文例句": "They live in a modern flat.",
     "例句中文": "他們住在一間現代公寓裡。",
     "表情符號": "🏢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏢",
+    "icon": "🏢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "flat tire",
@@ -12849,7 +16414,12 @@ var WORDS = [
     "英文例句": "Dad fixed the bike flat tire with tools.",
     "例句中文": "腳踏車在路上不小心被鐵釘扎破漏氣了，爸爸熟練地拿出補胎工具迅速修復平底胎。",
     "表情符號": "🚲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚲",
+    "icon": "🚲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "flight",
@@ -12867,7 +16437,12 @@ var WORDS = [
     "英文例句": "Our international flight arrives in Tokyo.",
     "例句中文": "我們所搭乘的跨國客機航班穿越蔚藍雲層，預計將在午後準時平安降落於東京成田機場。",
     "表情符號": "✈️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✈️",
+    "icon": "✈️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "floor",
@@ -12885,7 +16460,12 @@ var WORDS = [
     "英文例句": "Keep the bedroom floor tidy.",
     "例句中文": "保持臥室地板整潔乾淨。",
     "表情符號": "🪵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪵",
+    "icon": "🪵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "flour",
@@ -12903,7 +16483,12 @@ var WORDS = [
     "英文例句": "Mix flour and eggs to make cake.",
     "例句中文": "把麵粉和雞蛋混合做成蛋糕。",
     "表情符號": "🌾",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌾",
+    "icon": "🌾",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "flower",
@@ -12921,7 +16506,12 @@ var WORDS = [
     "英文例句": "Spring brings colorful flowers.",
     "例句中文": "春天帶來繽紛的花朵。",
     "表情符號": "🌸",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌸",
+    "icon": "🌸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "flu",
@@ -12939,7 +16529,12 @@ var WORDS = [
     "英文例句": "Get a winter vaccine to prevent flu.",
     "例句中文": "每逢秋冬流感高峰季節來臨之前，及早前往診所接種疫苗能有效預防流行性感冒侵襲。",
     "表情符號": "💉",
-    "圖片": ""
+    "圖片": "",
+    "em": "💉",
+    "icon": "💉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "flute",
@@ -12957,7 +16552,12 @@ var WORDS = [
     "英文例句": "She plays sweet melodies on silver flute.",
     "例句中文": "她手持光潔閃亮的銀色長笛優雅吹奏，音質清澈悠揚彷彿林間清泉流淌撫慰人心。",
     "表情符號": "🎶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎶",
+    "icon": "🎶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fly",
@@ -12975,7 +16575,12 @@ var WORDS = [
     "英文例句": "Kites fly in the windy sky.",
     "例句中文": "風箏在有風的天空中飛翔。",
     "表情符號": "🪁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪁",
+    "icon": "🪁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "foal",
@@ -12993,7 +16598,12 @@ var WORDS = [
     "英文例句": "The foal runs beside the mare.",
     "例句中文": "小馬駒跟在母馬身旁奔跑。",
     "表情符號": "🐴",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐴",
+    "icon": "🐴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "focus",
@@ -13011,7 +16621,12 @@ var WORDS = [
     "英文例句": "Focus on your own homework right now.",
     "例句中文": "寫功課時請收起旁邊容易分心的手機平板，立刻全神貫注把精神集中在課本作業上。",
     "表情符號": "🎯",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎯",
+    "icon": "🎯",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fog",
@@ -13029,7 +16644,12 @@ var WORDS = [
     "英文例句": "Thick morning fog covered the road.",
     "例句中文": "清晨濃厚的霧氣籠罩了道路。",
     "表情符號": "🌫️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌫️",
+    "icon": "🌫️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "foggy",
@@ -13047,7 +16667,12 @@ var WORDS = [
     "英文例句": "Be careful driving on foggy mountain roads.",
     "例句中文": "開車行經雲霧繚繞、能見度低下的多霧山區蜿蜒路段時，務必開亮大燈減速慢行注意安全。",
     "表情符號": "🌫️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌫️",
+    "icon": "🌫️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "follow",
@@ -13065,7 +16690,12 @@ var WORDS = [
     "英文例句": "Follow the teacher into museum.",
     "例句中文": "跟著老師走進博物館參觀。",
     "表情符號": "🚶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚶",
+    "icon": "🚶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "food",
@@ -13083,7 +16713,12 @@ var WORDS = [
     "英文例句": "Good food keeps us strong.",
     "例句中文": "優質的食物讓我們強壯。",
     "表情符號": "🥗",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥗",
+    "icon": "🥗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fool",
@@ -13101,7 +16736,12 @@ var WORDS = [
     "英文例句": "Don't fool around when crossing street.",
     "例句中文": "在車水馬龍的大馬路上行走過斑馬線時要提高警覺，千萬不可在車陣旁嬉戲打鬧裝傻。",
     "表情符號": "🚶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚶",
+    "icon": "🚶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "foolish",
@@ -13119,7 +16759,12 @@ var WORDS = [
     "英文例句": "It is foolish to skate without helmet.",
     "例句中文": "出門溜直排輪或滑板時如果不戴好頭盔安全護具，那是極其缺乏安全常識的愚蠢行為。",
     "表情符號": "🪖",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪖",
+    "icon": "🪖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "foot",
@@ -13137,7 +16782,12 @@ var WORDS = [
     "英文例句": "My left foot hurts.",
     "例句中文": "我的左腳會痛。",
     "表情符號": "🦶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦶",
+    "icon": "🦶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "football",
@@ -13155,7 +16805,12 @@ var WORDS = [
     "英文例句": "He caught the brown football in air.",
     "例句中文": "他邁開步伐在綠色草地上騰空躍起，精準在半空中穩穩接住了傳來的深褐色美式足球。",
     "表情符號": "🏈",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏈",
+    "icon": "🏈",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "for",
@@ -13173,7 +16828,12 @@ var WORDS = [
     "英文例句": "This gift is for you.",
     "例句中文": "這份禮物是給你的。",
     "表情符號": "🎁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎁",
+    "icon": "🎁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "foreign",
@@ -13191,7 +16851,12 @@ var WORDS = [
     "英文例句": "Learning foreign languages is fun.",
     "例句中文": "學習外國語言是一件很有趣的事。",
     "表情符號": "🌍",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌍",
+    "icon": "🌍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "foreigner",
@@ -13209,7 +16874,12 @@ var WORDS = [
     "英文例句": "Be polite when helping a lost foreigner.",
     "例句中文": "在觀光景點街頭遇到迷路的外國友人主動問路時，請展現熱情友善的國民外交禮貌協助指引。",
     "表情符號": "🗺️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗺️",
+    "icon": "🗺️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "forest",
@@ -13227,7 +16897,12 @@ var WORDS = [
     "英文例句": "Tall green pine trees grow in dense forest.",
     "例句中文": "高聳入雲、蒼翠茂盛的綠色松樹整齊挺立生長在遠離人煙的靜謐原始古老深山森林之中。",
     "表情符號": "🌲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌲",
+    "icon": "🌲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "forget",
@@ -13245,7 +16920,12 @@ var WORDS = [
     "英文例句": "Don't forget your homework.",
     "例句中文": "不要忘記帶你的學校功課。",
     "表情符號": "📝",
-    "圖片": ""
+    "圖片": "",
+    "em": "📝",
+    "icon": "📝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "forgive",
@@ -13263,7 +16943,12 @@ var WORDS = [
     "英文例句": "Learn to forgive friends when they apologize.",
     "例句中文": "當身邊的好朋友為了無心之過誠懇向你道歉時，學會打開心扉展現大度包容予以原諒。",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fork",
@@ -13281,7 +16966,12 @@ var WORDS = [
     "英文例句": "Use a small metal fork to eat cake.",
     "例句中文": "拿起精緻的不銹鋼小叉子，一小口一小口優雅品嚐盤子裡綿密滑順的濃郁草莓鮮奶油蛋糕。",
     "表情符號": "🍴",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍴",
+    "icon": "🍴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "form",
@@ -13299,7 +16989,12 @@ var WORDS = [
     "英文例句": "Fill in your personal name on application form.",
     "例句中文": "拿出黑筆在圖書館借書證申請表格的指定空白欄位上，字跡工整端正填入自己的真實中文姓名。",
     "表情符號": "📄",
-    "圖片": ""
+    "圖片": "",
+    "em": "📄",
+    "icon": "📄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "formal",
@@ -13317,7 +17012,12 @@ var WORDS = [
     "英文例句": "Dad wore a smart formal suit to dinner.",
     "例句中文": "為了出席晚間這場隆重的公司年度盛宴，爸爸特地換上了一套剪裁合身挺拔的深色正式西裝。",
     "表情符號": "👔",
-    "圖片": ""
+    "圖片": "",
+    "em": "👔",
+    "icon": "👔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "former",
@@ -13335,7 +17035,12 @@ var WORDS = [
     "英文例句": "We visited our former kindergarten teacher.",
     "例句中文": "在教師節即將到來之際，我們相約一起專程回母校拜訪當年無微不至照顧我們的前任幼兒園老師。",
     "表情符號": "🏫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏫",
+    "icon": "🏫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "forty",
@@ -13353,7 +17058,12 @@ var WORDS = [
     "英文例句": "Forty runners started the race.",
     "例句中文": "四十位跑者開始了賽跑。",
     "表情符號": "4️⃣0️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "4️⃣0️⃣",
+    "icon": "4️⃣0️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "forward",
@@ -13371,7 +17081,12 @@ var WORDS = [
     "英文例句": "Take bold steps forward toward your goal.",
     "例句中文": "不管未來路途有多麼崎嶇艱辛，挺起胸膛朝著自己心中設定的崇高目標勇敢大步邁開步伐向前。",
     "表情符號": "⏩",
-    "圖片": ""
+    "圖片": "",
+    "em": "⏩",
+    "icon": "⏩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "four",
@@ -13389,7 +17104,12 @@ var WORDS = [
     "英文例句": "A dog has four legs.",
     "例句中文": "狗有四條腿。",
     "表情符號": "4️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "4️⃣",
+    "icon": "4️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fourteen",
@@ -13407,7 +17127,12 @@ var WORDS = [
     "英文例句": "Fourteen students in the room.",
     "例句中文": "教室裡有十四名學生。",
     "表情符號": "1️⃣4️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "1️⃣4️⃣",
+    "icon": "1️⃣4️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fox",
@@ -13425,7 +17150,12 @@ var WORDS = [
     "英文例句": "The clever red fox has a bushy tail.",
     "例句中文": "聰明紅狐狸有一條毛茸茸的大尾巴。",
     "表情符號": "🦊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦊",
+    "icon": "🦊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "frank",
@@ -13443,7 +17173,12 @@ var WORDS = [
     "英文例句": "To be frank, I do not like bitter gourd.",
     "例句中文": "坦白說真心話，餐桌上這道苦澀味道強烈撲鼻的生苦瓜炒蛋，我個人實在是吃不太習慣。",
     "表情符號": "🗣️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗣️",
+    "icon": "🗣️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "free",
@@ -13461,7 +17196,12 @@ var WORDS = [
     "英文例句": "Admission to the park is free.",
     "例句中文": "走進這座公園是完全免費的。",
     "表情符號": "🎟️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎟️",
+    "icon": "🎟️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "freedom",
@@ -13479,7 +17219,12 @@ var WORDS = [
     "英文例句": "Birds flying in sky enjoy true pure freedom.",
     "例句中文": "張開潔白美麗雙翼在萬里無雲碧藍晴空中自由翱翔的鳥兒，盡情享受著大自然賦予的純粹自由。",
     "表情符號": "🕊️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🕊️",
+    "icon": "🕊️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "freezer",
@@ -13497,7 +17242,12 @@ var WORDS = [
     "英文例句": "Store sweet popsicles inside the deep freezer.",
     "例句中文": "買回家的香濃冰棒與新鮮冷凍海鮮食材，請記得第一時間整齊收進冰箱底部的深冷冷凍庫中保存。",
     "表情符號": "🧊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧊",
+    "icon": "🧊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "freezing",
@@ -13515,7 +17265,12 @@ var WORDS = [
     "英文例句": "Winter mountain mornings are totally freezing.",
     "例句中文": "隆冬時節清晨的高山營地氣溫往往驟降至零度以下，寒風刺骨吹來整個人彷彿快要被徹底冰凍。",
     "表情符號": "🥶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥶",
+    "icon": "🥶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "French fries",
@@ -13533,7 +17288,12 @@ var WORDS = [
     "英文例句": "Golden French fries taste crispy and warm.",
     "例句中文": "剛剛從滾燙油鍋炸起瀝乾的金黃色炸薯條，撒上一點點薄鹽趁熱咬下去外酥內嫩十分誘人好吃。",
     "表情符號": "🍟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍟",
+    "icon": "🍟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fresh",
@@ -13551,7 +17311,12 @@ var WORDS = [
     "英文例句": "Breathe clean fresh morning air.",
     "例句中文": "深深呼吸清晨乾淨新鮮的空氣。",
     "表情符號": "🍃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍃",
+    "icon": "🍃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Friday",
@@ -13569,7 +17334,12 @@ var WORDS = [
     "英文例句": "Friday is my favorite weekday.",
     "例句中文": "星期五是我最愛的平日。",
     "表情符號": "📅",
-    "圖片": ""
+    "圖片": "",
+    "em": "📅",
+    "icon": "📅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "friend",
@@ -13587,7 +17357,12 @@ var WORDS = [
     "英文例句": "Tom is my best friend.",
     "例句中文": "湯姆是我最好的朋友。",
     "表情符號": "🧑‍🤝‍🧑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍🤝‍🧑",
+    "icon": "🧑‍🤝‍🧑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "friendly",
@@ -13605,7 +17380,12 @@ var WORDS = [
     "英文例句": "Our local neighbors are very warm and friendly.",
     "例句中文": "居住在我們社區周遭的鄰舍街坊各個生性熱心助人，平時在巷口相遇總是笑容滿面非常溫暖親切。",
     "表情符號": "👋",
-    "圖片": ""
+    "圖片": "",
+    "em": "👋",
+    "icon": "👋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "friendship",
@@ -13623,7 +17403,12 @@ var WORDS = [
     "英文例句": "True sincere friendship lasts for a lifetime.",
     "例句中文": "建立在坦誠相待、互相信任與患難與共基礎上的純潔真摯友誼，能夠歷久彌新維繫一輩子永不褪色。",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fries",
@@ -13641,7 +17426,12 @@ var WORDS = [
     "英文例句": "Crispy French fries are warm.",
     "例句中文": "酥脆的炸薯條熱騰騰的。",
     "表情符號": "🍟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍟",
+    "icon": "🍟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "frighten",
@@ -13659,7 +17449,12 @@ var WORDS = [
     "英文例句": "Loud thunderclaps frighten the little dog.",
     "例句中文": "突如其來在屋頂上方轟然炸響的劇烈春雷打雷聲響，把趴在沙發腳邊安睡的小狗嚇得渾身直發抖。",
     "表情符號": "⚡",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚡",
+    "icon": "⚡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "frisbee",
@@ -13677,7 +17472,12 @@ var WORDS = [
     "英文例句": "Toss plastic frisbee to dog in park.",
     "例句中文": "站在綠油油的公園平坦大草皮上用力一甩手腕，把色彩繽紛的塑膠飛盤拋向遠方讓忠實愛犬飛躍銜回。",
     "表情符號": "🥏",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥏",
+    "icon": "🥏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "frog",
@@ -13695,7 +17495,12 @@ var WORDS = [
     "英文例句": "The green frog jumps high.",
     "例句中文": "綠色的青蛙跳得很高。",
     "表情符號": "🐸",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐸",
+    "icon": "🐸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "from",
@@ -13713,7 +17518,12 @@ var WORDS = [
     "英文例句": "I am from Taiwan.",
     "例句中文": "我來自台灣。",
     "表情符號": "🇹🇼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🇹🇼",
+    "icon": "🇹🇼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "front",
@@ -13731,7 +17541,12 @@ var WORDS = [
     "英文例句": "Sit in the front row of classroom.",
     "例句中文": "坐在教室裡視野最好的最前排位置。",
     "表情符號": "⏩",
-    "圖片": ""
+    "圖片": "",
+    "em": "⏩",
+    "icon": "⏩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "frost",
@@ -13749,7 +17564,12 @@ var WORDS = [
     "英文例句": "White frost sparkles on morning grass.",
     "例句中文": "晨草上覆蓋著閃閃發亮的白霜。",
     "表情符號": "❄️",
-    "圖片": ""
+    "圖片": "",
+    "em": "❄️",
+    "icon": "❄️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fruit",
@@ -13767,7 +17587,12 @@ var WORDS = [
     "英文例句": "Eating fruit is healthy.",
     "例句中文": "吃水果很健康。",
     "表情符號": "🍎",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍎",
+    "icon": "🍎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fry",
@@ -13785,7 +17610,12 @@ var WORDS = [
     "英文例句": "Fry an egg in hot cooking oil for breakfast.",
     "例句中文": "在燒熱薄油的平底不沾鍋裡打入一顆新鮮雞蛋，滋滋作響輕輕慢煎成邊緣金黃焦脆的美味荷包蛋早餐。",
     "表情符號": "🍳",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍳",
+    "icon": "🍳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "full",
@@ -13803,7 +17633,12 @@ var WORDS = [
     "英文例句": "I am full after eating lunch.",
     "例句中文": "吃完午餐後我好飽。",
     "表情符號": "🌕",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌕",
+    "icon": "🌕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "fun",
@@ -13821,7 +17656,12 @@ var WORDS = [
     "英文例句": "Playing board games with family is great fun.",
     "例句中文": "在下著綿綿細雨的悠閒週末夜與家人圍坐桌前一起玩桌上益智遊戲，充滿了歡聲笑語與無限樂趣。",
     "表情符號": "🎉",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎉",
+    "icon": "🎉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "funny",
@@ -13839,7 +17679,12 @@ var WORDS = [
     "英文例句": "The comic storybook has lots of funny jokes.",
     "例句中文": "這本幽默短篇圖文書裡收錄了好多令人捧腹大笑的滑稽生活笑話，翻開來讀讓人忍不住嘴角上揚。",
     "表情符號": "😄",
-    "圖片": ""
+    "圖片": "",
+    "em": "😄",
+    "icon": "😄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "furniture",
@@ -13857,7 +17702,12 @@ var WORDS = [
     "英文例句": "New wooden furniture makes room look cozy.",
     "例句中文": "客廳裡換上質感溫潤沉穩的天然原木系列全新家具，讓整間屋子的居家氛圍顯得格外溫馨舒適。",
     "表情符號": "🛋️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛋️",
+    "icon": "🛋️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "future",
@@ -13875,7 +17725,12 @@ var WORDS = [
     "英文例句": "Study with great passion to create bright future.",
     "例句中文": "把握求學階段以滿腔熱血與求知熱情認真用功充實各項專業，憑藉雙手為自己開創無限寬廣的美好未來。",
     "表情符號": "🚀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚀",
+    "icon": "🚀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "gain",
@@ -13893,7 +17748,12 @@ var WORDS = [
     "英文例句": "Reading good books helps gain useful knowledge.",
     "例句中文": "靜下心來細細閱讀經典名著與各類科普好書，能幫助大腦吸收消化並汲取許多受用一生的實用知識。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "game",
@@ -13911,7 +17771,12 @@ var WORDS = [
     "英文例句": "We won the exciting school basketball game.",
     "例句中文": "經過四節高潮迭起、全神貫注的團隊默契奮戰，我們終於在終場哨響前成功贏得了這場校際籃球大賽。",
     "表情符號": "🏆",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏆",
+    "icon": "🏆",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "garage",
@@ -13929,7 +17794,12 @@ var WORDS = [
     "英文例句": "Park your car inside the covered garage.",
     "例句中文": "把汽車停進遮雨的車庫裡。",
     "表情符號": "🚗",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚗",
+    "icon": "🚗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "garbage",
@@ -13947,7 +17817,12 @@ var WORDS = [
     "英文例句": "Throw plastic snack wrappers into garbage bin.",
     "例句中文": "吃完可口的餅乾點心後，請發揮公德心主動將拆開的塑膠包裝袋丟進路旁的分類垃圾桶內維持整潔。",
     "表情符號": "🗑️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗑️",
+    "icon": "🗑️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "garden",
@@ -13965,7 +17840,12 @@ var WORDS = [
     "英文例句": "Mom grows fragrant colorful roses in garden.",
     "例句中文": "心靈手巧熱愛園藝的媽媽，在自家庭院裡悉心栽種了整排花朵碩大、香氣四溢且五彩繽紛的美麗玫瑰花。",
     "表情符號": "🌹",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌹",
+    "icon": "🌹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "garlic",
@@ -13983,7 +17863,12 @@ var WORDS = [
     "英文例句": "Garlic gives a fragrant aroma.",
     "例句中文": "大蒜散發出濃郁撲鼻的香氣。",
     "表情符號": "🧄",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧄",
+    "icon": "🧄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "gas",
@@ -14001,7 +17886,12 @@ var WORDS = [
     "英文例句": "Turn off kitchen gas stove after cooking.",
     "例句中文": "在廚房煮完熱騰騰的營養湯麵關火後，請務必再三伸手仔細確認瓦斯爐安全開關是否已經確實完全關閉。",
     "表情符號": "⛽",
-    "圖片": ""
+    "圖片": "",
+    "em": "⛽",
+    "icon": "⛽",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "gate",
@@ -14019,7 +17909,12 @@ var WORDS = [
     "英文例句": "Shut the garden gate safely.",
     "例句中文": "把花園的柵欄門關好。",
     "表情符號": "🚪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚪",
+    "icon": "🚪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "gather",
@@ -14037,7 +17932,12 @@ var WORDS = [
     "英文例句": "Students gather on school ground every morning.",
     "例句中文": "每逢陽光普照的晨光時段，全校師生精神抖擻地齊步走出教室，按班級秩序井然聚集在操場集合升旗。",
     "表情符號": "👥",
-    "圖片": ""
+    "圖片": "",
+    "em": "👥",
+    "icon": "👥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "geese",
@@ -14055,7 +17955,12 @@ var WORDS = [
     "英文例句": "A flock of wild geese fly south.",
     "例句中文": "一群野生大雁結隊往南方飛去。",
     "表情符號": "🪿",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪿",
+    "icon": "🪿",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "general",
@@ -14073,7 +17978,12 @@ var WORDS = [
     "英文例句": "This introductory book offers good general ideas.",
     "例句中文": "這本圖文並茂的課外入門導讀手冊，為剛接觸該領域的學生提供了相當完整清晰的整體概括性觀念。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "generous",
@@ -14091,7 +18001,12 @@ var WORDS = [
     "英文例句": "The generous uncle bought delicious meals for all.",
     "例句中文": "待人熱情且生性慷慨大方的親愛叔叔，大方掏腰包為在場所有的晚輩表堂兄弟姊妹買了豐盛的披薩大餐。",
     "表情符號": "🎁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎁",
+    "icon": "🎁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "genius",
@@ -14109,7 +18024,12 @@ var WORDS = [
     "英文例句": "Albert Einstein was a recognized physics genius.",
     "例句中文": "提出相對論改變近代物理學發展軌跡的愛因斯坦，被舉世公認為人類歷史上百年難得一遇的科學天才。",
     "表情符號": "💡",
-    "圖片": ""
+    "圖片": "",
+    "em": "💡",
+    "icon": "💡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "gentle",
@@ -14127,7 +18047,12 @@ var WORDS = [
     "英文例句": "Be gentle when petting little kittens.",
     "例句中文": "摸小貓咪時動作一定要輕巧溫柔。",
     "表情符號": "🐱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐱",
+    "icon": "🐱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "gentleman",
@@ -14145,7 +18070,12 @@ var WORDS = [
     "英文例句": "The polite gentleman opened door for everyone.",
     "例句中文": "言談舉止彬彬有禮的成熟紳士，在推開厚重的旋轉玻璃大門時，體貼地用手扶著大門禮讓身後眾人先行步入。",
     "表情符號": "🎩",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎩",
+    "icon": "🎩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "geography",
@@ -14163,7 +18093,12 @@ var WORDS = [
     "英文例句": "We study world mountains on geography globe.",
     "例句中文": "在趣味盎然的國中社會地理課上，大家圍在旋轉地球儀旁認真尋找世界各大著名山脈與主要河流流域。",
     "表情符號": "🗺️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗺️",
+    "icon": "🗺️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "gesture",
@@ -14181,7 +18116,12 @@ var WORDS = [
     "英文例句": "Wave hand with a friendly greeting gesture.",
     "例句中文": "在走廊上遠遠看見迎面走來的老師與同學時，面帶微笑揚起手掌揮手，做出一個熱情禮貌的打招呼手勢。",
     "表情符號": "👋",
-    "圖片": ""
+    "圖片": "",
+    "em": "👋",
+    "icon": "👋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "get",
@@ -14199,7 +18139,12 @@ var WORDS = [
     "英文例句": "Get good grades through steady daily hard work.",
     "例句中文": "只要平時在課業上腳踏實地一步一腳印認真溫習，在期末大考中自然能胸有成竹獲得出類拔萃的優異成績。",
     "表情符號": "🏅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏅",
+    "icon": "🏅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ghost",
@@ -14217,7 +18162,12 @@ var WORDS = [
     "英文例句": "Tell spooky ghost stories on Halloween night.",
     "例句中文": "在充滿南瓜燈神秘氣氛的萬聖節前夜，小朋友圍坐在溫暖壁爐旁，壓低聲音互相講述驚險刺激的幽靈鬼故事。",
     "表情符號": "👻",
-    "圖片": ""
+    "圖片": "",
+    "em": "👻",
+    "icon": "👻",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "giant",
@@ -14235,7 +18185,12 @@ var WORDS = [
     "英文例句": "The giant blue whale is ocean's biggest animal.",
     "例句中文": "體型宏偉無比的巨大藍鯨是廣袤深邃的大海之中體積最龐大的珍貴哺乳動物，在水底悠游身姿震撼人心。",
     "表情符號": "🐋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐋",
+    "icon": "🐋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "gift",
@@ -14253,7 +18208,12 @@ var WORDS = [
     "英文例句": "Wrap the surprise gift for Mom.",
     "例句中文": "把準備給媽媽的驚喜禮物包裝好。",
     "表情符號": "🎁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎁",
+    "icon": "🎁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "giraffe",
@@ -14271,7 +18231,12 @@ var WORDS = [
     "英文例句": "The giraffe has a long neck.",
     "例句中文": "長頸鹿有長長的脖子。",
     "表情符號": "🦒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦒",
+    "icon": "🦒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "girl",
@@ -14289,7 +18254,12 @@ var WORDS = [
     "英文例句": "The girl has long hair.",
     "例句中文": "那個女孩有一頭長髮。",
     "表情符號": "👧",
-    "圖片": ""
+    "圖片": "",
+    "em": "👧",
+    "icon": "👧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "give",
@@ -14307,7 +18277,12 @@ var WORDS = [
     "英文例句": "Give me a big warm hug.",
     "例句中文": "給我一個大大的溫暖擁抱。",
     "表情符號": "🫂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🫂",
+    "icon": "🫂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "glad",
@@ -14325,7 +18300,12 @@ var WORDS = [
     "英文例句": "I am glad you came to visit.",
     "例句中文": "我真高興你今天能來拜訪我。",
     "表情符號": "😄",
-    "圖片": ""
+    "圖片": "",
+    "em": "😄",
+    "icon": "😄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "glass",
@@ -14343,7 +18323,12 @@ var WORDS = [
     "英文例句": "The window glass is shiny clean.",
     "例句中文": "窗戶上的玻璃擦得晶瑩剔透。",
     "表情符號": "🪟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪟",
+    "icon": "🪟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "glasses",
@@ -14361,7 +18346,12 @@ var WORDS = [
     "英文例句": "Grandpa wears reading glasses.",
     "例句中文": "爺爺戴著老花眼鏡。",
     "表情符號": "👓",
-    "圖片": ""
+    "圖片": "",
+    "em": "👓",
+    "icon": "👓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "glove",
@@ -14379,7 +18369,12 @@ var WORDS = [
     "英文例句": "Wear a thick baseball glove to catch ball.",
     "例句中文": "左手戴上堅韌厚實的皮革棒球捕手手套，全神貫注盯著前方來球，在半空中精準發力將疾馳的棒球穩穩收入手套。",
     "表情符號": "🧤",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧤",
+    "icon": "🧤",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "gloves",
@@ -14397,7 +18392,12 @@ var WORDS = [
     "英文例句": "Put on thick snow gloves.",
     "例句中文": "戴上厚厚的保暖手套。",
     "表情符號": "🧤",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧤",
+    "icon": "🧤",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "glue",
@@ -14415,7 +18415,12 @@ var WORDS = [
     "英文例句": "Use glue to stick the paper.",
     "例句中文": "用膠水黏貼紙張。",
     "表情符號": "🧴",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧴",
+    "icon": "🧴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "go",
@@ -14433,7 +18438,12 @@ var WORDS = [
     "英文例句": "Let's go to the park.",
     "例句中文": "我們去公園吧。",
     "表情符號": "🚶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚶",
+    "icon": "🚶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "goal",
@@ -14451,7 +18461,12 @@ var WORDS = [
     "英文例句": "Kick the soccer ball right into the goal.",
     "例句中文": "在操場全校觀眾震耳欲聾的熱烈加油聲中，前鋒起腳抽射，將黑白相間的足球以一道優美弧線破門踢進球門。",
     "表情符號": "⚽",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚽",
+    "icon": "⚽",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "goat",
@@ -14469,7 +18484,12 @@ var WORDS = [
     "英文例句": "The goat eats green grass.",
     "例句中文": "山羊吃著綠色的青草。",
     "表情符號": "🐐",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐐",
+    "icon": "🐐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "God",
@@ -14487,7 +18507,12 @@ var WORDS = [
     "英文例句": "Pray to God with a peaceful sincere heart.",
     "例句中文": "在靜謐肅穆的大教堂或傳統廟宇前雙手合十虔誠禱告，以一顆寧靜祥和而真摯的心祈求風調雨順與全家平安。",
     "表情符號": "🙏",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙏",
+    "icon": "🙏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "gold",
@@ -14505,7 +18530,12 @@ var WORDS = [
     "英文例句": "Athletes train hard to win a gold medal.",
     "例句中文": "代表國家出賽的頂尖體育健兒日以繼夜進行嚴苛訓練，只為了在最高榮譽的國際奧運賽場上奮力奪得金牌。",
     "表情符號": "🥇",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥇",
+    "icon": "🥇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "golden",
@@ -14523,7 +18553,12 @@ var WORDS = [
     "英文例句": "The golden sunset shines over calm ocean waters.",
     "例句中文": "傍晚落日餘暉將金色的夕陽光芒溫柔灑落在一望無際的平靜海面上，波光粼粼如夢似幻美不勝收。",
     "表情符號": "🌅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌅",
+    "icon": "🌅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "golf",
@@ -14541,7 +18576,12 @@ var WORDS = [
     "英文例句": "Hit the tiny white golf ball on green grass.",
     "例句中文": "站在視野開闊的茵茵綠草果嶺球場上，調整呼吸穩穩揮動球桿，將白色高爾夫球優雅擊向遠方的旗桿洞口。",
     "表情符號": "⛳",
-    "圖片": ""
+    "圖片": "",
+    "em": "⛳",
+    "icon": "⛳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "good",
@@ -14559,7 +18599,12 @@ var WORDS = [
     "英文例句": "You did a good job!",
     "例句中文": "你做得非常好！",
     "表情符號": "👍",
-    "圖片": ""
+    "圖片": "",
+    "em": "👍",
+    "icon": "👍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "good-bye",
@@ -14577,7 +18622,12 @@ var WORDS = [
     "英文例句": "Say good-bye with a warm bright smile.",
     "例句中文": "在放學踏出校門準備各自搭車返家之際，微笑揮揮手向身旁的老師與親愛同班同學互道一聲明天見與再見。",
     "表情符號": "👋",
-    "圖片": ""
+    "圖片": "",
+    "em": "👋",
+    "icon": "👋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "goodness",
@@ -14595,7 +18645,12 @@ var WORDS = [
     "英文例句": "Thank goodness nobody was hurt in earthquake.",
     "例句中文": "在剛才突如其來的劇烈搖晃地震過後巡視四周，謝天謝地學校所有師生全都平安無事沒有任何人受到傷害。",
     "表情符號": "🙏",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙏",
+    "icon": "🙏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "goose",
@@ -14613,7 +18668,12 @@ var WORDS = [
     "英文例句": "The white goose waddles along pond.",
     "例句中文": "大白鵝搖搖擺擺在池塘邊走動。",
     "表情符號": "🪿",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪿",
+    "icon": "🪿",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "government",
@@ -14631,7 +18691,12 @@ var WORDS = [
     "英文例句": "The government builds public parks for all citizens.",
     "例句中文": "民選政府積極在市區規劃興建綠意盎然的大型都會生態公園，提供全體市民一處散步休憩放鬆身心的好去處。",
     "表情符號": "🏛️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏛️",
+    "icon": "🏛️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "grade",
@@ -14649,7 +18714,12 @@ var WORDS = [
     "英文例句": "She is in second grade.",
     "例句中文": "她目前讀國小二年級。",
     "表情符號": "🏫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏫",
+    "icon": "🏫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "gram",
@@ -14667,7 +18737,12 @@ var WORDS = [
     "英文例句": "Add fifty grams of sweet sugar to recipe.",
     "例句中文": "按照烘焙點心食譜上的精確比例指示，拿電子秤秤量出整整五十公克潔白細砂糖倒入鋼盆中與麵粉均勻混合。",
     "表情符號": "⚖️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚖️",
+    "icon": "⚖️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "granddaughter",
@@ -14685,7 +18760,12 @@ var WORDS = [
     "英文例句": "Grandma is very proud of her smart granddaughter.",
     "例句中文": "慈祥和藹的奶奶看著自己聰慧懂事、孝順體貼的可愛孫女，臉上洋溢著無比驕傲與慈愛的欣慰笑容。",
     "表情符號": "👧",
-    "圖片": ""
+    "圖片": "",
+    "em": "👧",
+    "icon": "👧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "grandfather",
@@ -14703,7 +18783,12 @@ var WORDS = [
     "英文例句": "My grandfather tells great tales.",
     "例句中文": "我的爺爺很會講精彩的故事。",
     "表情符號": "👴",
-    "圖片": ""
+    "圖片": "",
+    "em": "👴",
+    "icon": "👴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "grandma",
@@ -14721,7 +18806,12 @@ var WORDS = [
     "英文例句": "Grandma knit a cozy red scarf.",
     "例句中文": "奶奶織了一條溫暖的紅色圍巾。",
     "表情符號": "👵",
-    "圖片": ""
+    "圖片": "",
+    "em": "👵",
+    "icon": "👵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "grandmother",
@@ -14739,7 +18829,12 @@ var WORDS = [
     "英文例句": "Grandmother bakes sweet apple pies.",
     "例句中文": "奶奶會烘烤香甜的蘋果派。",
     "表情符號": "👵",
-    "圖片": ""
+    "圖片": "",
+    "em": "👵",
+    "icon": "👵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "grandpa",
@@ -14757,7 +18852,12 @@ var WORDS = [
     "英文例句": "Grandpa goes for a walk daily.",
     "例句中文": "爺爺每天都會去公園散步。",
     "表情符號": "👴",
-    "圖片": ""
+    "圖片": "",
+    "em": "👴",
+    "icon": "👴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "grandson",
@@ -14775,7 +18875,12 @@ var WORDS = [
     "英文例句": "Grandpa taught his young grandson how to fish.",
     "例句中文": "在微風徐徐的週末午後，熱愛戶外休閒的爺爺帶著活潑好動的孫子來到溪邊，耐心地手把手教導他如何釣魚。",
     "表情符號": "👦",
-    "圖片": ""
+    "圖片": "",
+    "em": "👦",
+    "icon": "👦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "grape",
@@ -14793,7 +18898,12 @@ var WORDS = [
     "英文例句": "I like grapes.",
     "例句中文": "我喜歡葡萄。",
     "表情符號": "🍇",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍇",
+    "icon": "🍇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "grapefruit",
@@ -14811,7 +18921,12 @@ var WORDS = [
     "英文例句": "Pink grapefruit is full of vitamin C.",
     "例句中文": "粉紅葡萄柚富含豐富的維生素C。",
     "表情符號": "🍊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍊",
+    "icon": "🍊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "grass",
@@ -14829,7 +18944,12 @@ var WORDS = [
     "英文例句": "Keep off the green grass.",
     "例句中文": "請勿踐踏綠色草皮。",
     "表情符號": "🌱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌱",
+    "icon": "🌱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "grasshopper",
@@ -14847,7 +18967,12 @@ var WORDS = [
     "英文例句": "The green grasshopper jumps in meadows.",
     "例句中文": "綠色的蚱蜢在草地間歡快跳躍。",
     "表情符號": "🦗",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦗",
+    "icon": "🦗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "gray",
@@ -14865,7 +18990,12 @@ var WORDS = [
     "英文例句": "Elephants are gray.",
     "例句中文": "大象是灰色的。",
     "表情符號": "🩶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🩶",
+    "icon": "🩶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "great",
@@ -14883,7 +19013,12 @@ var WORDS = [
     "英文例句": "You did a great excellent job!",
     "例句中文": "你做得實在太出色太棒了！",
     "表情符號": "🌟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌟",
+    "icon": "🌟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "greedy",
@@ -14901,7 +19036,12 @@ var WORDS = [
     "英文例句": "Don't be greedy; leave sweet cookies for others.",
     "例句中文": "享用美味的剛出爐巧克力餅乾時千萬不要貪心一人獨占，記得要留幾塊在盤子裡與下班回家的家人分享。",
     "表情符號": "🍪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍪",
+    "icon": "🍪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "green",
@@ -14919,7 +19059,12 @@ var WORDS = [
     "英文例句": "The grass is green.",
     "例句中文": "草地是綠色的。",
     "表情符號": "🟢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🟢",
+    "icon": "🟢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "greet",
@@ -14937,7 +19082,12 @@ var WORDS = [
     "英文例句": "Greet your teacher with polite bow.",
     "例句中文": "禮貌鞠躬向老師問好。",
     "表情符號": "🙇",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙇",
+    "icon": "🙇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ground",
@@ -14955,7 +19105,12 @@ var WORDS = [
     "英文例句": "Leaves fallen onto the wet ground in autumn.",
     "例句中文": "秋風蕭瑟時節，樹梢上一片片乾枯金黃的楓樹落葉緩緩隨風飄零，悄悄鋪滿了下過濛濛細雨的濕潤土地地面。",
     "表情符號": "🍂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍂",
+    "icon": "🍂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "group",
@@ -14973,7 +19128,12 @@ var WORDS = [
     "英文例句": "Work in a cooperative group on science project.",
     "例句中文": "在自然課課堂上大家組成講求分工合作的學習小組，各司其職齊心協力順利完成這次的植物生長觀察實驗專題。",
     "表情符號": "👥",
-    "圖片": ""
+    "圖片": "",
+    "em": "👥",
+    "icon": "👥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "grow",
@@ -14991,7 +19151,12 @@ var WORDS = [
     "英文例句": "Water colorful potted flowers to help them grow.",
     "例句中文": "每天清晨拿起綠色澆水器為陽台盆栽細心澆灌清水，呵護這些嬌嫩繽紛的小花朵健康茁壯、迎風綻放。",
     "表情符號": "🌱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌱",
+    "icon": "🌱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "guard",
@@ -15009,7 +19174,12 @@ var WORDS = [
     "英文例句": "The brave guard protects palace gate night and day.",
     "例句中文": "精神抖擻、身材高大挺拔的皇宮皇家侍衛手握儀仗，日以繼夜忠實堅守在王宮巍峨的正門前保衛安全。",
     "表情符號": "💂",
-    "圖片": ""
+    "圖片": "",
+    "em": "💂",
+    "icon": "💂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "guava",
@@ -15027,7 +19197,12 @@ var WORDS = [
     "英文例句": "Crisp green guava has lots of vitamin C.",
     "例句中文": "爽脆的綠芭樂富含維他命C。",
     "表情符號": "🍈",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍈",
+    "icon": "🍈",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "guess",
@@ -15045,7 +19220,12 @@ var WORDS = [
     "英文例句": "Guess what is inside the secret box.",
     "例句中文": "猜猜神秘盒子裡裝了什麼。",
     "表情符號": "🎁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎁",
+    "icon": "🎁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "guest",
@@ -15063,7 +19243,12 @@ var WORDS = [
     "英文例句": "Treat every dinner guest with polite hospitality.",
     "例句中文": "家裡舉辦溫馨熱鬧的節慶晚宴時，主人要以體貼熱情的最高禮遇真誠款待每一位遠道而來的尊貴親朋好友賓客。",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "guide",
@@ -15081,7 +19266,12 @@ var WORDS = [
     "英文例句": "The museum guide explained history facts clearly.",
     "例句中文": "國立故宮博物館裡專業親切的解說志工導覽員，用生動活潑又淺顯易懂的語彙向參觀民眾詳盡解說文物的歷史背景。",
     "表情符號": "🧑‍🏫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍🏫",
+    "icon": "🧑‍🏫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "guitar",
@@ -15099,7 +19289,12 @@ var WORDS = [
     "英文例句": "He plays the acoustic guitar.",
     "例句中文": "他會彈木吉他。",
     "表情符號": "🎸",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎸",
+    "icon": "🎸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "gun",
@@ -15117,7 +19312,12 @@ var WORDS = [
     "英文例句": "Guns are strictly controlled by law in Taiwan.",
     "例句中文": "在法治健全社會安寧的台灣地區，各類危險槍枝武器均受到國家現行法律嚴格而全面的管控禁止。",
     "表情符號": "⚠️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚠️",
+    "icon": "⚠️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "guy",
@@ -15135,7 +19335,12 @@ var WORDS = [
     "英文例句": "He is a very friendly and helpful guy.",
     "例句中文": "他是我們班上出了名生性熱情開朗、平時樂善好施且總是主動熱心幫助身邊同學解難的優秀好夥伴好傢伙。",
     "表情符號": "🙋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙋",
+    "icon": "🙋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "gym",
@@ -15153,25 +19358,35 @@ var WORDS = [
     "英文例句": "Play basketball inside the school gym.",
     "例句中文": "在學校體育館裡打籃球。",
     "表情符號": "🏀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏀",
+    "icon": "🏀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "habit",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is habit.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhæb.ɪt/",
+    "pos": "n.",
+    "zh": "習慣",
+    "ex": "Reading every night is a good habit.",
+    "exzh": "每晚閱讀是個好習慣。",
+    "emoji": "📖",
     "pic": "",
     "單字": "habit",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is habit.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhæb.ɪt/",
+    "詞性": "n.",
+    "中文意思": "習慣",
+    "英文例句": "Reading every night is a good habit.",
+    "例句中文": "每晚閱讀是個好習慣。",
+    "表情符號": "📖",
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "had",
@@ -15189,7 +19404,12 @@ var WORDS = [
     "英文例句": "We had a good time.",
     "例句中文": "我們度過了愉快時光。",
     "表情符號": "🎉",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎉",
+    "icon": "🎉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hair",
@@ -15207,97 +19427,127 @@ var WORDS = [
     "英文例句": "She brushes her hair every day.",
     "例句中文": "她每天梳頭髮。",
     "表情符號": "💇",
-    "圖片": ""
+    "圖片": "",
+    "em": "💇",
+    "icon": "💇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hair dresser",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hair dresser.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈherˌdres.ɚ/",
+    "pos": "n.",
+    "zh": "理髮師",
+    "ex": "The hair dresser cut my hair nicely.",
+    "exzh": "理髮師把我的頭髮修剪得很整齊。",
+    "emoji": "💈",
     "pic": "",
     "單字": "hair dresser",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hair dresser.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈherˌdres.ɚ/",
+    "詞性": "n.",
+    "中文意思": "理髮師",
+    "英文例句": "The hair dresser cut my hair nicely.",
+    "例句中文": "理髮師把我的頭髮修剪得很整齊。",
+    "表情符號": "💈",
+    "圖片": "",
+    "em": "💈",
+    "icon": "💈",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "haircut",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is haircut.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈher.kʌt/",
+    "pos": "n.",
+    "zh": "理髮，剪髮",
+    "ex": "I got a fresh haircut today.",
+    "exzh": "我今天去剪了新髮型。",
+    "emoji": "💇",
     "pic": "",
     "單字": "haircut",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is haircut.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈher.kʌt/",
+    "詞性": "n.",
+    "中文意思": "理髮，剪髮",
+    "英文例句": "I got a fresh haircut today.",
+    "例句中文": "我今天去剪了新髮型。",
+    "表情符號": "💇",
+    "圖片": "",
+    "em": "💇",
+    "icon": "💇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "half",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is half.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/hæf/",
+    "pos": "n./adj.",
+    "zh": "一半",
+    "ex": "He ate half of the sweet apple.",
+    "exzh": "他吃了一半的甜蘋果。",
+    "emoji": "🍎",
     "pic": "",
     "單字": "half",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is half.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/hæf/",
+    "詞性": "n./adj.",
+    "中文意思": "一半",
+    "英文例句": "He ate half of the sweet apple.",
+    "例句中文": "他吃了一半的甜蘋果。",
+    "表情符號": "🍎",
+    "圖片": "",
+    "em": "🍎",
+    "icon": "🍎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hall",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hall.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/hɑːl/",
+    "pos": "n.",
+    "zh": "大廳，禮堂",
+    "ex": "Students gathered in the school hall.",
+    "exzh": "學生們在學校大禮堂集合。",
+    "emoji": "🏛️",
     "pic": "",
     "單字": "hall",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hall.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/hɑːl/",
+    "詞性": "n.",
+    "中文意思": "大廳，禮堂",
+    "英文例句": "Students gathered in the school hall.",
+    "例句中文": "學生們在學校大禮堂集合。",
+    "表情符號": "🏛️",
+    "圖片": "",
+    "em": "🏛️",
+    "icon": "🏛️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Halloween",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is Halloween.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌhæl.oʊˈiːn/",
+    "pos": "n.",
+    "zh": "萬聖節",
+    "ex": "Kids wear fun costumes on Halloween.",
+    "exzh": "小朋友在萬聖節穿上趣味服裝。",
+    "emoji": "🎃",
     "pic": "",
     "單字": "Halloween",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is Halloween.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌhæl.oʊˈiːn/",
+    "詞性": "n.",
+    "中文意思": "萬聖節",
+    "英文例句": "Kids wear fun costumes on Halloween.",
+    "例句中文": "小朋友在萬聖節穿上趣味服裝。",
+    "表情符號": "🎃",
+    "圖片": "",
+    "em": "🎃",
+    "icon": "🎃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hallway",
@@ -15315,7 +19565,12 @@ var WORDS = [
     "英文例句": "Walk quietly down the school hallway.",
     "例句中文": "在學校走廊上安靜慢行。",
     "表情符號": "🏫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏫",
+    "icon": "🏫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ham",
@@ -15333,25 +19588,35 @@ var WORDS = [
     "英文例句": "Put ham and cheese in the sandwich.",
     "例句中文": "在三明治裡夾入火腿和起司。",
     "表情符號": "🍖",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍖",
+    "icon": "🍖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hamburger",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hamburger.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhæmˌbɝː.ɡɚ/",
+    "pos": "n.",
+    "zh": "漢堡",
+    "ex": "He ordered a juicy beef hamburger.",
+    "exzh": "他點了一份牛肉漢堡。",
+    "emoji": "🍔",
     "pic": "",
     "單字": "hamburger",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hamburger.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhæmˌbɝː.ɡɚ/",
+    "詞性": "n.",
+    "中文意思": "漢堡",
+    "英文例句": "He ordered a juicy beef hamburger.",
+    "例句中文": "他點了一份牛肉漢堡。",
+    "表情符號": "🍔",
+    "圖片": "",
+    "em": "🍔",
+    "icon": "🍔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hammer",
@@ -15369,7 +19634,12 @@ var WORDS = [
     "英文例句": "Pound the nail in with a hammer.",
     "例句中文": "用鐵鎚把釘子穩固地敲進木板裡。",
     "表情符號": "🔨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔨",
+    "icon": "🔨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hamster",
@@ -15387,7 +19657,12 @@ var WORDS = [
     "英文例句": "The hamster runs on its wheel all night.",
     "例句中文": "倉鼠整晚在牠的滾輪上跑個不停。",
     "表情符號": "🐹",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐹",
+    "icon": "🐹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hand",
@@ -15405,43 +19680,58 @@ var WORDS = [
     "英文例句": "Clap your hands.",
     "例句中文": "拍拍你的雙手。",
     "表情符號": "✋",
-    "圖片": ""
+    "圖片": "",
+    "em": "✋",
+    "icon": "✋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "handkerchief",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is handkerchief.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhæŋ.kɚ.tʃiːf/",
+    "pos": "n.",
+    "zh": "手帕",
+    "ex": "Carry a clean handkerchief with you.",
+    "exzh": "隨身攜帶乾淨手帕擦汗。",
+    "emoji": "🧣",
     "pic": "",
     "單字": "handkerchief",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is handkerchief.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhæŋ.kɚ.tʃiːf/",
+    "詞性": "n.",
+    "中文意思": "手帕",
+    "英文例句": "Carry a clean handkerchief with you.",
+    "例句中文": "隨身攜帶乾淨手帕擦汗。",
+    "表情符號": "🧣",
+    "圖片": "",
+    "em": "🧣",
+    "icon": "🧣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "handle",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is handle.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhæn.dəl/",
+    "pos": "v./n.",
+    "zh": "把手；處理",
+    "ex": "Turn the door handle gently.",
+    "exzh": "輕輕轉動門把手開門。",
+    "emoji": "🚪",
     "pic": "",
     "單字": "handle",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is handle.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhæn.dəl/",
+    "詞性": "v./n.",
+    "中文意思": "把手；處理",
+    "英文例句": "Turn the door handle gently.",
+    "例句中文": "輕輕轉動門把手開門。",
+    "表情符號": "🚪",
+    "圖片": "",
+    "em": "🚪",
+    "icon": "🚪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "handsome",
@@ -15459,43 +19749,58 @@ var WORDS = [
     "英文例句": "The prince was tall and handsome.",
     "例句中文": "那位童話王子身材高大又英俊。",
     "表情符號": "🤴",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤴",
+    "icon": "🤴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hang",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hang.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/hæŋ/",
+    "pos": "v.",
+    "zh": "懸掛，吊著",
+    "ex": "Hang your jacket in the closet.",
+    "exzh": "把你的外套掛進衣櫥裡。",
+    "emoji": "🧥",
     "pic": "",
     "單字": "hang",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hang.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/hæŋ/",
+    "詞性": "v.",
+    "中文意思": "懸掛，吊著",
+    "英文例句": "Hang your jacket in the closet.",
+    "例句中文": "把你的外套掛進衣櫥裡。",
+    "表情符號": "🧥",
+    "圖片": "",
+    "em": "🧥",
+    "icon": "🧥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hanger",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hanger.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhæŋ.ɚ/",
+    "pos": "n.",
+    "zh": "衣架",
+    "ex": "Put the clean shirt on a hanger.",
+    "exzh": "把乾淨襯衫掛上衣架。",
+    "emoji": "👔",
     "pic": "",
     "單字": "hanger",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hanger.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhæŋ.ɚ/",
+    "詞性": "n.",
+    "中文意思": "衣架",
+    "英文例句": "Put the clean shirt on a hanger.",
+    "例句中文": "把乾淨襯衫掛上衣架。",
+    "表情符號": "👔",
+    "圖片": "",
+    "em": "👔",
+    "icon": "👔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "happen",
@@ -15513,7 +19818,12 @@ var WORDS = [
     "英文例句": "What happened on the playground?",
     "例句中文": "操場上剛剛發生了什麼事？",
     "表情符號": "👀",
-    "圖片": ""
+    "圖片": "",
+    "em": "👀",
+    "icon": "👀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "happy",
@@ -15531,7 +19841,12 @@ var WORDS = [
     "英文例句": "We are happy to play outside.",
     "例句中文": "在戶外玩我們很快樂。",
     "表情符號": "😊",
-    "圖片": ""
+    "圖片": "",
+    "em": "😊",
+    "icon": "😊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "harbor",
@@ -15549,7 +19864,12 @@ var WORDS = [
     "英文例句": "Fishing boats dock safely in harbor.",
     "例句中文": "捕魚的漁船安全停靠在避風港內。",
     "表情符號": "⚓",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚓",
+    "icon": "⚓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hard",
@@ -15567,43 +19887,58 @@ var WORDS = [
     "英文例句": "Math problems can be hard.",
     "例句中文": "有些數學題目可能很難。",
     "表情符號": "🧩",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧩",
+    "icon": "🧩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hard-working",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hard-working.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌhɑːrdˈwɝː.kɪŋ/",
+    "pos": "adj.",
+    "zh": "勤勉認真的",
+    "ex": "Bees are very hard-working insects.",
+    "exzh": "蜜蜂是非常勤勉認真的昆蟲。",
+    "emoji": "🐝",
     "pic": "",
     "單字": "hard-working",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hard-working.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌhɑːrdˈwɝː.kɪŋ/",
+    "詞性": "adj.",
+    "中文意思": "勤勉認真的",
+    "英文例句": "Bees are very hard-working insects.",
+    "例句中文": "蜜蜂是非常勤勉認真的昆蟲。",
+    "表情符號": "🐝",
+    "圖片": "",
+    "em": "🐝",
+    "icon": "🐝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hardly",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hardly.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhɑːrd.li/",
+    "pos": "adv.",
+    "zh": "幾乎不",
+    "ex": "He was so tired he could hardly walk.",
+    "exzh": "他累得幾乎走不動了。",
+    "emoji": "🥱",
     "pic": "",
     "單字": "hardly",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hardly.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhɑːrd.li/",
+    "詞性": "adv.",
+    "中文意思": "幾乎不",
+    "英文例句": "He was so tired he could hardly walk.",
+    "例句中文": "他累得幾乎走不動了。",
+    "表情符號": "🥱",
+    "圖片": "",
+    "em": "🥱",
+    "icon": "🥱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "has",
@@ -15621,7 +19956,12 @@ var WORDS = [
     "英文例句": "She has long hair.",
     "例句中文": "她有一頭長髮。",
     "表情符號": "💇",
-    "圖片": ""
+    "圖片": "",
+    "em": "💇",
+    "icon": "💇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hat",
@@ -15639,7 +19979,12 @@ var WORDS = [
     "英文例句": "Wear a sun hat outdoors.",
     "例句中文": "在戶外戴頂遮陽帽吧。",
     "表情符號": "👒",
-    "圖片": ""
+    "圖片": "",
+    "em": "👒",
+    "icon": "👒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hate",
@@ -15657,7 +20002,12 @@ var WORDS = [
     "英文例句": "I hate bitter raw bittergourd.",
     "例句中文": "我討厭吃苦澀的生苦瓜。",
     "表情符號": "😣",
-    "圖片": ""
+    "圖片": "",
+    "em": "😣",
+    "icon": "😣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "have",
@@ -15675,7 +20025,12 @@ var WORDS = [
     "英文例句": "I have two pencils.",
     "例句中文": "我有兩支鉛筆。",
     "表情符號": "✏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✏️",
+    "icon": "✏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "he",
@@ -15693,7 +20048,12 @@ var WORDS = [
     "英文例句": "He likes playing soccer.",
     "例句中文": "他喜歡踢足球。",
     "表情符號": "👦",
-    "圖片": ""
+    "圖片": "",
+    "em": "👦",
+    "icon": "👦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "head",
@@ -15711,25 +20071,35 @@ var WORDS = [
     "英文例句": "Touch your head.",
     "例句中文": "摸摸你的頭。",
     "表情符號": "👤",
-    "圖片": ""
+    "圖片": "",
+    "em": "👤",
+    "icon": "👤",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "headache",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is headache.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhed.eɪk/",
+    "pos": "n.",
+    "zh": "頭痛",
+    "ex": "Take a rest if you have a headache.",
+    "exzh": "如果頭痛就先躺下休息。",
+    "emoji": "🤕",
     "pic": "",
     "單字": "headache",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is headache.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhed.eɪk/",
+    "詞性": "n.",
+    "中文意思": "頭痛",
+    "英文例句": "Take a rest if you have a headache.",
+    "例句中文": "如果頭痛就先躺下休息。",
+    "表情符號": "🤕",
+    "圖片": "",
+    "em": "🤕",
+    "icon": "🤕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "health",
@@ -15747,7 +20117,12 @@ var WORDS = [
     "英文例句": "Regular exercise brings good health.",
     "例句中文": "規律運動能為你帶來身體健康。",
     "表情符號": "💪",
-    "圖片": ""
+    "圖片": "",
+    "em": "💪",
+    "icon": "💪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "healthy",
@@ -15765,7 +20140,12 @@ var WORDS = [
     "英文例句": "Eating vegetables keeps you healthy.",
     "例句中文": "天天吃蔬菜能讓你的身體保持健康。",
     "表情符號": "🥗",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥗",
+    "icon": "🥗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hear",
@@ -15783,7 +20163,12 @@ var WORDS = [
     "英文例句": "Can you hear the music?",
     "例句中文": "你聽得到音樂嗎？",
     "表情符號": "👂",
-    "圖片": ""
+    "圖片": "",
+    "em": "👂",
+    "icon": "👂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "heart",
@@ -15801,43 +20186,58 @@ var WORDS = [
     "英文例句": "Your heart beats steadily.",
     "例句中文": "你的心臟穩定地跳動著。",
     "表情符號": "❤️",
-    "圖片": ""
+    "圖片": "",
+    "em": "❤️",
+    "icon": "❤️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "heat",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is heat.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/hiːt/",
+    "pos": "n./v.",
+    "zh": "熱度；加熱",
+    "ex": "The summer heat is very strong.",
+    "exzh": "夏天的熱度非常強烈。",
+    "emoji": "🔥",
     "pic": "",
     "單字": "heat",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is heat.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/hiːt/",
+    "詞性": "n./v.",
+    "中文意思": "熱度；加熱",
+    "英文例句": "The summer heat is very strong.",
+    "例句中文": "夏天的熱度非常強烈。",
+    "表情符號": "🔥",
+    "圖片": "",
+    "em": "🔥",
+    "icon": "🔥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "heater",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is heater.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhiː.t̬ɚ/",
+    "pos": "n.",
+    "zh": "暖氣機，電暖器",
+    "ex": "Turn on the room heater in winter.",
+    "exzh": "冬天把房間的電暖器打開。",
+    "emoji": "♨️",
     "pic": "",
     "單字": "heater",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is heater.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhiː.t̬ɚ/",
+    "詞性": "n.",
+    "中文意思": "暖氣機，電暖器",
+    "英文例句": "Turn on the room heater in winter.",
+    "例句中文": "冬天把房間的電暖器打開。",
+    "表情符號": "♨️",
+    "圖片": "",
+    "em": "♨️",
+    "icon": "♨️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "heavy",
@@ -15855,7 +20255,12 @@ var WORDS = [
     "英文例句": "This big suitcase is heavy.",
     "例句中文": "這個大行李箱非常沉重。",
     "表情符號": "🧳",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧳",
+    "icon": "🧳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hedgehog",
@@ -15873,25 +20278,35 @@ var WORDS = [
     "英文例句": "The tiny hedgehog curls into a prickly ball.",
     "例句中文": "小刺蝟害怕時蜷縮成多刺的小圓球。",
     "表情符號": "🦔",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦔",
+    "icon": "🦔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "height",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is height.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/haɪt/",
+    "pos": "n.",
+    "zh": "高度，身高",
+    "ex": "The doctor measured my height.",
+    "exzh": "醫生幫我測量了身高。",
+    "emoji": "📏",
     "pic": "",
     "單字": "height",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is height.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/haɪt/",
+    "詞性": "n.",
+    "中文意思": "高度，身高",
+    "英文例句": "The doctor measured my height.",
+    "例句中文": "醫生幫我測量了身高。",
+    "表情符號": "📏",
+    "圖片": "",
+    "em": "📏",
+    "icon": "📏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "helicopter",
@@ -15909,7 +20324,12 @@ var WORDS = [
     "英文例句": "The rescue helicopter flies overhead.",
     "例句中文": "救援直升機在頭頂上盤旋。",
     "表情符號": "🚁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚁",
+    "icon": "🚁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hello",
@@ -15927,7 +20347,12 @@ var WORDS = [
     "英文例句": "Hello, Amy!",
     "例句中文": "哈囉，艾咪！",
     "表情符號": "👋",
-    "圖片": ""
+    "圖片": "",
+    "em": "👋",
+    "icon": "👋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "help",
@@ -15945,25 +20370,35 @@ var WORDS = [
     "英文例句": "Help others when they need it.",
     "例句中文": "在別人需要時伸出援手。",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "helpful",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is helpful.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhelp.fəl/",
+    "pos": "adj.",
+    "zh": "有幫助的",
+    "ex": "My classmate is kind and helpful.",
+    "exzh": "我的同學親切又樂於助人。",
+    "emoji": "🤝",
     "pic": "",
     "單字": "helpful",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is helpful.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhelp.fəl/",
+    "詞性": "adj.",
+    "中文意思": "有幫助的",
+    "英文例句": "My classmate is kind and helpful.",
+    "例句中文": "我的同學親切又樂於助人。",
+    "表情符號": "🤝",
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hen",
@@ -15981,97 +20416,127 @@ var WORDS = [
     "英文例句": "The brown hen lays brown eggs.",
     "例句中文": "棕色的母雞每天在窩裡下蛋。",
     "表情符號": "🐔",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐔",
+    "icon": "🐔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "her",
     "ph": "/hɝː/",
     "pos": "pron.",
     "zh": "她（受格/所有格）",
-    "ex": "This is her new pencil case.",
-    "exzh": "這是她的新鉛筆盒。",
+    "ex": "I gave her a nice birthday card.",
+    "exzh": "我送給她一張生日卡片。",
     "emoji": "👧",
     "pic": "",
     "單字": "her",
     "音標": "/hɝː/",
     "詞性": "pron.",
     "中文意思": "她（受格/所有格）",
-    "英文例句": "This is her new pencil case.",
-    "例句中文": "這是她的新鉛筆盒。",
+    "英文例句": "I gave her a nice birthday card.",
+    "例句中文": "我送給她一張生日卡片。",
     "表情符號": "👧",
-    "圖片": ""
+    "圖片": "",
+    "em": "👧",
+    "icon": "👧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "here",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is here.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/hɪr/",
+    "pos": "adv.",
+    "zh": "在這裡",
+    "ex": "Come here and look at this puppy.",
+    "exzh": "過來這裡看看這隻小狗。",
+    "emoji": "📍",
     "pic": "",
     "單字": "here",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is here.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/hɪr/",
+    "詞性": "adv.",
+    "中文意思": "在這裡",
+    "英文例句": "Come here and look at this puppy.",
+    "例句中文": "過來這裡看看這隻小狗。",
+    "表情符號": "📍",
+    "圖片": "",
+    "em": "📍",
+    "icon": "📍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hero",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hero.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhɪr.oʊ/",
+    "pos": "n.",
+    "zh": "英雄",
+    "ex": "Firefighters are brave daily heroes.",
+    "exzh": "消防隊員是英勇的生活英雄。",
+    "emoji": "🦸",
     "pic": "",
     "單字": "hero",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hero.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhɪr.oʊ/",
+    "詞性": "n.",
+    "中文意思": "英雄",
+    "英文例句": "Firefighters are brave daily heroes.",
+    "例句中文": "消防隊員是英勇的生活英雄。",
+    "表情符號": "🦸",
+    "圖片": "",
+    "em": "🦸",
+    "icon": "🦸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hey",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hey.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/heɪ/",
+    "pos": "interj.",
+    "zh": "嘿，喂",
+    "ex": "Hey, look at the colorful rainbow!",
+    "exzh": "嘿，快看那道美麗彩虹！",
+    "emoji": "👋",
     "pic": "",
     "單字": "hey",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hey.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/heɪ/",
+    "詞性": "interj.",
+    "中文意思": "嘿，喂",
+    "英文例句": "Hey, look at the colorful rainbow!",
+    "例句中文": "嘿，快看那道美麗彩虹！",
+    "表情符號": "👋",
+    "圖片": "",
+    "em": "👋",
+    "icon": "👋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hi",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hi.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/haɪ/",
+    "pos": "interj.",
+    "zh": "嗨，你好",
+    "ex": "Say hi to your friendly neighbors.",
+    "exzh": "笑著跟親切的鄰居打招呼。",
+    "emoji": "👋",
     "pic": "",
     "單字": "hi",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hi.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/haɪ/",
+    "詞性": "interj.",
+    "中文意思": "嗨，你好",
+    "英文例句": "Say hi to your friendly neighbors.",
+    "例句中文": "笑著跟親切的鄰居打招呼。",
+    "表情符號": "👋",
+    "圖片": "",
+    "em": "👋",
+    "icon": "👋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hide",
@@ -16089,7 +20554,12 @@ var WORDS = [
     "英文例句": "Hide behind the large tree.",
     "例句中文": "躲在大樹後面藏好。",
     "表情符號": "🌳",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌳",
+    "icon": "🌳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "high",
@@ -16107,43 +20577,58 @@ var WORDS = [
     "英文例句": "Birds fly above high mountain tops.",
     "例句中文": "鳥兒在高高的山峰頂上翱翔。",
     "表情符號": "🦅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦅",
+    "icon": "🦅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "highway",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is highway.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhaɪ.weɪ/",
+    "pos": "n.",
+    "zh": "高速公路",
+    "ex": "Cars drive fast along the highway.",
+    "exzh": "汽車在高速公路上奔馳。",
+    "emoji": "🛣️",
     "pic": "",
     "單字": "highway",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is highway.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhaɪ.weɪ/",
+    "詞性": "n.",
+    "中文意思": "高速公路",
+    "英文例句": "Cars drive fast along the highway.",
+    "例句中文": "汽車在高速公路上奔馳。",
+    "表情符號": "🛣️",
+    "圖片": "",
+    "em": "🛣️",
+    "icon": "🛣️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hike",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hike.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/haɪk/",
+    "pos": "v./n.",
+    "zh": "健行，遠足",
+    "ex": "We hike in the mountain park.",
+    "exzh": "我們週末去郊山步道健行。",
+    "emoji": "🥾",
     "pic": "",
     "單字": "hike",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hike.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/haɪk/",
+    "詞性": "v./n.",
+    "中文意思": "健行，遠足",
+    "英文例句": "We hike in the mountain park.",
+    "例句中文": "我們週末去郊山步道健行。",
+    "表情符號": "🥾",
+    "圖片": "",
+    "em": "🥾",
+    "icon": "🥾",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hill",
@@ -16161,7 +20646,12 @@ var WORDS = [
     "英文例句": "They climbed up the green hill.",
     "例句中文": "他們爬上了綠意盎然的山丘。",
     "表情符號": "⛰️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⛰️",
+    "icon": "⛰️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "him",
@@ -16179,25 +20669,35 @@ var WORDS = [
     "英文例句": "I saw him at school.",
     "例句中文": "我在學校看見他。",
     "表情符號": "👦",
-    "圖片": ""
+    "圖片": "",
+    "em": "👦",
+    "icon": "👦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hip",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hip.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/hɪp/",
+    "pos": "n.",
+    "zh": "臀部，髖部",
+    "ex": "Put your hands on your hips.",
+    "exzh": "把雙手插在腰臀旁站好。",
+    "emoji": "🧍",
     "pic": "",
     "單字": "hip",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hip.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/hɪp/",
+    "詞性": "n.",
+    "中文意思": "臀部，髖部",
+    "英文例句": "Put your hands on your hips.",
+    "例句中文": "把雙手插在腰臀旁站好。",
+    "表情符號": "🧍",
+    "圖片": "",
+    "em": "🧍",
+    "icon": "🧍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hippo",
@@ -16215,25 +20715,35 @@ var WORDS = [
     "英文例句": "The hippo stays in water.",
     "例句中文": "河馬待在水裡面。",
     "表情符號": "🦛",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦛",
+    "icon": "🦛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hire",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hire.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/haɪr/",
+    "pos": "v.",
+    "zh": "僱用，租借",
+    "ex": "They hired a new music teacher.",
+    "exzh": "他們聘請了一位新音樂老師。",
+    "emoji": "🧑‍🏫",
     "pic": "",
     "單字": "hire",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hire.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/haɪr/",
+    "詞性": "v.",
+    "中文意思": "僱用，租借",
+    "英文例句": "They hired a new music teacher.",
+    "例句中文": "他們聘請了一位新音樂老師。",
+    "表情符號": "🧑‍🏫",
+    "圖片": "",
+    "em": "🧑‍🏫",
+    "icon": "🧑‍🏫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "his",
@@ -16251,25 +20761,35 @@ var WORDS = [
     "英文例句": "His bicycle is blue.",
     "例句中文": "他的腳踏車是藍色的。",
     "表情符號": "🚲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚲",
+    "icon": "🚲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "history",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is history.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhɪs.t̬ɚ.i/",
+    "pos": "n.",
+    "zh": "歷史",
+    "ex": "We learn world history in class.",
+    "exzh": "我們在課堂上學習世界歷史。",
+    "emoji": "📜",
     "pic": "",
     "單字": "history",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is history.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhɪs.t̬ɚ.i/",
+    "詞性": "n.",
+    "中文意思": "歷史",
+    "英文例句": "We learn world history in class.",
+    "例句中文": "我們在課堂上學習世界歷史。",
+    "表情符號": "📜",
+    "圖片": "",
+    "em": "📜",
+    "icon": "📜",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hit",
@@ -16287,7 +20807,12 @@ var WORDS = [
     "英文例句": "Hit the baseball with power.",
     "例句中文": "用力揮棒擊打棒球。",
     "表情符號": "⚾",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚾",
+    "icon": "⚾",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hobby",
@@ -16305,7 +20830,12 @@ var WORDS = [
     "英文例句": "Drawing is an enjoyable hobby.",
     "例句中文": "畫畫是一項令人享受的嗜好。",
     "表情符號": "🎨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎨",
+    "icon": "🎨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hold",
@@ -16323,43 +20853,58 @@ var WORDS = [
     "英文例句": "Hold Mom's hand across street.",
     "例句中文": "過馬路時牽好媽媽的手。",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hole",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hole.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/hoʊl/",
+    "pos": "n.",
+    "zh": "洞，孔穴",
+    "ex": "The little rabbit hopped into a hole.",
+    "exzh": "小兔子跳進了地洞裡。",
+    "emoji": "🕳️",
     "pic": "",
     "單字": "hole",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hole.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/hoʊl/",
+    "詞性": "n.",
+    "中文意思": "洞，孔穴",
+    "英文例句": "The little rabbit hopped into a hole.",
+    "例句中文": "小兔子跳進了地洞裡。",
+    "表情符號": "🕳️",
+    "圖片": "",
+    "em": "🕳️",
+    "icon": "🕳️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "holiday",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is holiday.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhɑː.lə.deɪ/",
+    "pos": "n.",
+    "zh": "假日，節日",
+    "ex": "Summer holiday is always fun.",
+    "exzh": "暑假生活總是充滿樂趣。",
+    "emoji": "🏖️",
     "pic": "",
     "單字": "holiday",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is holiday.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhɑː.lə.deɪ/",
+    "詞性": "n.",
+    "中文意思": "假日，節日",
+    "英文例句": "Summer holiday is always fun.",
+    "例句中文": "暑假生活總是充滿樂趣。",
+    "表情符號": "🏖️",
+    "圖片": "",
+    "em": "🏖️",
+    "icon": "🏖️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "home",
@@ -16377,25 +20922,35 @@ var WORDS = [
     "英文例句": "Welcome to my sweet home.",
     "例句中文": "歡迎來到我溫馨的家。",
     "表情符號": "🏡",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏡",
+    "icon": "🏡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "homesick",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is homesick.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhoʊm.sɪk/",
+    "pos": "adj.",
+    "zh": "想家的",
+    "ex": "He felt homesick at summer camp.",
+    "exzh": "他在夏令營時有點想家。",
+    "emoji": "🏠",
     "pic": "",
     "單字": "homesick",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is homesick.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhoʊm.sɪk/",
+    "詞性": "adj.",
+    "中文意思": "想家的",
+    "英文例句": "He felt homesick at summer camp.",
+    "例句中文": "他在夏令營時有點想家。",
+    "表情符號": "🏠",
+    "圖片": "",
+    "em": "🏠",
+    "icon": "🏠",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "homework",
@@ -16413,7 +20968,12 @@ var WORDS = [
     "英文例句": "Finish your homework before dinner.",
     "例句中文": "晚餐前把功課寫完。",
     "表情符號": "📝",
-    "圖片": ""
+    "圖片": "",
+    "em": "📝",
+    "icon": "📝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "honest",
@@ -16431,25 +20991,35 @@ var WORDS = [
     "英文例句": "Always be honest with parents.",
     "例句中文": "對待父母要永遠坦率且誠實。",
     "表情符號": "😇",
-    "圖片": ""
+    "圖片": "",
+    "em": "😇",
+    "icon": "😇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "honesty",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is honesty.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɑː.nə.sti/",
+    "pos": "n.",
+    "zh": "誠實",
+    "ex": "Honesty is the best policy.",
+    "exzh": "誠實是最好的做人原則。",
+    "emoji": "😇",
     "pic": "",
     "單字": "honesty",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is honesty.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɑː.nə.sti/",
+    "詞性": "n.",
+    "中文意思": "誠實",
+    "英文例句": "Honesty is the best policy.",
+    "例句中文": "誠實是最好的做人原則。",
+    "表情符號": "😇",
+    "圖片": "",
+    "em": "😇",
+    "icon": "😇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "honey",
@@ -16467,7 +21037,12 @@ var WORDS = [
     "英文例句": "Drizzle sweet honey on pancakes.",
     "例句中文": "在鬆餅上淋上香甜的蜂蜜。",
     "表情符號": "🍯",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍯",
+    "icon": "🍯",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hood",
@@ -16485,7 +21060,12 @@ var WORDS = [
     "英文例句": "Pull up your hood when it drizzles.",
     "例句中文": "飄雨時把連衣帽戴上。",
     "表情符號": "🧥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧥",
+    "icon": "🧥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hop",
@@ -16503,7 +21083,12 @@ var WORDS = [
     "英文例句": "Rabbits hop quickly on lawn.",
     "例句中文": "兔子在草坪上歡快跳躍。",
     "表情符號": "🐰",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐰",
+    "icon": "🐰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hope",
@@ -16521,25 +21106,35 @@ var WORDS = [
     "英文例句": "I hope tomorrow is sunny.",
     "例句中文": "我希望明天會是個大晴天。",
     "表情符號": "☀️",
-    "圖片": ""
+    "圖片": "",
+    "em": "☀️",
+    "icon": "☀️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "horrible",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is horrible.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhɔːr.ə.bəl/",
+    "pos": "adj.",
+    "zh": "可怕的，極糟的",
+    "ex": "The thunderstorm sounded horrible.",
+    "exzh": "剛才的雷雨聲聽起來真可怕。",
+    "emoji": "😨",
     "pic": "",
     "單字": "horrible",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is horrible.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhɔːr.ə.bəl/",
+    "詞性": "adj.",
+    "中文意思": "可怕的，極糟的",
+    "英文例句": "The thunderstorm sounded horrible.",
+    "例句中文": "剛才的雷雨聲聽起來真可怕。",
+    "表情符號": "😨",
+    "圖片": "",
+    "em": "😨",
+    "icon": "😨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "horse",
@@ -16557,7 +21152,12 @@ var WORDS = [
     "英文例句": "He can ride a horse.",
     "例句中文": "他會騎馬。",
     "表情符號": "🐴",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐴",
+    "icon": "🐴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hospital",
@@ -16575,25 +21175,35 @@ var WORDS = [
     "英文例句": "The doctor works in a hospital.",
     "例句中文": "醫生在醫院工作。",
     "表情符號": "🏥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏥",
+    "icon": "🏥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "host",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is host.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/hoʊst/",
+    "pos": "n.",
+    "zh": "主人，主持人",
+    "ex": "The friendly host greeted all guests.",
+    "exzh": "親切的主人迎接所有客人。",
+    "emoji": "🧑‍💼",
     "pic": "",
     "單字": "host",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is host.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/hoʊst/",
+    "詞性": "n.",
+    "中文意思": "主人，主持人",
+    "英文例句": "The friendly host greeted all guests.",
+    "例句中文": "親切的主人迎接所有客人。",
+    "表情符號": "🧑‍💼",
+    "圖片": "",
+    "em": "🧑‍💼",
+    "icon": "🧑‍💼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hot",
@@ -16611,7 +21221,12 @@ var WORDS = [
     "英文例句": "Summer days are sunny and hot.",
     "例句中文": "夏天的日子晴朗炎熱。",
     "表情符號": "🥵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥵",
+    "icon": "🥵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hot dog",
@@ -16629,7 +21244,12 @@ var WORDS = [
     "英文例句": "He buys a hot dog at the park.",
     "例句中文": "他在公園買了一根熱狗。",
     "表情符號": "🌭",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌭",
+    "icon": "🌭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hotel",
@@ -16647,25 +21267,35 @@ var WORDS = [
     "英文例句": "We stayed at a seaside family hotel.",
     "例句中文": "我們住在一家靠近海邊的親子飯店。",
     "表情符號": "🏨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏨",
+    "icon": "🏨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hour",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hour.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/aʊr/",
+    "pos": "n.",
+    "zh": "小時",
+    "ex": "We played soccer for an hour.",
+    "exzh": "我們踢足球踢了一個小時。",
+    "emoji": "⏳",
     "pic": "",
     "單字": "hour",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hour.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/aʊr/",
+    "詞性": "n.",
+    "中文意思": "小時",
+    "英文例句": "We played soccer for an hour.",
+    "例句中文": "我們踢足球踢了一個小時。",
+    "表情符號": "⏳",
+    "圖片": "",
+    "em": "⏳",
+    "icon": "⏳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "house",
@@ -16683,79 +21313,104 @@ var WORDS = [
     "英文例句": "They live in a big house.",
     "例句中文": "他們住在一棟大房子裡。",
     "表情符號": "🏠",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏠",
+    "icon": "🏠",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "housewife",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is housewife.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhaʊs.waɪf/",
+    "pos": "n.",
+    "zh": "家庭主婦",
+    "ex": "Mom is a caring housewife.",
+    "exzh": "媽媽是位細心體貼的家庭主婦。",
+    "emoji": "👩",
     "pic": "",
     "單字": "housewife",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is housewife.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhaʊs.waɪf/",
+    "詞性": "n.",
+    "中文意思": "家庭主婦",
+    "英文例句": "Mom is a caring housewife.",
+    "例句中文": "媽媽是位細心體貼的家庭主婦。",
+    "表情符號": "👩",
+    "圖片": "",
+    "em": "👩",
+    "icon": "👩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "housework",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is housework.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhaʊs.wɝːk/",
+    "pos": "n.",
+    "zh": "家事，家務",
+    "ex": "Kids help out with daily housework.",
+    "exzh": "小朋友主動幫忙分擔家事。",
+    "emoji": "🧹",
     "pic": "",
     "單字": "housework",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is housework.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhaʊs.wɝːk/",
+    "詞性": "n.",
+    "中文意思": "家事，家務",
+    "英文例句": "Kids help out with daily housework.",
+    "例句中文": "小朋友主動幫忙分擔家事。",
+    "表情符號": "🧹",
+    "圖片": "",
+    "em": "🧹",
+    "icon": "🧹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "how",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is how.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/haʊ/",
+    "pos": "adv.",
+    "zh": "如何，怎樣",
+    "ex": "How do you go to school?",
+    "exzh": "你每天怎麼去學校上學？",
+    "emoji": "❓",
     "pic": "",
     "單字": "how",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is how.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/haʊ/",
+    "詞性": "adv.",
+    "中文意思": "如何，怎樣",
+    "英文例句": "How do you go to school?",
+    "例句中文": "你每天怎麼去學校上學？",
+    "表情符號": "❓",
+    "圖片": "",
+    "em": "❓",
+    "icon": "❓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "however",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is however.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/haʊˈev.ɚ/",
+    "pos": "adv.",
+    "zh": "然而，但是",
+    "ex": "It rained; however, we had fun.",
+    "exzh": "天下雨了，然而我們依然玩得很開心。",
+    "emoji": "☔",
     "pic": "",
     "單字": "however",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is however.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/haʊˈev.ɚ/",
+    "詞性": "adv.",
+    "中文意思": "然而，但是",
+    "英文例句": "It rained; however, we had fun.",
+    "例句中文": "天下雨了，然而我們依然玩得很開心。",
+    "表情符號": "☔",
+    "圖片": "",
+    "em": "☔",
+    "icon": "☔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hug",
@@ -16773,7 +21428,12 @@ var WORDS = [
     "英文例句": "Give Grandma a warm gentle hug.",
     "例句中文": "給奶奶一個溫暖溫柔的擁抱。",
     "表情符號": "🫂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🫂",
+    "icon": "🫂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "huge",
@@ -16791,97 +21451,127 @@ var WORDS = [
     "英文例句": "A huge whale swam past boat.",
     "例句中文": "一隻巨大的鯨魚游過了小船旁。",
     "表情符號": "🐋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐋",
+    "icon": "🐋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "human",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is human.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhjuː.mən/",
+    "pos": "n./adj.",
+    "zh": "人類；人性的",
+    "ex": "Humans need fresh water every day.",
+    "exzh": "人類每天都需要充足的水分。",
+    "emoji": "🧍",
     "pic": "",
     "單字": "human",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is human.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhjuː.mən/",
+    "詞性": "n./adj.",
+    "中文意思": "人類；人性的",
+    "英文例句": "Humans need fresh water every day.",
+    "例句中文": "人類每天都需要充足的水分。",
+    "表情符號": "🧍",
+    "圖片": "",
+    "em": "🧍",
+    "icon": "🧍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "humble",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is humble.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhʌm.bəl/",
+    "pos": "adj.",
+    "zh": "謙遜的",
+    "ex": "Always stay humble when you win.",
+    "exzh": "獲得勝利時依然要保持謙遜。",
+    "emoji": "🙇",
     "pic": "",
     "單字": "humble",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is humble.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhʌm.bəl/",
+    "詞性": "adj.",
+    "中文意思": "謙遜的",
+    "英文例句": "Always stay humble when you win.",
+    "例句中文": "獲得勝利時依然要保持謙遜。",
+    "表情符號": "🙇",
+    "圖片": "",
+    "em": "🙇",
+    "icon": "🙇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "humid",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is humid.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhjuː.mɪd/",
+    "pos": "adj.",
+    "zh": "潮濕的",
+    "ex": "Taiwan summers are hot and humid.",
+    "exzh": "台灣的夏天既炎熱又潮濕。",
+    "emoji": "💧",
     "pic": "",
     "單字": "humid",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is humid.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhjuː.mɪd/",
+    "詞性": "adj.",
+    "中文意思": "潮濕的",
+    "英文例句": "Taiwan summers are hot and humid.",
+    "例句中文": "台灣的夏天既炎熱又潮濕。",
+    "表情符號": "💧",
+    "圖片": "",
+    "em": "💧",
+    "icon": "💧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "humor",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is humor.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhjuː.mɚ/",
+    "pos": "n.",
+    "zh": "幽默",
+    "ex": "Our teacher has a great sense of humor.",
+    "exzh": "我們的老師非常有幽默感。",
+    "emoji": "😄",
     "pic": "",
     "單字": "humor",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is humor.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhjuː.mɚ/",
+    "詞性": "n.",
+    "中文意思": "幽默",
+    "英文例句": "Our teacher has a great sense of humor.",
+    "例句中文": "我們的老師非常有幽默感。",
+    "表情符號": "😄",
+    "圖片": "",
+    "em": "😄",
+    "icon": "😄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "humorous",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is humorous.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhjuː.mɚ.əs/",
+    "pos": "adj.",
+    "zh": "幽默風趣的",
+    "ex": "He told a humorous animal joke.",
+    "exzh": "他講了一個幽默風趣的動物笑話。",
+    "emoji": "😆",
     "pic": "",
     "單字": "humorous",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is humorous.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhjuː.mɚ.əs/",
+    "詞性": "adj.",
+    "中文意思": "幽默風趣的",
+    "英文例句": "He told a humorous animal joke.",
+    "例句中文": "他講了一個幽默風趣的動物笑話。",
+    "表情符號": "😆",
+    "圖片": "",
+    "em": "😆",
+    "icon": "😆",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hundred",
@@ -16899,25 +21589,35 @@ var WORDS = [
     "英文例句": "One hundred cents make a dollar.",
     "例句中文": "一百分是一美元。",
     "表情符號": "💯",
-    "圖片": ""
+    "圖片": "",
+    "em": "💯",
+    "icon": "💯",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hunger",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hunger.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhʌŋ.ɡɚ/",
+    "pos": "n.",
+    "zh": "飢餓",
+    "ex": "Food satisfies our evening hunger.",
+    "exzh": "熱騰騰的晚餐填飽了我們的肚子。",
+    "emoji": "🍲",
     "pic": "",
     "單字": "hunger",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hunger.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhʌŋ.ɡɚ/",
+    "詞性": "n.",
+    "中文意思": "飢餓",
+    "英文例句": "Food satisfies our evening hunger.",
+    "例句中文": "熱騰騰的晚餐填飽了我們的肚子。",
+    "表情符號": "🍲",
+    "圖片": "",
+    "em": "🍲",
+    "icon": "🍲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hungry",
@@ -16935,43 +21635,58 @@ var WORDS = [
     "英文例句": "I feel hungry before dinner.",
     "例句中文": "吃晚飯前我感到很餓。",
     "表情符號": "😋",
-    "圖片": ""
+    "圖片": "",
+    "em": "😋",
+    "icon": "😋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hunt",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hunt.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/hʌnt/",
+    "pos": "v.",
+    "zh": "打獵，搜尋",
+    "ex": "Lions hunt for food at dusk.",
+    "exzh": "獅子在黃昏時分出動覓食。",
+    "emoji": "🦁",
     "pic": "",
     "單字": "hunt",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hunt.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/hʌnt/",
+    "詞性": "v.",
+    "中文意思": "打獵，搜尋",
+    "英文例句": "Lions hunt for food at dusk.",
+    "例句中文": "獅子在黃昏時分出動覓食。",
+    "表情符號": "🦁",
+    "圖片": "",
+    "em": "🦁",
+    "icon": "🦁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hunter",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is hunter.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhʌn.tɚ/",
+    "pos": "n.",
+    "zh": "獵人",
+    "ex": "The eagle is an expert sky hunter.",
+    "exzh": "老鷹是天空中頂尖的獵手。",
+    "emoji": "🦅",
     "pic": "",
     "單字": "hunter",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is hunter.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhʌn.tɚ/",
+    "詞性": "n.",
+    "中文意思": "獵人",
+    "英文例句": "The eagle is an expert sky hunter.",
+    "例句中文": "老鷹是天空中頂尖的獵手。",
+    "表情符號": "🦅",
+    "圖片": "",
+    "em": "🦅",
+    "icon": "🦅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hurry",
@@ -16989,7 +21704,12 @@ var WORDS = [
     "英文例句": "Hurry up or we will be late.",
     "例句中文": "快一點，否則我們要遲到了。",
     "表情符號": "⏰",
-    "圖片": ""
+    "圖片": "",
+    "em": "⏰",
+    "icon": "⏰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "hurt",
@@ -17007,25 +21727,35 @@ var WORDS = [
     "英文例句": "My scraped knee hurts slightly.",
     "例句中文": "我擦傷的膝蓋微微隱隱作痛。",
     "表情符號": "🩹",
-    "圖片": ""
+    "圖片": "",
+    "em": "🩹",
+    "icon": "🩹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "husband",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is husband.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈhʌz.bənd/",
+    "pos": "n.",
+    "zh": "丈夫",
+    "ex": "Dad is a loving husband and father.",
+    "exzh": "爸爸是位顧家的好丈夫與好父親。",
+    "emoji": "👨",
     "pic": "",
     "單字": "husband",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is husband.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈhʌz.bənd/",
+    "詞性": "n.",
+    "中文意思": "丈夫",
+    "英文例句": "Dad is a loving husband and father.",
+    "例句中文": "爸爸是位顧家的好丈夫與好父親。",
+    "表情符號": "👨",
+    "圖片": "",
+    "em": "👨",
+    "icon": "👨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "I",
@@ -17043,7 +21773,12 @@ var WORDS = [
     "英文例句": "I am an elementary student.",
     "例句中文": "我是一名小學生。",
     "表情符號": "🙋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙋",
+    "icon": "🙋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ice",
@@ -17061,7 +21796,12 @@ var WORDS = [
     "英文例句": "Put clear ice cubes into lemonade.",
     "例句中文": "在檸檬水裡加入晶瑩的冰塊。",
     "表情符號": "🧊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧊",
+    "icon": "🧊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ice cream",
@@ -17079,25 +21819,35 @@ var WORDS = [
     "英文例句": "Vanilla ice cream is sweet.",
     "例句中文": "香草冰淇淋很甜。",
     "表情符號": "🍨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍨",
+    "icon": "🍨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "idea",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is idea.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/aɪˈdiː.ə/",
+    "pos": "n.",
+    "zh": "想法，點子",
+    "ex": "I have a great creative idea.",
+    "exzh": "我有個很棒的新點子。",
+    "emoji": "💡",
     "pic": "",
     "單字": "idea",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is idea.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/aɪˈdiː.ə/",
+    "詞性": "n.",
+    "中文意思": "想法，點子",
+    "英文例句": "I have a great creative idea.",
+    "例句中文": "我有個很棒的新點子。",
+    "表情符號": "💡",
+    "圖片": "",
+    "em": "💡",
+    "icon": "💡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "if",
@@ -17115,97 +21865,127 @@ var WORDS = [
     "英文例句": "If you are ready, let's go.",
     "例句中文": "如果你準備好了，我們出發吧。",
     "表情符號": "🚀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚀",
+    "icon": "🚀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ignore",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is ignore.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ɪɡˈnɔːr/",
+    "pos": "v.",
+    "zh": "忽視，不理會",
+    "ex": "Don't ignore teacher's directions.",
+    "exzh": "上課時不要忽視老師的叮嚀。",
+    "emoji": "👂",
     "pic": "",
     "單字": "ignore",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is ignore.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ɪɡˈnɔːr/",
+    "詞性": "v.",
+    "中文意思": "忽視，不理會",
+    "英文例句": "Don't ignore teacher's directions.",
+    "例句中文": "上課時不要忽視老師的叮嚀。",
+    "表情符號": "👂",
+    "圖片": "",
+    "em": "👂",
+    "icon": "👂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ill",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is ill.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ɪl/",
+    "pos": "adj.",
+    "zh": "生病的",
+    "ex": "Stay home and rest when feeling ill.",
+    "exzh": "感覺生病時請待在家好好休息。",
+    "emoji": "🤒",
     "pic": "",
     "單字": "ill",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is ill.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ɪl/",
+    "詞性": "adj.",
+    "中文意思": "生病的",
+    "英文例句": "Stay home and rest when feeling ill.",
+    "例句中文": "感覺生病時請待在家好好休息。",
+    "表情符號": "🤒",
+    "圖片": "",
+    "em": "🤒",
+    "icon": "🤒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "imagine",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is imagine.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ɪˈmædʒ.ɪn/",
+    "pos": "v.",
+    "zh": "想像",
+    "ex": "Imagine flying among the white clouds.",
+    "exzh": "想像自己在軟綿綿的白雲中翱翔。",
+    "emoji": "💭",
     "pic": "",
     "單字": "imagine",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is imagine.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ɪˈmædʒ.ɪn/",
+    "詞性": "v.",
+    "中文意思": "想像",
+    "英文例句": "Imagine flying among the white clouds.",
+    "例句中文": "想像自己在軟綿綿的白雲中翱翔。",
+    "表情符號": "💭",
+    "圖片": "",
+    "em": "💭",
+    "icon": "💭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "impolite",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is impolite.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌɪm.pəˈlaɪt/",
+    "pos": "adj.",
+    "zh": "不禮貌的",
+    "ex": "Cutting in line is very impolite.",
+    "exzh": "插隊是一件非常不禮貌的行為。",
+    "emoji": "🙅",
     "pic": "",
     "單字": "impolite",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is impolite.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌɪm.pəˈlaɪt/",
+    "詞性": "adj.",
+    "中文意思": "不禮貌的",
+    "英文例句": "Cutting in line is very impolite.",
+    "例句中文": "插隊是一件非常不禮貌的行為。",
+    "表情符號": "🙅",
+    "圖片": "",
+    "em": "🙅",
+    "icon": "🙅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "importance",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is importance.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ɪmˈpɔːr.təns/",
+    "pos": "n.",
+    "zh": "重要性",
+    "ex": "Exercise shows the importance of health.",
+    "exzh": "運動提醒我們健康的重要性。",
+    "emoji": "💪",
     "pic": "",
     "單字": "importance",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is importance.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ɪmˈpɔːr.təns/",
+    "詞性": "n.",
+    "中文意思": "重要性",
+    "英文例句": "Exercise shows the importance of health.",
+    "例句中文": "運動提醒我們健康的重要性。",
+    "表情符號": "💪",
+    "圖片": "",
+    "em": "💪",
+    "icon": "💪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "important",
@@ -17223,43 +22003,58 @@ var WORDS = [
     "英文例句": "Breakfast is an important meal.",
     "例句中文": "早餐是一天當中極為重要的一餐。",
     "表情符號": "🍳",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍳",
+    "icon": "🍳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "impossible",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is impossible.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ɪmˈpɑː.sə.bəl/",
+    "pos": "adj.",
+    "zh": "不可能的",
+    "ex": "Nothing is impossible if you try hard.",
+    "exzh": "只要肯努力，沒有什麼是不可能的。",
+    "emoji": "🌟",
     "pic": "",
     "單字": "impossible",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is impossible.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ɪmˈpɑː.sə.bəl/",
+    "詞性": "adj.",
+    "中文意思": "不可能的",
+    "英文例句": "Nothing is impossible if you try hard.",
+    "例句中文": "只要肯努力，沒有什麼是不可能的。",
+    "表情符號": "🌟",
+    "圖片": "",
+    "em": "🌟",
+    "icon": "🌟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "improve",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is improve.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ɪmˈpruːv/",
+    "pos": "v.",
+    "zh": "改善，進步",
+    "ex": "Daily practice helps improve reading.",
+    "exzh": "每日練習能讓閱讀能力大幅進步。",
+    "emoji": "📈",
     "pic": "",
     "單字": "improve",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is improve.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ɪmˈpruːv/",
+    "詞性": "v.",
+    "中文意思": "改善，進步",
+    "英文例句": "Daily practice helps improve reading.",
+    "例句中文": "每日練習能讓閱讀能力大幅進步。",
+    "表情符號": "📈",
+    "圖片": "",
+    "em": "📈",
+    "icon": "📈",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "in",
@@ -17277,421 +22072,541 @@ var WORDS = [
     "英文例句": "The pencil is in the box.",
     "例句中文": "鉛筆在盒子裡面。",
     "表情符號": "📥",
-    "圖片": ""
+    "圖片": "",
+    "em": "📥",
+    "icon": "📥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "inch",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is inch.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ɪntʃ/",
+    "pos": "n.",
+    "zh": "英吋",
+    "ex": "The green caterpillar grew an inch.",
+    "exzh": "這隻綠色小毛毛蟲長大了一英吋。",
+    "emoji": "📏",
     "pic": "",
     "單字": "inch",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is inch.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ɪntʃ/",
+    "詞性": "n.",
+    "中文意思": "英吋",
+    "英文例句": "The green caterpillar grew an inch.",
+    "例句中文": "這隻綠色小毛毛蟲長大了一英吋。",
+    "表情符號": "📏",
+    "圖片": "",
+    "em": "📏",
+    "icon": "📏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "include",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is include.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ɪnˈkluːd/",
+    "pos": "v.",
+    "zh": "包含",
+    "ex": "The fruit basket includes ripe apples.",
+    "exzh": "這籃水果裡包含著成熟的紅蘋果。",
+    "emoji": "🍎",
     "pic": "",
     "單字": "include",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is include.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ɪnˈkluːd/",
+    "詞性": "v.",
+    "中文意思": "包含",
+    "英文例句": "The fruit basket includes ripe apples.",
+    "例句中文": "這籃水果裡包含著成熟的紅蘋果。",
+    "表情符號": "🍎",
+    "圖片": "",
+    "em": "🍎",
+    "icon": "🍎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "income",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is income.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɪn.kʌm/",
+    "pos": "n.",
+    "zh": "收入",
+    "ex": "Parents work hard to earn family income.",
+    "exzh": "父母辛勤工作賺取家庭生活費。",
+    "emoji": "💵",
     "pic": "",
     "單字": "income",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is income.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɪn.kʌm/",
+    "詞性": "n.",
+    "中文意思": "收入",
+    "英文例句": "Parents work hard to earn family income.",
+    "例句中文": "父母辛勤工作賺取家庭生活費。",
+    "表情符號": "💵",
+    "圖片": "",
+    "em": "💵",
+    "icon": "💵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "increase",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is increase.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ɪnˈkriːs/",
+    "pos": "v./n.",
+    "zh": "增加，增長",
+    "ex": "Reading helps increase your vocabulary.",
+    "exzh": "多看課外書能增加你的單字量。",
+    "emoji": "📈",
     "pic": "",
     "單字": "increase",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is increase.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ɪnˈkriːs/",
+    "詞性": "v./n.",
+    "中文意思": "增加，增長",
+    "英文例句": "Reading helps increase your vocabulary.",
+    "例句中文": "多看課外書能增加你的單字量。",
+    "表情符號": "📈",
+    "圖片": "",
+    "em": "📈",
+    "icon": "📈",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "independent",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is independent.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌɪn.dɪˈpen.dənt/",
+    "pos": "adj.",
+    "zh": "獨立自主的",
+    "ex": "Cats are very independent sweet pets.",
+    "exzh": "貓咪是性格獨立又可愛的小寵物。",
+    "emoji": "🐱",
     "pic": "",
     "單字": "independent",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is independent.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌɪn.dɪˈpen.dənt/",
+    "詞性": "adj.",
+    "中文意思": "獨立自主的",
+    "英文例句": "Cats are very independent sweet pets.",
+    "例句中文": "貓咪是性格獨立又可愛的小寵物。",
+    "表情符號": "🐱",
+    "圖片": "",
+    "em": "🐱",
+    "icon": "🐱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "indicate",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is indicate.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɪn.də.keɪt/",
+    "pos": "v.",
+    "zh": "指出，表明",
+    "ex": "The road sign indicates a right turn.",
+    "exzh": "交通標誌指示前方要向右轉。",
+    "emoji": "👉",
     "pic": "",
     "單字": "indicate",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is indicate.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɪn.də.keɪt/",
+    "詞性": "v.",
+    "中文意思": "指出，表明",
+    "英文例句": "The road sign indicates a right turn.",
+    "例句中文": "交通標誌指示前方要向右轉。",
+    "表情符號": "👉",
+    "圖片": "",
+    "em": "👉",
+    "icon": "👉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "influence",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is influence.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɪn.flu.əns/",
+    "pos": "v./n.",
+    "zh": "影響",
+    "ex": "Good friends have a positive influence.",
+    "exzh": "好朋友會帶來正向積極的影響。",
+    "emoji": "✨",
     "pic": "",
     "單字": "influence",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is influence.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɪn.flu.əns/",
+    "詞性": "v./n.",
+    "中文意思": "影響",
+    "英文例句": "Good friends have a positive influence.",
+    "例句中文": "好朋友會帶來正向積極的影響。",
+    "表情符號": "✨",
+    "圖片": "",
+    "em": "✨",
+    "icon": "✨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "information",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is information.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌɪn.fɚˈmeɪ.ʃən/",
+    "pos": "n.",
+    "zh": "資訊，消息",
+    "ex": "Look up library information online.",
+    "exzh": "在網路上查詢圖書館的開放資訊。",
+    "emoji": "ℹ️",
     "pic": "",
     "單字": "information",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is information.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌɪn.fɚˈmeɪ.ʃən/",
+    "詞性": "n.",
+    "中文意思": "資訊，消息",
+    "英文例句": "Look up library information online.",
+    "例句中文": "在網路上查詢圖書館的開放資訊。",
+    "表情符號": "ℹ️",
+    "圖片": "",
+    "em": "ℹ️",
+    "icon": "ℹ️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ink",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is ink.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ɪŋk/",
+    "pos": "n.",
+    "zh": "墨水",
+    "ex": "The fountain pen ran out of blue ink.",
+    "exzh": "這支鋼筆裡面的藍色墨水用光了。",
+    "emoji": "✒️",
     "pic": "",
     "單字": "ink",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is ink.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ɪŋk/",
+    "詞性": "n.",
+    "中文意思": "墨水",
+    "英文例句": "The fountain pen ran out of blue ink.",
+    "例句中文": "這支鋼筆裡面的藍色墨水用光了。",
+    "表情符號": "✒️",
+    "圖片": "",
+    "em": "✒️",
+    "icon": "✒️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "insect",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is insect.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɪn.sekt/",
+    "pos": "n.",
+    "zh": "昆蟲",
+    "ex": "Bees and ants are helpful insects.",
+    "exzh": "蜜蜂和螞蟻都是勤勞的小昆蟲。",
+    "emoji": "🐜",
     "pic": "",
     "單字": "insect",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is insect.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɪn.sekt/",
+    "詞性": "n.",
+    "中文意思": "昆蟲",
+    "英文例句": "Bees and ants are helpful insects.",
+    "例句中文": "蜜蜂和螞蟻都是勤勞的小昆蟲。",
+    "表情符號": "🐜",
+    "圖片": "",
+    "em": "🐜",
+    "icon": "🐜",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "inside",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is inside.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ɪnˈsaɪd/",
+    "pos": "prep./adv.",
+    "zh": "在裡面",
+    "ex": "Stay safe inside on rainy days.",
+    "exzh": "下雨天就待在室內玩耍。",
+    "emoji": "🏠",
     "pic": "",
     "單字": "inside",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is inside.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ɪnˈsaɪd/",
+    "詞性": "prep./adv.",
+    "中文意思": "在裡面",
+    "英文例句": "Stay safe inside on rainy days.",
+    "例句中文": "下雨天就待在室內玩耍。",
+    "表情符號": "🏠",
+    "圖片": "",
+    "em": "🏠",
+    "icon": "🏠",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "insist",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is insist.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ɪnˈsɪst/",
+    "pos": "v.",
+    "zh": "堅持",
+    "ex": "Mom insists we eat fresh greens daily.",
+    "exzh": "媽媽堅持我們每天都要吃青菜。",
+    "emoji": "🥦",
     "pic": "",
     "單字": "insist",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is insist.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ɪnˈsɪst/",
+    "詞性": "v.",
+    "中文意思": "堅持",
+    "英文例句": "Mom insists we eat fresh greens daily.",
+    "例句中文": "媽媽堅持我們每天都要吃青菜。",
+    "表情符號": "🥦",
+    "圖片": "",
+    "em": "🥦",
+    "icon": "🥦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "inspire",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is inspire.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ɪnˈspaɪr/",
+    "pos": "v.",
+    "zh": "啟發，激勵",
+    "ex": "Great books inspire children to dream.",
+    "exzh": "好書能啟發小朋友心中的夢想。",
+    "emoji": "⭐",
     "pic": "",
     "單字": "inspire",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is inspire.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ɪnˈspaɪr/",
+    "詞性": "v.",
+    "中文意思": "啟發，激勵",
+    "英文例句": "Great books inspire children to dream.",
+    "例句中文": "好書能啟發小朋友心中的夢想。",
+    "表情符號": "⭐",
+    "圖片": "",
+    "em": "⭐",
+    "icon": "⭐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "instant",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is instant.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɪn.stənt/",
+    "pos": "adj./n.",
+    "zh": "即時的；瞬間",
+    "ex": "Instant noodles smell yummy and warm.",
+    "exzh": "泡麵熱氣蒸騰，聞起來好香。",
+    "emoji": "🍜",
     "pic": "",
     "單字": "instant",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is instant.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɪn.stənt/",
+    "詞性": "adj./n.",
+    "中文意思": "即時的；瞬間",
+    "英文例句": "Instant noodles smell yummy and warm.",
+    "例句中文": "泡麵熱氣蒸騰，聞起來好香。",
+    "表情符號": "🍜",
+    "圖片": "",
+    "em": "🍜",
+    "icon": "🍜",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "instrument",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is instrument.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɪn.strə.mənt/",
+    "pos": "n.",
+    "zh": "樂器，儀器",
+    "ex": "The piano is a popular musical instrument.",
+    "exzh": "鋼琴是相當受歡迎的演奏樂器。",
+    "emoji": "🎹",
     "pic": "",
     "單字": "instrument",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is instrument.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɪn.strə.mənt/",
+    "詞性": "n.",
+    "中文意思": "樂器，儀器",
+    "英文例句": "The piano is a popular musical instrument.",
+    "例句中文": "鋼琴是相當受歡迎的演奏樂器。",
+    "表情符號": "🎹",
+    "圖片": "",
+    "em": "🎹",
+    "icon": "🎹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "intelligent",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is intelligent.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ɪnˈtel.ə.dʒənt/",
+    "pos": "adj.",
+    "zh": "聰明的，有智慧的",
+    "ex": "Dolphins are very intelligent sea animals.",
+    "exzh": "海豚是非常有智慧的海洋生物。",
+    "emoji": "🐬",
     "pic": "",
     "單字": "intelligent",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is intelligent.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ɪnˈtel.ə.dʒənt/",
+    "詞性": "adj.",
+    "中文意思": "聰明的，有智慧的",
+    "英文例句": "Dolphins are very intelligent sea animals.",
+    "例句中文": "海豚是非常有智慧的海洋生物。",
+    "表情符號": "🐬",
+    "圖片": "",
+    "em": "🐬",
+    "icon": "🐬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "interest",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is interest.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɪn.trɪst/",
+    "pos": "n./v.",
+    "zh": "興趣；感興趣",
+    "ex": "Music is my biggest creative interest.",
+    "exzh": "音樂是我最大的日常興趣。",
+    "emoji": "🎵",
     "pic": "",
     "單字": "interest",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is interest.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɪn.trɪst/",
+    "詞性": "n./v.",
+    "中文意思": "興趣；感興趣",
+    "英文例句": "Music is my biggest creative interest.",
+    "例句中文": "音樂是我最大的日常興趣。",
+    "表情符號": "🎵",
+    "圖片": "",
+    "em": "🎵",
+    "icon": "🎵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "interested",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is interested.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɪn.trɪ.stɪd/",
+    "pos": "adj.",
+    "zh": "感興趣的",
+    "ex": "I am interested in space science.",
+    "exzh": "我對外太空天文科學非常感興趣。",
+    "emoji": "🚀",
     "pic": "",
     "單字": "interested",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is interested.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɪn.trɪ.stɪd/",
+    "詞性": "adj.",
+    "中文意思": "感興趣的",
+    "英文例句": "I am interested in space science.",
+    "例句中文": "我對外太空天文科學非常感興趣。",
+    "表情符號": "🚀",
+    "圖片": "",
+    "em": "🚀",
+    "icon": "🚀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "interesting",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is interesting.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɪn.trɪ.stɪŋ/",
+    "pos": "adj.",
+    "zh": "有趣的",
+    "ex": "This cartoon comic is super interesting.",
+    "exzh": "這本卡通漫畫書超級有趣好看。",
+    "emoji": "📚",
     "pic": "",
     "單字": "interesting",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is interesting.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɪn.trɪ.stɪŋ/",
+    "詞性": "adj.",
+    "中文意思": "有趣的",
+    "英文例句": "This cartoon comic is super interesting.",
+    "例句中文": "這本卡通漫畫書超級有趣好看。",
+    "表情符號": "📚",
+    "圖片": "",
+    "em": "📚",
+    "icon": "📚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "international",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is international.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌɪn.t̬ɚˈnæʃ.ən.əl/",
+    "pos": "adj.",
+    "zh": "國際的",
+    "ex": "Taiwan has busy international airports.",
+    "exzh": "台灣擁有班次頻繁的國際機場。",
+    "emoji": "🌐",
     "pic": "",
     "單字": "international",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is international.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌɪn.t̬ɚˈnæʃ.ən.əl/",
+    "詞性": "adj.",
+    "中文意思": "國際的",
+    "英文例句": "Taiwan has busy international airports.",
+    "例句中文": "台灣擁有班次頻繁的國際機場。",
+    "表情符號": "🌐",
+    "圖片": "",
+    "em": "🌐",
+    "icon": "🌐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Internet",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is Internet.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɪn.t̬ɚ.net/",
+    "pos": "n.",
+    "zh": "網際網路",
+    "ex": "Search for school facts on Internet.",
+    "exzh": "利用網際網路搜尋做作業的資料。",
+    "emoji": "💻",
     "pic": "",
     "單字": "Internet",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is Internet.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɪn.t̬ɚ.net/",
+    "詞性": "n.",
+    "中文意思": "網際網路",
+    "英文例句": "Search for school facts on Internet.",
+    "例句中文": "利用網際網路搜尋做作業的資料。",
+    "表情符號": "💻",
+    "圖片": "",
+    "em": "💻",
+    "icon": "💻",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "interrupt",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is interrupt.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌɪn.t̬əˈrʌpt/",
+    "pos": "v.",
+    "zh": "打斷，插話",
+    "ex": "Don't interrupt others while speaking.",
+    "exzh": "別人在講話時請不要隨意插嘴。",
+    "emoji": "🤫",
     "pic": "",
     "單字": "interrupt",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is interrupt.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌɪn.t̬əˈrʌpt/",
+    "詞性": "v.",
+    "中文意思": "打斷，插話",
+    "英文例句": "Don't interrupt others while speaking.",
+    "例句中文": "別人在講話時請不要隨意插嘴。",
+    "表情符號": "🤫",
+    "圖片": "",
+    "em": "🤫",
+    "icon": "🤫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "interview",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is interview.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɪn.t̬ɚ.vjuː/",
+    "pos": "n./v.",
+    "zh": "採訪，面試",
+    "ex": "The student journalist interviewed teacher.",
+    "exzh": "校園小記者在辦公室採訪了老師。",
+    "emoji": "🎤",
     "pic": "",
     "單字": "interview",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is interview.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɪn.t̬ɚ.vjuː/",
+    "詞性": "n./v.",
+    "中文意思": "採訪，面試",
+    "英文例句": "The student journalist interviewed teacher.",
+    "例句中文": "校園小記者在辦公室採訪了老師。",
+    "表情符號": "🎤",
+    "圖片": "",
+    "em": "🎤",
+    "icon": "🎤",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "into",
@@ -17709,25 +22624,35 @@ var WORDS = [
     "英文例句": "Put books into your bag.",
     "例句中文": "把書本放進書包裡。",
     "表情符號": "🎒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎒",
+    "icon": "🎒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "introduce",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is introduce.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌɪn.trəˈduːs/",
+    "pos": "v.",
+    "zh": "介紹",
+    "ex": "Introduce yourself politely to class.",
+    "exzh": "走到講台前向全班有禮貌地自我介紹。",
+    "emoji": "🙋",
     "pic": "",
     "單字": "introduce",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is introduce.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌɪn.trəˈduːs/",
+    "詞性": "v.",
+    "中文意思": "介紹",
+    "英文例句": "Introduce yourself politely to class.",
+    "例句中文": "走到講台前向全班有禮貌地自我介紹。",
+    "表情符號": "🙋",
+    "圖片": "",
+    "em": "🙋",
+    "icon": "🙋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "invent",
@@ -17745,25 +22670,35 @@ var WORDS = [
     "英文例句": "Invent new fun board games to play.",
     "例句中文": "發明創造全新好玩的桌上遊戲。",
     "表情符號": "🎲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎲",
+    "icon": "🎲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "invitation",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is invitation.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌɪn.vəˈteɪ.ʃən/",
+    "pos": "n.",
+    "zh": "邀請卡，邀請",
+    "ex": "I got a birthday party invitation card.",
+    "exzh": "我收到了一張熱鬧的生日派對邀請卡。",
+    "emoji": "💌",
     "pic": "",
     "單字": "invitation",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is invitation.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌɪn.vəˈteɪ.ʃən/",
+    "詞性": "n.",
+    "中文意思": "邀請卡，邀請",
+    "英文例句": "I got a birthday party invitation card.",
+    "例句中文": "我收到了一張熱鬧的生日派對邀請卡。",
+    "表情符號": "💌",
+    "圖片": "",
+    "em": "💌",
+    "icon": "💌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "invite",
@@ -17781,25 +22716,35 @@ var WORDS = [
     "英文例句": "Invite classmates to birthday party.",
     "例句中文": "邀請同學們來參加生日派對。",
     "表情符號": "💌",
-    "圖片": ""
+    "圖片": "",
+    "em": "💌",
+    "icon": "💌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "iron",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is iron.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/aɪrn/",
+    "pos": "n./v.",
+    "zh": "鐵；熨斗；熨燙",
+    "ex": "Dad used a steam iron on shirt.",
+    "exzh": "爸爸用蒸氣熨斗把襯衫燙得平整。",
+    "emoji": "👔",
     "pic": "",
     "單字": "iron",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is iron.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/aɪrn/",
+    "詞性": "n./v.",
+    "中文意思": "鐵；熨斗；熨燙",
+    "英文例句": "Dad used a steam iron on shirt.",
+    "例句中文": "爸爸用蒸氣熨斗把襯衫燙得平整。",
+    "表情符號": "👔",
+    "圖片": "",
+    "em": "👔",
+    "icon": "👔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "is",
@@ -17817,25 +22762,35 @@ var WORDS = [
     "英文例句": "He is my classmate.",
     "例句中文": "他是我的同班同學。",
     "表情符號": "👦",
-    "圖片": ""
+    "圖片": "",
+    "em": "👦",
+    "icon": "👦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "island",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is island.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈaɪ.lənd/",
+    "pos": "n.",
+    "zh": "島嶼",
+    "ex": "Taiwan is a lovely green island.",
+    "exzh": "台灣是一座美麗宜人的寶島綠島。",
+    "emoji": "🏝️",
     "pic": "",
     "單字": "island",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is island.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈaɪ.lənd/",
+    "詞性": "n.",
+    "中文意思": "島嶼",
+    "英文例句": "Taiwan is a lovely green island.",
+    "例句中文": "台灣是一座美麗宜人的寶島綠島。",
+    "表情符號": "🏝️",
+    "圖片": "",
+    "em": "🏝️",
+    "icon": "🏝️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "it",
@@ -17853,7 +22808,12 @@ var WORDS = [
     "英文例句": "It is a rainy day.",
     "例句中文": "今天是一個下雨天。",
     "表情符號": "🌧️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌧️",
+    "icon": "🌧️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "jacket",
@@ -17871,7 +22831,12 @@ var WORDS = [
     "英文例句": "Zip up your jacket.",
     "例句中文": "拉上你的夾克拉鍊。",
     "表情符號": "🧥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧥",
+    "icon": "🧥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "jam",
@@ -17889,7 +22854,12 @@ var WORDS = [
     "英文例句": "Sweet blueberry jam tastes great.",
     "例句中文": "甜甜的藍莓果醬嚐起來滋味絕佳。",
     "表情符號": "🍯",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍯",
+    "icon": "🍯",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "January",
@@ -17907,7 +22877,12 @@ var WORDS = [
     "英文例句": "January brings cold winter winds.",
     "例句中文": "一月帶來寒冷的冬風。",
     "表情符號": "❄️",
-    "圖片": ""
+    "圖片": "",
+    "em": "❄️",
+    "icon": "❄️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "jar",
@@ -17925,61 +22900,81 @@ var WORDS = [
     "英文例句": "A jar of sweet honey sits on the table.",
     "例句中文": "一罐甜蜂蜜擺在桌上。",
     "表情符號": "🍯",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍯",
+    "icon": "🍯",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "jazz",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is jazz.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/dʒæz/",
+    "pos": "n.",
+    "zh": "爵士樂",
+    "ex": "He plays saxophone in jazz band.",
+    "exzh": "他在爵士樂團裡吹奏薩克斯風。",
+    "emoji": "🎷",
     "pic": "",
     "單字": "jazz",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is jazz.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/dʒæz/",
+    "詞性": "n.",
+    "中文意思": "爵士樂",
+    "英文例句": "He plays saxophone in jazz band.",
+    "例句中文": "他在爵士樂團裡吹奏薩克斯風。",
+    "表情符號": "🎷",
+    "圖片": "",
+    "em": "🎷",
+    "icon": "🎷",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "jealous",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is jealous.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈdʒel.əs/",
+    "pos": "adj.",
+    "zh": "嫉妒的，吃醋的",
+    "ex": "Don't be jealous of other's success.",
+    "exzh": "不要嫉妒他人的成就，自己也要加油。",
+    "emoji": "🙅",
     "pic": "",
     "單字": "jealous",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is jealous.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈdʒel.əs/",
+    "詞性": "adj.",
+    "中文意思": "嫉妒的，吃醋的",
+    "英文例句": "Don't be jealous of other's success.",
+    "例句中文": "不要嫉妒他人的成就，自己也要加油。",
+    "表情符號": "🙅",
+    "圖片": "",
+    "em": "🙅",
+    "icon": "🙅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "jeans",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is jeans.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/dʒiːnz/",
+    "pos": "n.",
+    "zh": "牛仔褲",
+    "ex": "He wore blue denim jeans today.",
+    "exzh": "他今天穿著一件休閒的藍色牛仔褲。",
+    "emoji": "👖",
     "pic": "",
     "單字": "jeans",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is jeans.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/dʒiːnz/",
+    "詞性": "n.",
+    "中文意思": "牛仔褲",
+    "英文例句": "He wore blue denim jeans today.",
+    "例句中文": "他今天穿著一件休閒的藍色牛仔褲。",
+    "表情符號": "👖",
+    "圖片": "",
+    "em": "👖",
+    "icon": "👖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "jeep",
@@ -17997,7 +22992,12 @@ var WORDS = [
     "英文例句": "The green jeep climbs the steep hill.",
     "例句中文": "綠色吉普車爬上陡峭的山丘。",
     "表情符號": "🚙",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚙",
+    "icon": "🚙",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "jellyfish",
@@ -18015,43 +23015,58 @@ var WORDS = [
     "英文例句": "Clear jellyfish drift in blue sea.",
     "例句中文": "透明的水母在藍色大海中漂浮。",
     "表情符號": "🪼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪼",
+    "icon": "🪼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "job",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is job.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/dʒɑːb/",
+    "pos": "n.",
+    "zh": "工作",
+    "ex": "You did a fantastic clean job!",
+    "exzh": "你把這件任務完成得太出色了！",
+    "emoji": "👍",
     "pic": "",
     "單字": "job",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is job.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/dʒɑːb/",
+    "詞性": "n.",
+    "中文意思": "工作",
+    "英文例句": "You did a fantastic clean job!",
+    "例句中文": "你把這件任務完成得太出色了！",
+    "表情符號": "👍",
+    "圖片": "",
+    "em": "👍",
+    "icon": "👍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "jog",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is jog.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/dʒɑːɡ/",
+    "pos": "v.",
+    "zh": "慢跑",
+    "ex": "We jog in park every morning.",
+    "exzh": "我們每天早晨都會在公園裡慢跑。",
+    "emoji": "🏃",
     "pic": "",
     "單字": "jog",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is jog.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/dʒɑːɡ/",
+    "詞性": "v.",
+    "中文意思": "慢跑",
+    "英文例句": "We jog in park every morning.",
+    "例句中文": "我們每天早晨都會在公園裡慢跑。",
+    "表情符號": "🏃",
+    "圖片": "",
+    "em": "🏃",
+    "icon": "🏃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "join",
@@ -18069,79 +23084,104 @@ var WORDS = [
     "英文例句": "Join our soccer match this afternoon.",
     "例句中文": "今天下午加入我們的足球賽吧。",
     "表情符號": "⚽",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚽",
+    "icon": "⚽",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "joke",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is joke.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/dʒoʊk/",
+    "pos": "n./v.",
+    "zh": "笑話；開玩笑",
+    "ex": "Tell a funny joke to make friends laugh.",
+    "exzh": "講個幽默的笑話逗朋友們哈哈大笑。",
+    "emoji": "😆",
     "pic": "",
     "單字": "joke",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is joke.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/dʒoʊk/",
+    "詞性": "n./v.",
+    "中文意思": "笑話；開玩笑",
+    "英文例句": "Tell a funny joke to make friends laugh.",
+    "例句中文": "講個幽默的笑話逗朋友們哈哈大笑。",
+    "表情符號": "😆",
+    "圖片": "",
+    "em": "😆",
+    "icon": "😆",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "journalist",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is journalist.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈdʒɝː.nə.lɪst/",
+    "pos": "n.",
+    "zh": "記者",
+    "ex": "The journalist reports morning city news.",
+    "exzh": "專業新聞記者報導今天早上的市區大事。",
+    "emoji": "📰",
     "pic": "",
     "單字": "journalist",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is journalist.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈdʒɝː.nə.lɪst/",
+    "詞性": "n.",
+    "中文意思": "記者",
+    "英文例句": "The journalist reports morning city news.",
+    "例句中文": "專業新聞記者報導今天早上的市區大事。",
+    "表情符號": "📰",
+    "圖片": "",
+    "em": "📰",
+    "icon": "📰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "joy",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is joy.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/dʒɔɪ/",
+    "pos": "n.",
+    "zh": "喜悅，歡樂",
+    "ex": "The classroom was full of pure joy.",
+    "exzh": "整間教室裡洋溢著純真的歡樂笑聲。",
+    "emoji": "🥳",
     "pic": "",
     "單字": "joy",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is joy.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/dʒɔɪ/",
+    "詞性": "n.",
+    "中文意思": "喜悅，歡樂",
+    "英文例句": "The classroom was full of pure joy.",
+    "例句中文": "整間教室裡洋溢著純真的歡樂笑聲。",
+    "表情符號": "🥳",
+    "圖片": "",
+    "em": "🥳",
+    "icon": "🥳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "judge",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is judge.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/dʒʌdʒ/",
+    "pos": "n./v.",
+    "zh": "法官，裁判；評判",
+    "ex": "The judge made a fair game decision.",
+    "exzh": "主審裁判做出了公平公正的判決。",
+    "emoji": "⚖️",
     "pic": "",
     "單字": "judge",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is judge.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/dʒʌdʒ/",
+    "詞性": "n./v.",
+    "中文意思": "法官，裁判；評判",
+    "英文例句": "The judge made a fair game decision.",
+    "例句中文": "主審裁判做出了公平公正的判決。",
+    "表情符號": "⚖️",
+    "圖片": "",
+    "em": "⚖️",
+    "icon": "⚖️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "juice",
@@ -18159,7 +23199,12 @@ var WORDS = [
     "英文例句": "I want a cup of orange juice.",
     "例句中文": "我想要一杯柳橙汁。",
     "表情符號": "🧃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧃",
+    "icon": "🧃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "July",
@@ -18177,7 +23222,12 @@ var WORDS = [
     "英文例句": "Go swimming in hot July.",
     "例句中文": "在炎熱的七月盡情游泳。",
     "表情符號": "🏊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏊",
+    "icon": "🏊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "jump",
@@ -18195,7 +23245,12 @@ var WORDS = [
     "英文例句": "Rabbits jump very high.",
     "例句中文": "兔子跳得很高。",
     "表情符號": "🦘",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦘",
+    "icon": "🦘",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "June",
@@ -18213,7 +23268,12 @@ var WORDS = [
     "英文例句": "Summer vacation nears in June.",
     "例句中文": "暑假在六月即將來臨。",
     "表情符號": "☀️",
-    "圖片": ""
+    "圖片": "",
+    "em": "☀️",
+    "icon": "☀️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "jungle",
@@ -18231,25 +23291,35 @@ var WORDS = [
     "英文例句": "Many wild parrots live in the jungle.",
     "例句中文": "許多野生鸚鵡生活在茂密叢林中。",
     "表情符號": "🌴",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌴",
+    "icon": "🌴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "junior high school",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is junior high school.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌdʒuː.njɚ ˈhaɪ ˌskuːl/",
+    "pos": "n.",
+    "zh": "國民中學",
+    "ex": "My older brother studies in junior high school.",
+    "exzh": "我哥哥目前正在國民中學就讀七年級。",
+    "emoji": "🏫",
     "pic": "",
     "單字": "junior high school",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is junior high school.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌdʒuː.njɚ ˈhaɪ ˌskuːl/",
+    "詞性": "n.",
+    "中文意思": "國民中學",
+    "英文例句": "My older brother studies in junior high school.",
+    "例句中文": "我哥哥目前正在國民中學就讀七年級。",
+    "表情符號": "🏫",
+    "圖片": "",
+    "em": "🏫",
+    "icon": "🏫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "just",
@@ -18267,7 +23337,12 @@ var WORDS = [
     "英文例句": "I just finished dinner.",
     "例句中文": "我剛剛吃完晚餐。",
     "表情符號": "🍽️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍽️",
+    "icon": "🍽️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "kangaroo",
@@ -18285,43 +23360,58 @@ var WORDS = [
     "英文例句": "The mother kangaroo carries a joey.",
     "例句中文": "袋鼠媽媽在育兒袋裡裝著小袋鼠。",
     "表情符號": "🦘",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦘",
+    "icon": "🦘",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "keep",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is keep.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/kiːp/",
+    "pos": "v.",
+    "zh": "保持，保留",
+    "ex": "Keep your study desk neat and tidy.",
+    "exzh": "隨時保持你的書桌乾淨整潔。",
+    "emoji": "🪑",
     "pic": "",
     "單字": "keep",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is keep.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/kiːp/",
+    "詞性": "v.",
+    "中文意思": "保持，保留",
+    "英文例句": "Keep your study desk neat and tidy.",
+    "例句中文": "隨時保持你的書桌乾淨整潔。",
+    "表情符號": "🪑",
+    "圖片": "",
+    "em": "🪑",
+    "icon": "🪑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ketchup",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is ketchup.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈketʃ.ʌp/",
+    "pos": "n.",
+    "zh": "番茄醬",
+    "ex": "Dip French fries into red ketchup.",
+    "exzh": "把炸薯條沾上酸甜可口的紅番茄醬吃。",
+    "emoji": "🍟",
     "pic": "",
     "單字": "ketchup",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is ketchup.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈketʃ.ʌp/",
+    "詞性": "n.",
+    "中文意思": "番茄醬",
+    "英文例句": "Dip French fries into red ketchup.",
+    "例句中文": "把炸薯條沾上酸甜可口的紅番茄醬吃。",
+    "表情符號": "🍟",
+    "圖片": "",
+    "em": "🍟",
+    "icon": "🍟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "kettle",
@@ -18339,7 +23429,12 @@ var WORDS = [
     "英文例句": "The electric kettle boils water fast.",
     "例句中文": "電熱水壺很快就把水燒開了。",
     "表情符號": "🫖",
-    "圖片": ""
+    "圖片": "",
+    "em": "🫖",
+    "icon": "🫖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "key",
@@ -18357,7 +23452,12 @@ var WORDS = [
     "英文例句": "I have a key in my pocket.",
     "例句中文": "我口袋裡有一把鑰匙。",
     "表情符號": "🔑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔑",
+    "icon": "🔑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "keyboard",
@@ -18375,7 +23475,12 @@ var WORDS = [
     "英文例句": "Type letters on the computer keyboard.",
     "例句中文": "在電腦鍵盤上敲打英文字母。",
     "表情符號": "⌨️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⌨️",
+    "icon": "⌨️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "kick",
@@ -18393,79 +23498,104 @@ var WORDS = [
     "英文例句": "Kick the soccer ball into goal.",
     "例句中文": "把足球一腳踢進球門裡。",
     "表情符號": "🥅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥅",
+    "icon": "🥅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "kid",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is kid.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/kɪd/",
+    "pos": "n.",
+    "zh": "小孩",
+    "ex": "Kids love playing outdoors on lawn.",
+    "exzh": "小朋友都喜歡在戶外草皮上奔跑玩耍。",
+    "emoji": "🧒",
     "pic": "",
     "單字": "kid",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is kid.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/kɪd/",
+    "詞性": "n.",
+    "中文意思": "小孩",
+    "英文例句": "Kids love playing outdoors on lawn.",
+    "例句中文": "小朋友都喜歡在戶外草皮上奔跑玩耍。",
+    "表情符號": "🧒",
+    "圖片": "",
+    "em": "🧒",
+    "icon": "🧒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "kill",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is kill.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/kɪl/",
+    "pos": "v.",
+    "zh": "殺死，消滅",
+    "ex": "Boiling water kills bad germs.",
+    "exzh": "把水徹底煮沸可以殺死有害細菌。",
+    "emoji": "🦠",
     "pic": "",
     "單字": "kill",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is kill.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/kɪl/",
+    "詞性": "v.",
+    "中文意思": "殺死，消滅",
+    "英文例句": "Boiling water kills bad germs.",
+    "例句中文": "把水徹底煮沸可以殺死有害細菌。",
+    "表情符號": "🦠",
+    "圖片": "",
+    "em": "🦠",
+    "icon": "🦠",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "kilogram",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is kilogram.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈkɪl.ə.ɡræm/",
+    "pos": "n.",
+    "zh": "公斤",
+    "ex": "The watermelon weighs three kilograms.",
+    "exzh": "這顆大西瓜足足重達三公斤。",
+    "emoji": "🍉",
     "pic": "",
     "單字": "kilogram",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is kilogram.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈkɪl.ə.ɡræm/",
+    "詞性": "n.",
+    "中文意思": "公斤",
+    "英文例句": "The watermelon weighs three kilograms.",
+    "例句中文": "這顆大西瓜足足重達三公斤。",
+    "表情符號": "🍉",
+    "圖片": "",
+    "em": "🍉",
+    "icon": "🍉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "kilometer",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is kilometer.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/kɪˈlɑː.mə.t̬ɚ/",
+    "pos": "n.",
+    "zh": "公里",
+    "ex": "We walked two kilometers along lake.",
+    "exzh": "我們沿著湖畔步道散步走了兩公里。",
+    "emoji": "🚶",
     "pic": "",
     "單字": "kilometer",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is kilometer.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/kɪˈlɑː.mə.t̬ɚ/",
+    "詞性": "n.",
+    "中文意思": "公里",
+    "英文例句": "We walked two kilometers along lake.",
+    "例句中文": "我們沿著湖畔步道散步走了兩公里。",
+    "表情符號": "🚶",
+    "圖片": "",
+    "em": "🚶",
+    "icon": "🚶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "kind",
@@ -18483,61 +23613,81 @@ var WORDS = [
     "英文例句": "Our teacher is very kind.",
     "例句中文": "我們的老師為人非常親切。",
     "表情符號": "😇",
-    "圖片": ""
+    "圖片": "",
+    "em": "😇",
+    "icon": "😇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "kindergarten",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is kindergarten.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈkɪn.dɚˌɡɑːr.tən/",
+    "pos": "n.",
+    "zh": "幼兒園",
+    "ex": "Little kids sing songs in kindergarten.",
+    "exzh": "小寶貝們在幼兒園裡開心地學唱歌。",
+    "emoji": "🧸",
     "pic": "",
     "單字": "kindergarten",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is kindergarten.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈkɪn.dɚˌɡɑːr.tən/",
+    "詞性": "n.",
+    "中文意思": "幼兒園",
+    "英文例句": "Little kids sing songs in kindergarten.",
+    "例句中文": "小寶貝們在幼兒園裡開心地學唱歌。",
+    "表情符號": "🧸",
+    "圖片": "",
+    "em": "🧸",
+    "icon": "🧸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "king",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is king.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/kɪŋ/",
+    "pos": "n.",
+    "zh": "國王",
+    "ex": "The wise king lived in castle.",
+    "exzh": "仁民愛物的國王住在雄偉的城堡裡。",
+    "emoji": "👑",
     "pic": "",
     "單字": "king",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is king.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/kɪŋ/",
+    "詞性": "n.",
+    "中文意思": "國王",
+    "英文例句": "The wise king lived in castle.",
+    "例句中文": "仁民愛物的國王住在雄偉的城堡裡。",
+    "表情符號": "👑",
+    "圖片": "",
+    "em": "👑",
+    "icon": "👑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "kingdom",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is kingdom.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈkɪŋ.dəm/",
+    "pos": "n.",
+    "zh": "王國",
+    "ex": "The fairy tale kingdom was peaceful.",
+    "exzh": "童話故事裡的王國祥和又美好。",
+    "emoji": "🏰",
     "pic": "",
     "單字": "kingdom",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is kingdom.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈkɪŋ.dəm/",
+    "詞性": "n.",
+    "中文意思": "王國",
+    "英文例句": "The fairy tale kingdom was peaceful.",
+    "例句中文": "童話故事裡的王國祥和又美好。",
+    "表情符號": "🏰",
+    "圖片": "",
+    "em": "🏰",
+    "icon": "🏰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "kiss",
@@ -18555,7 +23705,12 @@ var WORDS = [
     "英文例句": "Mom gave a sweet goodnight kiss.",
     "例句中文": "媽媽給了一個甜美的晚安吻。",
     "表情符號": "😘",
-    "圖片": ""
+    "圖片": "",
+    "em": "😘",
+    "icon": "😘",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "kitchen",
@@ -18573,25 +23728,35 @@ var WORDS = [
     "英文例句": "Mom is cooking in the kitchen.",
     "例句中文": "媽媽在廚房煮飯。",
     "表情符號": "🍳",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍳",
+    "icon": "🍳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "kite",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is kite.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/kaɪt/",
+    "pos": "n.",
+    "zh": "風箏",
+    "ex": "Fly a colorful kite on windy beach.",
+    "exzh": "在海風吹拂的海灘上放飛彩色風箏。",
+    "emoji": "🪁",
     "pic": "",
     "單字": "kite",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is kite.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/kaɪt/",
+    "詞性": "n.",
+    "中文意思": "風箏",
+    "英文例句": "Fly a colorful kite on windy beach.",
+    "例句中文": "在海風吹拂的海灘上放飛彩色風箏。",
+    "表情符號": "🪁",
+    "圖片": "",
+    "em": "🪁",
+    "icon": "🪁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "kitten",
@@ -18609,7 +23774,12 @@ var WORDS = [
     "英文例句": "The fluffy kitten purrs when stroked.",
     "例句中文": "毛茸茸的小貓撫摸時會呼嚕嚕。",
     "表情符號": "🐱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐱",
+    "icon": "🐱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "kiwi",
@@ -18627,7 +23797,12 @@ var WORDS = [
     "英文例句": "Slice the kiwi into fruit salad.",
     "例句中文": "把奇異果切片放入水果沙拉。",
     "表情符號": "🥝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥝",
+    "icon": "🥝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "knee",
@@ -18645,7 +23820,12 @@ var WORDS = [
     "英文例句": "Bend your knees and jump.",
     "例句中文": "彎曲膝蓋然後往上跳躍。",
     "表情符號": "🦵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦵",
+    "icon": "🦵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "knife",
@@ -18663,7 +23843,12 @@ var WORDS = [
     "英文例句": "Use plastic knife to cut cake.",
     "例句中文": "用塑膠小刀小心地切開美味蛋糕。",
     "表情符號": "🔪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔪",
+    "icon": "🔪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "knock",
@@ -18681,7 +23866,12 @@ var WORDS = [
     "英文例句": "Knock on the classroom door.",
     "例句中文": "在教室門上輕輕敲兩下。",
     "表情符號": "🚪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚪",
+    "icon": "🚪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "know",
@@ -18699,25 +23889,35 @@ var WORDS = [
     "英文例句": "I know the answer to this riddle.",
     "例句中文": "我知道這個謎語的答案。",
     "表情符號": "💡",
-    "圖片": ""
+    "圖片": "",
+    "em": "💡",
+    "icon": "💡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "knowledge",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is knowledge.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈnɑː.lɪdʒ/",
+    "pos": "n.",
+    "zh": "知識",
+    "ex": "Reading good books expands your knowledge.",
+    "exzh": "細讀好書能豐富你的各項實用知識。",
+    "emoji": "📖",
     "pic": "",
     "單字": "knowledge",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is knowledge.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈnɑː.lɪdʒ/",
+    "詞性": "n.",
+    "中文意思": "知識",
+    "英文例句": "Reading good books expands your knowledge.",
+    "例句中文": "細讀好書能豐富你的各項實用知識。",
+    "表情符號": "📖",
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "koala",
@@ -18735,43 +23935,58 @@ var WORDS = [
     "英文例句": "Koalas sleep peacefully in trees.",
     "例句中文": "無尾熊在尤加利樹上安穩睡覺。",
     "表情符號": "🐨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐨",
+    "icon": "🐨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lack",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is lack.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/læk/",
+    "pos": "n./v.",
+    "zh": "缺少，缺乏",
+    "ex": "Plants wither from lack of water.",
+    "exzh": "花草缺乏足夠水分就會枯萎萎縮。",
+    "emoji": "🥀",
     "pic": "",
     "單字": "lack",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is lack.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/læk/",
+    "詞性": "n./v.",
+    "中文意思": "缺少，缺乏",
+    "英文例句": "Plants wither from lack of water.",
+    "例句中文": "花草缺乏足夠水分就會枯萎萎縮。",
+    "表情符號": "🥀",
+    "圖片": "",
+    "em": "🥀",
+    "icon": "🥀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lady",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is lady.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈleɪ.di/",
+    "pos": "n.",
+    "zh": "女士，淑女",
+    "ex": "A polite lady held the door open.",
+    "exzh": "一位優雅的女士幫大家扶著大門。",
+    "emoji": "👩",
     "pic": "",
     "單字": "lady",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is lady.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈleɪ.di/",
+    "詞性": "n.",
+    "中文意思": "女士，淑女",
+    "英文例句": "A polite lady held the door open.",
+    "例句中文": "一位優雅的女士幫大家扶著大門。",
+    "表情符號": "👩",
+    "圖片": "",
+    "em": "👩",
+    "icon": "👩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ladybug",
@@ -18789,25 +24004,35 @@ var WORDS = [
     "英文例句": "A red spotted ladybug climbs a petal.",
     "例句中文": "一隻紅色斑點瓢蟲爬上花瓣。",
     "表情符號": "🐞",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐞",
+    "icon": "🐞",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lake",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is lake.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/leɪk/",
+    "pos": "n.",
+    "zh": "湖泊",
+    "ex": "Wild ducks swim peacefully in lake.",
+    "exzh": "野鴨在平靜無波的湖泊中悠游。",
+    "emoji": "🦆",
     "pic": "",
     "單字": "lake",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is lake.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/leɪk/",
+    "詞性": "n.",
+    "中文意思": "湖泊",
+    "英文例句": "Wild ducks swim peacefully in lake.",
+    "例句中文": "野鴨在平靜無波的湖泊中悠游。",
+    "表情符號": "🦆",
+    "圖片": "",
+    "em": "🦆",
+    "icon": "🦆",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lamb",
@@ -18825,7 +24050,12 @@ var WORDS = [
     "英文例句": "A gentle white lamb plays on pasture.",
     "例句中文": "一隻溫馴的小白羊在牧場上玩耍。",
     "表情符號": "🐑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐑",
+    "icon": "🐑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lamp",
@@ -18843,25 +24073,35 @@ var WORDS = [
     "英文例句": "Turn on the reading desk lamp.",
     "例句中文": "打開書桌上的閱讀檯燈。",
     "表情符號": "🛋️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛋️",
+    "icon": "🛋️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "land",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is land.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/lænd/",
+    "pos": "n./v.",
+    "zh": "土地；降落",
+    "ex": "The passenger plane landed on runway.",
+    "exzh": "客機平穩降落在機場水泥跑道上。",
+    "emoji": "🛬",
     "pic": "",
     "單字": "land",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is land.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/lænd/",
+    "詞性": "n./v.",
+    "中文意思": "土地；降落",
+    "英文例句": "The passenger plane landed on runway.",
+    "例句中文": "客機平穩降落在機場水泥跑道上。",
+    "表情符號": "🛬",
+    "圖片": "",
+    "em": "🛬",
+    "icon": "🛬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lane",
@@ -18879,151 +24119,196 @@ var WORDS = [
     "英文例句": "Walk down the quiet cozy residential lane.",
     "例句中文": "漫步走入這條寧靜溫馨的住宅小巷。",
     "表情符號": "🛣️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛣️",
+    "icon": "🛣️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "language",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is language.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈlæŋ.ɡwɪdʒ/",
+    "pos": "n.",
+    "zh": "語言",
+    "ex": "English is a useful global language.",
+    "exzh": "英語是走遍世界非常實用的國際語言。",
+    "emoji": "🗣️",
     "pic": "",
     "單字": "language",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is language.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈlæŋ.ɡwɪdʒ/",
+    "詞性": "n.",
+    "中文意思": "語言",
+    "英文例句": "English is a useful global language.",
+    "例句中文": "英語是走遍世界非常實用的國際語言。",
+    "表情符號": "🗣️",
+    "圖片": "",
+    "em": "🗣️",
+    "icon": "🗣️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lantern",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is lantern.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈlæn.tɚn/",
+    "pos": "n.",
+    "zh": "燈籠",
+    "ex": "Carry a glowing red paper lantern.",
+    "exzh": "提著一盞發出溫暖光芒的紙燈籠賞燈。",
+    "emoji": "🏮",
     "pic": "",
     "單字": "lantern",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is lantern.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈlæn.tɚn/",
+    "詞性": "n.",
+    "中文意思": "燈籠",
+    "英文例句": "Carry a glowing red paper lantern.",
+    "例句中文": "提著一盞發出溫暖光芒的紙燈籠賞燈。",
+    "表情符號": "🏮",
+    "圖片": "",
+    "em": "🏮",
+    "icon": "🏮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "large",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is large.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/lɑːrdʒ/",
+    "pos": "adj.",
+    "zh": "大的，大型的",
+    "ex": "Elephants have very large gray ears.",
+    "exzh": "大象有著一對非常巨大的灰色大耳朵。",
+    "emoji": "🐘",
     "pic": "",
     "單字": "large",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is large.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/lɑːrdʒ/",
+    "詞性": "adj.",
+    "中文意思": "大的，大型的",
+    "英文例句": "Elephants have very large gray ears.",
+    "例句中文": "大象有著一對非常巨大的灰色大耳朵。",
+    "表情符號": "🐘",
+    "圖片": "",
+    "em": "🐘",
+    "icon": "🐘",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "last",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is last.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/læst/",
+    "pos": "adj./v.",
+    "zh": "最後的；持續",
+    "ex": "He was the last one to leave room.",
+    "exzh": "他是最後一個收拾好離開教室的人。",
+    "emoji": "🏁",
     "pic": "",
     "單字": "last",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is last.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/læst/",
+    "詞性": "adj./v.",
+    "中文意思": "最後的；持續",
+    "英文例句": "He was the last one to leave room.",
+    "例句中文": "他是最後一個收拾好離開教室的人。",
+    "表情符號": "🏁",
+    "圖片": "",
+    "em": "🏁",
+    "icon": "🏁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "late",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is late.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/leɪt/",
+    "pos": "adj./adv.",
+    "zh": "遲到；晚",
+    "ex": "Hurry up or you will be late.",
+    "exzh": "快走幾步，不然上課就要遲到了。",
+    "emoji": "⏰",
     "pic": "",
     "單字": "late",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is late.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/leɪt/",
+    "詞性": "adj./adv.",
+    "中文意思": "遲到；晚",
+    "英文例句": "Hurry up or you will be late.",
+    "例句中文": "快走幾步，不然上課就要遲到了。",
+    "表情符號": "⏰",
+    "圖片": "",
+    "em": "⏰",
+    "icon": "⏰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "later",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is later.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈleɪ.t̬ɚ/",
+    "pos": "adv.",
+    "zh": "稍後，待會",
+    "ex": "See you later at school playground.",
+    "exzh": "待會下課後我們在操場中央碰面。",
+    "emoji": "👋",
     "pic": "",
     "單字": "later",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is later.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈleɪ.t̬ɚ/",
+    "詞性": "adv.",
+    "中文意思": "稍後，待會",
+    "英文例句": "See you later at school playground.",
+    "例句中文": "待會下課後我們在操場中央碰面。",
+    "表情符號": "👋",
+    "圖片": "",
+    "em": "👋",
+    "icon": "👋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "latest",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is latest.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈleɪ.tɪst/",
+    "pos": "adj.",
+    "zh": "最新的",
+    "ex": "Read the latest news report online.",
+    "exzh": "上網查看最新發佈的即時氣象報告。",
+    "emoji": "📰",
     "pic": "",
     "單字": "latest",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is latest.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈleɪ.tɪst/",
+    "詞性": "adj.",
+    "中文意思": "最新的",
+    "英文例句": "Read the latest news report online.",
+    "例句中文": "上網查看最新發佈的即時氣象報告。",
+    "表情符號": "📰",
+    "圖片": "",
+    "em": "📰",
+    "icon": "📰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "latter",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is latter.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈlæt̬.ɚ/",
+    "pos": "adj./n.",
+    "zh": "後者的",
+    "ex": "Between juice and milk, I like the latter.",
+    "exzh": "果汁和牛奶之中，我比較喜歡後者。",
+    "emoji": "🥛",
     "pic": "",
     "單字": "latter",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is latter.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈlæt̬.ɚ/",
+    "詞性": "adj./n.",
+    "中文意思": "後者的",
+    "英文例句": "Between juice and milk, I like the latter.",
+    "例句中文": "果汁和牛奶之中，我比較喜歡後者。",
+    "表情符號": "🥛",
+    "圖片": "",
+    "em": "🥛",
+    "icon": "🥛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "laugh",
@@ -19041,61 +24326,81 @@ var WORDS = [
     "英文例句": "Funny clowns make us laugh.",
     "例句中文": "滑稽的小丑逗得我們大笑。",
     "表情符號": "😄",
-    "圖片": ""
+    "圖片": "",
+    "em": "😄",
+    "icon": "😄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "law",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is law.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/lɑː/",
+    "pos": "n.",
+    "zh": "法律，規則",
+    "ex": "Everyone must follow the safety laws.",
+    "exzh": "每個人外出都要遵守交通安全法規。",
+    "emoji": "⚖️",
     "pic": "",
     "單字": "law",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is law.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/lɑː/",
+    "詞性": "n.",
+    "中文意思": "法律，規則",
+    "英文例句": "Everyone must follow the safety laws.",
+    "例句中文": "每個人外出都要遵守交通安全法規。",
+    "表情符號": "⚖️",
+    "圖片": "",
+    "em": "⚖️",
+    "icon": "⚖️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lawyer",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is lawyer.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈlɑː.jɚ/",
+    "pos": "n.",
+    "zh": "律師",
+    "ex": "The professional lawyer helped solve dispute.",
+    "exzh": "專業律師熱心協助民眾解決法律糾紛。",
+    "emoji": "🧑‍💼",
     "pic": "",
     "單字": "lawyer",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is lawyer.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈlɑː.jɚ/",
+    "詞性": "n.",
+    "中文意思": "律師",
+    "英文例句": "The professional lawyer helped solve dispute.",
+    "例句中文": "專業律師熱心協助民眾解決法律糾紛。",
+    "表情符號": "🧑‍💼",
+    "圖片": "",
+    "em": "🧑‍💼",
+    "icon": "🧑‍💼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lay",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is lay.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/leɪ/",
+    "pos": "v.",
+    "zh": "放置；產卵",
+    "ex": "The brown hen lays fresh eggs daily.",
+    "exzh": "這隻母雞每天都會生下新鮮的雞蛋。",
+    "emoji": "🥚",
     "pic": "",
     "單字": "lay",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is lay.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/leɪ/",
+    "詞性": "v.",
+    "中文意思": "放置；產卵",
+    "英文例句": "The brown hen lays fresh eggs daily.",
+    "例句中文": "這隻母雞每天都會生下新鮮的雞蛋。",
+    "表情符號": "🥚",
+    "圖片": "",
+    "em": "🥚",
+    "icon": "🥚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lazy",
@@ -19113,7 +24418,12 @@ var WORDS = [
     "英文例句": "Do not be lazy on school days.",
     "例句中文": "在該上學的日子裡可不能偷懶喔。",
     "表情符號": "🦥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦥",
+    "icon": "🦥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lead",
@@ -19131,25 +24441,35 @@ var WORDS = [
     "英文例句": "The captain leads the marching team.",
     "例句中文": "隊長帶領著遊行隊伍前進。",
     "表情符號": "🚩",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚩",
+    "icon": "🚩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "leader",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is leader.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈliː.dɚ/",
+    "pos": "n.",
+    "zh": "領袖，隊長",
+    "ex": "The team leader guided everyone kindly.",
+    "exzh": "熱心的隊長親切地引導大家完成專題。",
+    "emoji": "🧑‍✈️",
     "pic": "",
     "單字": "leader",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is leader.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈliː.dɚ/",
+    "詞性": "n.",
+    "中文意思": "領袖，隊長",
+    "英文例句": "The team leader guided everyone kindly.",
+    "例句中文": "熱心的隊長親切地引導大家完成專題。",
+    "表情符號": "🧑‍✈️",
+    "圖片": "",
+    "em": "🧑‍✈️",
+    "icon": "🧑‍✈️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "leaf",
@@ -19167,7 +24487,12 @@ var WORDS = [
     "英文例句": "A green leaf fell gently to the ground.",
     "例句中文": "一片綠葉輕飄飄地落到地上。",
     "表情符號": "🍃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍃",
+    "icon": "🍃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "learn",
@@ -19185,25 +24510,35 @@ var WORDS = [
     "英文例句": "Learn new English words every day.",
     "例句中文": "每天學習新的英文單字。",
     "表情符號": "🧠",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧠",
+    "icon": "🧠",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "least",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is least.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/liːst/",
+    "pos": "adj./adv.",
+    "zh": "最少的",
+    "ex": "Clean your own teeth twice at least.",
+    "exzh": "每天至少要仔細刷牙兩次維護口腔。",
+    "emoji": "🪥",
     "pic": "",
     "單字": "least",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is least.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/liːst/",
+    "詞性": "adj./adv.",
+    "中文意思": "最少的",
+    "英文例句": "Clean your own teeth twice at least.",
+    "例句中文": "每天至少要仔細刷牙兩次維護口腔。",
+    "表情符號": "🪥",
+    "圖片": "",
+    "em": "🪥",
+    "icon": "🪥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "leave",
@@ -19221,7 +24556,12 @@ var WORDS = [
     "英文例句": "Leave your muddy shoes outside.",
     "例句中文": "把沾滿泥巴的鞋子留在門外。",
     "表情符號": "👞",
-    "圖片": ""
+    "圖片": "",
+    "em": "👞",
+    "icon": "👞",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "leaves",
@@ -19239,7 +24579,12 @@ var WORDS = [
     "英文例句": "Red autumn leaves carpet the path.",
     "例句中文": "紅色秋葉鋪滿了整條林間小徑。",
     "表情符號": "🍂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍂",
+    "icon": "🍂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "left",
@@ -19257,7 +24602,12 @@ var WORDS = [
     "英文例句": "Raise your left hand high.",
     "例句中文": "把你的左手高高舉起來。",
     "表情符號": "✋",
-    "圖片": ""
+    "圖片": "",
+    "em": "✋",
+    "icon": "✋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "leg",
@@ -19275,7 +24625,12 @@ var WORDS = [
     "英文例句": "Flamingos stand on one leg.",
     "例句中文": "紅鶴用一隻腳站立。",
     "表情符號": "🦵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦵",
+    "icon": "🦵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lemon",
@@ -19293,7 +24648,12 @@ var WORDS = [
     "英文例句": "Yellow lemons taste sour.",
     "例句中文": "黃色檸檬嚐起來很酸。",
     "表情符號": "🍋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍋",
+    "icon": "🍋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lend",
@@ -19311,25 +24671,35 @@ var WORDS = [
     "英文例句": "Lend a pencil to your friend.",
     "例句中文": "借一支鉛筆給你的朋友。",
     "表情符號": "✏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✏️",
+    "icon": "✏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "less",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is less.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/les/",
+    "pos": "adj./adv.",
+    "zh": "較少的",
+    "ex": "Drink more water and less sweet soda.",
+    "exzh": "多喝白開水，少喝含糖汽水飲料。",
+    "emoji": "💧",
     "pic": "",
     "單字": "less",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is less.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/les/",
+    "詞性": "adj./adv.",
+    "中文意思": "較少的",
+    "英文例句": "Drink more water and less sweet soda.",
+    "例句中文": "多喝白開水，少喝含糖汽水飲料。",
+    "表情符號": "💧",
+    "圖片": "",
+    "em": "💧",
+    "icon": "💧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lesson",
@@ -19347,7 +24717,12 @@ var WORDS = [
     "英文例句": "Today's lesson is interesting.",
     "例句中文": "今天的課程非常有趣。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "let",
@@ -19365,25 +24740,35 @@ var WORDS = [
     "英文例句": "Let's read a fun adventure story.",
     "例句中文": "我們一起來讀一本冒險故事吧。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "letter",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is letter.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈlet̬.ɚ/",
+    "pos": "n.",
+    "zh": "信件；英文字母",
+    "ex": "Mail a holiday greeting letter to grandma.",
+    "exzh": "寄一封手寫節日問候信給親愛的外婆。",
+    "emoji": "✉️",
     "pic": "",
     "單字": "letter",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is letter.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈlet̬.ɚ/",
+    "詞性": "n.",
+    "中文意思": "信件；英文字母",
+    "英文例句": "Mail a holiday greeting letter to grandma.",
+    "例句中文": "寄一封手寫節日問候信給親愛的外婆。",
+    "表情符號": "✉️",
+    "圖片": "",
+    "em": "✉️",
+    "icon": "✉️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lettuce",
@@ -19401,25 +24786,35 @@ var WORDS = [
     "英文例句": "Wash crisp lettuce leaves clean.",
     "例句中文": "把清脆的生菜葉片洗乾淨。",
     "表情符號": "🥬",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥬",
+    "icon": "🥬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "level",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is level.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈlev.əl/",
+    "pos": "n.",
+    "zh": "等級，層級",
+    "ex": "He passed the game reading level.",
+    "exzh": "他順利通過了英語闖關遊戲的新關卡。",
+    "emoji": "🎮",
     "pic": "",
     "單字": "level",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is level.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈlev.əl/",
+    "詞性": "n.",
+    "中文意思": "等級，層級",
+    "英文例句": "He passed the game reading level.",
+    "例句中文": "他順利通過了英語闖關遊戲的新關卡。",
+    "表情符號": "🎮",
+    "圖片": "",
+    "em": "🎮",
+    "icon": "🎮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "library",
@@ -19437,79 +24832,104 @@ var WORDS = [
     "英文例句": "Be quiet in the school library.",
     "例句中文": "在學校圖書館裡要保持安靜。",
     "表情符號": "📚",
-    "圖片": ""
+    "圖片": "",
+    "em": "📚",
+    "icon": "📚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lick",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is lick.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/lɪk/",
+    "pos": "v.",
+    "zh": "舔",
+    "ex": "Cats lick their soft fur clean.",
+    "exzh": "貓咪喜歡用舌頭舔乾淨身上的毛皮。",
+    "emoji": "🐱",
     "pic": "",
     "單字": "lick",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is lick.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/lɪk/",
+    "詞性": "v.",
+    "中文意思": "舔",
+    "英文例句": "Cats lick their soft fur clean.",
+    "例句中文": "貓咪喜歡用舌頭舔乾淨身上的毛皮。",
+    "表情符號": "🐱",
+    "圖片": "",
+    "em": "🐱",
+    "icon": "🐱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lid",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is lid.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/lɪd/",
+    "pos": "n.",
+    "zh": "蓋子",
+    "ex": "Close the water bottle lid tightly.",
+    "exzh": "把水壺蓋子旋緊以防水滴漏出來。",
+    "emoji": "🧴",
     "pic": "",
     "單字": "lid",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is lid.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/lɪd/",
+    "詞性": "n.",
+    "中文意思": "蓋子",
+    "英文例句": "Close the water bottle lid tightly.",
+    "例句中文": "把水壺蓋子旋緊以防水滴漏出來。",
+    "表情符號": "🧴",
+    "圖片": "",
+    "em": "🧴",
+    "icon": "🧴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lie",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is lie.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/laɪ/",
+    "pos": "v./n.",
+    "zh": "躺臥；說謊",
+    "ex": "Never tell a lie to your family.",
+    "exzh": "永遠不要對真心愛你的家人撒謊說謊。",
+    "emoji": "🙅",
     "pic": "",
     "單字": "lie",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is lie.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/laɪ/",
+    "詞性": "v./n.",
+    "中文意思": "躺臥；說謊",
+    "英文例句": "Never tell a lie to your family.",
+    "例句中文": "永遠不要對真心愛你的家人撒謊說謊。",
+    "表情符號": "🙅",
+    "圖片": "",
+    "em": "🙅",
+    "icon": "🙅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "life",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is life.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/laɪf/",
+    "pos": "n.",
+    "zh": "生活，生命",
+    "ex": "Plants and animals bring rich life.",
+    "exzh": "花草動物讓大自然展現豐富生機。",
+    "emoji": "🌱",
     "pic": "",
     "單字": "life",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is life.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/laɪf/",
+    "詞性": "n.",
+    "中文意思": "生活，生命",
+    "英文例句": "Plants and animals bring rich life.",
+    "例句中文": "花草動物讓大自然展現豐富生機。",
+    "表情符號": "🌱",
+    "圖片": "",
+    "em": "🌱",
+    "icon": "🌱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lift",
@@ -19527,7 +24947,12 @@ var WORDS = [
     "英文例句": "Lift the heavy wooden box together.",
     "例句中文": "一起抬起這個沉重的木箱。",
     "表情符號": "📦",
-    "圖片": ""
+    "圖片": "",
+    "em": "📦",
+    "icon": "📦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "light",
@@ -19545,7 +24970,12 @@ var WORDS = [
     "英文例句": "Feathers are very light.",
     "例句中文": "羽毛非常輕盈。",
     "表情符號": "🪶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪶",
+    "icon": "🪶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lightning",
@@ -19563,7 +24993,12 @@ var WORDS = [
     "英文例句": "Bright lightning lit up the stormy sky.",
     "例句中文": "耀眼的閃電照亮了暴風雨的天空。",
     "表情符號": "⚡",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚡",
+    "icon": "⚡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "like",
@@ -19581,25 +25016,35 @@ var WORDS = [
     "英文例句": "I like sweet green grapes.",
     "例句中文": "我喜歡甜甜的綠葡萄。",
     "表情符號": "🍇",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍇",
+    "icon": "🍇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "likely",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is likely.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈlaɪ.kli/",
+    "pos": "adj./adv.",
+    "zh": "很有可能的",
+    "ex": "It is likely to rain this afternoon.",
+    "exzh": "今天下午很有可能會下一場午後雷陣雨。",
+    "emoji": "🌧️",
     "pic": "",
     "單字": "likely",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is likely.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈlaɪ.kli/",
+    "詞性": "adj./adv.",
+    "中文意思": "很有可能的",
+    "英文例句": "It is likely to rain this afternoon.",
+    "例句中文": "今天下午很有可能會下一場午後雷陣雨。",
+    "表情符號": "🌧️",
+    "圖片": "",
+    "em": "🌧️",
+    "icon": "🌧️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lime",
@@ -19617,25 +25062,35 @@ var WORDS = [
     "英文例句": "Green lime adds fresh taste.",
     "例句中文": "綠萊姆增添清新風味。",
     "表情符號": "🍋‍🟩",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍋‍🟩",
+    "icon": "🍋‍🟩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "limit",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is limit.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈlɪm.ɪt/",
+    "pos": "n./v.",
+    "zh": "限制，限度",
+    "ex": "Keep within the highway speed limit.",
+    "exzh": "開車上路請依規定保持在最高速限內。",
+    "emoji": "🛑",
     "pic": "",
     "單字": "limit",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is limit.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈlɪm.ɪt/",
+    "詞性": "n./v.",
+    "中文意思": "限制，限度",
+    "英文例句": "Keep within the highway speed limit.",
+    "例句中文": "開車上路請依規定保持在最高速限內。",
+    "表情符號": "🛑",
+    "圖片": "",
+    "em": "🛑",
+    "icon": "🛑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "line",
@@ -19653,25 +25108,35 @@ var WORDS = [
     "英文例句": "Draw a straight horizontal line.",
     "例句中文": "畫一條筆直的水平線。",
     "表情符號": "➖",
-    "圖片": ""
+    "圖片": "",
+    "em": "➖",
+    "icon": "➖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "link",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is link.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/lɪŋk/",
+    "pos": "n./v.",
+    "zh": "連結",
+    "ex": "Click on the website link for details.",
+    "exzh": "點擊網頁上的超連結查閱完整活動詳情。",
+    "emoji": "🔗",
     "pic": "",
     "單字": "link",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is link.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/lɪŋk/",
+    "詞性": "n./v.",
+    "中文意思": "連結",
+    "英文例句": "Click on the website link for details.",
+    "例句中文": "點擊網頁上的超連結查閱完整活動詳情。",
+    "表情符號": "🔗",
+    "圖片": "",
+    "em": "🔗",
+    "icon": "🔗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lion",
@@ -19689,7 +25154,12 @@ var WORDS = [
     "英文例句": "The lion is the king of beasts.",
     "例句中文": "獅子是萬獸之王。",
     "表情符號": "🦁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦁",
+    "icon": "🦁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lip",
@@ -19707,43 +25177,58 @@ var WORDS = [
     "英文例句": "Her lips curved into a smile.",
     "例句中文": "她的雙唇泛起一抹微笑。",
     "表情符號": "👄",
-    "圖片": ""
+    "圖片": "",
+    "em": "👄",
+    "icon": "👄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "liquid",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is liquid.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈlɪk.wɪd/",
+    "pos": "n./adj.",
+    "zh": "液體",
+    "ex": "Milk and water are common healthy liquids.",
+    "exzh": "牛奶和開水都是日常最普遍的健康飲品。",
+    "emoji": "🥛",
     "pic": "",
     "單字": "liquid",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is liquid.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈlɪk.wɪd/",
+    "詞性": "n./adj.",
+    "中文意思": "液體",
+    "英文例句": "Milk and water are common healthy liquids.",
+    "例句中文": "牛奶和開水都是日常最普遍的健康飲品。",
+    "表情符號": "🥛",
+    "圖片": "",
+    "em": "🥛",
+    "icon": "🥛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "list",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is list.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/lɪst/",
+    "pos": "n./v.",
+    "zh": "清單；列出",
+    "ex": "Write down a grocery shopping list.",
+    "exzh": "在紙條上列出採買蔬果的生活購物清單。",
+    "emoji": "📝",
     "pic": "",
     "單字": "list",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is list.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/lɪst/",
+    "詞性": "n./v.",
+    "中文意思": "清單；列出",
+    "英文例句": "Write down a grocery shopping list.",
+    "例句中文": "在紙條上列出採買蔬果的生活購物清單。",
+    "表情符號": "📝",
+    "圖片": "",
+    "em": "📝",
+    "icon": "📝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "listen",
@@ -19761,61 +25246,81 @@ var WORDS = [
     "英文例句": "Listen carefully to the teacher.",
     "例句中文": "仔細聽老師說話。",
     "表情符號": "🎧",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎧",
+    "icon": "🎧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "liter",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is liter.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈliː.t̬ɚ/",
+    "pos": "n.",
+    "zh": "公升",
+    "ex": "Drink at least two liters of water daily.",
+    "exzh": "每天至少要飲用兩公升的水以維持體力。",
+    "emoji": "💧",
     "pic": "",
     "單字": "liter",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is liter.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈliː.t̬ɚ/",
+    "詞性": "n.",
+    "中文意思": "公升",
+    "英文例句": "Drink at least two liters of water daily.",
+    "例句中文": "每天至少要飲用兩公升的水以維持體力。",
+    "表情符號": "💧",
+    "圖片": "",
+    "em": "💧",
+    "icon": "💧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "little",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is little.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈlɪt.əl/",
+    "pos": "adj.",
+    "zh": "小的，幼小的",
+    "ex": "A little puppy ran across lawn.",
+    "exzh": "一隻可愛的小狗開心地穿過草坪。",
+    "emoji": "🐶",
     "pic": "",
     "單字": "little",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is little.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈlɪt.əl/",
+    "詞性": "adj.",
+    "中文意思": "小的，幼小的",
+    "英文例句": "A little puppy ran across lawn.",
+    "例句中文": "一隻可愛的小狗開心地穿過草坪。",
+    "表情符號": "🐶",
+    "圖片": "",
+    "em": "🐶",
+    "icon": "🐶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "live",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is live.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/lɪv/",
+    "pos": "v.",
+    "zh": "居住，生活",
+    "ex": "We live in a warm and cozy home.",
+    "exzh": "我們生活在一個溫馨舒適的甜蜜家庭裡。",
+    "emoji": "🏡",
     "pic": "",
     "單字": "live",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is live.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/lɪv/",
+    "詞性": "v.",
+    "中文意思": "居住，生活",
+    "英文例句": "We live in a warm and cozy home.",
+    "例句中文": "我們生活在一個溫馨舒適的甜蜜家庭裡。",
+    "表情符號": "🏡",
+    "圖片": "",
+    "em": "🏡",
+    "icon": "🏡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "living room",
@@ -19833,7 +25338,12 @@ var WORDS = [
     "英文例句": "We watch TV in the living room.",
     "例句中文": "我們在客廳看電視。",
     "表情符號": "🛋️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛋️",
+    "icon": "🛋️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lizard",
@@ -19851,43 +25361,58 @@ var WORDS = [
     "英文例句": "A small lizard sits on rock.",
     "例句中文": "一隻小蜥蜴坐在石頭上。",
     "表情符號": "🦎",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦎",
+    "icon": "🦎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "loaf",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is loaf.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/loʊf/",
+    "pos": "n.",
+    "zh": "一條（麵包）",
+    "ex": "Mom bought a loaf of whole wheat bread.",
+    "exzh": "媽媽買了一條香氣誘人的全麥土司麵包。",
+    "emoji": "🍞",
     "pic": "",
     "單字": "loaf",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is loaf.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/loʊf/",
+    "詞性": "n.",
+    "中文意思": "一條（麵包）",
+    "英文例句": "Mom bought a loaf of whole wheat bread.",
+    "例句中文": "媽媽買了一條香氣誘人的全麥土司麵包。",
+    "表情符號": "🍞",
+    "圖片": "",
+    "em": "🍞",
+    "icon": "🍞",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "local",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is local.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈloʊ.kəl/",
+    "pos": "adj.",
+    "zh": "當地的，在地的",
+    "ex": "Support delicious local farm produce.",
+    "exzh": "多選購在地小農新鮮栽種的優質農特產。",
+    "emoji": "🥬",
     "pic": "",
     "單字": "local",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is local.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈloʊ.kəl/",
+    "詞性": "adj.",
+    "中文意思": "當地的，在地的",
+    "英文例句": "Support delicious local farm produce.",
+    "例句中文": "多選購在地小農新鮮栽種的優質農特產。",
+    "表情符號": "🥬",
+    "圖片": "",
+    "em": "🥬",
+    "icon": "🥬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lock",
@@ -19905,7 +25430,12 @@ var WORDS = [
     "英文例句": "Lock the door before sleeping.",
     "例句中文": "上床就寢前記得把大門鎖好。",
     "表情符號": "🔒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔒",
+    "icon": "🔒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "locker",
@@ -19923,7 +25453,12 @@ var WORDS = [
     "英文例句": "Store your sports shoes in the locker.",
     "例句中文": "把運動鞋收進學校置物櫃裡。",
     "表情符號": "🗄️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗄️",
+    "icon": "🗄️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lonely",
@@ -19941,7 +25476,12 @@ var WORDS = [
     "英文例句": "Adopted pets will never feel lonely.",
     "例句中文": "被領養的毛小孩再也不會感到孤單。",
     "表情符號": "🥺",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥺",
+    "icon": "🥺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "long",
@@ -19959,7 +25499,12 @@ var WORDS = [
     "英文例句": "The train track is long.",
     "例句中文": "火車軌道長長的。",
     "表情符號": "📏",
-    "圖片": ""
+    "圖片": "",
+    "em": "📏",
+    "icon": "📏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "look",
@@ -19977,7 +25522,12 @@ var WORDS = [
     "英文例句": "Look at the colorful rainbow.",
     "例句中文": "看看那道美麗的彩虹。",
     "表情符號": "👀",
-    "圖片": ""
+    "圖片": "",
+    "em": "👀",
+    "icon": "👀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lose",
@@ -19995,25 +25545,35 @@ var WORDS = [
     "英文例句": "Try hard not to lose your key.",
     "例句中文": "小心保管別弄丟了你的鑰匙。",
     "表情符號": "🔑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔑",
+    "icon": "🔑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "loser",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is loser.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈluː.zɚ/",
+    "pos": "n.",
+    "zh": "失敗者，輸家",
+    "ex": "Be a graceful winner and polite loser.",
+    "exzh": "無論比賽勝負都要保持運動家風度。",
+    "emoji": "🤝",
     "pic": "",
     "單字": "loser",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is loser.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈluː.zɚ/",
+    "詞性": "n.",
+    "中文意思": "失敗者，輸家",
+    "英文例句": "Be a graceful winner and polite loser.",
+    "例句中文": "無論比賽勝負都要保持運動家風度。",
+    "表情符號": "🤝",
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "loud",
@@ -20031,7 +25591,12 @@ var WORDS = [
     "英文例句": "Loud thunderstorms awaken pets.",
     "例句中文": "大聲的雷雨聲把熟睡的寵物吵醒。",
     "表情符號": "⚡",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚡",
+    "icon": "⚡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "love",
@@ -20049,25 +25614,35 @@ var WORDS = [
     "英文例句": "Parents love their children.",
     "例句中文": "父母深愛他們的孩子。",
     "表情符號": "❤️",
-    "圖片": ""
+    "圖片": "",
+    "em": "❤️",
+    "icon": "❤️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lovely",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is lovely.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈlʌv.li/",
+    "pos": "adj.",
+    "zh": "可愛的，美好的",
+    "ex": "What a lovely warm sunny day today!",
+    "exzh": "今天真是個陽光和煦的美好大晴天！",
+    "emoji": "☀️",
     "pic": "",
     "單字": "lovely",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is lovely.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈlʌv.li/",
+    "詞性": "adj.",
+    "中文意思": "可愛的，美好的",
+    "英文例句": "What a lovely warm sunny day today!",
+    "例句中文": "今天真是個陽光和煦的美好大晴天！",
+    "表情符號": "☀️",
+    "圖片": "",
+    "em": "☀️",
+    "icon": "☀️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "low",
@@ -20085,7 +25660,12 @@ var WORDS = [
     "英文例句": "The wooden fence is very low.",
     "例句中文": "這道矮木柵欄高度非常低。",
     "表情符號": "🪵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪵",
+    "icon": "🪵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lucky",
@@ -20103,7 +25683,12 @@ var WORDS = [
     "英文例句": "Finding a four-leaf clover is lucky.",
     "例句中文": "找到四葉草象徵著好運氣。",
     "表情符號": "🍀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍀",
+    "icon": "🍀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lunch",
@@ -20121,7 +25706,12 @@ var WORDS = [
     "英文例句": "We eat lunch at noon.",
     "例句中文": "我們在中午吃午餐。",
     "表情符號": "🍱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍱",
+    "icon": "🍱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "lunch box",
@@ -20139,43 +25729,58 @@ var WORDS = [
     "英文例句": "My lunch box has rice and fruit.",
     "例句中文": "我的便當盒裡有飯和水果。",
     "表情符號": "🍱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍱",
+    "icon": "🍱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ma'am",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is ma'am.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/mæm/",
+    "pos": "n.",
+    "zh": "女士，夫人（禮貌稱呼）",
+    "ex": "Yes, ma'am, I will clean my desk.",
+    "exzh": "好的，老師女士，我立刻把桌子擦乾淨。",
+    "emoji": "👩",
     "pic": "",
     "單字": "ma'am",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is ma'am.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/mæm/",
+    "詞性": "n.",
+    "中文意思": "女士，夫人（禮貌稱呼）",
+    "英文例句": "Yes, ma'am, I will clean my desk.",
+    "例句中文": "好的，老師女士，我立刻把桌子擦乾淨。",
+    "表情符號": "👩",
+    "圖片": "",
+    "em": "👩",
+    "icon": "👩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "machine",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is machine.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/məˈʃiːn/",
+    "pos": "n.",
+    "zh": "機器",
+    "ex": "Washing machine cleans all dirty clothes.",
+    "exzh": "洗衣機把全家人骯髒的衣服洗乾淨。",
+    "emoji": "🧺",
     "pic": "",
     "單字": "machine",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is machine.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/məˈʃiːn/",
+    "詞性": "n.",
+    "中文意思": "機器",
+    "英文例句": "Washing machine cleans all dirty clothes.",
+    "例句中文": "洗衣機把全家人骯髒的衣服洗乾淨。",
+    "表情符號": "🧺",
+    "圖片": "",
+    "em": "🧺",
+    "icon": "🧺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mad",
@@ -20193,133 +25798,173 @@ var WORDS = [
     "英文例句": "Don't be mad about lost games.",
     "例句中文": "不要因為輸掉了遊戲就生悶氣。",
     "表情符號": "😠",
-    "圖片": ""
+    "圖片": "",
+    "em": "😠",
+    "icon": "😠",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "magazine",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is magazine.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌmæɡ.əˈziːn/",
+    "pos": "n.",
+    "zh": "雜誌",
+    "ex": "Read a colorful science nature magazine.",
+    "exzh": "翻閱圖文並茂的少年科普自然雜誌。",
+    "emoji": "📖",
     "pic": "",
     "單字": "magazine",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is magazine.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌmæɡ.əˈziːn/",
+    "詞性": "n.",
+    "中文意思": "雜誌",
+    "英文例句": "Read a colorful science nature magazine.",
+    "例句中文": "翻閱圖文並茂的少年科普自然雜誌。",
+    "表情符號": "📖",
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "magic",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is magic.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmædʒ.ɪk/",
+    "pos": "n./adj.",
+    "zh": "魔術；神奇的",
+    "ex": "The magician showed a cool magic trick.",
+    "exzh": "魔術師在舞台上展現了神奇的魔術手法。",
+    "emoji": "🎩",
     "pic": "",
     "單字": "magic",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is magic.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmædʒ.ɪk/",
+    "詞性": "n./adj.",
+    "中文意思": "魔術；神奇的",
+    "英文例句": "The magician showed a cool magic trick.",
+    "例句中文": "魔術師在舞台上展現了神奇的魔術手法。",
+    "表情符號": "🎩",
+    "圖片": "",
+    "em": "🎩",
+    "icon": "🎩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "magician",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is magician.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/məˈdʒɪʃ.ən/",
+    "pos": "n.",
+    "zh": "魔術師",
+    "ex": "The magician pulled a rabbit from hat.",
+    "exzh": "魔術師從黑色高帽子裡變出一隻白兔。",
+    "emoji": "🐇",
     "pic": "",
     "單字": "magician",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is magician.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/məˈdʒɪʃ.ən/",
+    "詞性": "n.",
+    "中文意思": "魔術師",
+    "英文例句": "The magician pulled a rabbit from hat.",
+    "例句中文": "魔術師從黑色高帽子裡變出一隻白兔。",
+    "表情符號": "🐇",
+    "圖片": "",
+    "em": "🐇",
+    "icon": "🐇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mail",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is mail.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/meɪl/",
+    "pos": "n./v.",
+    "zh": "郵件；郵寄",
+    "ex": "Check the letter box for morning mail.",
+    "exzh": "打開門口的綠色信箱查看是否有新信件。",
+    "emoji": "📬",
     "pic": "",
     "單字": "mail",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is mail.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/meɪl/",
+    "詞性": "n./v.",
+    "中文意思": "郵件；郵寄",
+    "英文例句": "Check the letter box for morning mail.",
+    "例句中文": "打開門口的綠色信箱查看是否有新信件。",
+    "表情符號": "📬",
+    "圖片": "",
+    "em": "📬",
+    "icon": "📬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mailman",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is mailman.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmeɪl.mæn/",
+    "pos": "n.",
+    "zh": "郵差",
+    "ex": "The friendly mailman delivered my parcel.",
+    "exzh": "親切的郵差叔叔把網購包裹準時送到家。",
+    "emoji": "📦",
     "pic": "",
     "單字": "mailman",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is mailman.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmeɪl.mæn/",
+    "詞性": "n.",
+    "中文意思": "郵差",
+    "英文例句": "The friendly mailman delivered my parcel.",
+    "例句中文": "親切的郵差叔叔把網購包裹準時送到家。",
+    "表情符號": "📦",
+    "圖片": "",
+    "em": "📦",
+    "icon": "📦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "main",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is main.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/meɪn/",
+    "pos": "adj.",
+    "zh": "主要的",
+    "ex": "Walk down the city's main street safely.",
+    "exzh": "遵守號誌走在市區寬敞的主要大街上。",
+    "emoji": "🛣️",
     "pic": "",
     "單字": "main",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is main.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/meɪn/",
+    "詞性": "adj.",
+    "中文意思": "主要的",
+    "英文例句": "Walk down the city's main street safely.",
+    "例句中文": "遵守號誌走在市區寬敞的主要大街上。",
+    "表情符號": "🛣️",
+    "圖片": "",
+    "em": "🛣️",
+    "icon": "🛣️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "major",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is major.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmeɪ.dʒɚ/",
+    "pos": "adj./n.",
+    "zh": "重大的；主修",
+    "ex": "Typhoon caused a major train delay.",
+    "exzh": "強風豪雨導致火車班次產生重大延誤。",
+    "emoji": "⚠️",
     "pic": "",
     "單字": "major",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is major.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmeɪ.dʒɚ/",
+    "詞性": "adj./n.",
+    "中文意思": "重大的；主修",
+    "英文例句": "Typhoon caused a major train delay.",
+    "例句中文": "強風豪雨導致火車班次產生重大延誤。",
+    "表情符號": "⚠️",
+    "圖片": "",
+    "em": "⚠️",
+    "icon": "⚠️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "make",
@@ -20337,43 +25982,58 @@ var WORDS = [
     "英文例句": "Make a cute greeting card.",
     "例句中文": "做一張可愛的卡片。",
     "表情符號": "✂️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✂️",
+    "icon": "✂️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "male",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is male.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/meɪl/",
+    "pos": "adj./n.",
+    "zh": "男性的；雄性的",
+    "ex": "The male peacock has splendid tail feathers.",
+    "exzh": "雄性公孔雀開屏時展現燦爛華麗的羽毛。",
+    "emoji": "🦚",
     "pic": "",
     "單字": "male",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is male.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/meɪl/",
+    "詞性": "adj./n.",
+    "中文意思": "男性的；雄性的",
+    "英文例句": "The male peacock has splendid tail feathers.",
+    "例句中文": "雄性公孔雀開屏時展現燦爛華麗的羽毛。",
+    "表情符號": "🦚",
+    "圖片": "",
+    "em": "🦚",
+    "icon": "🦚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mall",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is mall.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/mɑːl/",
+    "pos": "n.",
+    "zh": "購物中心",
+    "ex": "Shop for school sneakers at shopping mall.",
+    "exzh": "全家人一起去大型購物中心選購運動鞋。",
+    "emoji": "🏬",
     "pic": "",
     "單字": "mall",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is mall.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/mɑːl/",
+    "詞性": "n.",
+    "中文意思": "購物中心",
+    "英文例句": "Shop for school sneakers at shopping mall.",
+    "例句中文": "全家人一起去大型購物中心選購運動鞋。",
+    "表情符號": "🏬",
+    "圖片": "",
+    "em": "🏬",
+    "icon": "🏬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "man",
@@ -20391,25 +26051,35 @@ var WORDS = [
     "英文例句": "He is a tall man.",
     "例句中文": "他是一位高大的男人。",
     "表情符號": "👨",
-    "圖片": ""
+    "圖片": "",
+    "em": "👨",
+    "icon": "👨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "manager",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is manager.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmæn.ə.dʒɚ/",
+    "pos": "n.",
+    "zh": "經理，主管",
+    "ex": "The store manager welcomed all customers.",
+    "exzh": "超商門市經理熱情微笑道謝每位顧客。",
+    "emoji": "🧑‍💼",
     "pic": "",
     "單字": "manager",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is manager.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmæn.ə.dʒɚ/",
+    "詞性": "n.",
+    "中文意思": "經理，主管",
+    "英文例句": "The store manager welcomed all customers.",
+    "例句中文": "超商門市經理熱情微笑道謝每位顧客。",
+    "表情符號": "🧑‍💼",
+    "圖片": "",
+    "em": "🧑‍💼",
+    "icon": "🧑‍💼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mango",
@@ -20427,43 +26097,58 @@ var WORDS = [
     "英文例句": "Sweet mangoes grow in summer.",
     "例句中文": "香甜的芒果生長於夏天。",
     "表情符號": "🥭",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥭",
+    "icon": "🥭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "manner",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is manner.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmæn.ɚ/",
+    "pos": "n.",
+    "zh": "禮貌，規矩",
+    "ex": "Always mind your polite table manners.",
+    "exzh": "在餐桌上用餐時請隨時維持良好禮貌。",
+    "emoji": "🍽️",
     "pic": "",
     "單字": "manner",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is manner.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmæn.ɚ/",
+    "詞性": "n.",
+    "中文意思": "禮貌，規矩",
+    "英文例句": "Always mind your polite table manners.",
+    "例句中文": "在餐桌上用餐時請隨時維持良好禮貌。",
+    "表情符號": "🍽️",
+    "圖片": "",
+    "em": "🍽️",
+    "icon": "🍽️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "many",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is many.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmen.i/",
+    "pos": "adj./pron.",
+    "zh": "許多的",
+    "ex": "There are many colorful books in library.",
+    "exzh": "圖書館裡陳列著許多精采的課外童書。",
+    "emoji": "📚",
     "pic": "",
     "單字": "many",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is many.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmen.i/",
+    "詞性": "adj./pron.",
+    "中文意思": "許多的",
+    "英文例句": "There are many colorful books in library.",
+    "例句中文": "圖書館裡陳列著許多精采的課外童書。",
+    "表情符號": "📚",
+    "圖片": "",
+    "em": "📚",
+    "icon": "📚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "map",
@@ -20481,7 +26166,12 @@ var WORDS = [
     "英文例句": "Look at world map during geography.",
     "例句中文": "在地理課上仔細觀察世界地圖。",
     "表情符號": "🗺️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗺️",
+    "icon": "🗺️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "March",
@@ -20499,7 +26189,12 @@ var WORDS = [
     "英文例句": "Spring arrives in early March.",
     "例句中文": "春天在三月初悄悄到來。",
     "表情符號": "🌱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌱",
+    "icon": "🌱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mark",
@@ -20517,7 +26212,12 @@ var WORDS = [
     "英文例句": "She got high marks in English.",
     "例句中文": "她英文拿到了很高的成績。",
     "表情符號": "💯",
-    "圖片": ""
+    "圖片": "",
+    "em": "💯",
+    "icon": "💯",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "marker",
@@ -20535,7 +26235,12 @@ var WORDS = [
     "英文例句": "Draw circles with a black marker.",
     "例句中文": "用黑色彩色筆畫圈圈。",
     "表情符號": "🖊️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🖊️",
+    "icon": "🖊️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "market",
@@ -20553,151 +26258,196 @@ var WORDS = [
     "英文例句": "Buy ripe fruit at morning market.",
     "例句中文": "在早市購買香甜成熟的水果。",
     "表情符號": "🍉",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍉",
+    "icon": "🍉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "married",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is married.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmer.id/",
+    "pos": "adj.",
+    "zh": "已婚的",
+    "ex": "My uncle and aunt have been married long.",
+    "exzh": "叔叔和阿姨感情很好，已經結婚許多年了。",
+    "emoji": "💍",
     "pic": "",
     "單字": "married",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is married.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmer.id/",
+    "詞性": "adj.",
+    "中文意思": "已婚的",
+    "英文例句": "My uncle and aunt have been married long.",
+    "例句中文": "叔叔和阿姨感情很好，已經結婚許多年了。",
+    "表情符號": "💍",
+    "圖片": "",
+    "em": "💍",
+    "icon": "💍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "marry",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is marry.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmer.i/",
+    "pos": "v.",
+    "zh": "結婚",
+    "ex": "The prince and princess married joyfully.",
+    "exzh": "童話裡的王子和公主開心地攜手步入婚禮。",
+    "emoji": "💒",
     "pic": "",
     "單字": "marry",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is marry.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmer.i/",
+    "詞性": "v.",
+    "中文意思": "結婚",
+    "英文例句": "The prince and princess married joyfully.",
+    "例句中文": "童話裡的王子和公主開心地攜手步入婚禮。",
+    "表情符號": "💒",
+    "圖片": "",
+    "em": "💒",
+    "icon": "💒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "marvelous",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is marvelous.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmɑːr.vəl.əs/",
+    "pos": "adj.",
+    "zh": "極好的，棒極的",
+    "ex": "The orchestra gave a marvelous concert.",
+    "exzh": "管弦樂團今晚獻上了一場極佳的精采音樂會。",
+    "emoji": "🎶",
     "pic": "",
     "單字": "marvelous",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is marvelous.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmɑːr.vəl.əs/",
+    "詞性": "adj.",
+    "中文意思": "極好的，棒極的",
+    "英文例句": "The orchestra gave a marvelous concert.",
+    "例句中文": "管弦樂團今晚獻上了一場極佳的精采音樂會。",
+    "表情符號": "🎶",
+    "圖片": "",
+    "em": "🎶",
+    "icon": "🎶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mask",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is mask.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/mæsk/",
+    "pos": "n.",
+    "zh": "口罩；面具",
+    "ex": "Wear a face mask when catching cold.",
+    "exzh": "感冒打噴嚏時請戴上口罩保護身邊同學。",
+    "emoji": "😷",
     "pic": "",
     "單字": "mask",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is mask.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/mæsk/",
+    "詞性": "n.",
+    "中文意思": "口罩；面具",
+    "英文例句": "Wear a face mask when catching cold.",
+    "例句中文": "感冒打噴嚏時請戴上口罩保護身邊同學。",
+    "表情符號": "😷",
+    "圖片": "",
+    "em": "😷",
+    "icon": "😷",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mass",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is mass.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/mæs/",
+    "pos": "n.",
+    "zh": "大量，團塊",
+    "ex": "A thick dark mass of clouds gathered.",
+    "exzh": "天邊凝聚了一大團黑沉沉的厚重雷雨雲。",
+    "emoji": "☁️",
     "pic": "",
     "單字": "mass",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is mass.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/mæs/",
+    "詞性": "n.",
+    "中文意思": "大量，團塊",
+    "英文例句": "A thick dark mass of clouds gathered.",
+    "例句中文": "天邊凝聚了一大團黑沉沉的厚重雷雨雲。",
+    "表情符號": "☁️",
+    "圖片": "",
+    "em": "☁️",
+    "icon": "☁️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "master",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is master.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmæs.tɚ/",
+    "pos": "n./v.",
+    "zh": "大師，主人；精通",
+    "ex": "Practice hard to master English skills.",
+    "exzh": "勤奮練習就能掌握並精通英語聽說技巧。",
+    "emoji": "🥋",
     "pic": "",
     "單字": "master",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is master.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmæs.tɚ/",
+    "詞性": "n./v.",
+    "中文意思": "大師，主人；精通",
+    "英文例句": "Practice hard to master English skills.",
+    "例句中文": "勤奮練習就能掌握並精通英語聽說技巧。",
+    "表情符號": "🥋",
+    "圖片": "",
+    "em": "🥋",
+    "icon": "🥋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mat",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is mat.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/mæt/",
+    "pos": "n.",
+    "zh": "地墊，蓆子",
+    "ex": "Wipe your shoes clean on front door mat.",
+    "exzh": "進門前在大門口的地墊上把鞋底擦乾淨。",
+    "emoji": "🚪",
     "pic": "",
     "單字": "mat",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is mat.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/mæt/",
+    "詞性": "n.",
+    "中文意思": "地墊，蓆子",
+    "英文例句": "Wipe your shoes clean on front door mat.",
+    "例句中文": "進門前在大門口的地墊上把鞋底擦乾淨。",
+    "表情符號": "🚪",
+    "圖片": "",
+    "em": "🚪",
+    "icon": "🚪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "match",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is match.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/mætʃ/",
+    "pos": "n./v.",
+    "zh": "比賽；火柴；相配",
+    "ex": "We cheered for our school basketball match.",
+    "exzh": "全班齊聲在看台上為學校籃球比賽加油。",
+    "emoji": "🏀",
     "pic": "",
     "單字": "match",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is match.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/mætʃ/",
+    "詞性": "n./v.",
+    "中文意思": "比賽；火柴；相配",
+    "英文例句": "We cheered for our school basketball match.",
+    "例句中文": "全班齊聲在看台上為學校籃球比賽加油。",
+    "表情符號": "🏀",
+    "圖片": "",
+    "em": "🏀",
+    "icon": "🏀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "math",
@@ -20715,43 +26465,58 @@ var WORDS = [
     "英文例句": "Math helps us solve problems.",
     "例句中文": "數學幫助我們解決日常生活問題。",
     "表情符號": "🔢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔢",
+    "icon": "🔢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "matter",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is matter.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmæt̬.ɚ/",
+    "pos": "n./v.",
+    "zh": "事情；要緊",
+    "ex": "What is the matter, are you feeling okay?",
+    "exzh": "怎麼了？你身體有哪裡感到不舒服嗎？",
+    "emoji": "❓",
     "pic": "",
     "單字": "matter",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is matter.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmæt̬.ɚ/",
+    "詞性": "n./v.",
+    "中文意思": "事情；要緊",
+    "英文例句": "What is the matter, are you feeling okay?",
+    "例句中文": "怎麼了？你身體有哪裡感到不舒服嗎？",
+    "表情符號": "❓",
+    "圖片": "",
+    "em": "❓",
+    "icon": "❓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "maximum",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is maximum.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmæk.sə.məm/",
+    "pos": "adj./n.",
+    "zh": "最大值的，最高的",
+    "ex": "The car drove at maximum legal speed.",
+    "exzh": "車輛在高速公路上依最高合法車速巡航。",
+    "emoji": "🏎️",
     "pic": "",
     "單字": "maximum",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is maximum.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmæk.sə.məm/",
+    "詞性": "adj./n.",
+    "中文意思": "最大值的，最高的",
+    "英文例句": "The car drove at maximum legal speed.",
+    "例句中文": "車輛在高速公路上依最高合法車速巡航。",
+    "表情符號": "🏎️",
+    "圖片": "",
+    "em": "🏎️",
+    "icon": "🏎️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "may",
@@ -20769,25 +26534,35 @@ var WORDS = [
     "英文例句": "May I borrow your ruler?",
     "例句中文": "我可以借你的尺嗎？",
     "表情符號": "📏",
-    "圖片": ""
+    "圖片": "",
+    "em": "📏",
+    "icon": "📏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "maybe",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is maybe.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmeɪ.bi/",
+    "pos": "adv.",
+    "zh": "也許，可能",
+    "ex": "Maybe we can play outside this afternoon.",
+    "exzh": "也許今天下午天氣放晴我們就能出門玩。",
+    "emoji": "🌤️",
     "pic": "",
     "單字": "maybe",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is maybe.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmeɪ.bi/",
+    "詞性": "adv.",
+    "中文意思": "也許，可能",
+    "英文例句": "Maybe we can play outside this afternoon.",
+    "例句中文": "也許今天下午天氣放晴我們就能出門玩。",
+    "表情符號": "🌤️",
+    "圖片": "",
+    "em": "🌤️",
+    "icon": "🌤️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "me",
@@ -20805,7 +26580,12 @@ var WORDS = [
     "英文例句": "Give me the red crayon.",
     "例句中文": "把紅色蠟筆給我。",
     "表情符號": "🖍️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🖍️",
+    "icon": "🖍️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "meal",
@@ -20823,7 +26603,12 @@ var WORDS = [
     "英文例句": "Enjoy a delicious warm meal.",
     "例句中文": "享用一頓美味的熱餐吧。",
     "表情符號": "🍽️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍽️",
+    "icon": "🍽️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mean",
@@ -20841,43 +26626,58 @@ var WORDS = [
     "英文例句": "What does this English word mean?",
     "例句中文": "這個英文單字是什麼意思？",
     "表情符號": "💡",
-    "圖片": ""
+    "圖片": "",
+    "em": "💡",
+    "icon": "💡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "meaning",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is meaning.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmiː.nɪŋ/",
+    "pos": "n.",
+    "zh": "意思，意義",
+    "ex": "Look up the Chinese meaning in dictionary.",
+    "exzh": "遇到不認識的字，翻開字典查閱中文意思。",
+    "emoji": "📖",
     "pic": "",
     "單字": "meaning",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is meaning.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmiː.nɪŋ/",
+    "詞性": "n.",
+    "中文意思": "意思，意義",
+    "英文例句": "Look up the Chinese meaning in dictionary.",
+    "例句中文": "遇到不認識的字，翻開字典查閱中文意思。",
+    "表情符號": "📖",
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "measure",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is measure.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmeʒ.ɚ/",
+    "pos": "v./n.",
+    "zh": "測量；措施",
+    "ex": "Use a wooden ruler to measure box width.",
+    "exzh": "拿出一把直尺測量紙箱的長度與寬度。",
+    "emoji": "📏",
     "pic": "",
     "單字": "measure",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is measure.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmeʒ.ɚ/",
+    "詞性": "v./n.",
+    "中文意思": "測量；措施",
+    "英文例句": "Use a wooden ruler to measure box width.",
+    "例句中文": "拿出一把直尺測量紙箱的長度與寬度。",
+    "表情符號": "📏",
+    "圖片": "",
+    "em": "📏",
+    "icon": "📏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "meat",
@@ -20895,25 +26695,35 @@ var WORDS = [
     "英文例句": "He eats meat and vegetables.",
     "例句中文": "他吃肉類與蔬菜。",
     "表情符號": "🥩",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥩",
+    "icon": "🥩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mechanic",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is mechanic.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/məˈkæn.ɪk/",
+    "pos": "n.",
+    "zh": "技工，機械師",
+    "ex": "The auto mechanic repaired our family car.",
+    "exzh": "修車廠技師動作熟練地修復了家裡的汽車。",
+    "emoji": "🔧",
     "pic": "",
     "單字": "mechanic",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is mechanic.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/məˈkæn.ɪk/",
+    "詞性": "n.",
+    "中文意思": "技工，機械師",
+    "英文例句": "The auto mechanic repaired our family car.",
+    "例句中文": "修車廠技師動作熟練地修復了家裡的汽車。",
+    "表情符號": "🔧",
+    "圖片": "",
+    "em": "🔧",
+    "icon": "🔧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "medicine",
@@ -20931,25 +26741,35 @@ var WORDS = [
     "英文例句": "Take bitter medicine with honey water.",
     "例句中文": "吃苦苦的藥水時可以配一點蜂蜜水。",
     "表情符號": "💊",
-    "圖片": ""
+    "圖片": "",
+    "em": "💊",
+    "icon": "💊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "medium",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is medium.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmiː.di.əm/",
+    "pos": "adj./n.",
+    "zh": "中等的；媒介",
+    "ex": "Order a medium cup of warm milk tea.",
+    "exzh": "在飲料店點了一杯中杯溫無糖珍珠奶茶。",
+    "emoji": "🧋",
     "pic": "",
     "單字": "medium",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is medium.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmiː.di.əm/",
+    "詞性": "adj./n.",
+    "中文意思": "中等的；媒介",
+    "英文例句": "Order a medium cup of warm milk tea.",
+    "例句中文": "在飲料店點了一杯中杯溫無糖珍珠奶茶。",
+    "表情符號": "🧋",
+    "圖片": "",
+    "em": "🧋",
+    "icon": "🧋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "meet",
@@ -20967,25 +26787,35 @@ var WORDS = [
     "英文例句": "Nice to meet you!",
     "例句中文": "很高興見到你！",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "meeting",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is meeting.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmiː.t̬ɪŋ/",
+    "pos": "n.",
+    "zh": "會議，集會",
+    "ex": "Parents attended the school morning meeting.",
+    "exzh": "家長們準時出席了學校舉辦的家長座談會。",
+    "emoji": "👥",
     "pic": "",
     "單字": "meeting",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is meeting.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmiː.t̬ɪŋ/",
+    "詞性": "n.",
+    "中文意思": "會議，集會",
+    "英文例句": "Parents attended the school morning meeting.",
+    "例句中文": "家長們準時出席了學校舉辦的家長座談會。",
+    "表情符號": "👥",
+    "圖片": "",
+    "em": "👥",
+    "icon": "👥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "melon",
@@ -21003,169 +26833,219 @@ var WORDS = [
     "英文例句": "Sweet green melon is cooling.",
     "例句中文": "香甜的綠甜瓜清涼消暑。",
     "表情符號": "🍈",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍈",
+    "icon": "🍈",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "member",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is member.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmem.bɚ/",
+    "pos": "n.",
+    "zh": "成員，會員",
+    "ex": "He is an active member of soccer team.",
+    "exzh": "他是我們學校少棒足球隊裡的核心成員。",
+    "emoji": "⚽",
     "pic": "",
     "單字": "member",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is member.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmem.bɚ/",
+    "詞性": "n.",
+    "中文意思": "成員，會員",
+    "英文例句": "He is an active member of soccer team.",
+    "例句中文": "他是我們學校少棒足球隊裡的核心成員。",
+    "表情符號": "⚽",
+    "圖片": "",
+    "em": "⚽",
+    "icon": "⚽",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "memory",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is memory.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmem.ər.i/",
+    "pos": "n.",
+    "zh": "記憶，回憶",
+    "ex": "Family trips leave sweet joyful memory.",
+    "exzh": "全家出遊能為童年留下溫馨美好的回憶。",
+    "emoji": "📸",
     "pic": "",
     "單字": "memory",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is memory.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmem.ər.i/",
+    "詞性": "n.",
+    "中文意思": "記憶，回憶",
+    "英文例句": "Family trips leave sweet joyful memory.",
+    "例句中文": "全家出遊能為童年留下溫馨美好的回憶。",
+    "表情符號": "📸",
+    "圖片": "",
+    "em": "📸",
+    "icon": "📸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "men's room",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is men's room.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmenz ˌruːm/",
+    "pos": "n.",
+    "zh": "男廁所",
+    "ex": "The men's room is at the end of hallway.",
+    "exzh": "走廊盡頭右轉就是乾淨的學校男廁所。",
+    "emoji": "🚹",
     "pic": "",
     "單字": "men's room",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is men's room.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmenz ˌruːm/",
+    "詞性": "n.",
+    "中文意思": "男廁所",
+    "英文例句": "The men's room is at the end of hallway.",
+    "例句中文": "走廊盡頭右轉就是乾淨的學校男廁所。",
+    "表情符號": "🚹",
+    "圖片": "",
+    "em": "🚹",
+    "icon": "🚹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "menu",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is menu.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmen.juː/",
+    "pos": "n.",
+    "zh": "菜單",
+    "ex": "Look at the colorful dinner restaurant menu.",
+    "exzh": "翻開餐廳菜單挑選自己喜愛的美味菜色。",
+    "emoji": "📋",
     "pic": "",
     "單字": "menu",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is menu.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmen.juː/",
+    "詞性": "n.",
+    "中文意思": "菜單",
+    "英文例句": "Look at the colorful dinner restaurant menu.",
+    "例句中文": "翻開餐廳菜單挑選自己喜愛的美味菜色。",
+    "表情符號": "📋",
+    "圖片": "",
+    "em": "📋",
+    "icon": "📋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "message",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is message.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmes.ɪdʒ/",
+    "pos": "n.",
+    "zh": "留言，訊息",
+    "ex": "Leave a kind phone message for Mom.",
+    "exzh": "在便利貼上寫下一句溫馨留言給出門的媽媽。",
+    "emoji": "💬",
     "pic": "",
     "單字": "message",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is message.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmes.ɪdʒ/",
+    "詞性": "n.",
+    "中文意思": "留言，訊息",
+    "英文例句": "Leave a kind phone message for Mom.",
+    "例句中文": "在便利貼上寫下一句溫馨留言給出門的媽媽。",
+    "表情符號": "💬",
+    "圖片": "",
+    "em": "💬",
+    "icon": "💬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "metal",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is metal.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmet̬.əl/",
+    "pos": "n.",
+    "zh": "金屬",
+    "ex": "Keys and coins are made of hard metal.",
+    "exzh": "隨身攜帶的鑰匙和硬幣都是金屬製成的。",
+    "emoji": "🪙",
     "pic": "",
     "單字": "metal",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is metal.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmet̬.əl/",
+    "詞性": "n.",
+    "中文意思": "金屬",
+    "英文例句": "Keys and coins are made of hard metal.",
+    "例句中文": "隨身攜帶的鑰匙和硬幣都是金屬製成的。",
+    "表情符號": "🪙",
+    "圖片": "",
+    "em": "🪙",
+    "icon": "🪙",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "meter",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is meter.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmiː.t̬ɚ/",
+    "pos": "n.",
+    "zh": "公尺",
+    "ex": "The classroom board is three meters wide.",
+    "exzh": "這塊大黑板的寬度長達整整三公尺寬。",
+    "emoji": "📏",
     "pic": "",
     "單字": "meter",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is meter.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmiː.t̬ɚ/",
+    "詞性": "n.",
+    "中文意思": "公尺",
+    "英文例句": "The classroom board is three meters wide.",
+    "例句中文": "這塊大黑板的寬度長達整整三公尺寬。",
+    "表情符號": "📏",
+    "圖片": "",
+    "em": "📏",
+    "icon": "📏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "method",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is method.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmeθ.əd/",
+    "pos": "n.",
+    "zh": "方法，方式",
+    "ex": "Finding the right study method helps learning.",
+    "exzh": "找到適合自己的讀書方法能讓學習事半功倍。",
+    "emoji": "💡",
     "pic": "",
     "單字": "method",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is method.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmeθ.əd/",
+    "詞性": "n.",
+    "中文意思": "方法，方式",
+    "英文例句": "Finding the right study method helps learning.",
+    "例句中文": "找到適合自己的讀書方法能讓學習事半功倍。",
+    "表情符號": "💡",
+    "圖片": "",
+    "em": "💡",
+    "icon": "💡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "microwave",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is microwave.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmaɪ.kroʊ.weɪv/",
+    "pos": "n./v.",
+    "zh": "微波爐",
+    "ex": "Heat up the soup bowl in microwave.",
+    "exzh": "把冷掉的濃湯放進微波爐加熱兩分鐘。",
+    "emoji": "🍲",
     "pic": "",
     "單字": "microwave",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is microwave.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmaɪ.kroʊ.weɪv/",
+    "詞性": "n./v.",
+    "中文意思": "微波爐",
+    "英文例句": "Heat up the soup bowl in microwave.",
+    "例句中文": "把冷掉的濃湯放進微波爐加熱兩分鐘。",
+    "表情符號": "🍲",
+    "圖片": "",
+    "em": "🍲",
+    "icon": "🍲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "middle",
@@ -21183,25 +27063,35 @@ var WORDS = [
     "英文例句": "The puppy slept in the middle of bed.",
     "例句中文": "小狗狗舒服地睡在床的正中間。",
     "表情符號": "🛏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛏️",
+    "icon": "🛏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "midnight",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is midnight.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmɪd.naɪt/",
+    "pos": "n.",
+    "zh": "午夜，半夜",
+    "ex": "Stars shine brightly in the dark midnight.",
+    "exzh": "午夜時分滿天繁星在漆黑夜空閃閃發亮。",
+    "emoji": "🌌",
     "pic": "",
     "單字": "midnight",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is midnight.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmɪd.naɪt/",
+    "詞性": "n.",
+    "中文意思": "午夜，半夜",
+    "英文例句": "Stars shine brightly in the dark midnight.",
+    "例句中文": "午夜時分滿天繁星在漆黑夜空閃閃發亮。",
+    "表情符號": "🌌",
+    "圖片": "",
+    "em": "🌌",
+    "icon": "🌌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "might",
@@ -21219,25 +27109,35 @@ var WORDS = [
     "英文例句": "It might rain today.",
     "例句中文": "今天可能會下雨。",
     "表情符號": "🌧️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌧️",
+    "icon": "🌧️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mile",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is mile.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/maɪl/",
+    "pos": "n.",
+    "zh": "英里",
+    "ex": "Run one mile during physical fitness test.",
+    "exzh": "在體適能測驗中穩定配速跑完一英里耐力跑。",
+    "emoji": "🏃",
     "pic": "",
     "單字": "mile",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is mile.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/maɪl/",
+    "詞性": "n.",
+    "中文意思": "英里",
+    "英文例句": "Run one mile during physical fitness test.",
+    "例句中文": "在體適能測驗中穩定配速跑完一英里耐力跑。",
+    "表情符號": "🏃",
+    "圖片": "",
+    "em": "🏃",
+    "icon": "🏃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "milk",
@@ -21255,97 +27155,127 @@ var WORDS = [
     "英文例句": "Drink a glass of warm milk.",
     "例句中文": "喝一杯溫牛奶吧。",
     "表情符號": "🥛",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥛",
+    "icon": "🥛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "million",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is million.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmɪl.jən/",
+    "pos": "num.",
+    "zh": "百萬",
+    "ex": "Taipei city has over two million people.",
+    "exzh": "台北都會區擁有超過兩百萬的設籍居住人口。",
+    "emoji": "🏙️",
     "pic": "",
     "單字": "million",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is million.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmɪl.jən/",
+    "詞性": "num.",
+    "中文意思": "百萬",
+    "英文例句": "Taipei city has over two million people.",
+    "例句中文": "台北都會區擁有超過兩百萬的設籍居住人口。",
+    "表情符號": "🏙️",
+    "圖片": "",
+    "em": "🏙️",
+    "icon": "🏙️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mind",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is mind.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/maɪnd/",
+    "pos": "n./v.",
+    "zh": "心靈，頭腦；介意",
+    "ex": "Keep a calm and peaceful learning mind.",
+    "exzh": "面對各種大小考試隨時保持平靜沉著的心靈。",
+    "emoji": "🧠",
     "pic": "",
     "單字": "mind",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is mind.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/maɪnd/",
+    "詞性": "n./v.",
+    "中文意思": "心靈，頭腦；介意",
+    "英文例句": "Keep a calm and peaceful learning mind.",
+    "例句中文": "面對各種大小考試隨時保持平靜沉著的心靈。",
+    "表情符號": "🧠",
+    "圖片": "",
+    "em": "🧠",
+    "icon": "🧠",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "minor",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is minor.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmaɪ.nɚ/",
+    "pos": "adj./n.",
+    "zh": "次要的；未成年人",
+    "ex": "Don't worry about tiny minor mistakes.",
+    "exzh": "不要為了一些無傷大雅的次要小錯誤而沮喪。",
+    "emoji": "👌",
     "pic": "",
     "單字": "minor",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is minor.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmaɪ.nɚ/",
+    "詞性": "adj./n.",
+    "中文意思": "次要的；未成年人",
+    "英文例句": "Don't worry about tiny minor mistakes.",
+    "例句中文": "不要為了一些無傷大雅的次要小錯誤而沮喪。",
+    "表情符號": "👌",
+    "圖片": "",
+    "em": "👌",
+    "icon": "👌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "minus",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is minus.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmaɪ.nəs/",
+    "pos": "prep./adj.",
+    "zh": "減去；負的",
+    "ex": "Seven minus two equals five.",
+    "exzh": "在基礎減法運算中，七減去二等於五。",
+    "emoji": "➖",
     "pic": "",
     "單字": "minus",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is minus.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmaɪ.nəs/",
+    "詞性": "prep./adj.",
+    "中文意思": "減去；負的",
+    "英文例句": "Seven minus two equals five.",
+    "例句中文": "在基礎減法運算中，七減去二等於五。",
+    "表情符號": "➖",
+    "圖片": "",
+    "em": "➖",
+    "icon": "➖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "minute",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is minute.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmɪn.ɪt/",
+    "pos": "n.",
+    "zh": "分鐘",
+    "ex": "Wait five minutes for the city bus.",
+    "exzh": "在公車候車亭耐心等待五分鐘公車就來了。",
+    "emoji": "⏳",
     "pic": "",
     "單字": "minute",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is minute.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmɪn.ɪt/",
+    "詞性": "n.",
+    "中文意思": "分鐘",
+    "英文例句": "Wait five minutes for the city bus.",
+    "例句中文": "在公車候車亭耐心等待五分鐘公車就來了。",
+    "表情符號": "⏳",
+    "圖片": "",
+    "em": "⏳",
+    "icon": "⏳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mirror",
@@ -21363,7 +27293,12 @@ var WORDS = [
     "英文例句": "Smile into the bathroom mirror.",
     "例句中文": "對著浴室鏡子微笑。",
     "表情符號": "🪞",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪞",
+    "icon": "🪞",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "miss",
@@ -21381,25 +27316,35 @@ var WORDS = [
     "英文例句": "I miss my loving grandparents.",
     "例句中文": "我想念慈愛的爺爺奶奶。",
     "表情符號": "👵",
-    "圖片": ""
+    "圖片": "",
+    "em": "👵",
+    "icon": "👵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mistake",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is mistake.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/mɪˈsteɪk/",
+    "pos": "n.",
+    "zh": "錯誤",
+    "ex": "Learn from your mistake and do better.",
+    "exzh": "從犯下的錯誤中吸取教訓，下次做得更好。",
+    "emoji": "✏️",
     "pic": "",
     "單字": "mistake",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is mistake.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/mɪˈsteɪk/",
+    "詞性": "n.",
+    "中文意思": "錯誤",
+    "英文例句": "Learn from your mistake and do better.",
+    "例句中文": "從犯下的錯誤中吸取教訓，下次做得更好。",
+    "表情符號": "✏️",
+    "圖片": "",
+    "em": "✏️",
+    "icon": "✏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mix",
@@ -21417,61 +27362,81 @@ var WORDS = [
     "英文例句": "Mix yellow and blue to get green.",
     "例句中文": "將黃色與藍色混合會變成綠色。",
     "表情符號": "🎨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎨",
+    "icon": "🎨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "model",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is model.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmɑː.dəl/",
+    "pos": "n.",
+    "zh": "模型；模範",
+    "ex": "He built a cool plastic toy car model.",
+    "exzh": "他用雙手組裝了一台帥氣的玩具車模型。",
+    "emoji": "🚗",
     "pic": "",
     "單字": "model",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is model.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmɑː.dəl/",
+    "詞性": "n.",
+    "中文意思": "模型；模範",
+    "英文例句": "He built a cool plastic toy car model.",
+    "例句中文": "他用雙手組裝了一台帥氣的玩具車模型。",
+    "表情符號": "🚗",
+    "圖片": "",
+    "em": "🚗",
+    "icon": "🚗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "modern",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is modern.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmɑː.dɚn/",
+    "pos": "adj.",
+    "zh": "現代的",
+    "ex": "High-speed rail is a fast modern transit.",
+    "exzh": "台灣高鐵是極速便捷的現代化大眾交通工具。",
+    "emoji": "🚄",
     "pic": "",
     "單字": "modern",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is modern.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmɑː.dɚn/",
+    "詞性": "adj.",
+    "中文意思": "現代的",
+    "英文例句": "High-speed rail is a fast modern transit.",
+    "例句中文": "台灣高鐵是極速便捷的現代化大眾交通工具。",
+    "表情符號": "🚄",
+    "圖片": "",
+    "em": "🚄",
+    "icon": "🚄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "moment",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is moment.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmoʊ.mənt/",
+    "pos": "n.",
+    "zh": "片刻，瞬間",
+    "ex": "Wait a moment; I am packing my bag.",
+    "exzh": "請稍等我片刻，我正在把書包文具整理好。",
+    "emoji": "⏱️",
     "pic": "",
     "單字": "moment",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is moment.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmoʊ.mənt/",
+    "詞性": "n.",
+    "中文意思": "片刻，瞬間",
+    "英文例句": "Wait a moment; I am packing my bag.",
+    "例句中文": "請稍等我片刻，我正在把書包文具整理好。",
+    "表情符號": "⏱️",
+    "圖片": "",
+    "em": "⏱️",
+    "icon": "⏱️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Monday",
@@ -21489,25 +27454,35 @@ var WORDS = [
     "英文例句": "School week starts on Monday.",
     "例句中文": "上學週從星期一開始。",
     "表情符號": "📅",
-    "圖片": ""
+    "圖片": "",
+    "em": "📅",
+    "icon": "📅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "money",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is money.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmʌn.i/",
+    "pos": "n.",
+    "zh": "金錢，錢幣",
+    "ex": "Save pocket money in your piggy bank.",
+    "exzh": "把零用錢存進自己心愛的小豬存錢筒裡。",
+    "emoji": "💰",
     "pic": "",
     "單字": "money",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is money.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmʌn.i/",
+    "詞性": "n.",
+    "中文意思": "金錢，錢幣",
+    "英文例句": "Save pocket money in your piggy bank.",
+    "例句中文": "把零用錢存進自己心愛的小豬存錢筒裡。",
+    "表情符號": "💰",
+    "圖片": "",
+    "em": "💰",
+    "icon": "💰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "monkey",
@@ -21525,25 +27500,35 @@ var WORDS = [
     "英文例句": "Monkeys climb trees quickly.",
     "例句中文": "猴子爬樹爬得很快。",
     "表情符號": "🐵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐵",
+    "icon": "🐵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "monster",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is monster.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmɑːn.stɚ/",
+    "pos": "n.",
+    "zh": "怪獸，怪物",
+    "ex": "The cartoon monster was funny and cute.",
+    "exzh": "卡通裡的小怪獸長得既滑稽又很可愛。",
+    "emoji": "👾",
     "pic": "",
     "單字": "monster",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is monster.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmɑːn.stɚ/",
+    "詞性": "n.",
+    "中文意思": "怪獸，怪物",
+    "英文例句": "The cartoon monster was funny and cute.",
+    "例句中文": "卡通裡的小怪獸長得既滑稽又很可愛。",
+    "表情符號": "👾",
+    "圖片": "",
+    "em": "👾",
+    "icon": "👾",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "month",
@@ -21561,7 +27546,12 @@ var WORDS = [
     "英文例句": "Twelve months make one year.",
     "例句中文": "十二個月組成了一整年。",
     "表情符號": "🗓️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗓️",
+    "icon": "🗓️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "moon",
@@ -21579,7 +27569,12 @@ var WORDS = [
     "英文例句": "The moon shines at night.",
     "例句中文": "月亮在夜晚發光。",
     "表情符號": "🌙",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌙",
+    "icon": "🌙",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mop",
@@ -21597,25 +27592,35 @@ var WORDS = [
     "英文例句": "Mop the kitchen floor after dinner.",
     "例句中文": "晚餐後把廚房地板拖乾淨。",
     "表情符號": "🧹",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧹",
+    "icon": "🧹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "more",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is more.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/mɔːr/",
+    "pos": "adj./adv.",
+    "zh": "更多的",
+    "ex": "Eat more fresh green vegetables daily.",
+    "exzh": "每天多吃新鮮綠色蔬菜，少吃油炸垃圾食物。",
+    "emoji": "🥦",
     "pic": "",
     "單字": "more",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is more.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/mɔːr/",
+    "詞性": "adj./adv.",
+    "中文意思": "更多的",
+    "英文例句": "Eat more fresh green vegetables daily.",
+    "例句中文": "每天多吃新鮮綠色蔬菜，少吃油炸垃圾食物。",
+    "表情符號": "🥦",
+    "圖片": "",
+    "em": "🥦",
+    "icon": "🥦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "morning",
@@ -21633,7 +27638,12 @@ var WORDS = [
     "英文例句": "Good morning, everyone!",
     "例句中文": "大家早安！",
     "表情符號": "🌅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌅",
+    "icon": "🌅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mosquito",
@@ -21651,25 +27661,35 @@ var WORDS = [
     "英文例句": "Shoo away the annoying buzzing mosquito.",
     "例句中文": "把那隻嗡嗡叫討厭的蚊子趕走。",
     "表情符號": "🦟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦟",
+    "icon": "🦟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "most",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is most.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/moʊst/",
+    "pos": "adj./adv.",
+    "zh": "最多的",
+    "ex": "Most children love eating sweet chocolate.",
+    "exzh": "大多數的小朋友都很喜歡吃香甜的巧克力。",
+    "emoji": "🍫",
     "pic": "",
     "單字": "most",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is most.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/moʊst/",
+    "詞性": "adj./adv.",
+    "中文意思": "最多的",
+    "英文例句": "Most children love eating sweet chocolate.",
+    "例句中文": "大多數的小朋友都很喜歡吃香甜的巧克力。",
+    "表情符號": "🍫",
+    "圖片": "",
+    "em": "🍫",
+    "icon": "🍫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "motel",
@@ -21687,7 +27707,12 @@ var WORDS = [
     "英文例句": "Road travelers rest overnight at motel.",
     "例句中文": "長途開車的旅客在汽車旅館休息過夜。",
     "表情符號": "🏨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏨",
+    "icon": "🏨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mother",
@@ -21705,25 +27730,35 @@ var WORDS = [
     "英文例句": "She helps her mother cook.",
     "例句中文": "她幫媽媽煮飯。",
     "表情符號": "👩",
-    "圖片": ""
+    "圖片": "",
+    "em": "👩",
+    "icon": "👩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "motion",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is motion.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmoʊ.ʃən/",
+    "pos": "n.",
+    "zh": "動作，移動",
+    "ex": "Wave hand with a friendly slow motion.",
+    "exzh": "緩緩揮動手掌，做出友善親切的打招呼動作。",
+    "emoji": "👋",
     "pic": "",
     "單字": "motion",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is motion.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmoʊ.ʃən/",
+    "詞性": "n.",
+    "中文意思": "動作，移動",
+    "英文例句": "Wave hand with a friendly slow motion.",
+    "例句中文": "緩緩揮動手掌，做出友善親切的打招呼動作。",
+    "表情符號": "👋",
+    "圖片": "",
+    "em": "👋",
+    "icon": "👋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "motorcycle",
@@ -21741,25 +27776,35 @@ var WORDS = [
     "英文例句": "Wear a helmet on motorcycle.",
     "例句中文": "騎摩托車一定要戴安全帽。",
     "表情符號": "🏍️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏍️",
+    "icon": "🏍️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mountain",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is mountain.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmaʊn.tən/",
+    "pos": "n.",
+    "zh": "山，高山",
+    "ex": "Jade Mountain is the highest in Taiwan.",
+    "exzh": "玉山是台灣最高、風景最壯麗的神聖高山。",
+    "emoji": "🏔️",
     "pic": "",
     "單字": "mountain",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is mountain.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmaʊn.tən/",
+    "詞性": "n.",
+    "中文意思": "山，高山",
+    "英文例句": "Jade Mountain is the highest in Taiwan.",
+    "例句中文": "玉山是台灣最高、風景最壯麗的神聖高山。",
+    "表情符號": "🏔️",
+    "圖片": "",
+    "em": "🏔️",
+    "icon": "🏔️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mouse",
@@ -21777,7 +27822,12 @@ var WORDS = [
     "英文例句": "A tiny mouse eats cheese.",
     "例句中文": "一隻小老鼠在吃起司。",
     "表情符號": "🐭",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐭",
+    "icon": "🐭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mouth",
@@ -21795,7 +27845,12 @@ var WORDS = [
     "英文例句": "Open your mouth, please.",
     "例句中文": "請張開嘴巴。",
     "表情符號": "👄",
-    "圖片": ""
+    "圖片": "",
+    "em": "👄",
+    "icon": "👄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "move",
@@ -21813,43 +27868,58 @@ var WORDS = [
     "英文例句": "Move the wooden chair closer.",
     "例句中文": "把木椅子往前面移近一點。",
     "表情符號": "🪑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪑",
+    "icon": "🪑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "movement",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is movement.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmuːv.mənt/",
+    "pos": "n.",
+    "zh": "運動，活動",
+    "ex": "Exercise helps body joint movement.",
+    "exzh": "伸展體操有助於促進身體各處關節的靈活性。",
+    "emoji": "🤸",
     "pic": "",
     "單字": "movement",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is movement.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmuːv.mənt/",
+    "詞性": "n.",
+    "中文意思": "運動，活動",
+    "英文例句": "Exercise helps body joint movement.",
+    "例句中文": "伸展體操有助於促進身體各處關節的靈活性。",
+    "表情符號": "🤸",
+    "圖片": "",
+    "em": "🤸",
+    "icon": "🤸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "movie",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is movie.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmuː.vi/",
+    "pos": "n.",
+    "zh": "電影",
+    "ex": "We watched a funny family comedy movie.",
+    "exzh": "全家人週末一起看了一部爆笑溫馨的喜劇電影。",
+    "emoji": "🎬",
     "pic": "",
     "單字": "movie",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is movie.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmuː.vi/",
+    "詞性": "n.",
+    "中文意思": "電影",
+    "英文例句": "We watched a funny family comedy movie.",
+    "例句中文": "全家人週末一起看了一部爆笑溫馨的喜劇電影。",
+    "表情符號": "🎬",
+    "圖片": "",
+    "em": "🎬",
+    "icon": "🎬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "movie theater",
@@ -21867,97 +27937,127 @@ var WORDS = [
     "英文例句": "We eat popcorn at movie theater.",
     "例句中文": "我們在電影院吃爆米花。",
     "表情符號": "🍿",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍿",
+    "icon": "🍿",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Mr.",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is Mr..",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmɪs.tɚ/",
+    "pos": "n.",
+    "zh": "先生",
+    "ex": "Mr. Wang is our kind English teacher.",
+    "exzh": "王先生是我們學校非常親切認真的英文老師。",
+    "emoji": "👨",
     "pic": "",
     "單字": "Mr.",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is Mr..",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmɪs.tɚ/",
+    "詞性": "n.",
+    "中文意思": "先生",
+    "英文例句": "Mr. Wang is our kind English teacher.",
+    "例句中文": "王先生是我們學校非常親切認真的英文老師。",
+    "表情符號": "👨",
+    "圖片": "",
+    "em": "👨",
+    "icon": "👨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Mrs.",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is Mrs..",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈmɪs.ɪz/",
+    "pos": "n.",
+    "zh": "夫人，太太",
+    "ex": "Mrs. Lin gave us sweet home-baked cookies.",
+    "exzh": "林太太送給我們親手烘烤的手工巧克力餅乾。",
+    "emoji": "👩",
     "pic": "",
     "單字": "Mrs.",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is Mrs..",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈmɪs.ɪz/",
+    "詞性": "n.",
+    "中文意思": "夫人，太太",
+    "英文例句": "Mrs. Lin gave us sweet home-baked cookies.",
+    "例句中文": "林太太送給我們親手烘烤的手工巧克力餅乾。",
+    "表情符號": "👩",
+    "圖片": "",
+    "em": "👩",
+    "icon": "👩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "MRT",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is MRT.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌem.ɑːrˈtiː/",
+    "pos": "n.",
+    "zh": "捷運（大眾捷運系統）",
+    "ex": "Take the fast MRT to Taipei Zoo.",
+    "exzh": "搭乘便捷的大眾捷運系統去市立動物園玩。",
+    "emoji": "🚇",
     "pic": "",
     "單字": "MRT",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is MRT.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌem.ɑːrˈtiː/",
+    "詞性": "n.",
+    "中文意思": "捷運（大眾捷運系統）",
+    "英文例句": "Take the fast MRT to Taipei Zoo.",
+    "例句中文": "搭乘便捷的大眾捷運系統去市立動物園玩。",
+    "表情符號": "🚇",
+    "圖片": "",
+    "em": "🚇",
+    "icon": "🚇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Ms.",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is Ms..",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/mɪz/",
+    "pos": "n.",
+    "zh": "女士，小姐",
+    "ex": "Ms. Chen guided our morning library tour.",
+    "exzh": "陳女士耐心地帶領我們參觀圖書館各樓層。",
+    "emoji": "👩",
     "pic": "",
     "單字": "Ms.",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is Ms..",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/mɪz/",
+    "詞性": "n.",
+    "中文意思": "女士，小姐",
+    "英文例句": "Ms. Chen guided our morning library tour.",
+    "例句中文": "陳女士耐心地帶領我們參觀圖書館各樓層。",
+    "表情符號": "👩",
+    "圖片": "",
+    "em": "👩",
+    "icon": "👩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "much",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is much.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/mʌtʃ/",
+    "pos": "adj./adv.",
+    "zh": "許多的；非常",
+    "ex": "Thank you very much for your great help.",
+    "exzh": "非常感謝你熱情伸出援手給予我的即時幫助。",
+    "emoji": "🙏",
     "pic": "",
     "單字": "much",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is much.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/mʌtʃ/",
+    "詞性": "adj./adv.",
+    "中文意思": "許多的；非常",
+    "英文例句": "Thank you very much for your great help.",
+    "例句中文": "非常感謝你熱情伸出援手給予我的即時幫助。",
+    "表情符號": "🙏",
+    "圖片": "",
+    "em": "🙏",
+    "icon": "🙏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mud",
@@ -21975,7 +28075,12 @@ var WORDS = [
     "英文例句": "Pigs enjoy rolling in cool mud.",
     "例句中文": "小豬喜歡在涼涼的泥巴裡打滾。",
     "表情符號": "🤎",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤎",
+    "icon": "🤎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "museum",
@@ -21993,7 +28098,12 @@ var WORDS = [
     "英文例句": "See ancient dinosaur fossils at museum.",
     "例句中文": "在博物館觀賞古老恐龍化石。",
     "表情符號": "🏛️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏛️",
+    "icon": "🏛️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "mushroom",
@@ -22011,7 +28121,12 @@ var WORDS = [
     "英文例句": "Add mushrooms to the tomato pasta.",
     "例句中文": "在番茄義大利麵裡加入蘑菇。",
     "表情符號": "🍄",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍄",
+    "icon": "🍄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "music",
@@ -22029,7 +28144,12 @@ var WORDS = [
     "英文例句": "Sing in tune during music lesson.",
     "例句中文": "在音樂課上跟著節奏合唱。",
     "表情符號": "🎵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎵",
+    "icon": "🎵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "music player",
@@ -22047,25 +28167,35 @@ var WORDS = [
     "英文例句": "She listens to songs on her music player.",
     "例句中文": "她用音樂播放器聽歌。",
     "表情符號": "🎵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎵",
+    "icon": "🎵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "musician",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is musician.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/mjuːˈzɪʃ.ən/",
+    "pos": "n.",
+    "zh": "音樂家",
+    "ex": "The talented musician plays violin beautifully.",
+    "exzh": "有才華的音樂家把小提琴演奏得極為動聽。",
+    "emoji": "🎻",
     "pic": "",
     "單字": "musician",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is musician.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/mjuːˈzɪʃ.ən/",
+    "詞性": "n.",
+    "中文意思": "音樂家",
+    "英文例句": "The talented musician plays violin beautifully.",
+    "例句中文": "有才華的音樂家把小提琴演奏得極為動聽。",
+    "表情符號": "🎻",
+    "圖片": "",
+    "em": "🎻",
+    "icon": "🎻",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "must",
@@ -22083,151 +28213,196 @@ var WORDS = [
     "英文例句": "We must keep the room clean.",
     "例句中文": "我們必須保持房間乾淨。",
     "表情符號": "🧹",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧹",
+    "icon": "🧹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "my",
     "ph": "/maɪ/",
     "pos": "pron.",
     "zh": "我的",
-    "ex": "This is my puppy.",
-    "exzh": "這是我的小狗。",
-    "emoji": "🐶",
+    "ex": "Look at my new drawing book.",
+    "exzh": "看看我的新畫冊。",
+    "emoji": "📖",
     "pic": "",
     "單字": "my",
     "音標": "/maɪ/",
     "詞性": "pron.",
     "中文意思": "我的",
-    "英文例句": "This is my puppy.",
-    "例句中文": "這是我的小狗。",
-    "表情符號": "🐶",
-    "圖片": ""
+    "英文例句": "Look at my new drawing book.",
+    "例句中文": "看看我的新畫冊。",
+    "表情符號": "📖",
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nail",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is nail.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/neɪl/",
+    "pos": "n.",
+    "zh": "指甲；鐵釘",
+    "ex": "Keep your finger nails short and clean.",
+    "exzh": "定期用指甲剪把雙手指甲修剪得乾淨衛生。",
+    "emoji": "💅",
     "pic": "",
     "單字": "nail",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is nail.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/neɪl/",
+    "詞性": "n.",
+    "中文意思": "指甲；鐵釘",
+    "英文例句": "Keep your finger nails short and clean.",
+    "例句中文": "定期用指甲剪把雙手指甲修剪得乾淨衛生。",
+    "表情符號": "💅",
+    "圖片": "",
+    "em": "💅",
+    "icon": "💅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "name",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is name.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/neɪm/",
+    "pos": "n./v.",
+    "zh": "名字；命名",
+    "ex": "Write your full name on the test paper.",
+    "exzh": "在期中考卷上方的指定欄位工整簽上名字。",
+    "emoji": "✍️",
     "pic": "",
     "單字": "name",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is name.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/neɪm/",
+    "詞性": "n./v.",
+    "中文意思": "名字；命名",
+    "英文例句": "Write your full name on the test paper.",
+    "例句中文": "在期中考卷上方的指定欄位工整簽上名字。",
+    "表情符號": "✍️",
+    "圖片": "",
+    "em": "✍️",
+    "icon": "✍️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "napkin",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is napkin.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈnæp.kɪn/",
+    "pos": "n.",
+    "zh": "餐巾紙",
+    "ex": "Wipe mouth with clean paper napkin.",
+    "exzh": "吃完可口的點心後，用乾淨的餐巾紙擦擦嘴巴。",
+    "emoji": "🧻",
     "pic": "",
     "單字": "napkin",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is napkin.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈnæp.kɪn/",
+    "詞性": "n.",
+    "中文意思": "餐巾紙",
+    "英文例句": "Wipe mouth with clean paper napkin.",
+    "例句中文": "吃完可口的點心後，用乾淨的餐巾紙擦擦嘴巴。",
+    "表情符號": "🧻",
+    "圖片": "",
+    "em": "🧻",
+    "icon": "🧻",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "narrow",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is narrow.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈner.oʊ/",
+    "pos": "adj.",
+    "zh": "狹窄的",
+    "ex": "Cars cannot enter this narrow alley.",
+    "exzh": "這條巷弄非常狹窄，大汽車無法直接開進去。",
+    "emoji": "🛣️",
     "pic": "",
     "單字": "narrow",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is narrow.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈner.oʊ/",
+    "詞性": "adj.",
+    "中文意思": "狹窄的",
+    "英文例句": "Cars cannot enter this narrow alley.",
+    "例句中文": "這條巷弄非常狹窄，大汽車無法直接開進去。",
+    "表情符號": "🛣️",
+    "圖片": "",
+    "em": "🛣️",
+    "icon": "🛣️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nation",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is nation.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈneɪ.ʃən/",
+    "pos": "n.",
+    "zh": "國家，國民",
+    "ex": "Citizens work hard to build strong nation.",
+    "exzh": "全體國民團結一心，共同建設繁榮和平的國家。",
+    "emoji": "🏛️",
     "pic": "",
     "單字": "nation",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is nation.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈneɪ.ʃən/",
+    "詞性": "n.",
+    "中文意思": "國家，國民",
+    "英文例句": "Citizens work hard to build strong nation.",
+    "例句中文": "全體國民團結一心，共同建設繁榮和平的國家。",
+    "表情符號": "🏛️",
+    "圖片": "",
+    "em": "🏛️",
+    "icon": "🏛️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "national",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is national.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈnæʃ.ən.əl/",
+    "pos": "adj.",
+    "zh": "國家的，國立的",
+    "ex": "Visit the National Palace Museum in Taipei.",
+    "exzh": "放假時相約參觀台北故宮博物院豐富的館藏。",
+    "emoji": "🏛️",
     "pic": "",
     "單字": "national",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is national.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈnæʃ.ən.əl/",
+    "詞性": "adj.",
+    "中文意思": "國家的，國立的",
+    "英文例句": "Visit the National Palace Museum in Taipei.",
+    "例句中文": "放假時相約參觀台北故宮博物院豐富的館藏。",
+    "表情符號": "🏛️",
+    "圖片": "",
+    "em": "🏛️",
+    "icon": "🏛️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "natural",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is natural.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈnætʃ.ɚ.əl/",
+    "pos": "adj.",
+    "zh": "天然的，大自然的",
+    "ex": "Honey is a sweet natural food product.",
+    "exzh": "天然香純的蜂蜜是大自然賜予我們的甜美食物。",
+    "emoji": "🍯",
     "pic": "",
     "單字": "natural",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is natural.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈnætʃ.ɚ.əl/",
+    "詞性": "adj.",
+    "中文意思": "天然的，大自然的",
+    "英文例句": "Honey is a sweet natural food product.",
+    "例句中文": "天然香純的蜂蜜是大自然賜予我們的甜美食物。",
+    "表情符號": "🍯",
+    "圖片": "",
+    "em": "🍯",
+    "icon": "🍯",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nature",
@@ -22245,25 +28420,35 @@ var WORDS = [
     "英文例句": "Enjoy the peace of beautiful nature.",
     "例句中文": "享受美麗大自然的寧靜美好。",
     "表情符號": "🌲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌲",
+    "icon": "🌲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "naughty",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is naughty.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈnɑː.t̬i/",
+    "pos": "adj.",
+    "zh": "頑皮淘氣的",
+    "ex": "The naughty kitten knocked down the cup.",
+    "exzh": "頑皮淘氣的小貓咪不小心把桌上的水杯碰倒了。",
+    "emoji": "🐱",
     "pic": "",
     "單字": "naughty",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is naughty.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈnɑː.t̬i/",
+    "詞性": "adj.",
+    "中文意思": "頑皮淘氣的",
+    "英文例句": "The naughty kitten knocked down the cup.",
+    "例句中文": "頑皮淘氣的小貓咪不小心把桌上的水杯碰倒了。",
+    "表情符號": "🐱",
+    "圖片": "",
+    "em": "🐱",
+    "icon": "🐱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "near",
@@ -22281,25 +28466,35 @@ var WORDS = [
     "英文例句": "The park is near our home.",
     "例句中文": "公園離我們家很近。",
     "表情符號": "🏞️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏞️",
+    "icon": "🏞️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nearly",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is nearly.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈnɪr.li/",
+    "pos": "adv.",
+    "zh": "幾乎，將近",
+    "ex": "We have nearly finished the giant puzzle.",
+    "exzh": "我們已經快要把這幅一千片大拼圖拼湊完成了。",
+    "emoji": "🧩",
     "pic": "",
     "單字": "nearly",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is nearly.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈnɪr.li/",
+    "詞性": "adv.",
+    "中文意思": "幾乎，將近",
+    "英文例句": "We have nearly finished the giant puzzle.",
+    "例句中文": "我們已經快要把這幅一千片大拼圖拼湊完成了。",
+    "表情符號": "🧩",
+    "圖片": "",
+    "em": "🧩",
+    "icon": "🧩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "neat",
@@ -22317,25 +28512,35 @@ var WORDS = [
     "英文例句": "Keep your desk neat and tidy.",
     "例句中文": "保持你的書桌檯面乾淨整齊。",
     "表情符號": "🪑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪑",
+    "icon": "🪑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "necessary",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is necessary.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈnes.ə.ser.i/",
+    "pos": "adj.",
+    "zh": "必要的，必需的",
+    "ex": "Drinking enough water is necessary for health.",
+    "exzh": "充足補充水分是維持身體新陳代謝所必需的。",
+    "emoji": "💧",
     "pic": "",
     "單字": "necessary",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is necessary.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈnes.ə.ser.i/",
+    "詞性": "adj.",
+    "中文意思": "必要的，必需的",
+    "英文例句": "Drinking enough water is necessary for health.",
+    "例句中文": "充足補充水分是維持身體新陳代謝所必需的。",
+    "表情符號": "💧",
+    "圖片": "",
+    "em": "💧",
+    "icon": "💧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "neck",
@@ -22353,7 +28558,12 @@ var WORDS = [
     "英文例句": "Giraffes have very tall necks.",
     "例句中文": "長頸鹿有非常長的脖子。",
     "表情符號": "🦒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦒",
+    "icon": "🦒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "necklace",
@@ -22371,25 +28581,35 @@ var WORDS = [
     "英文例句": "A pretty bead necklace.",
     "例句中文": "一條漂亮的彩色珠子項鍊。",
     "表情符號": "📿",
-    "圖片": ""
+    "圖片": "",
+    "em": "📿",
+    "icon": "📿",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "need",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is need.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/niːd/",
+    "pos": "v./n.",
+    "zh": "需要",
+    "ex": "I need a sharp pencil to write notes.",
+    "exzh": "我需要一支削好的鉛筆來做課堂手寫筆記。",
+    "emoji": "✏️",
     "pic": "",
     "單字": "need",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is need.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/niːd/",
+    "詞性": "v./n.",
+    "中文意思": "需要",
+    "英文例句": "I need a sharp pencil to write notes.",
+    "例句中文": "我需要一支削好的鉛筆來做課堂手寫筆記。",
+    "表情符號": "✏️",
+    "圖片": "",
+    "em": "✏️",
+    "icon": "✏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "needle",
@@ -22407,79 +28627,104 @@ var WORDS = [
     "英文例句": "Thread the sewing needle carefully.",
     "例句中文": "小心翼翼地把縫紉線穿過針眼。",
     "表情符號": "🪡",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪡",
+    "icon": "🪡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "negative",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is negative.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈneɡ.ə.t̬ɪv/",
+    "pos": "adj.",
+    "zh": "負面的，消極的",
+    "ex": "Turn negative thoughts into positive power.",
+    "exzh": "把沮喪消極的負面想法轉化為向上進取的動力。",
+    "emoji": "💡",
     "pic": "",
     "單字": "negative",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is negative.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈneɡ.ə.t̬ɪv/",
+    "詞性": "adj.",
+    "中文意思": "負面的，消極的",
+    "英文例句": "Turn negative thoughts into positive power.",
+    "例句中文": "把沮喪消極的負面想法轉化為向上進取的動力。",
+    "表情符號": "💡",
+    "圖片": "",
+    "em": "💡",
+    "icon": "💡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "neighbor",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is neighbor.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈneɪ.bɚ/",
+    "pos": "n.",
+    "zh": "鄰居",
+    "ex": "Our kind neighbor baked sweet apple pie.",
+    "exzh": "熱心的好鄰居阿姨烘烤了香甜的蘋果派分享。",
+    "emoji": "🏡",
     "pic": "",
     "單字": "neighbor",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is neighbor.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈneɪ.bɚ/",
+    "詞性": "n.",
+    "中文意思": "鄰居",
+    "英文例句": "Our kind neighbor baked sweet apple pie.",
+    "例句中文": "熱心的好鄰居阿姨烘烤了香甜的蘋果派分享。",
+    "表情符號": "🏡",
+    "圖片": "",
+    "em": "🏡",
+    "icon": "🏡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "neither",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is neither.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈniː.ðɚ/",
+    "pos": "pron./adv.",
+    "zh": "兩者皆非；也不",
+    "ex": "Neither of the two books is difficult.",
+    "exzh": "這兩本課外英文童書難度適中，都不會太難。",
+    "emoji": "📖",
     "pic": "",
     "單字": "neither",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is neither.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈniː.ðɚ/",
+    "詞性": "pron./adv.",
+    "中文意思": "兩者皆非；也不",
+    "英文例句": "Neither of the two books is difficult.",
+    "例句中文": "這兩本課外英文童書難度適中，都不會太難。",
+    "表情符號": "📖",
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nephew",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is nephew.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈnef.juː/",
+    "pos": "n.",
+    "zh": "侄子，外甥",
+    "ex": "My aunt bought gifts for her cute nephew.",
+    "exzh": "姑姑為她聰慧活潑的可愛小侄子挑選了新玩具。",
+    "emoji": "👦",
     "pic": "",
     "單字": "nephew",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is nephew.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈnef.juː/",
+    "詞性": "n.",
+    "中文意思": "侄子，外甥",
+    "英文例句": "My aunt bought gifts for her cute nephew.",
+    "例句中文": "姑姑為她聰慧活潑的可愛小侄子挑選了新玩具。",
+    "表情符號": "👦",
+    "圖片": "",
+    "em": "👦",
+    "icon": "👦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nervous",
@@ -22497,61 +28742,81 @@ var WORDS = [
     "英文例句": "Take deep breaths when feeling nervous.",
     "例句中文": "感到緊張時深呼吸幾次讓心情平復。",
     "表情符號": "😰",
-    "圖片": ""
+    "圖片": "",
+    "em": "😰",
+    "icon": "😰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nest",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is nest.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/nest/",
+    "pos": "n.",
+    "zh": "鳥巢，鳥窩",
+    "ex": "A bird built a cozy twig nest in tree.",
+    "exzh": "小鳥在綠樹枝頭用細樹枝築起溫暖安全的鳥巢。",
+    "emoji": "🪺",
     "pic": "",
     "單字": "nest",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is nest.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/nest/",
+    "詞性": "n.",
+    "中文意思": "鳥巢，鳥窩",
+    "英文例句": "A bird built a cozy twig nest in tree.",
+    "例句中文": "小鳥在綠樹枝頭用細樹枝築起溫暖安全的鳥巢。",
+    "表情符號": "🪺",
+    "圖片": "",
+    "em": "🪺",
+    "icon": "🪺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "net",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is net.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/net/",
+    "pos": "n.",
+    "zh": "網子，球網",
+    "ex": "The tennis ball flew over the green net.",
+    "exzh": "網球以一道漂亮的弧線越過球場中央的綠球網。",
+    "emoji": "🎾",
     "pic": "",
     "單字": "net",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is net.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/net/",
+    "詞性": "n.",
+    "中文意思": "網子，球網",
+    "英文例句": "The tennis ball flew over the green net.",
+    "例句中文": "網球以一道漂亮的弧線越過球場中央的綠球網。",
+    "表情符號": "🎾",
+    "圖片": "",
+    "em": "🎾",
+    "icon": "🎾",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "never",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is never.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈnev.ɚ/",
+    "pos": "adv.",
+    "zh": "從不，絕不",
+    "ex": "Never give up when learning new things.",
+    "exzh": "在學習新知識和新技能時，永遠不要輕言放棄。",
+    "emoji": "💪",
     "pic": "",
     "單字": "never",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is never.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈnev.ɚ/",
+    "詞性": "adv.",
+    "中文意思": "從不，絕不",
+    "英文例句": "Never give up when learning new things.",
+    "例句中文": "在學習新知識和新技能時，永遠不要輕言放棄。",
+    "表情符號": "💪",
+    "圖片": "",
+    "em": "💪",
+    "icon": "💪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "new",
@@ -22569,61 +28834,81 @@ var WORDS = [
     "英文例句": "Look at my new schoolbag.",
     "例句中文": "看看我的新書包。",
     "表情符號": "✨",
-    "圖片": ""
+    "圖片": "",
+    "em": "✨",
+    "icon": "✨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "news",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is news.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/nuːz/",
+    "pos": "n.",
+    "zh": "新聞，消息",
+    "ex": "We watch evening TV news with family.",
+    "exzh": "晚飯後我們和全家人一起觀看電視新聞播報。",
+    "emoji": "📰",
     "pic": "",
     "單字": "news",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is news.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/nuːz/",
+    "詞性": "n.",
+    "中文意思": "新聞，消息",
+    "英文例句": "We watch evening TV news with family.",
+    "例句中文": "晚飯後我們和全家人一起觀看電視新聞播報。",
+    "表情符號": "📰",
+    "圖片": "",
+    "em": "📰",
+    "icon": "📰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "newspaper",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is newspaper.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈnuːzˌpeɪ.pɚ/",
+    "pos": "n.",
+    "zh": "報紙",
+    "ex": "Grandpa reads the morning paper daily.",
+    "exzh": "爺爺每天早晨都坐在陽台沙發上看晨間報紙。",
+    "emoji": "🗞️",
     "pic": "",
     "單字": "newspaper",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is newspaper.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈnuːzˌpeɪ.pɚ/",
+    "詞性": "n.",
+    "中文意思": "報紙",
+    "英文例句": "Grandpa reads the morning paper daily.",
+    "例句中文": "爺爺每天早晨都坐在陽台沙發上看晨間報紙。",
+    "表情符號": "🗞️",
+    "圖片": "",
+    "em": "🗞️",
+    "icon": "🗞️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "next",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is next.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/nekst/",
+    "pos": "adj./adv.",
+    "zh": "下一個；接著",
+    "ex": "Who is the next person in line, please?",
+    "exzh": "請問排隊隊伍中的下一位同學輪到哪一位了？",
+    "emoji": "⏩",
     "pic": "",
     "單字": "next",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is next.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/nekst/",
+    "詞性": "adj./adv.",
+    "中文意思": "下一個；接著",
+    "英文例句": "Who is the next person in line, please?",
+    "例句中文": "請問排隊隊伍中的下一位同學輪到哪一位了？",
+    "表情符號": "⏩",
+    "圖片": "",
+    "em": "⏩",
+    "icon": "⏩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nice",
@@ -22641,43 +28926,58 @@ var WORDS = [
     "英文例句": "It is nice to make new friends.",
     "例句中文": "能夠結交新朋友是一件美好的事。",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nice-looking",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is nice-looking.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌnaɪsˈlʊk.ɪŋ/",
+    "pos": "adj.",
+    "zh": "好看的，英俊美麗的",
+    "ex": "He wore a very nice-looking clean shirt.",
+    "exzh": "他今天穿著一件非常體面好看的白色休閒襯衫。",
+    "emoji": "👔",
     "pic": "",
     "單字": "nice-looking",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is nice-looking.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌnaɪsˈlʊk.ɪŋ/",
+    "詞性": "adj.",
+    "中文意思": "好看的，英俊美麗的",
+    "英文例句": "He wore a very nice-looking clean shirt.",
+    "例句中文": "他今天穿著一件非常體面好看的白色休閒襯衫。",
+    "表情符號": "👔",
+    "圖片": "",
+    "em": "👔",
+    "icon": "👔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "niece",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is niece.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/niːs/",
+    "pos": "n.",
+    "zh": "侄女，外甥女",
+    "ex": "Uncle bought a pink doll for his little niece.",
+    "exzh": "叔叔買了一個精緻可愛的粉紅洋娃娃送給侄女。",
+    "emoji": "👧",
     "pic": "",
     "單字": "niece",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is niece.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/niːs/",
+    "詞性": "n.",
+    "中文意思": "侄女，外甥女",
+    "英文例句": "Uncle bought a pink doll for his little niece.",
+    "例句中文": "叔叔買了一個精緻可愛的粉紅洋娃娃送給侄女。",
+    "表情符號": "👧",
+    "圖片": "",
+    "em": "👧",
+    "icon": "👧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "night",
@@ -22695,7 +28995,12 @@ var WORDS = [
     "英文例句": "Stars shine at night.",
     "例句中文": "星星在夜晚閃閃發光。",
     "表情符號": "🌙",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌙",
+    "icon": "🌙",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nine",
@@ -22713,7 +29018,12 @@ var WORDS = [
     "英文例句": "Count from one to nine.",
     "例句中文": "從一數到九。",
     "表情符號": "9️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "9️⃣",
+    "icon": "9️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nineteen",
@@ -22731,7 +29041,12 @@ var WORDS = [
     "英文例句": "Nineteen pages left to read.",
     "例句中文": "還剩下十九頁要讀完。",
     "表情符號": "1️⃣9️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "1️⃣9️⃣",
+    "icon": "1️⃣9️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ninety",
@@ -22749,43 +29064,58 @@ var WORDS = [
     "英文例句": "Ninety points on the math test.",
     "例句中文": "數學測驗考了九十分。",
     "表情符號": "9️⃣0️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "9️⃣0️⃣",
+    "icon": "9️⃣0️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "no",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is no.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/noʊ/",
+    "pos": "adv./adj.",
+    "zh": "不，沒有",
+    "ex": "There is no noise in silent library.",
+    "exzh": "保持安靜的圖書館閱覽室裡完全沒有嘈雜噪音。",
+    "emoji": "🤫",
     "pic": "",
     "單字": "no",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is no.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/noʊ/",
+    "詞性": "adv./adj.",
+    "中文意思": "不，沒有",
+    "英文例句": "There is no noise in silent library.",
+    "例句中文": "保持安靜的圖書館閱覽室裡完全沒有嘈雜噪音。",
+    "表情符號": "🤫",
+    "圖片": "",
+    "em": "🤫",
+    "icon": "🤫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nobody",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is nobody.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈnoʊ.bə.di/",
+    "pos": "pron.",
+    "zh": "沒有人",
+    "ex": "Nobody was hurt in the small rain fall.",
+    "exzh": "剛才在濕滑地面滑了一下，所幸沒有任何人受傷。",
+    "emoji": "👌",
     "pic": "",
     "單字": "nobody",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is nobody.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈnoʊ.bə.di/",
+    "詞性": "pron.",
+    "中文意思": "沒有人",
+    "英文例句": "Nobody was hurt in the small rain fall.",
+    "例句中文": "剛才在濕滑地面滑了一下，所幸沒有任何人受傷。",
+    "表情符號": "👌",
+    "圖片": "",
+    "em": "👌",
+    "icon": "👌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nod",
@@ -22803,25 +29133,35 @@ var WORDS = [
     "英文例句": "Nod your head if you understand.",
     "例句中文": "如果你聽懂了就點點頭。",
     "表情符號": "🙂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙂",
+    "icon": "🙂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "noise",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is noise.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/nɔɪz/",
+    "pos": "n.",
+    "zh": "噪音，聲響",
+    "ex": "Loud street noise makes it hard to sleep.",
+    "exzh": "窗外馬路上的刺耳車流噪音會讓人難以安睡入眠。",
+    "emoji": "📢",
     "pic": "",
     "單字": "noise",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is noise.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/nɔɪz/",
+    "詞性": "n.",
+    "中文意思": "噪音，聲響",
+    "英文例句": "Loud street noise makes it hard to sleep.",
+    "例句中文": "窗外馬路上的刺耳車流噪音會讓人難以安睡入眠。",
+    "表情符號": "📢",
+    "圖片": "",
+    "em": "📢",
+    "icon": "📢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "noisy",
@@ -22839,25 +29179,35 @@ var WORDS = [
     "英文例句": "The busy street is noisy.",
     "例句中文": "熱鬧的街道很吵鬧。",
     "表情符號": "📢",
-    "圖片": ""
+    "圖片": "",
+    "em": "📢",
+    "icon": "📢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "none",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is none.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/nʌn/",
+    "pos": "pron.",
+    "zh": "毫無，全無",
+    "ex": "None of my pencils are broken today.",
+    "exzh": "經過一整天的細心愛護，我的鉛筆沒有一支斷芯。",
+    "emoji": "✏️",
     "pic": "",
     "單字": "none",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is none.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/nʌn/",
+    "詞性": "pron.",
+    "中文意思": "毫無，全無",
+    "英文例句": "None of my pencils are broken today.",
+    "例句中文": "經過一整天的細心愛護，我的鉛筆沒有一支斷芯。",
+    "表情符號": "✏️",
+    "圖片": "",
+    "em": "✏️",
+    "icon": "✏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "noodle",
@@ -22875,61 +29225,81 @@ var WORDS = [
     "英文例句": "Hot noodles are delicious.",
     "例句中文": "熱騰騰的麵條很好吃。",
     "表情符號": "🍜",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍜",
+    "icon": "🍜",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "noon",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is noon.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/nuːn/",
+    "pos": "n.",
+    "zh": "正午，中午",
+    "ex": "We eat hot lunch together at twelve noon.",
+    "exzh": "中午十二點正午時分，大家聚在教室吃午餐便當。",
+    "emoji": "🕛",
     "pic": "",
     "單字": "noon",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is noon.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/nuːn/",
+    "詞性": "n.",
+    "中文意思": "正午，中午",
+    "英文例句": "We eat hot lunch together at twelve noon.",
+    "例句中文": "中午十二點正午時分，大家聚在教室吃午餐便當。",
+    "表情符號": "🕛",
+    "圖片": "",
+    "em": "🕛",
+    "icon": "🕛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nor",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is nor.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/nɔːr/",
+    "pos": "conj.",
+    "zh": "也不",
+    "ex": "I neither like cold wind nor heavy rain.",
+    "exzh": "我既不喜歡冷冽的寒風，也不喜歡狂暴的暴雨。",
+    "emoji": "🌧️",
     "pic": "",
     "單字": "nor",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is nor.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/nɔːr/",
+    "詞性": "conj.",
+    "中文意思": "也不",
+    "英文例句": "I neither like cold wind nor heavy rain.",
+    "例句中文": "我既不喜歡冷冽的寒風，也不喜歡狂暴的暴雨。",
+    "表情符號": "🌧️",
+    "圖片": "",
+    "em": "🌧️",
+    "icon": "🌧️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "north",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is north.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/nɔːrθ/",
+    "pos": "n./adj.",
+    "zh": "北方，北邊",
+    "ex": "The compass always points to the true north.",
+    "exzh": "手中的指南針指針永遠精準指向地球的地理北方。",
+    "emoji": "🧭",
     "pic": "",
     "單字": "north",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is north.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/nɔːrθ/",
+    "詞性": "n./adj.",
+    "中文意思": "北方，北邊",
+    "英文例句": "The compass always points to the true north.",
+    "例句中文": "手中的指南針指針永遠精準指向地球的地理北方。",
+    "表情符號": "🧭",
+    "圖片": "",
+    "em": "🧭",
+    "icon": "🧭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nose",
@@ -22947,7 +29317,12 @@ var WORDS = [
     "英文例句": "He pointed to his nose.",
     "例句中文": "他指著他的鼻子。",
     "表情符號": "👃",
-    "圖片": ""
+    "圖片": "",
+    "em": "👃",
+    "icon": "👃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "not",
@@ -22965,25 +29340,35 @@ var WORDS = [
     "英文例句": "I am not angry.",
     "例句中文": "我沒有生氣。",
     "表情符號": "🙂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙂",
+    "icon": "🙂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "note",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is note.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/noʊt/",
+    "pos": "n./v.",
+    "zh": "筆記；便條；注意",
+    "ex": "Write down important notes in diary.",
+    "exzh": "在隨身筆記本上隨手記下老師強調的考試重點。",
+    "emoji": "📝",
     "pic": "",
     "單字": "note",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is note.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/noʊt/",
+    "詞性": "n./v.",
+    "中文意思": "筆記；便條；注意",
+    "英文例句": "Write down important notes in diary.",
+    "例句中文": "在隨身筆記本上隨手記下老師強調的考試重點。",
+    "表情符號": "📝",
+    "圖片": "",
+    "em": "📝",
+    "icon": "📝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "notebook",
@@ -23001,25 +29386,35 @@ var WORDS = [
     "英文例句": "Write notes in your notebook.",
     "例句中文": "在筆記本上記筆記。",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nothing",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is nothing.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈnʌθ.ɪŋ/",
+    "pos": "pron.",
+    "zh": "沒有事物，微不足道",
+    "ex": "There is nothing in the empty backpack.",
+    "exzh": "翻開空書包裡面空空如也，沒有裝任何東西。",
+    "emoji": "🎒",
     "pic": "",
     "單字": "nothing",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is nothing.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈnʌθ.ɪŋ/",
+    "詞性": "pron.",
+    "中文意思": "沒有事物，微不足道",
+    "英文例句": "There is nothing in the empty backpack.",
+    "例句中文": "翻開空書包裡面空空如也，沒有裝任何東西。",
+    "表情符號": "🎒",
+    "圖片": "",
+    "em": "🎒",
+    "icon": "🎒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "notice",
@@ -23037,25 +29432,35 @@ var WORDS = [
     "英文例句": "Notice the colorful little butterflies.",
     "例句中文": "注意到那些色彩繽紛的小蝴蝶。",
     "表情符號": "🦋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦋",
+    "icon": "🦋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "novel",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is novel.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈnɑː.vəl/",
+    "pos": "n.",
+    "zh": "長篇小說",
+    "ex": "She enjoys reading adventure novels.",
+    "exzh": "她在週末空閒時最喜歡閱讀精彩刺激的冒險小說。",
+    "emoji": "📖",
     "pic": "",
     "單字": "novel",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is novel.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈnɑː.vəl/",
+    "詞性": "n.",
+    "中文意思": "長篇小說",
+    "英文例句": "She enjoys reading adventure novels.",
+    "例句中文": "她在週末空閒時最喜歡閱讀精彩刺激的冒險小說。",
+    "表情符號": "📖",
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "November",
@@ -23073,7 +29478,12 @@ var WORDS = [
     "英文例句": "Autumn leaves fall in November.",
     "例句中文": "秋天的落葉在十一月飄落。",
     "表情符號": "🍂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍂",
+    "icon": "🍂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "now",
@@ -23091,7 +29501,12 @@ var WORDS = [
     "英文例句": "Do your homework now.",
     "例句中文": "現在就去做你的功課。",
     "表情符號": "⏰",
-    "圖片": ""
+    "圖片": "",
+    "em": "⏰",
+    "icon": "⏰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "number",
@@ -23109,7 +29524,12 @@ var WORDS = [
     "英文例句": "What is your lucky number?",
     "例句中文": "你的幸運號碼是幾號？",
     "表情符號": "🔢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔢",
+    "icon": "🔢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nurse",
@@ -23127,7 +29547,12 @@ var WORDS = [
     "英文例句": "The nurse is kind and gentle.",
     "例句中文": "這位護理師溫柔又親切。",
     "表情符號": "👩‍⚕️",
-    "圖片": ""
+    "圖片": "",
+    "em": "👩‍⚕️",
+    "icon": "👩‍⚕️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "nut",
@@ -23145,61 +29570,81 @@ var WORDS = [
     "英文例句": "Squirrels gather nuts for winter.",
     "例句中文": "松鼠為冬天儲存堅果。",
     "表情符號": "🌰",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌰",
+    "icon": "🌰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "o'clock",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is o'clock.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/əˈklɑːk/",
+    "pos": "adv.",
+    "zh": "點鐘",
+    "ex": "School ends at four o'clock afternoon.",
+    "exzh": "每天下午四點鐘準時放學，大家各自平安回家。",
+    "emoji": "🕓",
     "pic": "",
     "單字": "o'clock",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is o'clock.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/əˈklɑːk/",
+    "詞性": "adv.",
+    "中文意思": "點鐘",
+    "英文例句": "School ends at four o'clock afternoon.",
+    "例句中文": "每天下午四點鐘準時放學，大家各自平安回家。",
+    "表情符號": "🕓",
+    "圖片": "",
+    "em": "🕓",
+    "icon": "🕓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "obey",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is obey.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/oʊˈbeɪ/",
+    "pos": "v.",
+    "zh": "服從，遵守",
+    "ex": "Always obey school classroom rules.",
+    "exzh": "在班級裡大家要自律遵守共同約定的班級公約。",
+    "emoji": "😇",
     "pic": "",
     "單字": "obey",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is obey.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/oʊˈbeɪ/",
+    "詞性": "v.",
+    "中文意思": "服從，遵守",
+    "英文例句": "Always obey school classroom rules.",
+    "例句中文": "在班級裡大家要自律遵守共同約定的班級公約。",
+    "表情符號": "😇",
+    "圖片": "",
+    "em": "😇",
+    "icon": "😇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "object",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is object.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɑːb.dʒɪkt/",
+    "pos": "n.",
+    "zh": "物體，物件",
+    "ex": "Name every common object in room.",
+    "exzh": "練習用英文正確說出房間裡每一件生活用品物件。",
+    "emoji": "📦",
     "pic": "",
     "單字": "object",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is object.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɑːb.dʒɪkt/",
+    "詞性": "n.",
+    "中文意思": "物體，物件",
+    "英文例句": "Name every common object in room.",
+    "例句中文": "練習用英文正確說出房間裡每一件生活用品物件。",
+    "表情符號": "📦",
+    "圖片": "",
+    "em": "📦",
+    "icon": "📦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ocean",
@@ -23217,7 +29662,12 @@ var WORDS = [
     "英文例句": "Whales swim across the wide ocean.",
     "例句中文": "鯨魚在大洋之中悠游遷徙。",
     "表情符號": "🌊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌊",
+    "icon": "🌊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "October",
@@ -23235,7 +29685,12 @@ var WORDS = [
     "英文例句": "Halloween is in late October.",
     "例句中文": "萬聖節在十月下旬。",
     "表情符號": "🎃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎃",
+    "icon": "🎃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "octopus",
@@ -23253,25 +29708,35 @@ var WORDS = [
     "英文例句": "An octopus has eight arms.",
     "例句中文": "章魚擁有八隻靈活的腕足觸手。",
     "表情符號": "🐙",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐙",
+    "icon": "🐙",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "of",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is of.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/əv/",
+    "pos": "prep.",
+    "zh": "...的",
+    "ex": "A cup of warm milk tastes sweet.",
+    "exzh": "喝下一杯溫暖香甜的純鮮牛奶讓人放鬆身心。",
+    "emoji": "🥛",
     "pic": "",
     "單字": "of",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is of.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/əv/",
+    "詞性": "prep.",
+    "中文意思": "...的",
+    "英文例句": "A cup of warm milk tastes sweet.",
+    "例句中文": "喝下一杯溫暖香甜的純鮮牛奶讓人放鬆身心。",
+    "表情符號": "🥛",
+    "圖片": "",
+    "em": "🥛",
+    "icon": "🥛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "off",
@@ -23289,61 +29754,81 @@ var WORDS = [
     "英文例句": "Turn off the lamp.",
     "例句中文": "把檯燈關掉。",
     "表情符號": "💡",
-    "圖片": ""
+    "圖片": "",
+    "em": "💡",
+    "icon": "💡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "offer",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is offer.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɑː.fɚ/",
+    "pos": "v./n.",
+    "zh": "提供，提出",
+    "ex": "Offer your seat to seniors on the bus.",
+    "exzh": "搭乘市區公車時，請主動讓座給身旁的老弱婦孺。",
+    "emoji": "🤝",
     "pic": "",
     "單字": "offer",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is offer.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɑː.fɚ/",
+    "詞性": "v./n.",
+    "中文意思": "提供，提出",
+    "英文例句": "Offer your seat to seniors on the bus.",
+    "例句中文": "搭乘市區公車時，請主動讓座給身旁的老弱婦孺。",
+    "表情符號": "🤝",
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "office",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is office.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɑː.fɪs/",
+    "pos": "n.",
+    "zh": "辦公室",
+    "ex": "Teachers work hard in staff office.",
+    "exzh": "各位科任老師在教職員辦公室裡辛勤批改作業。",
+    "emoji": "🏢",
     "pic": "",
     "單字": "office",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is office.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɑː.fɪs/",
+    "詞性": "n.",
+    "中文意思": "辦公室",
+    "英文例句": "Teachers work hard in staff office.",
+    "例句中文": "各位科任老師在教職員辦公室裡辛勤批改作業。",
+    "表情符號": "🏢",
+    "圖片": "",
+    "em": "🏢",
+    "icon": "🏢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "officer",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is officer.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɑː.fə.sɚ/",
+    "pos": "n.",
+    "zh": "官員，警官",
+    "ex": "The police officer helped lost kid.",
+    "exzh": "熱心的警察官員溫柔引導走失的小孩找到家屬。",
+    "emoji": "👮",
     "pic": "",
     "單字": "officer",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is officer.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɑː.fə.sɚ/",
+    "詞性": "n.",
+    "中文意思": "官員，警官",
+    "英文例句": "The police officer helped lost kid.",
+    "例句中文": "熱心的警察官員溫柔引導走失的小孩找到家屬。",
+    "表情符號": "👮",
+    "圖片": "",
+    "em": "👮",
+    "icon": "👮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "often",
@@ -23361,7 +29846,12 @@ var WORDS = [
     "英文例句": "We often read books.",
     "例句中文": "我們時常讀書。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "oil",
@@ -23379,25 +29869,35 @@ var WORDS = [
     "英文例句": "Heat olive oil in the pan.",
     "例句中文": "在鍋裡加熱一點橄欖油。",
     "表情符號": "🫒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🫒",
+    "icon": "🫒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "OK",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is OK.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌoʊˈkeɪ/",
+    "pos": "adj./adv.",
+    "zh": "好的，沒問題的",
+    "ex": "Everything will be completely OK, relax.",
+    "exzh": "放寬心情不要緊張，一切事情都會順利解決的。",
+    "emoji": "👌",
     "pic": "",
     "單字": "OK",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is OK.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌoʊˈkeɪ/",
+    "詞性": "adj./adv.",
+    "中文意思": "好的，沒問題的",
+    "英文例句": "Everything will be completely OK, relax.",
+    "例句中文": "放寬心情不要緊張，一切事情都會順利解決的。",
+    "表情符號": "👌",
+    "圖片": "",
+    "em": "👌",
+    "icon": "👌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "old",
@@ -23415,25 +29915,35 @@ var WORDS = [
     "英文例句": "The old tree gives cool shade.",
     "例句中文": "老樹提供了涼爽的樹蔭。",
     "表情符號": "👴",
-    "圖片": ""
+    "圖片": "",
+    "em": "👴",
+    "icon": "👴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "omit",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is omit.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/oʊˈmɪt/",
+    "pos": "v.",
+    "zh": "省略，遺漏",
+    "ex": "Do not omit any step in the math test.",
+    "exzh": "計算數學題型時，千萬不可隨意省略計算過程。",
+    "emoji": "✏️",
     "pic": "",
     "單字": "omit",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is omit.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/oʊˈmɪt/",
+    "詞性": "v.",
+    "中文意思": "省略，遺漏",
+    "英文例句": "Do not omit any step in the math test.",
+    "例句中文": "計算數學題型時，千萬不可隨意省略計算過程。",
+    "表情符號": "✏️",
+    "圖片": "",
+    "em": "✏️",
+    "icon": "✏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "on",
@@ -23451,25 +29961,35 @@ var WORDS = [
     "英文例句": "The book is on the desk.",
     "例句中文": "書本在桌子上。",
     "表情符號": "🔛",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔛",
+    "icon": "🔛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "once",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is once.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/wʌns/",
+    "pos": "adv./conj.",
+    "zh": "一次；一旦",
+    "ex": "Brush your clean teeth at least twice, not once.",
+    "exzh": "每天至少要好好刷牙兩次，絕不能只隨便刷一次。",
+    "emoji": "🪥",
     "pic": "",
     "單字": "once",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is once.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/wʌns/",
+    "詞性": "adv./conj.",
+    "中文意思": "一次；一旦",
+    "英文例句": "Brush your clean teeth at least twice, not once.",
+    "例句中文": "每天至少要好好刷牙兩次，絕不能只隨便刷一次。",
+    "表情符號": "🪥",
+    "圖片": "",
+    "em": "🪥",
+    "icon": "🪥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "one",
@@ -23487,25 +30007,35 @@ var WORDS = [
     "英文例句": "I have one apple.",
     "例句中文": "我有一顆蘋果。",
     "表情符號": "1️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "1️⃣",
+    "icon": "1️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "oneself",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is oneself.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/wʌnˈself/",
+    "pos": "pron.",
+    "zh": "自己，親自",
+    "ex": "Learn to take good care of oneself.",
+    "exzh": "長大成人的第一步，是學會好好照顧自己的身體。",
+    "emoji": "🧍",
     "pic": "",
     "單字": "oneself",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is oneself.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/wʌnˈself/",
+    "詞性": "pron.",
+    "中文意思": "自己，親自",
+    "英文例句": "Learn to take good care of oneself.",
+    "例句中文": "長大成人的第一步，是學會好好照顧自己的身體。",
+    "表情符號": "🧍",
+    "圖片": "",
+    "em": "🧍",
+    "icon": "🧍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "onion",
@@ -23523,7 +30053,12 @@ var WORDS = [
     "英文例句": "Chop onions carefully.",
     "例句中文": "切洋蔥時要特別小心。",
     "表情符號": "🧅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧅",
+    "icon": "🧅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "only",
@@ -23541,7 +30076,12 @@ var WORDS = [
     "英文例句": "There is only one apple left.",
     "例句中文": "只剩下一顆蘋果了。",
     "表情符號": "🍎",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍎",
+    "icon": "🍎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "open",
@@ -23559,43 +30099,58 @@ var WORDS = [
     "英文例句": "Open your English workbook.",
     "例句中文": "打開你的英文作業本。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "operation",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is operation.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌɑː.pəˈreɪ.ʃən/",
+    "pos": "n.",
+    "zh": "手術；運作",
+    "ex": "The hospital operation went very smoothly.",
+    "exzh": "醫院主治醫師主刀的外科手術過程非常順利。",
+    "emoji": "🏥",
     "pic": "",
     "單字": "operation",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is operation.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌɑː.pəˈreɪ.ʃən/",
+    "詞性": "n.",
+    "中文意思": "手術；運作",
+    "英文例句": "The hospital operation went very smoothly.",
+    "例句中文": "醫院主治醫師主刀的外科手術過程非常順利。",
+    "表情符號": "🏥",
+    "圖片": "",
+    "em": "🏥",
+    "icon": "🏥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "opinion",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is opinion.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/əˈpɪn.jən/",
+    "pos": "n.",
+    "zh": "意見，看法",
+    "ex": "Share your honest opinion in group.",
+    "exzh": "在小組討論時間裡，勇敢表達自己的真實看法。",
+    "emoji": "💬",
     "pic": "",
     "單字": "opinion",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is opinion.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/əˈpɪn.jən/",
+    "詞性": "n.",
+    "中文意思": "意見，看法",
+    "英文例句": "Share your honest opinion in group.",
+    "例句中文": "在小組討論時間裡，勇敢表達自己的真實看法。",
+    "表情符號": "💬",
+    "圖片": "",
+    "em": "💬",
+    "icon": "💬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "or",
@@ -23613,7 +30168,12 @@ var WORDS = [
     "英文例句": "Do you want tea or milk?",
     "例句中文": "你想喝茶還是牛奶？",
     "表情符號": "🍵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍵",
+    "icon": "🍵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "orange",
@@ -23631,61 +30191,81 @@ var WORDS = [
     "英文例句": "I like sweet oranges.",
     "例句中文": "我喜歡甜甜的柳橙。",
     "表情符號": "🍊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍊",
+    "icon": "🍊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "order",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is order.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɔːr.dɚ/",
+    "pos": "v./n.",
+    "zh": "點餐；順序；命令",
+    "ex": "Let's order a large cheese pizza today.",
+    "exzh": "今天晚上我們來點一個大尺寸的香濃起司披薩。",
+    "emoji": "🍕",
     "pic": "",
     "單字": "order",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is order.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɔːr.dɚ/",
+    "詞性": "v./n.",
+    "中文意思": "點餐；順序；命令",
+    "英文例句": "Let's order a large cheese pizza today.",
+    "例句中文": "今天晚上我們來點一個大尺寸的香濃起司披薩。",
+    "表情符號": "🍕",
+    "圖片": "",
+    "em": "🍕",
+    "icon": "🍕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ordinary",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is ordinary.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈɔːr.dən.er.i/",
+    "pos": "adj.",
+    "zh": "平凡普通的",
+    "ex": "Even an ordinary stone can be pretty.",
+    "exzh": "只要用心觀察，路邊平凡普通的小石頭也很美。",
+    "emoji": "🪨",
     "pic": "",
     "單字": "ordinary",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is ordinary.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈɔːr.dən.er.i/",
+    "詞性": "adj.",
+    "中文意思": "平凡普通的",
+    "英文例句": "Even an ordinary stone can be pretty.",
+    "例句中文": "只要用心觀察，路邊平凡普通的小石頭也很美。",
+    "表情符號": "🪨",
+    "圖片": "",
+    "em": "🪨",
+    "icon": "🪨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "other",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is other.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈʌð.ɚ/",
+    "pos": "adj./pron.",
+    "zh": "其他的，別的",
+    "ex": "Help each other when doing projects.",
+    "exzh": "大家同心協力分工合作，在做專題時互相幫助。",
+    "emoji": "🤝",
     "pic": "",
     "單字": "other",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is other.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈʌð.ɚ/",
+    "詞性": "adj./pron.",
+    "中文意思": "其他的，別的",
+    "英文例句": "Help each other when doing projects.",
+    "例句中文": "大家同心協力分工合作，在做專題時互相幫助。",
+    "表情符號": "🤝",
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "otter",
@@ -23703,7 +30283,12 @@ var WORDS = [
     "英文例句": "River otters slide down muddy banks.",
     "例句中文": "水獺在泥濘的河岸上滑滑梯。",
     "表情符號": "🦦",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦦",
+    "icon": "🦦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "our",
@@ -23721,7 +30306,12 @@ var WORDS = [
     "英文例句": "Our classroom is sunny.",
     "例句中文": "我們的教室陽光普照。",
     "表情符號": "🏫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏫",
+    "icon": "🏫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "out",
@@ -23739,25 +30329,35 @@ var WORDS = [
     "英文例句": "Look out the window.",
     "例句中文": "看看窗外。",
     "表情符號": "🪟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪟",
+    "icon": "🪟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "outside",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is outside.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌaʊtˈsaɪd/",
+    "pos": "adv./prep.",
+    "zh": "在外面，戶外",
+    "ex": "Let's play soccer outside on grass.",
+    "exzh": "走出戶外在陽光草地上痛快奔跑踢足球吧。",
+    "emoji": "🌳",
     "pic": "",
     "單字": "outside",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is outside.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌaʊtˈsaɪd/",
+    "詞性": "adv./prep.",
+    "中文意思": "在外面，戶外",
+    "英文例句": "Let's play soccer outside on grass.",
+    "例句中文": "走出戶外在陽光草地上痛快奔跑踢足球吧。",
+    "表情符號": "🌳",
+    "圖片": "",
+    "em": "🌳",
+    "icon": "🌳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "oval",
@@ -23775,25 +30375,35 @@ var WORDS = [
     "英文例句": "Hen eggs have a smooth oval shape.",
     "例句中文": "母雞生下的雞蛋擁有光滑橢圓外觀。",
     "表情符號": "🥚",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥚",
+    "icon": "🥚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "oven",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is oven.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈʌv.ən/",
+    "pos": "n.",
+    "zh": "烤箱",
+    "ex": "Bake chocolate cookies inside the oven.",
+    "exzh": "把餅乾烤盤推進熱騰騰的烤箱裡定時烘烤。",
+    "emoji": "🍪",
     "pic": "",
     "單字": "oven",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is oven.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈʌv.ən/",
+    "詞性": "n.",
+    "中文意思": "烤箱",
+    "英文例句": "Bake chocolate cookies inside the oven.",
+    "例句中文": "把餅乾烤盤推進熱騰騰的烤箱裡定時烘烤。",
+    "表情符號": "🍪",
+    "圖片": "",
+    "em": "🍪",
+    "icon": "🍪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "over",
@@ -23811,61 +30421,81 @@ var WORDS = [
     "英文例句": "The ball flew over fence.",
     "例句中文": "球飛過了圍欄。",
     "表情符號": "⚽",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚽",
+    "icon": "⚽",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "over-weight",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is over-weight.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌoʊ.vɚˈweɪt/",
+    "pos": "adj.",
+    "zh": "超重的，過重的",
+    "ex": "Heavy bags may be over-weight on flight.",
+    "exzh": "出國行李箱如果塞太滿，在機場秤重時會超重。",
+    "emoji": "⚖️",
     "pic": "",
     "單字": "over-weight",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is over-weight.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌoʊ.vɚˈweɪt/",
+    "詞性": "adj.",
+    "中文意思": "超重的，過重的",
+    "英文例句": "Heavy bags may be over-weight on flight.",
+    "例句中文": "出國行李箱如果塞太滿，在機場秤重時會超重。",
+    "表情符號": "⚖️",
+    "圖片": "",
+    "em": "⚖️",
+    "icon": "⚖️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "overpass",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is overpass.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈoʊ.vɚ.pæs/",
+    "pos": "n.",
+    "zh": "陸橋，高架天橋",
+    "ex": "Cross busy roads safely using the overpass.",
+    "exzh": "利用馬路上方的人行陸橋安全橫越車潮擁擠的大街。",
+    "emoji": "🌉",
     "pic": "",
     "單字": "overpass",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is overpass.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈoʊ.vɚ.pæs/",
+    "詞性": "n.",
+    "中文意思": "陸橋，高架天橋",
+    "英文例句": "Cross busy roads safely using the overpass.",
+    "例句中文": "利用馬路上方的人行陸橋安全橫越車潮擁擠的大街。",
+    "表情符號": "🌉",
+    "圖片": "",
+    "em": "🌉",
+    "icon": "🌉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "overseas",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is overseas.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˌoʊ.vɚˈsiːz/",
+    "pos": "adv./adj.",
+    "zh": "在海外，出國",
+    "ex": "They traveled overseas to Japan on holiday.",
+    "exzh": "他們全家人今年暑假一同搭機出國前往日本旅遊。",
+    "emoji": "✈️",
     "pic": "",
     "單字": "overseas",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is overseas.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˌoʊ.vɚˈsiːz/",
+    "詞性": "adv./adj.",
+    "中文意思": "在海外，出國",
+    "英文例句": "They traveled overseas to Japan on holiday.",
+    "例句中文": "他們全家人今年暑假一同搭機出國前往日本旅遊。",
+    "表情符號": "✈️",
+    "圖片": "",
+    "em": "✈️",
+    "icon": "✈️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "owl",
@@ -23883,61 +30513,81 @@ var WORDS = [
     "英文例句": "Wise owls stay awake all night.",
     "例句中文": "充滿智慧的貓頭鷹整夜保持清醒。",
     "表情符號": "🦉",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦉",
+    "icon": "🦉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "own",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is own.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/oʊn/",
+    "pos": "adj./v.",
+    "zh": "自己的；擁有",
+    "ex": "Draw a pretty picture of your own pet.",
+    "exzh": "親自動手畫出一張自己家裡可愛小寵物的肖像畫。",
+    "emoji": "🎨",
     "pic": "",
     "單字": "own",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is own.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/oʊn/",
+    "詞性": "adj./v.",
+    "中文意思": "自己的；擁有",
+    "英文例句": "Draw a pretty picture of your own pet.",
+    "例句中文": "親自動手畫出一張自己家裡可愛小寵物的肖像畫。",
+    "表情符號": "🎨",
+    "圖片": "",
+    "em": "🎨",
+    "icon": "🎨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "owner",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is owner.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ˈoʊ.nɚ/",
+    "pos": "n.",
+    "zh": "主人，物主",
+    "ex": "The loving cat owner feeds kitten daily.",
+    "exzh": "充滿愛心的貓主人每天定時給小貓咪餵食營養罐頭。",
+    "emoji": "🐱",
     "pic": "",
     "單字": "owner",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is owner.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ˈoʊ.nɚ/",
+    "詞性": "n.",
+    "中文意思": "主人，物主",
+    "英文例句": "The loving cat owner feeds kitten daily.",
+    "例句中文": "充滿愛心的貓主人每天定時給小貓咪餵食營養罐頭。",
+    "表情符號": "🐱",
+    "圖片": "",
+    "em": "🐱",
+    "icon": "🐱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ox",
-    "ph": "",
-    "pos": "",
-    "zh": "",
-    "ex": "This is ox.",
-    "exzh": "",
-    "emoji": "📓",
+    "ph": "/ɑːks/",
+    "pos": "n.",
+    "zh": "公牛，閹牛",
+    "ex": "The strong brown ox plows farm field.",
+    "exzh": "體格健壯厚實的耕牛在農田裡協助農民翻土耕作。",
+    "emoji": "🐂",
     "pic": "",
     "單字": "ox",
-    "音標": "",
-    "詞性": "",
-    "中文意思": "",
-    "英文例句": "This is ox.",
-    "例句中文": "",
-    "表情符號": "📓",
-    "圖片": ""
+    "音標": "/ɑːks/",
+    "詞性": "n.",
+    "中文意思": "公牛，閹牛",
+    "英文例句": "The strong brown ox plows farm field.",
+    "例句中文": "體格健壯厚實的耕牛在農田裡協助農民翻土耕作。",
+    "表情符號": "🐂",
+    "圖片": "",
+    "em": "🐂",
+    "icon": "🐂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "p.m.",
@@ -23955,7 +30605,12 @@ var WORDS = [
     "英文例句": "This is p.m..",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pack",
@@ -23973,7 +30628,12 @@ var WORDS = [
     "英文例句": "Pack your books and pencil case.",
     "例句中文": "收拾好你的書本與鉛筆盒。",
     "表情符號": "🎒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎒",
+    "icon": "🎒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "package",
@@ -23991,7 +30651,12 @@ var WORDS = [
     "英文例句": "This is package.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "padlock",
@@ -24009,7 +30674,12 @@ var WORDS = [
     "英文例句": "Lock the bicycle with a padlock.",
     "例句中文": "用掛鎖把自行車鎖好。",
     "表情符號": "🔒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔒",
+    "icon": "🔒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "page",
@@ -24027,7 +30697,12 @@ var WORDS = [
     "英文例句": "Turn to page twenty.",
     "例句中文": "請翻到第二十頁。",
     "表情符號": "📄",
-    "圖片": ""
+    "圖片": "",
+    "em": "📄",
+    "icon": "📄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pain",
@@ -24045,7 +30720,12 @@ var WORDS = [
     "英文例句": "The soothing ointment eased the pain.",
     "例句中文": "舒緩藥膏減輕了傷口的疼痛。",
     "表情符號": "🩹",
-    "圖片": ""
+    "圖片": "",
+    "em": "🩹",
+    "icon": "🩹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "painful",
@@ -24063,7 +30743,12 @@ var WORDS = [
     "英文例句": "This is painful.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "paint",
@@ -24081,7 +30766,12 @@ var WORDS = [
     "英文例句": "Paint the sky with light blue.",
     "例句中文": "用淺藍色顏料描繪天空。",
     "表情符號": "🎨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎨",
+    "icon": "🎨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "painter",
@@ -24099,7 +30789,12 @@ var WORDS = [
     "英文例句": "This is painter.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "painting",
@@ -24117,7 +30812,12 @@ var WORDS = [
     "英文例句": "Look at the colorful painting.",
     "例句中文": "看看這幅色彩豐富的畫作。",
     "表情符號": "🖼️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🖼️",
+    "icon": "🖼️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pair",
@@ -24135,7 +30835,12 @@ var WORDS = [
     "英文例句": "This is pair.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pajamas",
@@ -24153,7 +30858,12 @@ var WORDS = [
     "英文例句": "This is pajamas.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "palace",
@@ -24171,7 +30881,12 @@ var WORDS = [
     "英文例句": "The golden palace is grand and majestic.",
     "例句中文": "金碧輝煌的宮殿顯得氣派威嚴。",
     "表情符號": "👑",
-    "圖片": ""
+    "圖片": "",
+    "em": "👑",
+    "icon": "👑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pale",
@@ -24189,7 +30904,12 @@ var WORDS = [
     "英文例句": "This is pale.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pan",
@@ -24207,7 +30927,12 @@ var WORDS = [
     "英文例句": "Cook an egg in the frying pan.",
     "例句中文": "在平底鍋裡煎一顆荷包蛋。",
     "表情符號": "🍳",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍳",
+    "icon": "🍳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pancake",
@@ -24225,7 +30950,12 @@ var WORDS = [
     "英文例句": "Stack hot pancakes with syrup.",
     "例句中文": "把熱騰騰的鬆餅疊高並淋上糖漿。",
     "表情符號": "🥞",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥞",
+    "icon": "🥞",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "panda",
@@ -24243,7 +30973,12 @@ var WORDS = [
     "英文例句": "Pandas love bamboo.",
     "例句中文": "大熊貓喜歡吃竹子。",
     "表情符號": "🐼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐼",
+    "icon": "🐼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pants",
@@ -24261,7 +30996,12 @@ var WORDS = [
     "英文例句": "These pants are too long.",
     "例句中文": "這條褲子太長了。",
     "表情符號": "👖",
-    "圖片": ""
+    "圖片": "",
+    "em": "👖",
+    "icon": "👖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "papaya",
@@ -24279,7 +31019,12 @@ var WORDS = [
     "英文例句": "Papaya milk is very popular in Taiwan.",
     "例句中文": "木瓜牛奶在台灣非常受歡迎。",
     "表情符號": "🍈",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍈",
+    "icon": "🍈",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "paper",
@@ -24297,7 +31042,12 @@ var WORDS = [
     "英文例句": "Fold the paper in half.",
     "例句中文": "把這張紙對摺。",
     "表情符號": "📄",
-    "圖片": ""
+    "圖片": "",
+    "em": "📄",
+    "icon": "📄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "paperclip",
@@ -24315,7 +31065,12 @@ var WORDS = [
     "英文例句": "Hold papers neat using a paperclip.",
     "例句中文": "用迴紋針把文件夾整齊。",
     "表情符號": "📎",
-    "圖片": ""
+    "圖片": "",
+    "em": "📎",
+    "icon": "📎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pardon",
@@ -24333,7 +31088,12 @@ var WORDS = [
     "英文例句": "This is pardon.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "parent",
@@ -24351,7 +31111,12 @@ var WORDS = [
     "英文例句": "This is parent.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "parents",
@@ -24369,7 +31134,12 @@ var WORDS = [
     "英文例句": "Love and respect your parents.",
     "例句中文": "愛護並尊敬你的父母親。",
     "表情符號": "👨‍👩‍👧",
-    "圖片": ""
+    "圖片": "",
+    "em": "👨‍👩‍👧",
+    "icon": "👨‍👩‍👧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "park",
@@ -24387,7 +31157,12 @@ var WORDS = [
     "英文例句": "We play tag in the park.",
     "例句中文": "我們在公園裡玩抓人遊戲。",
     "表情符號": "🏞️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏞️",
+    "icon": "🏞️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "parking lot",
@@ -24405,7 +31180,12 @@ var WORDS = [
     "英文例句": "This is parking lot.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "parrot",
@@ -24423,7 +31203,12 @@ var WORDS = [
     "英文例句": "The colorful parrot repeats words.",
     "例句中文": "色彩艷麗的鸚鵡模仿人類說話。",
     "表情符號": "🦜",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦜",
+    "icon": "🦜",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "part",
@@ -24441,7 +31226,12 @@ var WORDS = [
     "英文例句": "This is part.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "partner",
@@ -24459,7 +31249,12 @@ var WORDS = [
     "英文例句": "This is partner.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "party",
@@ -24477,7 +31272,12 @@ var WORDS = [
     "英文例句": "This is party.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pass",
@@ -24495,7 +31295,12 @@ var WORDS = [
     "英文例句": "Pass the paper to the student next.",
     "例句中文": "把測驗紙傳給隔壁的同學。",
     "表情符號": "📄",
-    "圖片": ""
+    "圖片": "",
+    "em": "📄",
+    "icon": "📄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "passenger",
@@ -24513,7 +31318,12 @@ var WORDS = [
     "英文例句": "This is passenger.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "past",
@@ -24531,7 +31341,12 @@ var WORDS = [
     "英文例句": "This is past.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pasta",
@@ -24549,7 +31364,12 @@ var WORDS = [
     "英文例句": "Eat tomato pasta for lunch.",
     "例句中文": "中午享用一盤酸甜可口的番茄義大利麵。",
     "表情符號": "🍝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍝",
+    "icon": "🍝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "paste",
@@ -24567,7 +31387,12 @@ var WORDS = [
     "英文例句": "This is paste.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "path",
@@ -24585,7 +31410,12 @@ var WORDS = [
     "英文例句": "This is path.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "patient",
@@ -24603,7 +31433,12 @@ var WORDS = [
     "英文例句": "Teachers are very patient with learners.",
     "例句中文": "老師對初學者總是非常有耐心教導。",
     "表情符號": "😇",
-    "圖片": ""
+    "圖片": "",
+    "em": "😇",
+    "icon": "😇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pattern",
@@ -24621,7 +31456,12 @@ var WORDS = [
     "英文例句": "This is pattern.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pause",
@@ -24639,7 +31479,12 @@ var WORDS = [
     "英文例句": "This is pause.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pay",
@@ -24657,7 +31502,12 @@ var WORDS = [
     "英文例句": "This is pay.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "PE",
@@ -24675,7 +31525,12 @@ var WORDS = [
     "英文例句": "We play basketball in PE class.",
     "例句中文": "我們在體育課打籃球鍛鍊身體。",
     "表情符號": "🏀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏀",
+    "icon": "🏀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pea",
@@ -24693,7 +31548,12 @@ var WORDS = [
     "英文例句": "Little green peas taste sweet.",
     "例句中文": "綠綠的小豌豆味道甘甜。",
     "表情符號": "🫛",
-    "圖片": ""
+    "圖片": "",
+    "em": "🫛",
+    "icon": "🫛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "peace",
@@ -24711,7 +31571,12 @@ var WORDS = [
     "英文例句": "This is peace.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "peaceful",
@@ -24729,7 +31594,12 @@ var WORDS = [
     "英文例句": "This is peaceful.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "peach",
@@ -24747,7 +31617,12 @@ var WORDS = [
     "英文例句": "Soft pink peaches are juicy.",
     "例句中文": "粉嫩飽滿的水蜜桃多汁又甘甜。",
     "表情符號": "🍑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍑",
+    "icon": "🍑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "peanut",
@@ -24765,7 +31640,12 @@ var WORDS = [
     "英文例句": "Peanut butter tastes rich and smooth.",
     "例句中文": "花生醬嚐起來濃郁順口。",
     "表情符號": "🥜",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥜",
+    "icon": "🥜",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pear",
@@ -24783,7 +31663,12 @@ var WORDS = [
     "英文例句": "The juicy pear tastes sweet.",
     "例句中文": "多汁的梨子嚐起來很甜。",
     "表情符號": "🍐",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍐",
+    "icon": "🍐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pen",
@@ -24801,7 +31686,12 @@ var WORDS = [
     "英文例句": "Write your name with a pen.",
     "例句中文": "用原子筆寫下你的名字。",
     "表情符號": "🖊️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🖊️",
+    "icon": "🖊️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pencil",
@@ -24819,7 +31709,12 @@ var WORDS = [
     "英文例句": "Sharpen your pencil.",
     "例句中文": "削削你的鉛筆。",
     "表情符號": "✏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✏️",
+    "icon": "✏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pencil case",
@@ -24837,7 +31732,12 @@ var WORDS = [
     "英文例句": "Zip up your canvas pencil case.",
     "例句中文": "拉上你的帆布鉛筆盒拉鍊。",
     "表情符號": "👝",
-    "圖片": ""
+    "圖片": "",
+    "em": "👝",
+    "icon": "👝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "people",
@@ -24855,7 +31755,12 @@ var WORDS = [
     "英文例句": "This is people.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pepper",
@@ -24873,7 +31778,12 @@ var WORDS = [
     "英文例句": "Sprinkle black pepper on soup.",
     "例句中文": "在熱湯上撒一點黑胡椒。",
     "表情符號": "🧂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧂",
+    "icon": "🧂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "perfect",
@@ -24891,7 +31801,12 @@ var WORDS = [
     "英文例句": "This is perfect.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "perhaps",
@@ -24909,7 +31824,12 @@ var WORDS = [
     "英文例句": "This is perhaps.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "period",
@@ -24927,7 +31847,12 @@ var WORDS = [
     "英文例句": "This is period.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "person",
@@ -24945,7 +31870,12 @@ var WORDS = [
     "英文例句": "This is person.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "personal",
@@ -24963,7 +31893,12 @@ var WORDS = [
     "英文例句": "This is personal.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pet",
@@ -24981,7 +31916,12 @@ var WORDS = [
     "英文例句": "Do you have a pet at home?",
     "例句中文": "你家裡有養寵物嗎？",
     "表情符號": "🐕",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐕",
+    "icon": "🐕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "photo",
@@ -24999,7 +31939,12 @@ var WORDS = [
     "英文例句": "This is photo.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "physics",
@@ -25017,7 +31962,12 @@ var WORDS = [
     "英文例句": "This is physics.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "piano",
@@ -25035,7 +31985,12 @@ var WORDS = [
     "英文例句": "She practices piano every day.",
     "例句中文": "她每天都練習彈鋼琴。",
     "表情符號": "🎹",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎹",
+    "icon": "🎹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pick",
@@ -25053,7 +32008,12 @@ var WORDS = [
     "英文例句": "Pick ripe red strawberries in farm.",
     "例句中文": "在農場裡採摘成熟的紅草莓。",
     "表情符號": "🍓",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍓",
+    "icon": "🍓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "picnic",
@@ -25071,7 +32031,12 @@ var WORDS = [
     "英文例句": "This is picnic.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "picture",
@@ -25089,7 +32054,12 @@ var WORDS = [
     "英文例句": "This is picture.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pie",
@@ -25107,7 +32077,12 @@ var WORDS = [
     "英文例句": "Grandma baked an apple pie.",
     "例句中文": "奶奶烤了一個蘋果派。",
     "表情符號": "🥧",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥧",
+    "icon": "🥧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "piece",
@@ -25125,7 +32100,12 @@ var WORDS = [
     "英文例句": "This is piece.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pig",
@@ -25143,7 +32123,12 @@ var WORDS = [
     "英文例句": "The pig likes mud.",
     "例句中文": "小豬喜歡泥巴。",
     "表情符號": "🐷",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐷",
+    "icon": "🐷",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pigeon",
@@ -25161,7 +32146,12 @@ var WORDS = [
     "英文例句": "City pigeons peck breadcrumbs in park.",
     "例句中文": "公園裡的鴿子啄食著麵包屑。",
     "表情符號": "🐦",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐦",
+    "icon": "🐦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pile",
@@ -25179,7 +32169,12 @@ var WORDS = [
     "英文例句": "This is pile.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pill",
@@ -25197,7 +32192,12 @@ var WORDS = [
     "英文例句": "Swallow the vitamin pill with water.",
     "例句中文": "配開水吞服這顆維他命藥丸。",
     "表情符號": "💊",
-    "圖片": ""
+    "圖片": "",
+    "em": "💊",
+    "icon": "💊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pillow",
@@ -25215,7 +32215,12 @@ var WORDS = [
     "英文例句": "Lay head on a fluffy soft pillow.",
     "例句中文": "把頭舒服地靠在蓬鬆柔軟的枕頭上。",
     "表情符號": "🛌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛌",
+    "icon": "🛌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pin",
@@ -25233,7 +32238,12 @@ var WORDS = [
     "英文例句": "This is pin.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pineapple",
@@ -25251,7 +32261,12 @@ var WORDS = [
     "英文例句": "Pineapples are sweet and sour.",
     "例句中文": "鳳梨酸酸甜甜的。",
     "表情符號": "🍍",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍍",
+    "icon": "🍍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pink",
@@ -25269,7 +32284,12 @@ var WORDS = [
     "英文例句": "She wears a pink dress.",
     "例句中文": "她穿著一件粉紅色洋裝。",
     "表情符號": "🌸",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌸",
+    "icon": "🌸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pipe",
@@ -25287,7 +32307,12 @@ var WORDS = [
     "英文例句": "This is pipe.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pizza",
@@ -25305,7 +32330,12 @@ var WORDS = [
     "英文例句": "Let's share a cheese pizza.",
     "例句中文": "我們來分享起司披薩吧。",
     "表情符號": "🍕",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍕",
+    "icon": "🍕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "place",
@@ -25323,7 +32353,12 @@ var WORDS = [
     "英文例句": "This is place.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "plain",
@@ -25341,7 +32376,12 @@ var WORDS = [
     "英文例句": "This is plain.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "plan",
@@ -25359,7 +32399,12 @@ var WORDS = [
     "英文例句": "This is plan.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "plane",
@@ -25377,7 +32422,12 @@ var WORDS = [
     "英文例句": "The plane flies high in the clouds.",
     "例句中文": "飛機在高高的雲層中飛行。",
     "表情符號": "✈️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✈️",
+    "icon": "✈️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "planet",
@@ -25395,7 +32445,12 @@ var WORDS = [
     "英文例句": "Earth is a wonderful blue planet.",
     "例句中文": "地球是一顆奇妙美麗的藍色行星。",
     "表情符號": "🪐",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪐",
+    "icon": "🪐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "plant",
@@ -25413,7 +32468,12 @@ var WORDS = [
     "英文例句": "This is plant.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "plate",
@@ -25431,7 +32491,12 @@ var WORDS = [
     "英文例句": "This is plate.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "platform",
@@ -25449,7 +32514,12 @@ var WORDS = [
     "英文例句": "This is platform.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "play",
@@ -25467,7 +32537,12 @@ var WORDS = [
     "英文例句": "We play games together.",
     "例句中文": "我們一起玩遊戲。",
     "表情符號": "🎮",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎮",
+    "icon": "🎮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "player",
@@ -25485,7 +32560,12 @@ var WORDS = [
     "英文例句": "This is player.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "playground",
@@ -25503,7 +32583,12 @@ var WORDS = [
     "英文例句": "Kids run on the playground.",
     "例句中文": "小朋友在操場上奔跑。",
     "表情符號": "🛝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛝",
+    "icon": "🛝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pleasant",
@@ -25521,7 +32606,12 @@ var WORDS = [
     "英文例句": "This is pleasant.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "please",
@@ -25539,7 +32629,12 @@ var WORDS = [
     "英文例句": "This is please.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pleased",
@@ -25557,7 +32652,12 @@ var WORDS = [
     "英文例句": "This is pleased.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pleasure",
@@ -25575,7 +32675,12 @@ var WORDS = [
     "英文例句": "This is pleasure.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "plug",
@@ -25593,7 +32698,12 @@ var WORDS = [
     "英文例句": "Insert the plug into the wall socket.",
     "例句中文": "把插頭插進牆壁上的插座。",
     "表情符號": "🔌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔌",
+    "icon": "🔌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "plus",
@@ -25611,7 +32721,12 @@ var WORDS = [
     "英文例句": "This is plus.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pocket",
@@ -25629,7 +32744,12 @@ var WORDS = [
     "英文例句": "Coins are inside my jacket pocket.",
     "例句中文": "硬幣在我外套口袋裡。",
     "表情符號": "🪙",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪙",
+    "icon": "🪙",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "poem",
@@ -25647,7 +32767,12 @@ var WORDS = [
     "英文例句": "This is poem.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "point",
@@ -25665,7 +32790,12 @@ var WORDS = [
     "英文例句": "Point to the correct picture card.",
     "例句中文": "用手指指出正確的圖片卡。",
     "表情符號": "👉",
-    "圖片": ""
+    "圖片": "",
+    "em": "👉",
+    "icon": "👉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "poison",
@@ -25683,7 +32813,12 @@ var WORDS = [
     "英文例句": "This is poison.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "police",
@@ -25701,7 +32836,12 @@ var WORDS = [
     "英文例句": "This is police.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "police officer",
@@ -25719,7 +32859,12 @@ var WORDS = [
     "英文例句": "The police officer stopped the car.",
     "例句中文": "警察攔下了那輛車。",
     "表情符號": "👮",
-    "圖片": ""
+    "圖片": "",
+    "em": "👮",
+    "icon": "👮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "police station",
@@ -25737,7 +32882,12 @@ var WORDS = [
     "英文例句": "Police station keeps neighborhood safe.",
     "例句中文": "警察局保護社區鄰里的安全。",
     "表情符號": "🚓",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚓",
+    "icon": "🚓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "polite",
@@ -25755,7 +32905,12 @@ var WORDS = [
     "英文例句": "Say please to be polite always.",
     "例句中文": "常說請能展現出良好的禮貌。",
     "表情符號": "🙏",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙏",
+    "icon": "🙏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pollute",
@@ -25773,7 +32928,12 @@ var WORDS = [
     "英文例句": "This is pollute.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pollution",
@@ -25791,7 +32951,12 @@ var WORDS = [
     "英文例句": "This is pollution.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pond",
@@ -25809,7 +32974,12 @@ var WORDS = [
     "英文例句": "This is pond.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pool",
@@ -25827,7 +32997,12 @@ var WORDS = [
     "英文例句": "This is pool.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "poor",
@@ -25845,7 +33020,12 @@ var WORDS = [
     "英文例句": "Help poor stray animals in winter.",
     "例句中文": "在寒冷冬天幫助可憐的流浪動物。",
     "表情符號": "🐕",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐕",
+    "icon": "🐕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pop music",
@@ -25863,7 +33043,12 @@ var WORDS = [
     "英文例句": "This is pop music.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "popcorn",
@@ -25881,7 +33066,12 @@ var WORDS = [
     "英文例句": "We eat popcorn while watching films.",
     "例句中文": "我們邊看電影邊吃爆米花。",
     "表情符號": "🍿",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍿",
+    "icon": "🍿",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "popular",
@@ -25899,7 +33089,12 @@ var WORDS = [
     "英文例句": "This is popular.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "population",
@@ -25917,7 +33112,12 @@ var WORDS = [
     "英文例句": "This is population.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pork",
@@ -25935,7 +33135,12 @@ var WORDS = [
     "英文例句": "Cook pork chops for dinner.",
     "例句中文": "晚餐煎美味的豬排。",
     "表情符號": "🥩",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥩",
+    "icon": "🥩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "port",
@@ -25953,7 +33158,12 @@ var WORDS = [
     "英文例句": "Cargo containers are loaded at port.",
     "例句中文": "貨櫃集裝箱在港口碼頭吊裝。",
     "表情符號": "🚢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚢",
+    "icon": "🚢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "position",
@@ -25971,7 +33181,12 @@ var WORDS = [
     "英文例句": "This is position.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "positive",
@@ -25989,7 +33204,12 @@ var WORDS = [
     "英文例句": "This is positive.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "possible",
@@ -26007,7 +33227,12 @@ var WORDS = [
     "英文例句": "This is possible.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "post \noffice",
@@ -26025,7 +33250,12 @@ var WORDS = [
     "英文例句": "This is post \noffice.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "post office",
@@ -26043,7 +33273,12 @@ var WORDS = [
     "英文例句": "Mail this greeting card at post office.",
     "例句中文": "去郵局寄出這張問候卡片。",
     "表情符號": "📮",
-    "圖片": ""
+    "圖片": "",
+    "em": "📮",
+    "icon": "📮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "postcard",
@@ -26061,7 +33296,12 @@ var WORDS = [
     "英文例句": "This is postcard.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pot",
@@ -26079,7 +33319,12 @@ var WORDS = [
     "英文例句": "Soup is bubbling in the pot.",
     "例句中文": "熱湯在鍋子裡咕嚕咕嚕滾著。",
     "表情符號": "🍲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍲",
+    "icon": "🍲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "potato",
@@ -26097,7 +33342,12 @@ var WORDS = [
     "英文例句": "Mashed potatoes are tasty.",
     "例句中文": "馬鈴薯泥很好吃。",
     "表情符號": "🥔",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥔",
+    "icon": "🥔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pound",
@@ -26115,7 +33365,12 @@ var WORDS = [
     "英文例句": "This is pound.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "powder",
@@ -26133,7 +33388,12 @@ var WORDS = [
     "英文例句": "This is powder.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "power",
@@ -26151,7 +33411,12 @@ var WORDS = [
     "英文例句": "This is power.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "practice",
@@ -26169,7 +33434,12 @@ var WORDS = [
     "英文例句": "Practice speaking English every day.",
     "例句中文": "每天練習開口說英語。",
     "表情符號": "🗣️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗣️",
+    "icon": "🗣️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "praise",
@@ -26187,7 +33457,12 @@ var WORDS = [
     "英文例句": "This is praise.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pray",
@@ -26205,7 +33480,12 @@ var WORDS = [
     "英文例句": "This is pray.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "precious",
@@ -26223,7 +33503,12 @@ var WORDS = [
     "英文例句": "This is precious.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "prepare",
@@ -26241,7 +33526,12 @@ var WORDS = [
     "英文例句": "Prepare your schoolbag the night before.",
     "例句中文": "在前一天晚上把上學書包準備妥當。",
     "表情符號": "🎒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎒",
+    "icon": "🎒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "present",
@@ -26259,7 +33549,12 @@ var WORDS = [
     "英文例句": "This is present.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "president",
@@ -26277,7 +33572,12 @@ var WORDS = [
     "英文例句": "This is president.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pressure",
@@ -26295,7 +33595,12 @@ var WORDS = [
     "英文例句": "This is pressure.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pretty",
@@ -26313,7 +33618,12 @@ var WORDS = [
     "英文例句": "She picked pretty pink flowers.",
     "例句中文": "她採摘了漂亮的粉紅花朵。",
     "表情符號": "🌸",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌸",
+    "icon": "🌸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "price",
@@ -26331,7 +33641,12 @@ var WORDS = [
     "英文例句": "This is price.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "priest",
@@ -26349,7 +33664,12 @@ var WORDS = [
     "英文例句": "This is priest.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "primary",
@@ -26367,7 +33687,12 @@ var WORDS = [
     "英文例句": "This is primary.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "prince",
@@ -26385,7 +33710,12 @@ var WORDS = [
     "英文例句": "This is prince.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "princess",
@@ -26403,7 +33733,12 @@ var WORDS = [
     "英文例句": "This is princess.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "principal",
@@ -26421,7 +33756,12 @@ var WORDS = [
     "英文例句": "The principal gave a speech at assembly.",
     "例句中文": "校長在朝會上向全校致詞。",
     "表情符號": "🧑‍💼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍💼",
+    "icon": "🧑‍💼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "principle",
@@ -26439,7 +33779,12 @@ var WORDS = [
     "英文例句": "This is principle.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "print",
@@ -26457,7 +33802,12 @@ var WORDS = [
     "英文例句": "This is print.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "printer",
@@ -26475,7 +33825,12 @@ var WORDS = [
     "英文例句": "This is printer.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "private",
@@ -26493,7 +33848,12 @@ var WORDS = [
     "英文例句": "This is private.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "prize",
@@ -26511,7 +33871,12 @@ var WORDS = [
     "英文例句": "This is prize.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "probably",
@@ -26529,7 +33894,12 @@ var WORDS = [
     "英文例句": "This is probably.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "problem",
@@ -26547,7 +33917,12 @@ var WORDS = [
     "英文例句": "This is problem.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "produce",
@@ -26565,7 +33940,12 @@ var WORDS = [
     "英文例句": "This is produce.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "production",
@@ -26583,7 +33963,12 @@ var WORDS = [
     "英文例句": "This is production.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "professor",
@@ -26601,7 +33986,12 @@ var WORDS = [
     "英文例句": "This is professor.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "program",
@@ -26619,7 +34009,12 @@ var WORDS = [
     "英文例句": "This is program.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "progress",
@@ -26637,7 +34032,12 @@ var WORDS = [
     "英文例句": "This is progress.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "project",
@@ -26655,7 +34055,12 @@ var WORDS = [
     "英文例句": "This is project.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "promise",
@@ -26673,7 +34078,12 @@ var WORDS = [
     "英文例句": "This is promise.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pronounce",
@@ -26691,7 +34101,12 @@ var WORDS = [
     "英文例句": "This is pronounce.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "protect",
@@ -26709,7 +34124,12 @@ var WORDS = [
     "英文例句": "Helmets protect head during biking.",
     "例句中文": "騎自行車配戴安全帽保護頭部安全。",
     "表情符號": "⛑️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⛑️",
+    "icon": "⛑️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "proud",
@@ -26727,7 +34147,12 @@ var WORDS = [
     "英文例句": "Parents are proud of your honesty.",
     "例句中文": "父母為你坦率誠實的美德感到自豪。",
     "表情符號": "🥰",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥰",
+    "icon": "🥰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "provide",
@@ -26745,7 +34170,12 @@ var WORDS = [
     "英文例句": "This is provide.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "public",
@@ -26763,7 +34193,12 @@ var WORDS = [
     "英文例句": "This is public.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pull",
@@ -26781,7 +34216,12 @@ var WORDS = [
     "英文例句": "Pull the wagon across lawn.",
     "例句中文": "拉著小拖車穿過草坪。",
     "表情符號": "🛒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛒",
+    "icon": "🛒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pump",
@@ -26799,7 +34239,12 @@ var WORDS = [
     "英文例句": "This is pump.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pumpkin",
@@ -26817,7 +34262,12 @@ var WORDS = [
     "英文例句": "Carve a funny face on the pumpkin.",
     "例句中文": "在南瓜上雕刻出滑稽的表情。",
     "表情符號": "🎃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎃",
+    "icon": "🎃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "punish",
@@ -26835,7 +34285,12 @@ var WORDS = [
     "英文例句": "This is punish.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "puppy",
@@ -26853,7 +34308,12 @@ var WORDS = [
     "英文例句": "The playful puppy wags its tail.",
     "例句中文": "愛玩耍的小狗開心地搖著尾巴。",
     "表情符號": "🐶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐶",
+    "icon": "🐶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "purple",
@@ -26871,7 +34331,12 @@ var WORDS = [
     "英文例句": "Grapes are purple.",
     "例句中文": "葡萄是紫色的。",
     "表情符號": "🟣",
-    "圖片": ""
+    "圖片": "",
+    "em": "🟣",
+    "icon": "🟣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "purpose",
@@ -26889,7 +34354,12 @@ var WORDS = [
     "英文例句": "This is purpose.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "purse",
@@ -26907,7 +34377,12 @@ var WORDS = [
     "英文例句": "Mom holds a small leather purse.",
     "例句中文": "媽媽拿著一個小巧的皮革手提包。",
     "表情符號": "👛",
-    "圖片": ""
+    "圖片": "",
+    "em": "👛",
+    "icon": "👛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "push",
@@ -26925,7 +34400,12 @@ var WORDS = [
     "英文例句": "Push the swing gently high.",
     "例句中文": "輕輕地把鞦韆往高處推。",
     "表情符號": "🛝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛝",
+    "icon": "🛝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "put",
@@ -26943,7 +34423,12 @@ var WORDS = [
     "英文例句": "This is put.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "puzzle",
@@ -26961,7 +34446,12 @@ var WORDS = [
     "英文例句": "This is puzzle.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "pyjamas",
@@ -26979,7 +34469,12 @@ var WORDS = [
     "英文例句": "Put on soft pyjamas before bed.",
     "例句中文": "睡前換上柔軟的睡衣。",
     "表情符號": "👚",
-    "圖片": ""
+    "圖片": "",
+    "em": "👚",
+    "icon": "👚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "quarter",
@@ -26997,7 +34492,12 @@ var WORDS = [
     "英文例句": "This is quarter.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "queen",
@@ -27015,7 +34515,12 @@ var WORDS = [
     "英文例句": "This is queen.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "question",
@@ -27033,7 +34538,12 @@ var WORDS = [
     "英文例句": "Ask a question if confused.",
     "例句中文": "有不懂的地方就提問。",
     "表情符號": "❓",
-    "圖片": ""
+    "圖片": "",
+    "em": "❓",
+    "icon": "❓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "quick",
@@ -27051,7 +34561,12 @@ var WORDS = [
     "英文例句": "Take a quick look at the clock.",
     "例句中文": "迅速抬頭看一眼牆上的時鐘。",
     "表情符號": "⏰",
-    "圖片": ""
+    "圖片": "",
+    "em": "⏰",
+    "icon": "⏰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "quiet",
@@ -27069,7 +34584,12 @@ var WORDS = [
     "英文例句": "Please keep quiet in library.",
     "例句中文": "圖書館內請保持安靜。",
     "表情符號": "🤫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤫",
+    "icon": "🤫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "quit",
@@ -27087,7 +34607,12 @@ var WORDS = [
     "英文例句": "This is quit.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "quite",
@@ -27105,7 +34630,12 @@ var WORDS = [
     "英文例句": "This is quite.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "quiz",
@@ -27123,7 +34653,12 @@ var WORDS = [
     "英文例句": "We took a short spelling quiz.",
     "例句中文": "我們考了一個簡短的單字小考。",
     "表情符號": "✍️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✍️",
+    "icon": "✍️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rabbit",
@@ -27141,7 +34676,12 @@ var WORDS = [
     "英文例句": "The rabbit hops on the grass.",
     "例句中文": "兔子在草地上跳躍。",
     "表情符號": "🐰",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐰",
+    "icon": "🐰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "race",
@@ -27159,7 +34699,12 @@ var WORDS = [
     "英文例句": "This is race.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "radio",
@@ -27177,7 +34722,12 @@ var WORDS = [
     "英文例句": "Grandpa listens to the morning radio.",
     "例句中文": "爺爺一早打開收音機收聽廣播。",
     "表情符號": "📻",
-    "圖片": ""
+    "圖片": "",
+    "em": "📻",
+    "icon": "📻",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rag",
@@ -27195,7 +34745,12 @@ var WORDS = [
     "英文例句": "Wipe the table clean with a damp rag.",
     "例句中文": "用濕抹布把桌子擦拭乾淨。",
     "表情符號": "🧽",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧽",
+    "icon": "🧽",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "railroad",
@@ -27213,7 +34768,12 @@ var WORDS = [
     "英文例句": "This is railroad.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "railway",
@@ -27231,7 +34791,12 @@ var WORDS = [
     "英文例句": "This is railway.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rain",
@@ -27249,7 +34814,12 @@ var WORDS = [
     "英文例句": "It will rain this afternoon.",
     "例句中文": "今天下午會下雨。",
     "表情符號": "🌧️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌧️",
+    "icon": "🌧️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rainbow",
@@ -27267,7 +34837,12 @@ var WORDS = [
     "英文例句": "A seven-color rainbow appeared after rain.",
     "例句中文": "雨後天空出現了一道七彩虹霓。",
     "表情符號": "🌈",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌈",
+    "icon": "🌈",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "raincoat",
@@ -27285,7 +34860,12 @@ var WORDS = [
     "英文例句": "Put on your yellow raincoat today.",
     "例句中文": "今天出門穿上黃色雨衣吧。",
     "表情符號": "🧥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧥",
+    "icon": "🧥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rainy",
@@ -27303,7 +34883,12 @@ var WORDS = [
     "英文例句": "This is rainy.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "raise",
@@ -27321,7 +34906,12 @@ var WORDS = [
     "英文例句": "This is raise.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rare",
@@ -27339,7 +34929,12 @@ var WORDS = [
     "英文例句": "This is rare.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rat",
@@ -27357,7 +34952,12 @@ var WORDS = [
     "英文例句": "This is rat.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rather",
@@ -27375,7 +34975,12 @@ var WORDS = [
     "英文例句": "This is rather.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "reach",
@@ -27393,7 +34998,12 @@ var WORDS = [
     "英文例句": "Reach for the top book shelf.",
     "例句中文": "伸手去拿最頂層書架上的書。",
     "表情符號": "📚",
-    "圖片": ""
+    "圖片": "",
+    "em": "📚",
+    "icon": "📚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "read",
@@ -27411,7 +35021,12 @@ var WORDS = [
     "英文例句": "I read fairy tales every night.",
     "例句中文": "我每晚讀童話故事。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ready",
@@ -27429,7 +35044,12 @@ var WORDS = [
     "英文例句": "Are you ready for the game?",
     "例句中文": "你準備好要開始遊戲了嗎？",
     "表情符號": "🏁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏁",
+    "icon": "🏁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "real",
@@ -27447,7 +35067,12 @@ var WORDS = [
     "英文例句": "This is real.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "realize",
@@ -27465,7 +35090,12 @@ var WORDS = [
     "英文例句": "This is realize.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "really",
@@ -27483,7 +35113,12 @@ var WORDS = [
     "英文例句": "This is really.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "reason",
@@ -27501,7 +35136,12 @@ var WORDS = [
     "英文例句": "This is reason.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "receive",
@@ -27519,7 +35159,12 @@ var WORDS = [
     "英文例句": "This is receive.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "record",
@@ -27537,7 +35182,12 @@ var WORDS = [
     "英文例句": "This is record.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "recorder",
@@ -27555,7 +35205,12 @@ var WORDS = [
     "英文例句": "This is recorder.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "recover",
@@ -27573,7 +35228,12 @@ var WORDS = [
     "英文例句": "This is recover.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rectangle",
@@ -27591,7 +35251,12 @@ var WORDS = [
     "英文例句": "Your English book cover is a rectangle.",
     "例句中文": "你的英文課本封面是一個長方形。",
     "表情符號": "▭",
-    "圖片": ""
+    "圖片": "",
+    "em": "▭",
+    "icon": "▭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "recycle",
@@ -27609,7 +35274,12 @@ var WORDS = [
     "英文例句": "Recycle clean plastic bottles properly.",
     "例句中文": "妥善將乾淨的塑膠瓶進行資源回收。",
     "表情符號": "♻️",
-    "圖片": ""
+    "圖片": "",
+    "em": "♻️",
+    "icon": "♻️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "red",
@@ -27627,7 +35297,12 @@ var WORDS = [
     "英文例句": "Apples are red.",
     "例句中文": "蘋果是紅色的。",
     "表情符號": "🔴",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔴",
+    "icon": "🔴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "refrigerator",
@@ -27645,7 +35320,12 @@ var WORDS = [
     "英文例句": "This is refrigerator.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "refuse",
@@ -27663,7 +35343,12 @@ var WORDS = [
     "英文例句": "This is refuse.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "regret",
@@ -27681,7 +35366,12 @@ var WORDS = [
     "英文例句": "This is regret.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "regular",
@@ -27699,7 +35389,12 @@ var WORDS = [
     "英文例句": "This is regular.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "reject",
@@ -27717,7 +35412,12 @@ var WORDS = [
     "英文例句": "This is reject.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "relative",
@@ -27735,7 +35435,12 @@ var WORDS = [
     "英文例句": "This is relative.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "remember",
@@ -27753,7 +35458,12 @@ var WORDS = [
     "英文例句": "Remember to drink plenty of water.",
     "例句中文": "記得多補充充足的水分。",
     "表情符號": "💧",
-    "圖片": ""
+    "圖片": "",
+    "em": "💧",
+    "icon": "💧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "remind",
@@ -27771,7 +35481,12 @@ var WORDS = [
     "英文例句": "This is remind.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rent",
@@ -27789,7 +35504,12 @@ var WORDS = [
     "英文例句": "This is rent.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "repair",
@@ -27807,7 +35527,12 @@ var WORDS = [
     "英文例句": "Repair flat bicycle tires quickly.",
     "例句中文": "迅速把破掉漏氣的自行車輪胎補好。",
     "表情符號": "🚲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚲",
+    "icon": "🚲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "repeat",
@@ -27825,7 +35550,12 @@ var WORDS = [
     "英文例句": "This is repeat.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "report",
@@ -27843,7 +35573,12 @@ var WORDS = [
     "英文例句": "This is report.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "reporter",
@@ -27861,7 +35596,12 @@ var WORDS = [
     "英文例句": "This is reporter.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "respect",
@@ -27879,7 +35619,12 @@ var WORDS = [
     "英文例句": "This is respect.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "responsible",
@@ -27897,7 +35642,12 @@ var WORDS = [
     "英文例句": "This is responsible.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rest",
@@ -27915,7 +35665,12 @@ var WORDS = [
     "英文例句": "This is rest.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "restaurant",
@@ -27933,7 +35688,12 @@ var WORDS = [
     "英文例句": "Eat pasta at Italian restaurant.",
     "例句中文": "在義大利餐廳享用美味義大利麵。",
     "表情符號": "🍝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍝",
+    "icon": "🍝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "restroom",
@@ -27951,7 +35711,12 @@ var WORDS = [
     "英文例句": "This is restroom.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "result",
@@ -27969,7 +35734,12 @@ var WORDS = [
     "英文例句": "This is result.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "return",
@@ -27987,7 +35757,12 @@ var WORDS = [
     "英文例句": "Return borrowed library books on time.",
     "例句中文": "按時歸還向學校圖書館借閱的圖書。",
     "表情符號": "📚",
-    "圖片": ""
+    "圖片": "",
+    "em": "📚",
+    "icon": "📚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "review",
@@ -28005,7 +35780,12 @@ var WORDS = [
     "英文例句": "This is review.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "revise",
@@ -28023,7 +35803,12 @@ var WORDS = [
     "英文例句": "This is revise.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ribbon",
@@ -28041,7 +35826,12 @@ var WORDS = [
     "英文例句": "Tie the gift box with pink ribbon.",
     "例句中文": "用粉紅色緞帶包紮禮物盒。",
     "表情符號": "🎀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎀",
+    "icon": "🎀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rice",
@@ -28059,7 +35849,12 @@ var WORDS = [
     "英文例句": "We eat rice every day.",
     "例句中文": "我們每天吃米飯。",
     "表情符號": "🍚",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍚",
+    "icon": "🍚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rich",
@@ -28077,7 +35872,12 @@ var WORDS = [
     "英文例句": "Dark chocolate has a rich taste.",
     "例句中文": "黑巧克力有著濃郁芬芳的風味。",
     "表情符號": "🍫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍫",
+    "icon": "🍫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ride",
@@ -28095,7 +35895,12 @@ var WORDS = [
     "英文例句": "Ride a bicycle safely.",
     "例句中文": "安全地騎腳踏車。",
     "表情符號": "🚲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚲",
+    "icon": "🚲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "right",
@@ -28113,7 +35918,12 @@ var WORDS = [
     "英文例句": "Turn right at the school gate.",
     "例句中文": "在學校門口向右邊轉彎前進。",
     "表情符號": "➡️",
-    "圖片": ""
+    "圖片": "",
+    "em": "➡️",
+    "icon": "➡️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ring",
@@ -28131,7 +35941,12 @@ var WORDS = [
     "英文例句": "Mom wears a shiny silver ring.",
     "例句中文": "媽媽戴著一枚閃亮的銀戒指。",
     "表情符號": "💍",
-    "圖片": ""
+    "圖片": "",
+    "em": "💍",
+    "icon": "💍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rise",
@@ -28149,7 +35964,12 @@ var WORDS = [
     "英文例句": "This is rise.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "river",
@@ -28167,7 +35987,12 @@ var WORDS = [
     "英文例句": "The river flows to the ocean.",
     "例句中文": "這條河川流向海洋。",
     "表情符號": "🏞️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏞️",
+    "icon": "🏞️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "road",
@@ -28185,7 +36010,12 @@ var WORDS = [
     "英文例句": "Cross the wide road at crosswalk.",
     "例句中文": "走斑馬線穿越寬廣的馬路。",
     "表情符號": "🛣️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛣️",
+    "icon": "🛣️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rob",
@@ -28203,7 +36033,12 @@ var WORDS = [
     "英文例句": "This is rob.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "robot",
@@ -28221,7 +36056,12 @@ var WORDS = [
     "英文例句": "This is robot.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ROC",
@@ -28239,7 +36079,12 @@ var WORDS = [
     "英文例句": "This is ROC.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rock",
@@ -28257,7 +36102,12 @@ var WORDS = [
     "英文例句": "Sit on the flat rock beside the stream.",
     "例句中文": "坐在小溪旁的平坦岩石上休息。",
     "表情符號": "🪨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪨",
+    "icon": "🪨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rocket",
@@ -28275,7 +36125,12 @@ var WORDS = [
     "英文例句": "The rocket launches into space.",
     "例句中文": "火箭發射進入浩瀚太空。",
     "表情符號": "🚀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚀",
+    "icon": "🚀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "role",
@@ -28293,7 +36148,12 @@ var WORDS = [
     "英文例句": "This is role.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "roll",
@@ -28311,7 +36171,12 @@ var WORDS = [
     "英文例句": "Roll the rubber ball across rug.",
     "例句中文": "把橡膠球在地毯上滾過去。",
     "表情符號": "⚽",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚽",
+    "icon": "⚽",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "roller skate",
@@ -28329,7 +36194,12 @@ var WORDS = [
     "英文例句": "This is roller skate.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "roof",
@@ -28347,7 +36217,12 @@ var WORDS = [
     "英文例句": "Raindrops tap on the roof.",
     "例句中文": "雨滴在屋頂上滴滴答答。",
     "表情符號": "🏠",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏠",
+    "icon": "🏠",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "room",
@@ -28365,7 +36240,12 @@ var WORDS = [
     "英文例句": "Clean your room today.",
     "例句中文": "今天把房間整理乾淨。",
     "表情符號": "🚪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚪",
+    "icon": "🚪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rooster",
@@ -28383,7 +36263,12 @@ var WORDS = [
     "英文例句": "The rooster crows loudly at dawn.",
     "例句中文": "公雞在黎明破曉時高聲啼鳴。",
     "表情符號": "🐓",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐓",
+    "icon": "🐓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "root",
@@ -28401,7 +36286,12 @@ var WORDS = [
     "英文例句": "Tree roots reach deep into soil.",
     "例句中文": "樹根深深紮進肥沃的土壤之中。",
     "表情符號": "🪵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪵",
+    "icon": "🪵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rope",
@@ -28419,7 +36309,12 @@ var WORDS = [
     "英文例句": "Jump rope during physical education.",
     "例句中文": "在體育課時間開心地跳繩鍛鍊身體。",
     "表情符號": "🪢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪢",
+    "icon": "🪢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rose",
@@ -28437,7 +36332,12 @@ var WORDS = [
     "英文例句": "This is rose.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "round",
@@ -28455,7 +36355,12 @@ var WORDS = [
     "英文例句": "Soccer balls are round and bouncy.",
     "例句中文": "足球是圓滾滾又富有彈性的。",
     "表情符號": "⚽",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚽",
+    "icon": "⚽",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "row",
@@ -28473,7 +36378,12 @@ var WORDS = [
     "英文例句": "This is row.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rub",
@@ -28491,7 +36401,12 @@ var WORDS = [
     "英文例句": "This is rub.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rubber",
@@ -28509,7 +36424,12 @@ var WORDS = [
     "英文例句": "This is rubber.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rude",
@@ -28527,7 +36447,12 @@ var WORDS = [
     "英文例句": "This is rude.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rug",
@@ -28545,7 +36470,12 @@ var WORDS = [
     "英文例句": "A soft wool rug warms floor.",
     "例句中文": "一塊柔軟的羊毛地墊溫暖地板。",
     "表情符號": "🧶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧶",
+    "icon": "🧶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ruin",
@@ -28563,7 +36493,12 @@ var WORDS = [
     "英文例句": "This is ruin.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rule",
@@ -28581,7 +36516,12 @@ var WORDS = [
     "英文例句": "This is rule.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ruler",
@@ -28599,7 +36539,12 @@ var WORDS = [
     "英文例句": "Use a ruler to draw a line.",
     "例句中文": "用尺畫一條直線。",
     "表情符號": "📏",
-    "圖片": ""
+    "圖片": "",
+    "em": "📏",
+    "icon": "📏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "run",
@@ -28617,7 +36562,12 @@ var WORDS = [
     "英文例句": "Run fast to catch the ball.",
     "例句中文": "跑快一點去接球。",
     "表情符號": "🏃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏃",
+    "icon": "🏃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "rush",
@@ -28635,7 +36585,12 @@ var WORDS = [
     "英文例句": "This is rush.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sad",
@@ -28653,7 +36608,12 @@ var WORDS = [
     "英文例句": "Why are you sad today?",
     "例句中文": "你今天為什麼看起來很難過？",
     "表情符號": "😢",
-    "圖片": ""
+    "圖片": "",
+    "em": "😢",
+    "icon": "😢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "safe",
@@ -28671,7 +36631,12 @@ var WORDS = [
     "英文例句": "Wear a helmet to stay safe.",
     "例句中文": "戴上安全帽能保護你的自身安全。",
     "表情符號": "⛑️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⛑️",
+    "icon": "⛑️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "safety",
@@ -28689,7 +36654,12 @@ var WORDS = [
     "英文例句": "This is safety.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sail",
@@ -28707,7 +36677,12 @@ var WORDS = [
     "英文例句": "This is sail.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sailor",
@@ -28725,7 +36700,12 @@ var WORDS = [
     "英文例句": "This is sailor.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "salad",
@@ -28743,7 +36723,12 @@ var WORDS = [
     "英文例句": "Crisp lettuce salad is healthy.",
     "例句中文": "清脆的新鮮生菜沙拉健康又爽口。",
     "表情符號": "🥗",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥗",
+    "icon": "🥗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sale",
@@ -28761,7 +36746,12 @@ var WORDS = [
     "英文例句": "This is sale.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "salesman",
@@ -28779,7 +36769,12 @@ var WORDS = [
     "英文例句": "This is salesman.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "salmon",
@@ -28797,7 +36792,12 @@ var WORDS = [
     "英文例句": "Grilled pink salmon tastes fresh.",
     "例句中文": "烤鮭魚嚐起來肉質鮮美。",
     "表情符號": "🐟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐟",
+    "icon": "🐟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "salt",
@@ -28815,7 +36815,12 @@ var WORDS = [
     "英文例句": "Pass the salt for the soup.",
     "例句中文": "請遞一下煮湯用的鹽。",
     "表情符號": "🧂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧂",
+    "icon": "🧂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "same",
@@ -28833,7 +36838,12 @@ var WORDS = [
     "英文例句": "Twins wore the exact same shirt.",
     "例句中文": "雙胞胎穿著一模一樣的襯衫。",
     "表情符號": "👕",
-    "圖片": ""
+    "圖片": "",
+    "em": "👕",
+    "icon": "👕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sample",
@@ -28851,7 +36861,12 @@ var WORDS = [
     "英文例句": "This is sample.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sand",
@@ -28869,7 +36884,12 @@ var WORDS = [
     "英文例句": "Build a big sandcastle with wet sand.",
     "例句中文": "用濕沙堆一座宏偉的沙堡。",
     "表情符號": "🏖️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏖️",
+    "icon": "🏖️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sandwich",
@@ -28887,7 +36907,12 @@ var WORDS = [
     "英文例句": "I pack a sandwich for lunch.",
     "例句中文": "我準備了三明治當午餐。",
     "表情符號": "🥪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥪",
+    "icon": "🥪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "satisfy",
@@ -28905,7 +36930,12 @@ var WORDS = [
     "英文例句": "This is satisfy.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Saturday",
@@ -28923,7 +36953,12 @@ var WORDS = [
     "英文例句": "Play outside on Saturday.",
     "例句中文": "星期六去戶外痛快玩耍。",
     "表情符號": "📅",
-    "圖片": ""
+    "圖片": "",
+    "em": "📅",
+    "icon": "📅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "saucer",
@@ -28941,7 +36976,12 @@ var WORDS = [
     "英文例句": "This is saucer.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sausage",
@@ -28959,7 +36999,12 @@ var WORDS = [
     "英文例句": "Sausages sizzle in the pan.",
     "例句中文": "香腸在平底鍋裡滋滋作響。",
     "表情符號": "🌭",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌭",
+    "icon": "🌭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "save",
@@ -28977,7 +37022,12 @@ var WORDS = [
     "英文例句": "Save money in piggie bank.",
     "例句中文": "把零錢存在可愛的小豬撲滿裡。",
     "表情符號": "🐷",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐷",
+    "icon": "🐷",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "say",
@@ -28995,7 +37045,12 @@ var WORDS = [
     "英文例句": "Say hello to your friends.",
     "例句中文": "向你的朋友們打招呼說哈囉。",
     "表情符號": "💬",
-    "圖片": ""
+    "圖片": "",
+    "em": "💬",
+    "icon": "💬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "scare",
@@ -29013,7 +37068,12 @@ var WORDS = [
     "英文例句": "Loud thunder scares the dog.",
     "例句中文": "巨大的打雷聲把狗狗嚇了一跳。",
     "表情符號": "⚡",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚡",
+    "icon": "⚡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "scared",
@@ -29031,7 +37091,12 @@ var WORDS = [
     "英文例句": "This is scared.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "scarf",
@@ -29049,7 +37114,12 @@ var WORDS = [
     "英文例句": "A warm woolen scarf in winter.",
     "例句中文": "冬天戴上一條溫暖的毛圍巾。",
     "表情符號": "🧣",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧣",
+    "icon": "🧣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "scene",
@@ -29067,7 +37137,12 @@ var WORDS = [
     "英文例句": "This is scene.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "scenery",
@@ -29085,7 +37160,12 @@ var WORDS = [
     "英文例句": "This is scenery.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "school",
@@ -29103,7 +37183,12 @@ var WORDS = [
     "英文例句": "I go to school by bus.",
     "例句中文": "我搭公車去上學。",
     "表情符號": "🏫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏫",
+    "icon": "🏫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "science",
@@ -29121,7 +37206,12 @@ var WORDS = [
     "英文例句": "We study plants in science lab.",
     "例句中文": "我們在自然科學實驗室研究植物。",
     "表情符號": "🔬",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔬",
+    "icon": "🔬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "scientist",
@@ -29139,7 +37229,12 @@ var WORDS = [
     "英文例句": "This is scientist.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "scissors",
@@ -29157,7 +37252,12 @@ var WORDS = [
     "英文例句": "Be careful with scissors.",
     "例句中文": "用剪刀時要小心。",
     "表情符號": "✂️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✂️",
+    "icon": "✂️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "scooter",
@@ -29175,7 +37275,12 @@ var WORDS = [
     "英文例句": "He rides a green kick scooter.",
     "例句中文": "他騎著一台綠色滑板車。",
     "表情符號": "🛴",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛴",
+    "icon": "🛴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "score",
@@ -29193,7 +37298,12 @@ var WORDS = [
     "英文例句": "Score a brilliant soccer goal.",
     "例句中文": "踢進一記精彩的足球得分。",
     "表情符號": "🥅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥅",
+    "icon": "🥅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "scream",
@@ -29211,7 +37321,12 @@ var WORDS = [
     "英文例句": "Children scream with joy on ride.",
     "例句中文": "孩子們在遊樂設施上開心尖叫。",
     "表情符號": "🎢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎢",
+    "icon": "🎢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "screen",
@@ -29229,7 +37344,12 @@ var WORDS = [
     "英文例句": "Don't sit too close to TV screen.",
     "例句中文": "別坐得太靠近電視機螢幕收看。",
     "表情符號": "🖥️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🖥️",
+    "icon": "🖥️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sea",
@@ -29247,7 +37367,12 @@ var WORDS = [
     "英文例句": "Ships sail on the deep sea.",
     "例句中文": "輪船在深邃的大海上航行。",
     "表情符號": "🌊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌊",
+    "icon": "🌊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "seafood",
@@ -29265,7 +37390,12 @@ var WORDS = [
     "英文例句": "The island is famous for seafood.",
     "例句中文": "這座島嶼以新鮮海鮮聞名。",
     "表情符號": "🦐",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦐",
+    "icon": "🦐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "seal",
@@ -29283,7 +37413,12 @@ var WORDS = [
     "英文例句": "The playful seal claps on ice.",
     "例句中文": "頑皮的海豹在冰面上拍手叫好。",
     "表情符號": "🦭",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦭",
+    "icon": "🦭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "search",
@@ -29301,7 +37436,12 @@ var WORDS = [
     "英文例句": "Search for lost keys in backpack.",
     "例句中文": "在背包裡尋找弄丟的鑰匙。",
     "表情符號": "🔍",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔍",
+    "icon": "🔍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "season",
@@ -29319,7 +37459,12 @@ var WORDS = [
     "英文例句": "What is your favorite season?",
     "例句中文": "你最喜愛的季節是哪一個？",
     "表情符號": "🍂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍂",
+    "icon": "🍂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "seat",
@@ -29337,7 +37482,12 @@ var WORDS = [
     "英文例句": "This is seat.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "second",
@@ -29355,7 +37505,12 @@ var WORDS = [
     "英文例句": "This is my second try.",
     "例句中文": "這是我第二次嘗試。",
     "表情符號": "🥈",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥈",
+    "icon": "🥈",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "secondary",
@@ -29373,7 +37528,12 @@ var WORDS = [
     "英文例句": "This is secondary.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "secret",
@@ -29391,7 +37551,12 @@ var WORDS = [
     "英文例句": "This is secret.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "secretary",
@@ -29409,7 +37574,12 @@ var WORDS = [
     "英文例句": "This is secretary.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "section",
@@ -29427,7 +37597,12 @@ var WORDS = [
     "英文例句": "This is section.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "see",
@@ -29445,7 +37620,12 @@ var WORDS = [
     "英文例句": "I can see birds outside.",
     "例句中文": "我看得到外面的鳥兒。",
     "表情符號": "👀",
-    "圖片": ""
+    "圖片": "",
+    "em": "👀",
+    "icon": "👀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "seed",
@@ -29463,7 +37643,12 @@ var WORDS = [
     "英文例句": "Plant sunflower seeds in sunny soil.",
     "例句中文": "把向日葵種子播撒在向陽的土裡。",
     "表情符號": "🌱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌱",
+    "icon": "🌱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "seek",
@@ -29481,7 +37666,12 @@ var WORDS = [
     "英文例句": "This is seek.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "seem",
@@ -29499,7 +37689,12 @@ var WORDS = [
     "英文例句": "This is seem.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "seesaw",
@@ -29517,7 +37712,12 @@ var WORDS = [
     "英文例句": "This is seesaw.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "seldom",
@@ -29535,7 +37735,12 @@ var WORDS = [
     "英文例句": "This is seldom.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "select",
@@ -29553,7 +37758,12 @@ var WORDS = [
     "英文例句": "This is select.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "selfish",
@@ -29571,7 +37781,12 @@ var WORDS = [
     "英文例句": "This is selfish.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sell",
@@ -29589,7 +37804,12 @@ var WORDS = [
     "英文例句": "This is sell.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "semester",
@@ -29607,7 +37827,12 @@ var WORDS = [
     "英文例句": "This is semester.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "send",
@@ -29625,7 +37850,12 @@ var WORDS = [
     "英文例句": "Send a warm postcard to penpal.",
     "例句中文": "寄一張溫馨的明信片給筆友。",
     "表情符號": "📮",
-    "圖片": ""
+    "圖片": "",
+    "em": "📮",
+    "icon": "📮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "senior high school",
@@ -29643,7 +37873,12 @@ var WORDS = [
     "英文例句": "This is senior high school.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sense",
@@ -29661,7 +37896,12 @@ var WORDS = [
     "英文例句": "This is sense.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sentence",
@@ -29679,7 +37919,12 @@ var WORDS = [
     "英文例句": "Read this English sentence aloud.",
     "例句中文": "大聲朗讀這個英文句子。",
     "表情符號": "💬",
-    "圖片": ""
+    "圖片": "",
+    "em": "💬",
+    "icon": "💬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "September",
@@ -29697,7 +37942,12 @@ var WORDS = [
     "英文例句": "Back to school in September.",
     "例句中文": "九月重返校園迎接新學期。",
     "表情符號": "🎒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎒",
+    "icon": "🎒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "serious",
@@ -29715,7 +37965,12 @@ var WORDS = [
     "英文例句": "This is serious.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "servant",
@@ -29733,7 +37988,12 @@ var WORDS = [
     "英文例句": "This is servant.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "serve",
@@ -29751,7 +38011,12 @@ var WORDS = [
     "英文例句": "Serve hot vegetable soup to guests.",
     "例句中文": "給客人們端上熱騰騰的蔬菜湯。",
     "表情符號": "🍲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍲",
+    "icon": "🍲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "service",
@@ -29769,7 +38034,12 @@ var WORDS = [
     "英文例句": "This is service.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "set",
@@ -29787,7 +38057,12 @@ var WORDS = [
     "英文例句": "Set the alarm clock for seven.",
     "例句中文": "把鬧鐘設定在七點鐘響起。",
     "表情符號": "⏰",
-    "圖片": ""
+    "圖片": "",
+    "em": "⏰",
+    "icon": "⏰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "seven",
@@ -29805,7 +38080,12 @@ var WORDS = [
     "英文例句": "A week has seven days.",
     "例句中文": "一個星期有七天。",
     "表情符號": "7️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "7️⃣",
+    "icon": "7️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "seventeen",
@@ -29823,7 +38103,12 @@ var WORDS = [
     "英文例句": "Seventeen colorful balloons.",
     "例句中文": "十七顆五彩繽紛的氣球。",
     "表情符號": "1️⃣7️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "1️⃣7️⃣",
+    "icon": "1️⃣7️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "seventy",
@@ -29841,7 +38126,12 @@ var WORDS = [
     "英文例句": "Seventy pages in this book.",
     "例句中文": "這本書總共有七十頁。",
     "表情符號": "7️⃣0️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "7️⃣0️⃣",
+    "icon": "7️⃣0️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "several",
@@ -29859,7 +38149,12 @@ var WORDS = [
     "英文例句": "This is several.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shake",
@@ -29877,7 +38172,12 @@ var WORDS = [
     "英文例句": "Shake hands with new classmates.",
     "例句中文": "和新認識的同學們熱情握手。",
     "表情符號": "🤝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤝",
+    "icon": "🤝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shall",
@@ -29895,7 +38195,12 @@ var WORDS = [
     "英文例句": "Shall we dance together?",
     "例句中文": "我們一起跳舞好嗎？",
     "表情符號": "💃",
-    "圖片": ""
+    "圖片": "",
+    "em": "💃",
+    "icon": "💃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shape",
@@ -29913,7 +38218,12 @@ var WORDS = [
     "英文例句": "This is shape.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "share",
@@ -29931,7 +38241,12 @@ var WORDS = [
     "英文例句": "This is share.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shark",
@@ -29949,7 +38264,12 @@ var WORDS = [
     "英文例句": "Sharks have sharp teeth.",
     "例句中文": "鯊魚有鋒利的牙齒。",
     "表情符號": "🦈",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦈",
+    "icon": "🦈",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sharp",
@@ -29967,7 +38287,12 @@ var WORDS = [
     "英文例句": "This is sharp.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sharpener",
@@ -29985,7 +38310,12 @@ var WORDS = [
     "英文例句": "Sharpen your dull pencil with a sharpener.",
     "例句中文": "用削鉛筆機把變鈍的鉛筆削尖。",
     "表情符號": "✏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✏️",
+    "icon": "✏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "she",
@@ -30003,7 +38333,12 @@ var WORDS = [
     "英文例句": "She reads a picture book.",
     "例句中文": "她讀著一本繪本。",
     "表情符號": "👧",
-    "圖片": ""
+    "圖片": "",
+    "em": "👧",
+    "icon": "👧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sheep",
@@ -30021,7 +38356,12 @@ var WORDS = [
     "英文例句": "The sheep has warm white wool.",
     "例句中文": "綿羊有溫暖白皙的羊毛。",
     "表情符號": "🐑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐑",
+    "icon": "🐑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sheet",
@@ -30039,7 +38379,12 @@ var WORDS = [
     "英文例句": "This is sheet.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shelf",
@@ -30057,7 +38402,12 @@ var WORDS = [
     "英文例句": "Put your books on shelf.",
     "例句中文": "把你的書放回書架上。",
     "表情符號": "📚",
-    "圖片": ""
+    "圖片": "",
+    "em": "📚",
+    "icon": "📚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shine",
@@ -30075,7 +38425,12 @@ var WORDS = [
     "英文例句": "Bright stars shine in midnight sky.",
     "例句中文": "璀璨的星星在午夜天空中照耀。",
     "表情符號": "⭐",
-    "圖片": ""
+    "圖片": "",
+    "em": "⭐",
+    "icon": "⭐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ship",
@@ -30093,7 +38448,12 @@ var WORDS = [
     "英文例句": "A large ship is at the harbor.",
     "例句中文": "一艘大輪船停在港口。",
     "表情符號": "🚢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚢",
+    "icon": "🚢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shirt",
@@ -30111,7 +38471,12 @@ var WORDS = [
     "英文例句": "He wears a white shirt.",
     "例句中文": "他穿著一件白襯衫。",
     "表情符號": "👔",
-    "圖片": ""
+    "圖片": "",
+    "em": "👔",
+    "icon": "👔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shoe",
@@ -30129,7 +38494,12 @@ var WORDS = [
     "英文例句": "This is shoe.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shoes",
@@ -30147,7 +38517,12 @@ var WORDS = [
     "英文例句": "Put on your sports shoes.",
     "例句中文": "穿上你的運動鞋。",
     "表情符號": "👟",
-    "圖片": ""
+    "圖片": "",
+    "em": "👟",
+    "icon": "👟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shoot",
@@ -30165,7 +38540,12 @@ var WORDS = [
     "英文例句": "This is shoot.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shop",
@@ -30183,7 +38563,12 @@ var WORDS = [
     "英文例句": "Shop for fresh groceries with Mom.",
     "例句中文": "和媽媽一起去採買新鮮日用品。",
     "表情符號": "🛒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛒",
+    "icon": "🛒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shopkeeper",
@@ -30201,7 +38586,12 @@ var WORDS = [
     "英文例句": "This is shopkeeper.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shore",
@@ -30219,7 +38609,12 @@ var WORDS = [
     "英文例句": "This is shore.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "short",
@@ -30237,7 +38632,12 @@ var WORDS = [
     "英文例句": "He wore short blue pants.",
     "例句中文": "他穿著藍色短褲。",
     "表情符號": "🩳",
-    "圖片": ""
+    "圖片": "",
+    "em": "🩳",
+    "icon": "🩳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shorts",
@@ -30255,7 +38655,12 @@ var WORDS = [
     "英文例句": "Boys wear shorts in summer.",
     "例句中文": "男孩夏天穿短褲。",
     "表情符號": "🩳",
-    "圖片": ""
+    "圖片": "",
+    "em": "🩳",
+    "icon": "🩳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "should",
@@ -30273,7 +38678,12 @@ var WORDS = [
     "英文例句": "You should eat vegetables.",
     "例句中文": "你應該多吃蔬菜。",
     "表情符號": "🥦",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥦",
+    "icon": "🥦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shoulder",
@@ -30291,7 +38701,12 @@ var WORDS = [
     "英文例句": "Carry schoolbag on both shoulders.",
     "例句中文": "用雙肩背起書包。",
     "表情符號": "🎒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎒",
+    "icon": "🎒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shout",
@@ -30309,7 +38724,12 @@ var WORDS = [
     "英文例句": "Do not shout in public library.",
     "例句中文": "不要在公共圖書館裡大聲呼喊。",
     "表情符號": "🤫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤫",
+    "icon": "🤫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "show",
@@ -30327,7 +38747,12 @@ var WORDS = [
     "英文例句": "This is show.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shower",
@@ -30345,7 +38770,12 @@ var WORDS = [
     "英文例句": "Take a quick morning shower.",
     "例句中文": "早上洗個快速的淋浴。",
     "表情符號": "🚿",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚿",
+    "icon": "🚿",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shrimp",
@@ -30363,7 +38793,12 @@ var WORDS = [
     "英文例句": "Fried shrimp is crisp and tasty.",
     "例句中文": "炸蝦香酥又可口。",
     "表情符號": "🍤",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍤",
+    "icon": "🍤",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shut",
@@ -30381,7 +38816,12 @@ var WORDS = [
     "英文例句": "This is shut.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "shy",
@@ -30399,7 +38839,12 @@ var WORDS = [
     "英文例句": "The shy new student smiled warmly.",
     "例句中文": "害羞的新同學露出了溫暖的笑容。",
     "表情符號": "😊",
-    "圖片": ""
+    "圖片": "",
+    "em": "😊",
+    "icon": "😊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sick",
@@ -30417,7 +38862,12 @@ var WORDS = [
     "英文例句": "Rest in bed when you feel sick.",
     "例句中文": "感到身體生病不適時要臥床休息。",
     "表情符號": "🛌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛌",
+    "icon": "🛌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "side",
@@ -30435,7 +38885,12 @@ var WORDS = [
     "英文例句": "Stand side by side with friends.",
     "例句中文": "和好朋友們並肩站在同一個隊列。",
     "表情符號": "↔️",
-    "圖片": ""
+    "圖片": "",
+    "em": "↔️",
+    "icon": "↔️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sidewalk",
@@ -30453,7 +38908,12 @@ var WORDS = [
     "英文例句": "Walk safely on the wide sidewalk.",
     "例句中文": "在寬闊的人行道上安全漫步。",
     "表情符號": "🚶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚶",
+    "icon": "🚶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sight",
@@ -30471,7 +38931,12 @@ var WORDS = [
     "英文例句": "This is sight.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sign",
@@ -30489,7 +38954,12 @@ var WORDS = [
     "英文例句": "This is sign.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "silence",
@@ -30507,7 +38977,12 @@ var WORDS = [
     "英文例句": "This is silence.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "silent",
@@ -30525,7 +39000,12 @@ var WORDS = [
     "英文例句": "This is silent.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "silly",
@@ -30543,7 +39023,12 @@ var WORDS = [
     "英文例句": "This is silly.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "silver",
@@ -30561,7 +39046,12 @@ var WORDS = [
     "英文例句": "This is silver.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "similar",
@@ -30579,7 +39069,12 @@ var WORDS = [
     "英文例句": "This is similar.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "simple",
@@ -30597,7 +39092,12 @@ var WORDS = [
     "英文例句": "This is simple.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "since",
@@ -30615,7 +39115,12 @@ var WORDS = [
     "英文例句": "This is since.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sincere",
@@ -30633,7 +39138,12 @@ var WORDS = [
     "英文例句": "This is sincere.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sing",
@@ -30651,7 +39161,12 @@ var WORDS = [
     "英文例句": "Birds sing in the spring.",
     "例句中文": "鳥兒在春天歌唱。",
     "表情符號": "🎤",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎤",
+    "icon": "🎤",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "singer",
@@ -30669,7 +39184,12 @@ var WORDS = [
     "英文例句": "This is singer.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "single",
@@ -30687,7 +39207,12 @@ var WORDS = [
     "英文例句": "This is single.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sink",
@@ -30705,7 +39230,12 @@ var WORDS = [
     "英文例句": "Wash dirty apples in kitchen sink.",
     "例句中文": "在水槽裡把蘋果清洗乾淨。",
     "表情符號": "🚰",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚰",
+    "icon": "🚰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sir",
@@ -30723,7 +39253,12 @@ var WORDS = [
     "英文例句": "This is sir.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sister",
@@ -30741,7 +39276,12 @@ var WORDS = [
     "英文例句": "My sister likes music.",
     "例句中文": "我妹妹喜歡音樂。",
     "表情符號": "👧",
-    "圖片": ""
+    "圖片": "",
+    "em": "👧",
+    "icon": "👧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sit",
@@ -30759,7 +39299,12 @@ var WORDS = [
     "英文例句": "Sit down on your chair.",
     "例句中文": "在椅子上坐好。",
     "表情符號": "🪑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪑",
+    "icon": "🪑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "six",
@@ -30777,7 +39322,12 @@ var WORDS = [
     "英文例句": "Six eggs are in the basket.",
     "例句中文": "籃子裡有六顆蛋。",
     "表情符號": "6️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "6️⃣",
+    "icon": "6️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sixteen",
@@ -30795,7 +39345,12 @@ var WORDS = [
     "英文例句": "Sixteen candles on the cake.",
     "例句中文": "蛋糕上插著十六根蠟燭。",
     "表情符號": "1️⃣6️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "1️⃣6️⃣",
+    "icon": "1️⃣6️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sixty",
@@ -30813,7 +39368,12 @@ var WORDS = [
     "英文例句": "Sixty seconds make one minute.",
     "例句中文": "六十秒組成了一分鐘。",
     "表情符號": "6️⃣0️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "6️⃣0️⃣",
+    "icon": "6️⃣0️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "size",
@@ -30831,7 +39391,12 @@ var WORDS = [
     "英文例句": "This is size.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "skate",
@@ -30849,7 +39414,12 @@ var WORDS = [
     "英文例句": "Skate on ice during cold winter.",
     "例句中文": "在寒冷的冬天裡在冰上溜冰。",
     "表情符號": "⛸️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⛸️",
+    "icon": "⛸️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ski",
@@ -30867,7 +39437,12 @@ var WORDS = [
     "英文例句": "This is ski.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "skill",
@@ -30885,7 +39460,12 @@ var WORDS = [
     "英文例句": "This is skill.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "skillful",
@@ -30903,7 +39483,12 @@ var WORDS = [
     "英文例句": "This is skillful.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "skin",
@@ -30921,7 +39506,12 @@ var WORDS = [
     "英文例句": "Apply sunscreen to protect skin.",
     "例句中文": "塗抹防曬乳保護皮膚。",
     "表情符號": "🧴",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧴",
+    "icon": "🧴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "skinny",
@@ -30939,7 +39529,12 @@ var WORDS = [
     "英文例句": "This is skinny.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "skip",
@@ -30957,7 +39552,12 @@ var WORDS = [
     "英文例句": "Skip rope ten times without stop.",
     "例句中文": "連續跳繩十下不間斷。",
     "表情符號": "🪢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪢",
+    "icon": "🪢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "skirt",
@@ -30975,7 +39575,12 @@ var WORDS = [
     "英文例句": "Her skirt is red.",
     "例句中文": "她的裙子是紅色的。",
     "表情符號": "👗",
-    "圖片": ""
+    "圖片": "",
+    "em": "👗",
+    "icon": "👗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sky",
@@ -30993,7 +39598,12 @@ var WORDS = [
     "英文例句": "Birds fly across the blue sky.",
     "例句中文": "鳥兒飛過藍天。",
     "表情符號": "🌤️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌤️",
+    "icon": "🌤️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sleep",
@@ -31011,7 +39621,12 @@ var WORDS = [
     "英文例句": "Cats sleep for many hours.",
     "例句中文": "貓咪每天睡很多個小時。",
     "表情符號": "😴",
-    "圖片": ""
+    "圖片": "",
+    "em": "😴",
+    "icon": "😴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sleepy",
@@ -31029,7 +39644,12 @@ var WORDS = [
     "英文例句": "The sleepy child yawned adorably.",
     "例句中文": "睏意濃濃的小朋友可愛地打了個哈欠。",
     "表情符號": "🥱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥱",
+    "icon": "🥱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sleeve",
@@ -31047,7 +39667,12 @@ var WORDS = [
     "英文例句": "Roll up your sleeves before washing hands.",
     "例句中文": "洗手前先捲起袖子。",
     "表情符號": "👕",
-    "圖片": ""
+    "圖片": "",
+    "em": "👕",
+    "icon": "👕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "slender",
@@ -31065,7 +39690,12 @@ var WORDS = [
     "英文例句": "This is slender.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "slice",
@@ -31083,7 +39713,12 @@ var WORDS = [
     "英文例句": "This is slice.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "slide",
@@ -31101,7 +39736,12 @@ var WORDS = [
     "英文例句": "This is slide.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "slim",
@@ -31119,7 +39759,12 @@ var WORDS = [
     "英文例句": "This is slim.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "slip",
@@ -31137,7 +39782,12 @@ var WORDS = [
     "英文例句": "Watch out or you might slip.",
     "例句中文": "小心腳步，不然你可能會滑倒。",
     "表情符號": "⚠️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⚠️",
+    "icon": "⚠️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "slippers",
@@ -31155,7 +39805,12 @@ var WORDS = [
     "英文例句": "This is slippers.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sloth",
@@ -31173,7 +39828,12 @@ var WORDS = [
     "英文例句": "The lazy sloth moves very slowly.",
     "例句中文": "樹懶在樹枝上移動得非常緩慢。",
     "表情符號": "🦥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦥",
+    "icon": "🦥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "slow",
@@ -31191,7 +39851,12 @@ var WORDS = [
     "英文例句": "Turtles walk with slow steps.",
     "例句中文": "烏龜邁著緩慢的步伐。",
     "表情符號": "🐢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐢",
+    "icon": "🐢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "small",
@@ -31209,7 +39874,12 @@ var WORDS = [
     "英文例句": "Mice have small pink noses.",
     "例句中文": "老鼠有小巧粉嫩的鼻子。",
     "表情符號": "🐁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐁",
+    "icon": "🐁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "smart",
@@ -31227,7 +39897,12 @@ var WORDS = [
     "英文例句": "Dolphins are smart animals.",
     "例句中文": "海豚是聰明的動物。",
     "表情符號": "🐬",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐬",
+    "icon": "🐬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "smell",
@@ -31245,7 +39920,12 @@ var WORDS = [
     "英文例句": "This is smell.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "smile",
@@ -31263,7 +39943,12 @@ var WORDS = [
     "英文例句": "Smile and take a photo.",
     "例句中文": "微笑拍張照吧。",
     "表情符號": "😊",
-    "圖片": ""
+    "圖片": "",
+    "em": "😊",
+    "icon": "😊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "smoke",
@@ -31281,7 +39966,12 @@ var WORDS = [
     "英文例句": "This is smoke.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "snack",
@@ -31299,7 +39989,12 @@ var WORDS = [
     "英文例句": "Apples are my favorite snack.",
     "例句中文": "蘋果是我最愛的點心。",
     "表情符號": "🍎",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍎",
+    "icon": "🍎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "snail",
@@ -31317,7 +40012,12 @@ var WORDS = [
     "英文例句": "The snail crawls slowly with shell.",
     "例句中文": "蝸牛背著厚重的外殼緩慢爬行。",
     "表情符號": "🐌",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐌",
+    "icon": "🐌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "snake",
@@ -31335,7 +40035,12 @@ var WORDS = [
     "英文例句": "The snake moves quietly.",
     "例句中文": "蛇悄悄地移動。",
     "表情符號": "🐍",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐍",
+    "icon": "🐍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sneakers",
@@ -31353,7 +40058,12 @@ var WORDS = [
     "英文例句": "This is sneakers.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sneaky",
@@ -31371,7 +40081,12 @@ var WORDS = [
     "英文例句": "This is sneaky.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sneeze",
@@ -31389,7 +40104,12 @@ var WORDS = [
     "英文例句": "Use a tissue when you sneeze.",
     "例句中文": "打噴嚏時請使用面紙掩蓋。",
     "表情符號": "🤧",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤧",
+    "icon": "🤧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "snow",
@@ -31407,7 +40127,12 @@ var WORDS = [
     "英文例句": "Children make a snowman in the snow.",
     "例句中文": "孩子們在雪地裡堆雪人。",
     "表情符號": "❄️",
-    "圖片": ""
+    "圖片": "",
+    "em": "❄️",
+    "icon": "❄️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "snowman",
@@ -31425,7 +40150,12 @@ var WORDS = [
     "英文例句": "This is snowman.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "snowy",
@@ -31443,7 +40173,12 @@ var WORDS = [
     "英文例句": "This is snowy.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "so",
@@ -31461,7 +40196,12 @@ var WORDS = [
     "英文例句": "It rained so we stayed home.",
     "例句中文": "下雨了所以我們待在家。",
     "表情符號": "🌧️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌧️",
+    "icon": "🌧️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "soap",
@@ -31479,7 +40219,12 @@ var WORDS = [
     "英文例句": "Wash dirty hands with soft soap.",
     "例句中文": "用肥皂把手洗得乾乾淨淨。",
     "表情符號": "🧼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧼",
+    "icon": "🧼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "soccer",
@@ -31497,7 +40242,12 @@ var WORDS = [
     "英文例句": "This is soccer.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "social",
@@ -31515,7 +40265,12 @@ var WORDS = [
     "英文例句": "This is social.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "society",
@@ -31533,7 +40288,12 @@ var WORDS = [
     "英文例句": "This is society.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "socks",
@@ -31551,7 +40311,12 @@ var WORDS = [
     "英文例句": "My warm socks are soft.",
     "例句中文": "我保暖的襪子很柔軟。",
     "表情符號": "🧦",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧦",
+    "icon": "🧦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "soda",
@@ -31569,7 +40334,12 @@ var WORDS = [
     "英文例句": "This is soda.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sofa",
@@ -31587,7 +40357,12 @@ var WORDS = [
     "英文例句": "Dad is resting on the sofa.",
     "例句中文": "爸爸在沙發上休息。",
     "表情符號": "🛋️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛋️",
+    "icon": "🛋️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "soft",
@@ -31605,7 +40380,12 @@ var WORDS = [
     "英文例句": "This teddy bear is very soft.",
     "例句中文": "這隻泰迪熊抱起來非常柔軟舒服。",
     "表情符號": "🧸",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧸",
+    "icon": "🧸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "soft drink",
@@ -31623,7 +40403,12 @@ var WORDS = [
     "英文例句": "This is soft drink.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "softball",
@@ -31641,7 +40426,12 @@ var WORDS = [
     "英文例句": "This is softball.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "soil",
@@ -31659,7 +40449,12 @@ var WORDS = [
     "英文例句": "Earthworms keep garden soil fertile.",
     "例句中文": "蚯蚓讓花園裡的土壤保持肥沃。",
     "表情符號": "🪴",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪴",
+    "icon": "🪴",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "soldier",
@@ -31677,7 +40472,12 @@ var WORDS = [
     "英文例句": "This is soldier.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "solve",
@@ -31695,7 +40495,12 @@ var WORDS = [
     "英文例句": "This is solve.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "some",
@@ -31713,7 +40518,12 @@ var WORDS = [
     "英文例句": "This is some.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "someone",
@@ -31731,7 +40541,12 @@ var WORDS = [
     "英文例句": "This is someone.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "something",
@@ -31749,7 +40564,12 @@ var WORDS = [
     "英文例句": "This is something.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sometimes",
@@ -31767,7 +40587,12 @@ var WORDS = [
     "英文例句": "This is sometimes.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "somewhere",
@@ -31785,7 +40610,12 @@ var WORDS = [
     "英文例句": "This is somewhere.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "son",
@@ -31803,7 +40633,12 @@ var WORDS = [
     "英文例句": "Their son is eight years old.",
     "例句中文": "他們的兒子今年八歲了。",
     "表情符號": "👦",
-    "圖片": ""
+    "圖片": "",
+    "em": "👦",
+    "icon": "👦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "song",
@@ -31821,7 +40656,12 @@ var WORDS = [
     "英文例句": "This is song.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "soon",
@@ -31839,7 +40679,12 @@ var WORDS = [
     "英文例句": "See you soon!",
     "例句中文": "待會兒見！",
     "表情符號": "👋",
-    "圖片": ""
+    "圖片": "",
+    "em": "👋",
+    "icon": "👋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sore",
@@ -31857,7 +40702,12 @@ var WORDS = [
     "英文例句": "This is sore.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sorry",
@@ -31875,7 +40725,12 @@ var WORDS = [
     "英文例句": "This is sorry.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "soul",
@@ -31893,7 +40748,12 @@ var WORDS = [
     "英文例句": "This is soul.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sound",
@@ -31911,7 +40771,12 @@ var WORDS = [
     "英文例句": "This is sound.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "soup",
@@ -31929,7 +40794,12 @@ var WORDS = [
     "英文例句": "Corn soup smells good.",
     "例句中文": "玉米濃湯聞起來好香。",
     "表情符號": "🥣",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥣",
+    "icon": "🥣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sour",
@@ -31947,7 +40817,12 @@ var WORDS = [
     "英文例句": "Lemons taste sour and sharp.",
     "例句中文": "檸檬嚐起來酸溜溜的。",
     "表情符號": "🍋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍋",
+    "icon": "🍋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "south",
@@ -31965,7 +40840,12 @@ var WORDS = [
     "英文例句": "This is south.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "soy-sauce",
@@ -31983,7 +40863,12 @@ var WORDS = [
     "英文例句": "This is soy-sauce.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "space",
@@ -32001,7 +40886,12 @@ var WORDS = [
     "英文例句": "Astronauts travel into outer space.",
     "例句中文": "太空人出發前往外太空探險。",
     "表情符號": "🚀",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚀",
+    "icon": "🚀",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "spaghetti",
@@ -32019,7 +40909,12 @@ var WORDS = [
     "英文例句": "This is spaghetti.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "speak",
@@ -32037,7 +40932,12 @@ var WORDS = [
     "英文例句": "This is speak.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "speaker",
@@ -32055,7 +40955,12 @@ var WORDS = [
     "英文例句": "This is speaker.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "special",
@@ -32073,7 +40978,12 @@ var WORDS = [
     "英文例句": "This is special.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "speech",
@@ -32091,7 +41001,12 @@ var WORDS = [
     "英文例句": "This is speech.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "speed",
@@ -32109,7 +41024,12 @@ var WORDS = [
     "英文例句": "This is speed.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "spell",
@@ -32127,7 +41047,12 @@ var WORDS = [
     "英文例句": "Can you spell your full name?",
     "例句中文": "你能拼出你的英文全名嗎？",
     "表情符號": "🔤",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔤",
+    "icon": "🔤",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "spend",
@@ -32145,7 +41070,12 @@ var WORDS = [
     "英文例句": "Spend quality time reading with family.",
     "例句中文": "與家人共度美好的溫馨共讀時光。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "spider",
@@ -32163,7 +41093,12 @@ var WORDS = [
     "英文例句": "The spider spins a web.",
     "例句中文": "蜘蛛在織網。",
     "表情符號": "🕷️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🕷️",
+    "icon": "🕷️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "spill",
@@ -32181,7 +41116,12 @@ var WORDS = [
     "英文例句": "Wipe up spilled cold milk.",
     "例句中文": "趕快把打翻的冰牛奶擦乾淨。",
     "表情符號": "🥛",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥛",
+    "icon": "🥛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "spirit",
@@ -32199,7 +41139,12 @@ var WORDS = [
     "英文例句": "This is spirit.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sponge",
@@ -32217,7 +41162,12 @@ var WORDS = [
     "英文例句": "Wash dishes with a soft sponge.",
     "例句中文": "用柔軟的海綿洗碗盤。",
     "表情符號": "🧽",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧽",
+    "icon": "🧽",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "spoon",
@@ -32235,7 +41185,12 @@ var WORDS = [
     "英文例句": "This is spoon.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sport",
@@ -32253,7 +41208,12 @@ var WORDS = [
     "英文例句": "Swimming is my favorite sport.",
     "例句中文": "游泳是我最喜歡的運動。",
     "表情符號": "🏊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏊",
+    "icon": "🏊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sports",
@@ -32271,7 +41231,12 @@ var WORDS = [
     "英文例句": "This is sports.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "spot",
@@ -32289,7 +41254,12 @@ var WORDS = [
     "英文例句": "This is spot.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "spread",
@@ -32307,7 +41277,12 @@ var WORDS = [
     "英文例句": "This is spread.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "spring",
@@ -32325,7 +41300,12 @@ var WORDS = [
     "英文例句": "This is spring.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sprout",
@@ -32343,7 +41323,12 @@ var WORDS = [
     "英文例句": "Green sprouts appear in early spring.",
     "例句中文": "初春時節綠色嫩芽紛紛冒出。",
     "表情符號": "🌱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌱",
+    "icon": "🌱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "square",
@@ -32361,7 +41346,12 @@ var WORDS = [
     "英文例句": "Chessboards have square tiles.",
     "例句中文": "西洋棋盤上有著方方正正的格子。",
     "表情符號": "🔲",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔲",
+    "icon": "🔲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "squirrel",
@@ -32379,7 +41369,12 @@ var WORDS = [
     "英文例句": "The bushy-tailed squirrel hides acorns.",
     "例句中文": "毛茸茸長尾巴的松鼠把橡果藏起來。",
     "表情符號": "🐿️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐿️",
+    "icon": "🐿️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stadium",
@@ -32397,7 +41392,12 @@ var WORDS = [
     "英文例句": "Cheer for athletes in the huge stadium.",
     "例句中文": "在大型體育場裡為運動員大聲加油。",
     "表情符號": "🏟️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏟️",
+    "icon": "🏟️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stairs",
@@ -32415,7 +41415,12 @@ var WORDS = [
     "英文例句": "This is stairs.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stamp",
@@ -32433,7 +41438,12 @@ var WORDS = [
     "英文例句": "Stick a postage stamp on envelope.",
     "例句中文": "在信封右上角貼上一張郵票。",
     "表情符號": "📮",
-    "圖片": ""
+    "圖片": "",
+    "em": "📮",
+    "icon": "📮",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stand",
@@ -32451,7 +41461,12 @@ var WORDS = [
     "英文例句": "Stand up straight, please.",
     "例句中文": "請站直立挺。",
     "表情符號": "🧍",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧍",
+    "icon": "🧍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stapler",
@@ -32469,7 +41484,12 @@ var WORDS = [
     "英文例句": "Fasten pages together with a stapler.",
     "例句中文": "用訂書機把幾張紙訂在一起。",
     "表情符號": "📎",
-    "圖片": ""
+    "圖片": "",
+    "em": "📎",
+    "icon": "📎",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "star",
@@ -32487,7 +41507,12 @@ var WORDS = [
     "英文例句": "Look at the stars in the dark sky.",
     "例句中文": "看夜空中閃爍的星星。",
     "表情符號": "⭐",
-    "圖片": ""
+    "圖片": "",
+    "em": "⭐",
+    "icon": "⭐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "start",
@@ -32505,7 +41530,12 @@ var WORDS = [
     "英文例句": "This is start.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "state",
@@ -32523,7 +41553,12 @@ var WORDS = [
     "英文例句": "This is state.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "station",
@@ -32541,7 +41576,12 @@ var WORDS = [
     "英文例句": "This is station.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stationery",
@@ -32559,7 +41599,12 @@ var WORDS = [
     "英文例句": "This is stationery.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stay",
@@ -32577,7 +41622,12 @@ var WORDS = [
     "英文例句": "This is stay.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "steak",
@@ -32595,7 +41645,12 @@ var WORDS = [
     "英文例句": "He ordered a medium steak.",
     "例句中文": "他點了一份五分熟的牛排。",
     "表情符號": "🥩",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥩",
+    "icon": "🥩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "steal",
@@ -32613,7 +41668,12 @@ var WORDS = [
     "英文例句": "Never steal things from others.",
     "例句中文": "絕不能拿取別人的東西。",
     "表情符號": "🚫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚫",
+    "icon": "🚫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "steam",
@@ -32631,7 +41691,12 @@ var WORDS = [
     "英文例句": "This is steam.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "step",
@@ -32649,7 +41714,12 @@ var WORDS = [
     "英文例句": "Step forward and take the stage.",
     "例句中文": "向前踏出一步走上講台。",
     "表情符號": "👟",
-    "圖片": ""
+    "圖片": "",
+    "em": "👟",
+    "icon": "👟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "still",
@@ -32667,7 +41737,12 @@ var WORDS = [
     "英文例句": "This is still.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stingy",
@@ -32685,7 +41760,12 @@ var WORDS = [
     "英文例句": "This is stingy.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stomach",
@@ -32703,7 +41783,12 @@ var WORDS = [
     "英文例句": "My stomach rumbles when hungry.",
     "例句中文": "肚子餓時我的胃咕嚕咕嚕叫。",
     "表情符號": "🥣",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥣",
+    "icon": "🥣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stomachache",
@@ -32721,7 +41806,12 @@ var WORDS = [
     "英文例句": "This is stomachache.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stone",
@@ -32739,7 +41829,12 @@ var WORDS = [
     "英文例句": "Skip flat stones across the lake.",
     "例句中文": "在平靜的湖面上丟石子打水漂。",
     "表情符號": "🪨",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪨",
+    "icon": "🪨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stop",
@@ -32757,7 +41852,12 @@ var WORDS = [
     "英文例句": "Stop at the red traffic light.",
     "例句中文": "紅燈時請停下來。",
     "表情符號": "🛑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛑",
+    "icon": "🛑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "store",
@@ -32775,7 +41875,12 @@ var WORDS = [
     "英文例句": "Buy bread at the corner store.",
     "例句中文": "在轉角的商店買麵包。",
     "表情符號": "🏬",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏬",
+    "icon": "🏬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "storm",
@@ -32793,7 +41898,12 @@ var WORDS = [
     "英文例句": "Stay indoors safely during the storm.",
     "例句中文": "暴風雨期間安全待在室內。",
     "表情符號": "⛈️",
-    "圖片": ""
+    "圖片": "",
+    "em": "⛈️",
+    "icon": "⛈️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stormy",
@@ -32811,7 +41921,12 @@ var WORDS = [
     "英文例句": "This is stormy.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "story",
@@ -32829,7 +41944,12 @@ var WORDS = [
     "英文例句": "This is story.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stove",
@@ -32847,7 +41967,12 @@ var WORDS = [
     "英文例句": "This is stove.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "straight",
@@ -32865,7 +41990,12 @@ var WORDS = [
     "英文例句": "Use ruler to draw straight line.",
     "例句中文": "用直尺畫出一條筆直的線。",
     "表情符號": "📏",
-    "圖片": ""
+    "圖片": "",
+    "em": "📏",
+    "icon": "📏",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "strange",
@@ -32883,7 +42013,12 @@ var WORDS = [
     "英文例句": "This is strange.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stranger",
@@ -32901,7 +42036,12 @@ var WORDS = [
     "英文例句": "This is stranger.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "straw",
@@ -32919,7 +42059,12 @@ var WORDS = [
     "英文例句": "This is straw.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "strawberry",
@@ -32937,7 +42082,12 @@ var WORDS = [
     "英文例句": "Pick sweet ripe strawberries.",
     "例句中文": "親手採摘一顆顆又大又甜的紅草莓。",
     "表情符號": "🍓",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍓",
+    "icon": "🍓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stream",
@@ -32955,7 +42105,12 @@ var WORDS = [
     "英文例句": "This is stream.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "street",
@@ -32973,7 +42128,12 @@ var WORDS = [
     "英文例句": "Cars drive slowly on street.",
     "例句中文": "車輛在街道上慢速行駛。",
     "表情符號": "🚗",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚗",
+    "icon": "🚗",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "strike",
@@ -32991,7 +42151,12 @@ var WORDS = [
     "英文例句": "This is strike.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "strong",
@@ -33009,7 +42174,12 @@ var WORDS = [
     "英文例句": "Lions have strong paws.",
     "例句中文": "獅子擁有強壯的腳掌。",
     "表情符號": "💪",
-    "圖片": ""
+    "圖片": "",
+    "em": "💪",
+    "icon": "💪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "student",
@@ -33027,7 +42197,12 @@ var WORDS = [
     "英文例句": "She is a good student.",
     "例句中文": "她是一個好學生。",
     "表情符號": "🧑‍🎓",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍🎓",
+    "icon": "🧑‍🎓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "study",
@@ -33045,7 +42220,12 @@ var WORDS = [
     "英文例句": "Students study hard at school.",
     "例句中文": "學生在學校努力學習。",
     "表情符號": "📖",
-    "圖片": ""
+    "圖片": "",
+    "em": "📖",
+    "icon": "📖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "stupid",
@@ -33063,7 +42243,12 @@ var WORDS = [
     "英文例句": "Do not do silly stupid tricks.",
     "例句中文": "不要去做出無聊愚蠢的危險惡作劇。",
     "表情符號": "🙄",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙄",
+    "icon": "🙄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "style",
@@ -33081,7 +42266,12 @@ var WORDS = [
     "英文例句": "This is style.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "subject",
@@ -33099,7 +42289,12 @@ var WORDS = [
     "英文例句": "What is your favorite school subject?",
     "例句中文": "你最喜愛的學校科目是什麼？",
     "表情符號": "📚",
-    "圖片": ""
+    "圖片": "",
+    "em": "📚",
+    "icon": "📚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "subway",
@@ -33117,7 +42312,12 @@ var WORDS = [
     "英文例句": "Take the rapid subway across city.",
     "例句中文": "搭乘捷運快速穿梭城市。",
     "表情符號": "🚇",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚇",
+    "icon": "🚇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "succeed",
@@ -33135,7 +42335,12 @@ var WORDS = [
     "英文例句": "This is succeed.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "success",
@@ -33153,7 +42358,12 @@ var WORDS = [
     "英文例句": "This is success.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "successful",
@@ -33171,7 +42381,12 @@ var WORDS = [
     "英文例句": "This is successful.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "such",
@@ -33189,7 +42404,12 @@ var WORDS = [
     "英文例句": "This is such.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sudden",
@@ -33207,7 +42427,12 @@ var WORDS = [
     "英文例句": "This is sudden.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sugar",
@@ -33225,7 +42450,12 @@ var WORDS = [
     "英文例句": "Add a spoonful of sugar.",
     "例句中文": "加一匙白糖吧。",
     "表情符號": "🧂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧂",
+    "icon": "🧂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "suggest",
@@ -33243,7 +42473,12 @@ var WORDS = [
     "英文例句": "This is suggest.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "suit",
@@ -33261,7 +42496,12 @@ var WORDS = [
     "英文例句": "Dad wears a dark suit to the meeting.",
     "例句中文": "爸爸穿著深色西裝去開會。",
     "表情符號": "👔",
-    "圖片": ""
+    "圖片": "",
+    "em": "👔",
+    "icon": "👔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "summer",
@@ -33279,7 +42519,12 @@ var WORDS = [
     "英文例句": "This is summer.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sun",
@@ -33297,7 +42542,12 @@ var WORDS = [
     "英文例句": "The bright sun warms the earth.",
     "例句中文": "明亮的太陽溫暖大地。",
     "表情符號": "☀️",
-    "圖片": ""
+    "圖片": "",
+    "em": "☀️",
+    "icon": "☀️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Sunday",
@@ -33315,7 +42565,12 @@ var WORDS = [
     "英文例句": "Visit grandparents on Sunday.",
     "例句中文": "星期日去探望爺爺奶奶。",
     "表情符號": "📅",
-    "圖片": ""
+    "圖片": "",
+    "em": "📅",
+    "icon": "📅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sunglasses",
@@ -33333,7 +42588,12 @@ var WORDS = [
     "英文例句": "Wear sunglasses on sunny beach.",
     "例句中文": "在陽光明媚的海灘戴太陽眼鏡。",
     "表情符號": "🕶️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🕶️",
+    "icon": "🕶️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sunny",
@@ -33351,7 +42611,12 @@ var WORDS = [
     "英文例句": "This is sunny.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "super",
@@ -33369,7 +42634,12 @@ var WORDS = [
     "英文例句": "This is super.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "supermarket",
@@ -33387,7 +42657,12 @@ var WORDS = [
     "英文例句": "Mom buys fresh vegetables at supermarket.",
     "例句中文": "媽媽在超市購買新鮮蔬菜。",
     "表情符號": "🛒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛒",
+    "icon": "🛒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "supper",
@@ -33405,7 +42680,12 @@ var WORDS = [
     "英文例句": "This is supper.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "support",
@@ -33423,7 +42703,12 @@ var WORDS = [
     "英文例句": "This is support.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sure",
@@ -33441,7 +42726,12 @@ var WORDS = [
     "英文例句": "I am sure you will do well.",
     "例句中文": "我十分確定你一定會表現得很棒。",
     "表情符號": "👍",
-    "圖片": ""
+    "圖片": "",
+    "em": "👍",
+    "icon": "👍",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "surf",
@@ -33459,7 +42749,12 @@ var WORDS = [
     "英文例句": "This is surf.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "surprise",
@@ -33477,7 +42772,12 @@ var WORDS = [
     "英文例句": "This is surprise.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "surprised",
@@ -33495,7 +42795,12 @@ var WORDS = [
     "英文例句": "She was pleasantly surprised by gifts.",
     "例句中文": "她收到意外的驚喜禮物感到喜出望外。",
     "表情符號": "😲",
-    "圖片": ""
+    "圖片": "",
+    "em": "😲",
+    "icon": "😲",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "survive",
@@ -33513,7 +42818,12 @@ var WORDS = [
     "英文例句": "This is survive.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "swallow",
@@ -33531,7 +42841,12 @@ var WORDS = [
     "英文例句": "This is swallow.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "swan",
@@ -33549,7 +42864,12 @@ var WORDS = [
     "英文例句": "The white swan glides across lake.",
     "例句中文": "純白的天鵝優雅地掠過湖面。",
     "表情符號": "🦢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦢",
+    "icon": "🦢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sweater",
@@ -33567,7 +42887,12 @@ var WORDS = [
     "英文例句": "This knit sweater keeps me warm.",
     "例句中文": "這件針織毛衣讓我好溫暖。",
     "表情符號": "🧶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧶",
+    "icon": "🧶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sweep",
@@ -33585,7 +42910,12 @@ var WORDS = [
     "英文例句": "This is sweep.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "sweet",
@@ -33603,7 +42933,12 @@ var WORDS = [
     "英文例句": "Ripe strawberries taste sweet.",
     "例句中文": "成熟的草莓嚐起來甜甜的。",
     "表情符號": "🍓",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍓",
+    "icon": "🍓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "swim",
@@ -33621,7 +42956,12 @@ var WORDS = [
     "英文例句": "Fishes swim in the ocean.",
     "例句中文": "魚兒在大海裡游泳。",
     "表情符號": "🏊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏊",
+    "icon": "🏊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "swimming pool",
@@ -33639,7 +42979,12 @@ var WORDS = [
     "英文例句": "Jump into the clean swimming pool.",
     "例句中文": "跳進乾淨的游泳池裡。",
     "表情符號": "🏊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏊",
+    "icon": "🏊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "swimsuit",
@@ -33657,7 +43002,12 @@ var WORDS = [
     "英文例句": "Pack your colorful swimsuit.",
     "例句中文": "把鮮豔的泳衣收進包包裡。",
     "表情符號": "🩱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🩱",
+    "icon": "🩱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "swing",
@@ -33675,7 +43025,12 @@ var WORDS = [
     "英文例句": "Swing happily in playground.",
     "例句中文": "在遊樂場裡開心地盪鞦韆。",
     "表情符號": "🛝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛝",
+    "icon": "🛝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "switch",
@@ -33693,7 +43048,12 @@ var WORDS = [
     "英文例句": "Press the light switch on the wall.",
     "例句中文": "按下牆壁上的電燈開關。",
     "表情符號": "🔘",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔘",
+    "icon": "🔘",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "symbol",
@@ -33711,7 +43071,12 @@ var WORDS = [
     "英文例句": "This is symbol.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "system",
@@ -33729,7 +43094,12 @@ var WORDS = [
     "英文例句": "This is system.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "T-shirt",
@@ -33747,7 +43117,12 @@ var WORDS = [
     "英文例句": "I like this blue T-shirt.",
     "例句中文": "我喜歡這件藍色T恤。",
     "表情符號": "👕",
-    "圖片": ""
+    "圖片": "",
+    "em": "👕",
+    "icon": "👕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "table",
@@ -33765,7 +43140,12 @@ var WORDS = [
     "英文例句": "Put plates on the dinner table.",
     "例句中文": "把餐盤擺在餐桌上。",
     "表情符號": "🪵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪵",
+    "icon": "🪵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "table tennis",
@@ -33783,7 +43163,12 @@ var WORDS = [
     "英文例句": "This is table tennis.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tablet",
@@ -33801,7 +43186,12 @@ var WORDS = [
     "英文例句": "Read interactive e-books on tablet.",
     "例句中文": "在平板電腦上閱讀生動的電子書。",
     "表情符號": "📱",
-    "圖片": ""
+    "圖片": "",
+    "em": "📱",
+    "icon": "📱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tail",
@@ -33819,7 +43209,12 @@ var WORDS = [
     "英文例句": "The happy dog wags its tail.",
     "例句中文": "開心的狗狗搖著尾巴。",
     "表情符號": "🐕",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐕",
+    "icon": "🐕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Taiwan",
@@ -33837,7 +43232,12 @@ var WORDS = [
     "英文例句": "This is Taiwan.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "take",
@@ -33855,7 +43255,12 @@ var WORDS = [
     "英文例句": "Take your umbrella with you.",
     "例句中文": "隨身帶上你的雨傘。",
     "表情符號": "🎒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎒",
+    "icon": "🎒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "talent",
@@ -33873,7 +43278,12 @@ var WORDS = [
     "英文例句": "This is talent.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "talk",
@@ -33891,7 +43301,12 @@ var WORDS = [
     "英文例句": "Talk politely with gentle voice.",
     "例句中文": "用溫和柔和的聲音有禮貌地說話。",
     "表情符號": "💬",
-    "圖片": ""
+    "圖片": "",
+    "em": "💬",
+    "icon": "💬",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "talkative",
@@ -33909,7 +43324,12 @@ var WORDS = [
     "英文例句": "This is talkative.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tall",
@@ -33927,7 +43347,12 @@ var WORDS = [
     "英文例句": "Giraffes are very tall animals.",
     "例句中文": "長頸鹿是非常高大的動物。",
     "表情符號": "🦒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦒",
+    "icon": "🦒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tangerine",
@@ -33945,7 +43370,12 @@ var WORDS = [
     "英文例句": "This is tangerine.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tank",
@@ -33963,7 +43393,12 @@ var WORDS = [
     "英文例句": "This is tank.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tape",
@@ -33981,7 +43416,12 @@ var WORDS = [
     "英文例句": "Fix torn pages with clear tape.",
     "例句中文": "用透明膠帶把破損的書頁黏修好。",
     "表情符號": "🩹",
-    "圖片": ""
+    "圖片": "",
+    "em": "🩹",
+    "icon": "🩹",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "taste",
@@ -33999,7 +43439,12 @@ var WORDS = [
     "英文例句": "This is taste.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "taxi",
@@ -34017,7 +43462,12 @@ var WORDS = [
     "英文例句": "Hail a yellow taxi in rain.",
     "例句中文": "在雨中招攬一輛黃色計程車。",
     "表情符號": "🚕",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚕",
+    "icon": "🚕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tea",
@@ -34035,7 +43485,12 @@ var WORDS = [
     "英文例句": "Grandpa likes hot tea.",
     "例句中文": "爺爺喜歡喝熱茶。",
     "表情符號": "🍵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍵",
+    "icon": "🍵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "teach",
@@ -34053,7 +43508,12 @@ var WORDS = [
     "英文例句": "Teachers teach us math and English.",
     "例句中文": "老師教導我們數學與英語知識。",
     "表情符號": "🧑‍🏫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍🏫",
+    "icon": "🧑‍🏫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "teacher",
@@ -34071,7 +43531,12 @@ var WORDS = [
     "英文例句": "Our teacher is very nice.",
     "例句中文": "我們的老師很好。",
     "表情符號": "🧑‍🏫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍🏫",
+    "icon": "🧑‍🏫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "team",
@@ -34089,7 +43554,12 @@ var WORDS = [
     "英文例句": "This is team.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "teapot",
@@ -34107,7 +43577,12 @@ var WORDS = [
     "英文例句": "This is teapot.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tear",
@@ -34125,7 +43600,12 @@ var WORDS = [
     "英文例句": "Do not tear paper out of books.",
     "例句中文": "不要把課本上的紙張撕破。",
     "表情符號": "📄",
-    "圖片": ""
+    "圖片": "",
+    "em": "📄",
+    "icon": "📄",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "teenager",
@@ -34143,7 +43623,12 @@ var WORDS = [
     "英文例句": "This is teenager.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "telephone",
@@ -34161,7 +43646,12 @@ var WORDS = [
     "英文例句": "The telephone is ringing.",
     "例句中文": "電話響了。",
     "表情符號": "☎️",
-    "圖片": ""
+    "圖片": "",
+    "em": "☎️",
+    "icon": "☎️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "television",
@@ -34179,7 +43669,12 @@ var WORDS = [
     "英文例句": "This is television.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tell",
@@ -34197,7 +43692,12 @@ var WORDS = [
     "英文例句": "Tell me a bedtime story.",
     "例句中文": "告訴我一個睡前故事吧。",
     "表情符號": "🗣️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗣️",
+    "icon": "🗣️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "temperature",
@@ -34215,7 +43715,12 @@ var WORDS = [
     "英文例句": "This is temperature.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "temple",
@@ -34233,7 +43738,12 @@ var WORDS = [
     "英文例句": "Many people pray for peace at temple.",
     "例句中文": "許多人在寺廟裡祈求平安順遂。",
     "表情符號": "🛕",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛕",
+    "icon": "🛕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ten",
@@ -34251,7 +43761,12 @@ var WORDS = [
     "英文例句": "Ten fingers help me type.",
     "例句中文": "十隻手指頭幫我打字。",
     "表情符號": "🔟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔟",
+    "icon": "🔟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tennis",
@@ -34269,7 +43784,12 @@ var WORDS = [
     "英文例句": "Hit tennis balls over the net.",
     "例句中文": "把網球打過球網。",
     "表情符號": "🎾",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎾",
+    "icon": "🎾",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tent",
@@ -34287,7 +43807,12 @@ var WORDS = [
     "英文例句": "This is tent.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "term",
@@ -34305,7 +43830,12 @@ var WORDS = [
     "英文例句": "This is term.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "terrible",
@@ -34323,7 +43853,12 @@ var WORDS = [
     "英文例句": "This is terrible.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "terrific",
@@ -34341,7 +43876,12 @@ var WORDS = [
     "英文例句": "This is terrific.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "test",
@@ -34359,7 +43899,12 @@ var WORDS = [
     "英文例句": "Review lessons for the test.",
     "例句中文": "為了考試好好複習功課。",
     "表情符號": "📝",
-    "圖片": ""
+    "圖片": "",
+    "em": "📝",
+    "icon": "📝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "textbook",
@@ -34377,7 +43922,12 @@ var WORDS = [
     "英文例句": "This is textbook.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "than",
@@ -34395,7 +43945,12 @@ var WORDS = [
     "英文例句": "This is than.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "thank",
@@ -34413,7 +43968,12 @@ var WORDS = [
     "英文例句": "This is thank.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Thanksgiving",
@@ -34431,7 +43991,12 @@ var WORDS = [
     "英文例句": "This is Thanksgiving.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "that",
@@ -34449,7 +44014,12 @@ var WORDS = [
     "英文例句": "This is that.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "the",
@@ -34467,7 +44037,12 @@ var WORDS = [
     "英文例句": "The sun is warm.",
     "例句中文": "太陽很溫暖。",
     "表情符號": "☀️",
-    "圖片": ""
+    "圖片": "",
+    "em": "☀️",
+    "icon": "☀️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "theater",
@@ -34485,7 +44060,12 @@ var WORDS = [
     "英文例句": "Watch a live puppet play at theater.",
     "例句中文": "在劇場觀賞生動的手偶舞台劇。",
     "表情符號": "🎭",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎭",
+    "icon": "🎭",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "their",
@@ -34503,7 +44083,12 @@ var WORDS = [
     "英文例句": "Their dog is very friendly.",
     "例句中文": "他們的狗非常友善。",
     "表情符號": "🐕",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐕",
+    "icon": "🐕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "them",
@@ -34521,7 +44106,12 @@ var WORDS = [
     "英文例句": "Mom called them home.",
     "例句中文": "媽媽叫他們回家。",
     "表情符號": "🏠",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏠",
+    "icon": "🏠",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "then",
@@ -34539,7 +44129,12 @@ var WORDS = [
     "英文例句": "First wash hands, then eat.",
     "例句中文": "先洗手，然後再吃東西。",
     "表情符號": "🧼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧼",
+    "icon": "🧼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "there",
@@ -34557,7 +44152,12 @@ var WORDS = [
     "英文例句": "This is there.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "therefore",
@@ -34575,7 +44175,12 @@ var WORDS = [
     "英文例句": "This is therefore.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "thermometer",
@@ -34593,7 +44198,12 @@ var WORDS = [
     "英文例句": "Measure body temperature with thermometer.",
     "例句中文": "用體溫計量測目前的身體溫度。",
     "表情符號": "🌡️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌡️",
+    "icon": "🌡️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "these",
@@ -34611,7 +44221,12 @@ var WORDS = [
     "英文例句": "This is these.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "they",
@@ -34629,7 +44244,12 @@ var WORDS = [
     "英文例句": "They play in the garden.",
     "例句中文": "他們在花園裡玩耍。",
     "表情符號": "🧑‍🤝‍🧑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍🤝‍🧑",
+    "icon": "🧑‍🤝‍🧑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "thick",
@@ -34647,7 +44267,12 @@ var WORDS = [
     "英文例句": "Read a thick exciting novel.",
     "例句中文": "讀一本厚厚且精彩刺激的小說。",
     "表情符號": "📚",
-    "圖片": ""
+    "圖片": "",
+    "em": "📚",
+    "icon": "📚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "thief",
@@ -34665,7 +44290,12 @@ var WORDS = [
     "英文例句": "This is thief.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "thin",
@@ -34683,7 +44313,12 @@ var WORDS = [
     "英文例句": "Draw with a thin fine pencil.",
     "例句中文": "用一筆細細薄薄的鉛筆來作畫。",
     "表情符號": "✏️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✏️",
+    "icon": "✏️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "thing",
@@ -34701,7 +44336,12 @@ var WORDS = [
     "英文例句": "This is thing.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "think",
@@ -34719,7 +44359,12 @@ var WORDS = [
     "英文例句": "Think before you speak.",
     "例句中文": "開口說話前先思考。",
     "表情符號": "🤔",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤔",
+    "icon": "🤔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "third",
@@ -34737,7 +44382,12 @@ var WORDS = [
     "英文例句": "The third floor has a library.",
     "例句中文": "三樓有一間圖書館。",
     "表情符號": "🥉",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥉",
+    "icon": "🥉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "thirsty",
@@ -34755,7 +44405,12 @@ var WORDS = [
     "英文例句": "Drink water when thirsty.",
     "例句中文": "口渴時記得喝水。",
     "表情符號": "🥤",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥤",
+    "icon": "🥤",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "thirteen",
@@ -34773,7 +44428,12 @@ var WORDS = [
     "英文例句": "Thirteen black cats sat quietly.",
     "例句中文": "十三隻黑貓安靜坐著。",
     "表情符號": "1️⃣3️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "1️⃣3️⃣",
+    "icon": "1️⃣3️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "thirty",
@@ -34791,7 +44451,12 @@ var WORDS = [
     "英文例句": "Thirty days in September.",
     "例句中文": "九月份一共有三十天。",
     "表情符號": "3️⃣0️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "3️⃣0️⃣",
+    "icon": "3️⃣0️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "this",
@@ -34809,7 +44474,12 @@ var WORDS = [
     "英文例句": "This is this.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "those",
@@ -34827,7 +44497,12 @@ var WORDS = [
     "英文例句": "This is those.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "though",
@@ -34845,7 +44520,12 @@ var WORDS = [
     "英文例句": "This is though.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "thought",
@@ -34863,7 +44543,12 @@ var WORDS = [
     "英文例句": "This is thought.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "thousand",
@@ -34881,7 +44566,12 @@ var WORDS = [
     "英文例句": "One thousand stars twinkle bright.",
     "例句中文": "一千顆繁星閃爍光芒。",
     "表情符號": "✨",
-    "圖片": ""
+    "圖片": "",
+    "em": "✨",
+    "icon": "✨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "three",
@@ -34899,7 +44589,12 @@ var WORDS = [
     "英文例句": "There are three birds in the tree.",
     "例句中文": "樹上有三隻鳥。",
     "表情符號": "3️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "3️⃣",
+    "icon": "3️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "throat",
@@ -34917,7 +44612,12 @@ var WORDS = [
     "英文例句": "This is throat.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "through",
@@ -34935,7 +44635,12 @@ var WORDS = [
     "英文例句": "The train goes through tunnel.",
     "例句中文": "火車穿過隧道。",
     "表情符號": "🚆",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚆",
+    "icon": "🚆",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "throw",
@@ -34953,7 +44658,12 @@ var WORDS = [
     "英文例句": "Throw the ball to Tom.",
     "例句中文": "把球丟給湯姆。",
     "表情符號": "🏐",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏐",
+    "icon": "🏐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "thumb",
@@ -34971,7 +44681,12 @@ var WORDS = [
     "英文例句": "This is thumb.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "thunder",
@@ -34989,7 +44704,12 @@ var WORDS = [
     "英文例句": "Loud thunder shook the windows.",
     "例句中文": "轟隆隆的雷聲震動了窗戶。",
     "表情符號": "🌩️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌩️",
+    "icon": "🌩️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Thursday",
@@ -35007,7 +44727,12 @@ var WORDS = [
     "英文例句": "Art class is on Thursday afternoon.",
     "例句中文": "美術課在星期四下午。",
     "表情符號": "📅",
-    "圖片": ""
+    "圖片": "",
+    "em": "📅",
+    "icon": "📅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ticket",
@@ -35025,7 +44750,12 @@ var WORDS = [
     "英文例句": "This is ticket.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tidy",
@@ -35043,7 +44773,12 @@ var WORDS = [
     "英文例句": "Tidy up your bedroom toys.",
     "例句中文": "把你臥室裡的玩具收拾乾淨。",
     "表情符號": "🧸",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧸",
+    "icon": "🧸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tie",
@@ -35061,7 +44796,12 @@ var WORDS = [
     "英文例句": "Learn how to tie shoelaces.",
     "例句中文": "學習如何把球鞋鞋帶綁好。",
     "表情符號": "👟",
-    "圖片": ""
+    "圖片": "",
+    "em": "👟",
+    "icon": "👟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tiger",
@@ -35079,7 +44819,12 @@ var WORDS = [
     "英文例句": "The tiger has orange stripes.",
     "例句中文": "老虎有橘色的條紋。",
     "表情符號": "🐯",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐯",
+    "icon": "🐯",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "till",
@@ -35097,7 +44842,12 @@ var WORDS = [
     "英文例句": "This is till.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "time",
@@ -35115,7 +44865,12 @@ var WORDS = [
     "英文例句": "What time is it now?",
     "例句中文": "現在幾點了？",
     "表情符號": "⏰",
-    "圖片": ""
+    "圖片": "",
+    "em": "⏰",
+    "icon": "⏰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tin",
@@ -35133,7 +44888,12 @@ var WORDS = [
     "英文例句": "Cookies are packed in a tin box.",
     "例句中文": "餅乾裝在精美的鐵盒裡。",
     "表情符號": "🥫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥫",
+    "icon": "🥫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tiny",
@@ -35151,7 +44911,12 @@ var WORDS = [
     "英文例句": "Ants are tiny industrious bugs.",
     "例句中文": "螞蟻是微小且勤奮努力的昆蟲。",
     "表情符號": "🐜",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐜",
+    "icon": "🐜",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tip",
@@ -35169,7 +44934,12 @@ var WORDS = [
     "英文例句": "This is tip.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tired",
@@ -35187,7 +44957,12 @@ var WORDS = [
     "英文例句": "I am tired after running.",
     "例句中文": "跑步後我覺得很累。",
     "表情符號": "🥱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥱",
+    "icon": "🥱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tissue",
@@ -35205,7 +44980,12 @@ var WORDS = [
     "英文例句": "Can I have a tissue, please?",
     "例句中文": "可以給我一張面紙嗎？",
     "表情符號": "🧻",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧻",
+    "icon": "🧻",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "title",
@@ -35223,7 +45003,12 @@ var WORDS = [
     "英文例句": "This is title.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "to",
@@ -35241,7 +45026,12 @@ var WORDS = [
     "英文例句": "Walk to the door.",
     "例句中文": "走向門口。",
     "表情符號": "🚪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚪",
+    "icon": "🚪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "toast",
@@ -35259,7 +45049,12 @@ var WORDS = [
     "英文例句": "Spread strawberry jam on warm toast.",
     "例句中文": "在熱騰騰的烤吐司上抹上草莓果醬。",
     "表情符號": "🍞",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍞",
+    "icon": "🍞",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "today",
@@ -35277,7 +45072,12 @@ var WORDS = [
     "英文例句": "Today is sunny and warm.",
     "例句中文": "今天天氣晴朗溫暖。",
     "表情符號": "📅",
-    "圖片": ""
+    "圖片": "",
+    "em": "📅",
+    "icon": "📅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "toe",
@@ -35295,7 +45095,12 @@ var WORDS = [
     "英文例句": "Can you touch your toes?",
     "例句中文": "你能碰得到腳趾嗎？",
     "表情符號": "🦶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦶",
+    "icon": "🦶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tofu",
@@ -35313,7 +45118,12 @@ var WORDS = [
     "英文例句": "This is tofu.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "together",
@@ -35331,7 +45141,12 @@ var WORDS = [
     "英文例句": "This is together.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "toilet",
@@ -35349,7 +45164,12 @@ var WORDS = [
     "英文例句": "This is toilet.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tomato",
@@ -35367,7 +45187,12 @@ var WORDS = [
     "英文例句": "Red tomatoes are healthy.",
     "例句中文": "紅番茄對身體很健康。",
     "表情符號": "🍅",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍅",
+    "icon": "🍅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tomorrow",
@@ -35385,7 +45210,12 @@ var WORDS = [
     "英文例句": "See you at school tomorrow.",
     "例句中文": "明天學校見。",
     "表情符號": "📅",
-    "圖片": ""
+    "圖片": "",
+    "em": "📅",
+    "icon": "📅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tongue",
@@ -35403,7 +45233,12 @@ var WORDS = [
     "英文例句": "Stick out tongue at the clinic.",
     "例句中文": "看診時把舌頭伸出來。",
     "表情符號": "👅",
-    "圖片": ""
+    "圖片": "",
+    "em": "👅",
+    "icon": "👅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tonight",
@@ -35421,7 +45256,12 @@ var WORDS = [
     "英文例句": "This is tonight.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "too",
@@ -35439,7 +45279,12 @@ var WORDS = [
     "英文例句": "I like chocolate too.",
     "例句中文": "我也喜歡巧克力。",
     "表情符號": "🍫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍫",
+    "icon": "🍫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tool",
@@ -35457,7 +45302,12 @@ var WORDS = [
     "英文例句": "This is tool.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tooth",
@@ -35475,7 +45325,12 @@ var WORDS = [
     "英文例句": "Brush your teeth every day.",
     "例句中文": "每天都要刷牙。",
     "表情符號": "🦷",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦷",
+    "icon": "🦷",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "toothache",
@@ -35493,7 +45348,12 @@ var WORDS = [
     "英文例句": "This is toothache.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "toothbrush",
@@ -35511,7 +45371,12 @@ var WORDS = [
     "英文例句": "Use toothbrush to clean teeth.",
     "例句中文": "用牙刷仔細清潔牙齒。",
     "表情符號": "🪥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪥",
+    "icon": "🪥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "toothpaste",
@@ -35529,7 +45394,12 @@ var WORDS = [
     "英文例句": "Squeeze strawberry toothpaste.",
     "例句中文": "擠一點草莓口味的牙膏。",
     "表情符號": "🪥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪥",
+    "icon": "🪥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "top",
@@ -35547,7 +45417,12 @@ var WORDS = [
     "英文例句": "Place the shiny star on top of tree.",
     "例句中文": "把閃耀的金色星星放在聖誕樹頂端。",
     "表情符號": "🔝",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔝",
+    "icon": "🔝",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "topic",
@@ -35565,7 +45440,12 @@ var WORDS = [
     "英文例句": "This is topic.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "total",
@@ -35583,7 +45463,12 @@ var WORDS = [
     "英文例句": "This is total.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "touch",
@@ -35601,7 +45486,12 @@ var WORDS = [
     "英文例句": "Don't touch the wet paint.",
     "例句中文": "不要碰未乾的油漆。",
     "表情符號": "👉",
-    "圖片": ""
+    "圖片": "",
+    "em": "👉",
+    "icon": "👉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "toward",
@@ -35619,7 +45509,12 @@ var WORDS = [
     "英文例句": "This is toward.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "towel",
@@ -35637,7 +45532,12 @@ var WORDS = [
     "英文例句": "Dry your wet face with towel.",
     "例句中文": "用毛巾擦乾濕漉漉的臉。",
     "表情符號": "🧖",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧖",
+    "icon": "🧖",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tower",
@@ -35655,7 +45555,12 @@ var WORDS = [
     "英文例句": "This is tower.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "town",
@@ -35673,7 +45578,12 @@ var WORDS = [
     "英文例句": "Our peaceful town has many trees.",
     "例句中文": "我們平靜的城鎮綠樹成蔭。",
     "表情符號": "🏘️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏘️",
+    "icon": "🏘️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "toy",
@@ -35691,7 +45601,12 @@ var WORDS = [
     "英文例句": "Share your toy trains with friends.",
     "例句中文": "和好朋友們一起分享你的玩具火車。",
     "表情符號": "🧸",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧸",
+    "icon": "🧸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "toy store",
@@ -35709,7 +45624,12 @@ var WORDS = [
     "英文例句": "Kids love the toy store.",
     "例句中文": "孩子們都喜愛玩具店。",
     "表情符號": "🧸",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧸",
+    "icon": "🧸",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "trace",
@@ -35727,7 +45647,12 @@ var WORDS = [
     "英文例句": "This is trace.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "trade",
@@ -35745,7 +45670,12 @@ var WORDS = [
     "英文例句": "This is trade.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tradition",
@@ -35763,7 +45693,12 @@ var WORDS = [
     "英文例句": "This is tradition.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "traditional",
@@ -35781,7 +45716,12 @@ var WORDS = [
     "英文例句": "This is traditional.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "traffic",
@@ -35799,7 +45739,12 @@ var WORDS = [
     "英文例句": "There is heavy traffic in the morning.",
     "例句中文": "早晨的交通車流非常繁忙。",
     "表情符號": "🚦",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚦",
+    "icon": "🚦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "traffic light",
@@ -35817,7 +45762,12 @@ var WORDS = [
     "英文例句": "Wait at the red traffic light.",
     "例句中文": "在紅燈前耐心停等。",
     "表情符號": "🚦",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚦",
+    "icon": "🚦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "train",
@@ -35835,7 +45785,12 @@ var WORDS = [
     "英文例句": "The high-speed train is fast.",
     "例句中文": "高鐵速度很快。",
     "表情符號": "🚆",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚆",
+    "icon": "🚆",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "train pass",
@@ -35853,7 +45808,12 @@ var WORDS = [
     "英文例句": "Don't forget your train pass.",
     "例句中文": "別忘了你的火車月票。",
     "表情符號": "🎫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎫",
+    "icon": "🎫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "trap",
@@ -35871,7 +45831,12 @@ var WORDS = [
     "英文例句": "This is trap.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "trash",
@@ -35889,7 +45854,12 @@ var WORDS = [
     "英文例句": "Throw the candy wrapper in the trash.",
     "例句中文": "把糖果包裝紙丟進垃圾桶。",
     "表情符號": "🗑️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗑️",
+    "icon": "🗑️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "travel",
@@ -35907,7 +45877,12 @@ var WORDS = [
     "英文例句": "Travel to Japan during holiday.",
     "例句中文": "在放假期間到日本去旅行。",
     "表情符號": "✈️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✈️",
+    "icon": "✈️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tray",
@@ -35925,7 +45900,12 @@ var WORDS = [
     "英文例句": "She carried drinks on a wooden tray.",
     "例句中文": "她用木托盤端著飲料。",
     "表情符號": "🪵",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪵",
+    "icon": "🪵",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "treasure",
@@ -35943,7 +45923,12 @@ var WORDS = [
     "英文例句": "This is treasure.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "treat",
@@ -35961,7 +45946,12 @@ var WORDS = [
     "英文例句": "Treat everyone with kindness.",
     "例句中文": "用善良友愛的態度對待每個人。",
     "表情符號": "😇",
-    "圖片": ""
+    "圖片": "",
+    "em": "😇",
+    "icon": "😇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tree",
@@ -35979,7 +45969,12 @@ var WORDS = [
     "英文例句": "Birds build nests in tall trees.",
     "例句中文": "鳥兒在高高的樹上築巢。",
     "表情符號": "🌳",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌳",
+    "icon": "🌳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "triangle",
@@ -35997,7 +45992,12 @@ var WORDS = [
     "英文例句": "A slice of pizza is a triangle.",
     "例句中文": "切好的一片披薩呈現三角形狀。",
     "表情符號": "🔺",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔺",
+    "icon": "🔺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "trick",
@@ -36015,7 +46015,12 @@ var WORDS = [
     "英文例句": "This is trick.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "trip",
@@ -36033,7 +46038,12 @@ var WORDS = [
     "英文例句": "This is trip.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "trouble",
@@ -36051,7 +46061,12 @@ var WORDS = [
     "英文例句": "This is trouble.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "trousers",
@@ -36069,7 +46084,12 @@ var WORDS = [
     "英文例句": "This is trousers.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "truck",
@@ -36087,7 +46107,12 @@ var WORDS = [
     "英文例句": "A big red truck carries goods.",
     "例句中文": "一輛紅色大卡車運送著貨物。",
     "表情符號": "🚚",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚚",
+    "icon": "🚚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "true",
@@ -36105,7 +46130,12 @@ var WORDS = [
     "英文例句": "This is true.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "trumpet",
@@ -36123,7 +46153,12 @@ var WORDS = [
     "英文例句": "This is trumpet.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "trust",
@@ -36141,7 +46176,12 @@ var WORDS = [
     "英文例句": "This is trust.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "truth",
@@ -36159,7 +46199,12 @@ var WORDS = [
     "英文例句": "This is truth.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "try",
@@ -36177,7 +46222,12 @@ var WORDS = [
     "英文例句": "This is try.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tub",
@@ -36195,7 +46245,12 @@ var WORDS = [
     "英文例句": "The toddler splashes water in the tub.",
     "例句中文": "小寶寶在浴缸裡開心地潑水。",
     "表情符號": "🛁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛁",
+    "icon": "🛁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tube",
@@ -36213,7 +46268,12 @@ var WORDS = [
     "英文例句": "This is tube.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Tuesday",
@@ -36231,7 +46291,12 @@ var WORDS = [
     "英文例句": "We have science on Tuesday.",
     "例句中文": "我們星期二有自然科學課。",
     "表情符號": "📅",
-    "圖片": ""
+    "圖片": "",
+    "em": "📅",
+    "icon": "📅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tuna",
@@ -36249,7 +46314,12 @@ var WORDS = [
     "英文例句": "I like tuna sandwiches for lunch.",
     "例句中文": "我喜歡吃鮪魚三明治當午餐。",
     "表情符號": "🐟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐟",
+    "icon": "🐟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "tunnel",
@@ -36267,7 +46337,12 @@ var WORDS = [
     "英文例句": "The speeding train zooms through tunnel.",
     "例句中文": "奔馳的火車呼嘯穿過深邃隧道。",
     "表情符號": "🚇",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚇",
+    "icon": "🚇",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "turkey",
@@ -36285,7 +46360,12 @@ var WORDS = [
     "英文例句": "Turkeys make gobbling sounds on farm.",
     "例句中文": "農場裡的火雞發出咕嚕咕嚕的叫聲。",
     "表情符號": "🦃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦃",
+    "icon": "🦃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "turn",
@@ -36303,7 +46383,12 @@ var WORDS = [
     "英文例句": "Turn the light switch off.",
     "例句中文": "把電燈的開關關閉起來。",
     "表情符號": "💡",
-    "圖片": ""
+    "圖片": "",
+    "em": "💡",
+    "icon": "💡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "turtle",
@@ -36321,7 +46406,12 @@ var WORDS = [
     "英文例句": "The turtle walks slowly.",
     "例句中文": "烏龜走得很慢。",
     "表情符號": "🐢",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐢",
+    "icon": "🐢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "twelve",
@@ -36339,7 +46429,12 @@ var WORDS = [
     "英文例句": "There are twelve months in a year.",
     "例句中文": "一年有十二個月。",
     "表情符號": "1️⃣2️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "1️⃣2️⃣",
+    "icon": "1️⃣2️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "twenty",
@@ -36357,7 +46452,12 @@ var WORDS = [
     "英文例句": "Twenty kids attend the party.",
     "例句中文": "二十個小朋友參加了派對。",
     "表情符號": "2️⃣0️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "2️⃣0️⃣",
+    "icon": "2️⃣0️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "twice",
@@ -36375,7 +46475,12 @@ var WORDS = [
     "英文例句": "This is twice.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "two",
@@ -36393,7 +46498,12 @@ var WORDS = [
     "英文例句": "She has two cats.",
     "例句中文": "她有兩隻貓。",
     "表情符號": "2️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "2️⃣",
+    "icon": "2️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "type",
@@ -36411,7 +46521,12 @@ var WORDS = [
     "英文例句": "This is type.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "typhoon",
@@ -36429,7 +46544,12 @@ var WORDS = [
     "英文例句": "This is typhoon.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "ugly",
@@ -36447,7 +46567,12 @@ var WORDS = [
     "英文例句": "This is ugly.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "umbrella",
@@ -36465,7 +46590,12 @@ var WORDS = [
     "英文例句": "Take an umbrella on a rainy day.",
     "例句中文": "下雨天要帶傘。",
     "表情符號": "☂️",
-    "圖片": ""
+    "圖片": "",
+    "em": "☂️",
+    "icon": "☂️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "uncle",
@@ -36483,7 +46613,12 @@ var WORDS = [
     "英文例句": "Uncle lives in a sunny town.",
     "例句中文": "叔叔住在一個陽光明媚的小鎮。",
     "表情符號": "👨",
-    "圖片": ""
+    "圖片": "",
+    "em": "👨",
+    "icon": "👨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "under",
@@ -36501,7 +46636,12 @@ var WORDS = [
     "英文例句": "This is under.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "underline",
@@ -36519,7 +46659,12 @@ var WORDS = [
     "英文例句": "This is underline.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "underpass",
@@ -36537,7 +46682,12 @@ var WORDS = [
     "英文例句": "This is underpass.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "understand",
@@ -36555,7 +46705,12 @@ var WORDS = [
     "英文例句": "I understand today's lesson easily.",
     "例句中文": "我很容易就聽懂了今天的課程。",
     "表情符號": "💡",
-    "圖片": ""
+    "圖片": "",
+    "em": "💡",
+    "icon": "💡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "underwear",
@@ -36573,7 +46728,12 @@ var WORDS = [
     "英文例句": "This is underwear.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "unhappy",
@@ -36591,7 +46751,12 @@ var WORDS = [
     "英文例句": "This is unhappy.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "uniform",
@@ -36609,7 +46774,12 @@ var WORDS = [
     "英文例句": "Students wear school uniforms.",
     "例句中文": "學生們穿著整齊的學校制服。",
     "表情符號": "👔",
-    "圖片": ""
+    "圖片": "",
+    "em": "👔",
+    "icon": "👔",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "unique",
@@ -36627,7 +46797,12 @@ var WORDS = [
     "英文例句": "This is unique.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "universe",
@@ -36645,7 +46820,12 @@ var WORDS = [
     "英文例句": "This is universe.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "university",
@@ -36663,7 +46843,12 @@ var WORDS = [
     "英文例句": "This is university.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "until",
@@ -36681,7 +46866,12 @@ var WORDS = [
     "英文例句": "This is until.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "up",
@@ -36699,7 +46889,12 @@ var WORDS = [
     "英文例句": "This is up.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "upon",
@@ -36717,7 +46912,12 @@ var WORDS = [
     "英文例句": "This is upon.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "upper",
@@ -36735,7 +46935,12 @@ var WORDS = [
     "英文例句": "This is upper.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "upstairs",
@@ -36753,7 +46958,12 @@ var WORDS = [
     "英文例句": "This is upstairs.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "us",
@@ -36771,7 +46981,12 @@ var WORDS = [
     "英文例句": "Join us for lunch.",
     "例句中文": "加入我們一起吃午餐吧。",
     "表情符號": "🥪",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥪",
+    "icon": "🥪",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "USA",
@@ -36789,7 +47004,12 @@ var WORDS = [
     "英文例句": "This is USA.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "use",
@@ -36807,7 +47027,12 @@ var WORDS = [
     "英文例句": "This is use.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "useful",
@@ -36825,7 +47050,12 @@ var WORDS = [
     "英文例句": "This is useful.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "usual",
@@ -36843,7 +47073,12 @@ var WORDS = [
     "英文例句": "This is usual.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "usually",
@@ -36861,7 +47096,12 @@ var WORDS = [
     "英文例句": "This is usually.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "vacation",
@@ -36879,7 +47119,12 @@ var WORDS = [
     "英文例句": "This is vacation.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Valentine",
@@ -36897,7 +47142,12 @@ var WORDS = [
     "英文例句": "This is Valentine.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "valley",
@@ -36915,7 +47165,12 @@ var WORDS = [
     "英文例句": "A river flows through the green valley.",
     "例句中文": "一條河流緩緩穿過翠綠的山谷。",
     "表情符號": "🏞️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏞️",
+    "icon": "🏞️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "valuable",
@@ -36933,7 +47188,12 @@ var WORDS = [
     "英文例句": "This is valuable.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "value",
@@ -36951,7 +47211,12 @@ var WORDS = [
     "英文例句": "This is value.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "van",
@@ -36969,7 +47234,12 @@ var WORDS = [
     "英文例句": "Dad drives a white van to work.",
     "例句中文": "爸爸開著一輛白色廂型車去上班。",
     "表情符號": "🚐",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚐",
+    "icon": "🚐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "vase",
@@ -36987,7 +47257,12 @@ var WORDS = [
     "英文例句": "Put fresh flowers in the glass vase.",
     "例句中文": "把鮮花插進玻璃花瓶裡。",
     "表情符號": "🏺",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏺",
+    "icon": "🏺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "vegetable",
@@ -37005,7 +47280,12 @@ var WORDS = [
     "英文例句": "This is vegetable.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "vendor",
@@ -37023,7 +47303,12 @@ var WORDS = [
     "英文例句": "This is vendor.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "very",
@@ -37041,7 +47326,12 @@ var WORDS = [
     "英文例句": "You are very kind.",
     "例句中文": "你非常善良。",
     "表情符號": "❤️",
-    "圖片": ""
+    "圖片": "",
+    "em": "❤️",
+    "icon": "❤️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "vest",
@@ -37059,7 +47349,12 @@ var WORDS = [
     "英文例句": "He wears a warm fleece vest.",
     "例句中文": "他穿著一件溫暖的刷毛背心。",
     "表情符號": "🦺",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦺",
+    "icon": "🦺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "victory",
@@ -37077,7 +47372,12 @@ var WORDS = [
     "英文例句": "This is victory.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "video",
@@ -37095,7 +47395,12 @@ var WORDS = [
     "英文例句": "This is video.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "village",
@@ -37113,7 +47418,12 @@ var WORDS = [
     "英文例句": "Grandparents live in quiet village.",
     "例句中文": "祖父母住在寧靜的小村莊。",
     "表情符號": "🏡",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏡",
+    "icon": "🏡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "vinegar",
@@ -37131,7 +47441,12 @@ var WORDS = [
     "英文例句": "Add a drop of vinegar for flavor.",
     "例句中文": "加一滴醋來提味。",
     "表情符號": "🍶",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍶",
+    "icon": "🍶",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "violin",
@@ -37149,7 +47464,12 @@ var WORDS = [
     "英文例句": "This is violin.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "visit",
@@ -37167,7 +47487,12 @@ var WORDS = [
     "英文例句": "Visit cousins during winter break.",
     "例句中文": "寒假期間去拜訪表哥表姐。",
     "表情符號": "🏡",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏡",
+    "icon": "🏡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "visitor",
@@ -37185,7 +47510,12 @@ var WORDS = [
     "英文例句": "This is visitor.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "vocabulary",
@@ -37203,7 +47533,12 @@ var WORDS = [
     "英文例句": "This is vocabulary.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "voice",
@@ -37221,7 +47556,12 @@ var WORDS = [
     "英文例句": "This is voice.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "volleyball",
@@ -37239,7 +47579,12 @@ var WORDS = [
     "英文例句": "This is volleyball.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "vote",
@@ -37257,7 +47602,12 @@ var WORDS = [
     "英文例句": "This is vote.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wagon",
@@ -37275,7 +47625,12 @@ var WORDS = [
     "英文例句": "The boy pulls his red toy wagon.",
     "例句中文": "小男孩拉著他的紅色玩具拖車。",
     "表情符號": "🛒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛒",
+    "icon": "🛒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "waist",
@@ -37293,7 +47648,12 @@ var WORDS = [
     "英文例句": "This is waist.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wait",
@@ -37311,7 +47671,12 @@ var WORDS = [
     "英文例句": "Wait for the green light.",
     "例句中文": "耐心等待綠燈。",
     "表情符號": "⏳",
-    "圖片": ""
+    "圖片": "",
+    "em": "⏳",
+    "icon": "⏳",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "waiter",
@@ -37329,7 +47694,12 @@ var WORDS = [
     "英文例句": "This is waiter.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "waitress",
@@ -37347,7 +47717,12 @@ var WORDS = [
     "英文例句": "This is waitress.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wake",
@@ -37365,7 +47740,12 @@ var WORDS = [
     "英文例句": "Wake up early in the morning.",
     "例句中文": "早上早早醒來。",
     "表情符號": "⏰",
-    "圖片": ""
+    "圖片": "",
+    "em": "⏰",
+    "icon": "⏰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "walk",
@@ -37383,7 +47763,12 @@ var WORDS = [
     "英文例句": "We walk to school.",
     "例句中文": "我們走路去學校。",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "walkman",
@@ -37401,7 +47786,12 @@ var WORDS = [
     "英文例句": "This is walkman.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wall",
@@ -37419,7 +47809,12 @@ var WORDS = [
     "英文例句": "Hang the family photo on wall.",
     "例句中文": "把全家福掛在牆壁上。",
     "表情符號": "🧱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧱",
+    "icon": "🧱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wallet",
@@ -37437,7 +47832,12 @@ var WORDS = [
     "英文例句": "My wallet is in the backpack.",
     "例句中文": "我的皮夾在背包裡。",
     "表情符號": "👛",
-    "圖片": ""
+    "圖片": "",
+    "em": "👛",
+    "icon": "👛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "want",
@@ -37455,7 +47855,12 @@ var WORDS = [
     "英文例句": "Do you want some warm milk?",
     "例句中文": "你想要喝點溫牛奶嗎？",
     "表情符號": "🥛",
-    "圖片": ""
+    "圖片": "",
+    "em": "🥛",
+    "icon": "🥛",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "war",
@@ -37473,7 +47878,12 @@ var WORDS = [
     "英文例句": "This is war.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "warm",
@@ -37491,7 +47901,12 @@ var WORDS = [
     "英文例句": "Drink a cup of warm tea.",
     "例句中文": "喝一杯溫暖的茶。",
     "表情符號": "☕",
-    "圖片": ""
+    "圖片": "",
+    "em": "☕",
+    "icon": "☕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "was",
@@ -37509,7 +47924,12 @@ var WORDS = [
     "英文例句": "Yesterday was sunny.",
     "例句中文": "昨天是個大晴天。",
     "表情符號": "☀️",
-    "圖片": ""
+    "圖片": "",
+    "em": "☀️",
+    "icon": "☀️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wash",
@@ -37527,7 +47947,12 @@ var WORDS = [
     "英文例句": "Wash your hands before eating.",
     "例句中文": "吃東西前要洗手。",
     "表情符號": "🧼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧼",
+    "icon": "🧼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "waste",
@@ -37545,7 +47970,12 @@ var WORDS = [
     "英文例句": "Do not waste water while brushing teeth.",
     "例句中文": "刷牙時隨手關水龍頭不要浪費水資源。",
     "表情符號": "🚰",
-    "圖片": ""
+    "圖片": "",
+    "em": "🚰",
+    "icon": "🚰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "watch",
@@ -37563,7 +47993,12 @@ var WORDS = [
     "英文例句": "Look at my new watch.",
     "例句中文": "看我的新手錶。",
     "表情符號": "⌚",
-    "圖片": ""
+    "圖片": "",
+    "em": "⌚",
+    "icon": "⌚",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "water",
@@ -37581,7 +48016,12 @@ var WORDS = [
     "英文例句": "Please drink enough water.",
     "例句中文": "請多喝足夠的水。",
     "表情符號": "💧",
-    "圖片": ""
+    "圖片": "",
+    "em": "💧",
+    "icon": "💧",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "waterfalls",
@@ -37599,7 +48039,12 @@ var WORDS = [
     "英文例句": "This is waterfalls.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "watermelon",
@@ -37617,7 +48062,12 @@ var WORDS = [
     "英文例句": "Cool watermelon beats heat.",
     "例句中文": "冰涼的西瓜可以消暑。",
     "表情符號": "🍉",
-    "圖片": ""
+    "圖片": "",
+    "em": "🍉",
+    "icon": "🍉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wave",
@@ -37635,7 +48085,12 @@ var WORDS = [
     "英文例句": "Wave goodbye to your classmates.",
     "例句中文": "揮手向放學的同學們道別。",
     "表情符號": "👋",
-    "圖片": ""
+    "圖片": "",
+    "em": "👋",
+    "icon": "👋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "way",
@@ -37653,7 +48108,12 @@ var WORDS = [
     "英文例句": "This is way.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "we",
@@ -37671,7 +48131,12 @@ var WORDS = [
     "英文例句": "We sing songs together.",
     "例句中文": "我們一起唱歌。",
     "表情符號": "👫",
-    "圖片": ""
+    "圖片": "",
+    "em": "👫",
+    "icon": "👫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "weak",
@@ -37689,7 +48154,12 @@ var WORDS = [
     "英文例句": "He felt weak when sick.",
     "例句中文": "他生病時感到虛弱無力。",
     "表情符號": "🤒",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤒",
+    "icon": "🤒",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wear",
@@ -37707,7 +48177,12 @@ var WORDS = [
     "英文例句": "Wear a warm coat today.",
     "例句中文": "今天穿件暖和的外套吧。",
     "表情符號": "🧥",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧥",
+    "icon": "🧥",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "weather",
@@ -37725,7 +48200,12 @@ var WORDS = [
     "英文例句": "This is weather.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wedding",
@@ -37743,7 +48223,12 @@ var WORDS = [
     "英文例句": "This is wedding.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "Wednesday",
@@ -37761,7 +48246,12 @@ var WORDS = [
     "英文例句": "Library club meets on Wednesday.",
     "例句中文": "圖書社在星期三聚會。",
     "表情符號": "📅",
-    "圖片": ""
+    "圖片": "",
+    "em": "📅",
+    "icon": "📅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "week",
@@ -37779,7 +48269,12 @@ var WORDS = [
     "英文例句": "See you next week.",
     "例句中文": "下週見。",
     "表情符號": "🗓️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🗓️",
+    "icon": "🗓️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "weekday",
@@ -37797,7 +48292,12 @@ var WORDS = [
     "英文例句": "This is weekday.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "weekend",
@@ -37815,7 +48315,12 @@ var WORDS = [
     "英文例句": "Have a relaxing restful weekend.",
     "例句中文": "祝你有個放鬆休息的週末。",
     "表情符號": "🏖️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏖️",
+    "icon": "🏖️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "weight",
@@ -37833,7 +48338,12 @@ var WORDS = [
     "英文例句": "This is weight.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "welcome",
@@ -37851,7 +48361,12 @@ var WORDS = [
     "英文例句": "You are always welcome in our home.",
     "例句中文": "我們家隨時都熱烈歡迎你的到來。",
     "表情符號": "🏡",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏡",
+    "icon": "🏡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "well",
@@ -37869,7 +48384,12 @@ var WORDS = [
     "英文例句": "This is well.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "were",
@@ -37887,7 +48407,12 @@ var WORDS = [
     "英文例句": "We were at the zoo.",
     "例句中文": "我們昨天在動物園。",
     "表情符號": "🦁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦁",
+    "icon": "🦁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "west",
@@ -37905,7 +48430,12 @@ var WORDS = [
     "英文例句": "This is west.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wet",
@@ -37923,7 +48453,12 @@ var WORDS = [
     "英文例句": "Take off wet socks after rain.",
     "例句中文": "下雨後把濕透的襪子脫下來換掉。",
     "表情符號": "🧦",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧦",
+    "icon": "🧦",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "whale",
@@ -37941,7 +48476,12 @@ var WORDS = [
     "英文例句": "The blue whale is enormous.",
     "例句中文": "藍鯨體型非常龐大。",
     "表情符號": "🐋",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐋",
+    "icon": "🐋",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "what",
@@ -37959,7 +48499,12 @@ var WORDS = [
     "英文例句": "This is what.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wheel",
@@ -37977,7 +48522,12 @@ var WORDS = [
     "英文例句": "This is wheel.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "when",
@@ -37995,7 +48545,12 @@ var WORDS = [
     "英文例句": "This is when.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "where",
@@ -38013,7 +48568,12 @@ var WORDS = [
     "英文例句": "This is where.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "whether",
@@ -38031,7 +48591,12 @@ var WORDS = [
     "英文例句": "This is whether.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "which",
@@ -38049,7 +48614,12 @@ var WORDS = [
     "英文例句": "This is which.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "while",
@@ -38067,7 +48637,12 @@ var WORDS = [
     "英文例句": "This is while.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "whisper",
@@ -38085,7 +48660,12 @@ var WORDS = [
     "英文例句": "Whisper quietly in library hall.",
     "例句中文": "在圖書館大廳裡輕聲細語。",
     "表情符號": "🤫",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤫",
+    "icon": "🤫",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "whistle",
@@ -38103,7 +48683,12 @@ var WORDS = [
     "英文例句": "The coach blew his loud whistle.",
     "例句中文": "教練吹響了他響亮的哨子。",
     "表情符號": "🎷",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎷",
+    "icon": "🎷",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "white",
@@ -38121,7 +48706,12 @@ var WORDS = [
     "英文例句": "Snow is cold and white.",
     "例句中文": "雪很冷而且是白色的。",
     "表情符號": "⬜",
-    "圖片": ""
+    "圖片": "",
+    "em": "⬜",
+    "icon": "⬜",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "whiteboard",
@@ -38139,7 +48729,12 @@ var WORDS = [
     "英文例句": "Erase the whiteboard marker.",
     "例句中文": "把白板筆跡擦乾淨。",
     "表情符號": "⬜",
-    "圖片": ""
+    "圖片": "",
+    "em": "⬜",
+    "icon": "⬜",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "who",
@@ -38157,7 +48752,12 @@ var WORDS = [
     "英文例句": "This is who.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "whole",
@@ -38175,7 +48775,12 @@ var WORDS = [
     "英文例句": "This is whole.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "whose",
@@ -38193,7 +48798,12 @@ var WORDS = [
     "英文例句": "This is whose.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "why",
@@ -38211,7 +48821,12 @@ var WORDS = [
     "英文例句": "This is why.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wide",
@@ -38229,7 +48844,12 @@ var WORDS = [
     "英文例句": "The big river is very wide.",
     "例句中文": "這條大江河流水面相當寬闊。",
     "表情符號": "🌊",
-    "圖片": ""
+    "圖片": "",
+    "em": "🌊",
+    "icon": "🌊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wife",
@@ -38247,7 +48867,12 @@ var WORDS = [
     "英文例句": "This is wife.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wild",
@@ -38265,7 +48890,12 @@ var WORDS = [
     "英文例句": "This is wild.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "will",
@@ -38283,7 +48913,12 @@ var WORDS = [
     "英文例句": "I will see you tomorrow.",
     "例句中文": "我明天會見到你。",
     "表情符號": "📅",
-    "圖片": ""
+    "圖片": "",
+    "em": "📅",
+    "icon": "📅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "win",
@@ -38301,7 +48936,12 @@ var WORDS = [
     "英文例句": "Practice teamwork to win the game.",
     "例句中文": "發揮團隊合作來贏得比賽。",
     "表情符號": "🏆",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏆",
+    "icon": "🏆",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wind",
@@ -38319,7 +48959,12 @@ var WORDS = [
     "英文例句": "The cool autumn wind blows softly.",
     "例句中文": "涼爽的秋風輕輕吹拂。",
     "表情符號": "💨",
-    "圖片": ""
+    "圖片": "",
+    "em": "💨",
+    "icon": "💨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "window",
@@ -38337,7 +48982,12 @@ var WORDS = [
     "英文例句": "Look out the window.",
     "例句中文": "看看窗外。",
     "表情符號": "🪟",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪟",
+    "icon": "🪟",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "windy",
@@ -38355,7 +49005,12 @@ var WORDS = [
     "英文例句": "This is windy.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wing",
@@ -38373,7 +49028,12 @@ var WORDS = [
     "英文例句": "Birds spread their wings.",
     "例句中文": "鳥兒展翅高飛。",
     "表情符號": "🪽",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪽",
+    "icon": "🪽",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "winner",
@@ -38391,7 +49051,12 @@ var WORDS = [
     "英文例句": "This is winner.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "winter",
@@ -38409,7 +49074,12 @@ var WORDS = [
     "英文例句": "This is winter.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wire",
@@ -38427,7 +49097,12 @@ var WORDS = [
     "英文例句": "Keep loose wires tidy and neat.",
     "例句中文": "把散落的電線收納整齊。",
     "表情符號": "➰",
-    "圖片": ""
+    "圖片": "",
+    "em": "➰",
+    "icon": "➰",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wise",
@@ -38445,7 +49120,12 @@ var WORDS = [
     "英文例句": "This is wise.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wish",
@@ -38463,7 +49143,12 @@ var WORDS = [
     "英文例句": "Make a secret birthday wish.",
     "例句中文": "在心裡許下一個神秘的生日願望。",
     "表情符號": "✨",
-    "圖片": ""
+    "圖片": "",
+    "em": "✨",
+    "icon": "✨",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "with",
@@ -38481,7 +49166,12 @@ var WORDS = [
     "英文例句": "Play with your friends.",
     "例句中文": "和你的朋友們一起玩。",
     "表情符號": "🧑‍🤝‍🧑",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧑‍🤝‍🧑",
+    "icon": "🧑‍🤝‍🧑",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "without",
@@ -38499,7 +49189,12 @@ var WORDS = [
     "英文例句": "This is without.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wok",
@@ -38517,7 +49212,12 @@ var WORDS = [
     "英文例句": "This is wok.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wolf",
@@ -38535,7 +49235,12 @@ var WORDS = [
     "英文例句": "The gray wolf howls at the moon.",
     "例句中文": "灰狼對著夜空中的明月長嚎。",
     "表情符號": "🐺",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐺",
+    "icon": "🐺",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "woman",
@@ -38553,7 +49258,12 @@ var WORDS = [
     "英文例句": "The woman is reading a book.",
     "例句中文": "那位女士正在看書。",
     "表情符號": "👩",
-    "圖片": ""
+    "圖片": "",
+    "em": "👩",
+    "icon": "👩",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "women's room",
@@ -38571,7 +49281,12 @@ var WORDS = [
     "英文例句": "This is women's room.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wonderful",
@@ -38589,7 +49304,12 @@ var WORDS = [
     "英文例句": "This is wonderful.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wood",
@@ -38607,7 +49327,12 @@ var WORDS = [
     "英文例句": "This is wood.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "woods",
@@ -38625,7 +49350,12 @@ var WORDS = [
     "英文例句": "This is woods.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "word",
@@ -38643,7 +49373,12 @@ var WORDS = [
     "英文例句": "Learn ten new words daily.",
     "例句中文": "每天學習十個新單字。",
     "表情符號": "🔤",
-    "圖片": ""
+    "圖片": "",
+    "em": "🔤",
+    "icon": "🔤",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "work",
@@ -38661,7 +49396,12 @@ var WORDS = [
     "英文例句": "This is work.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "workbook",
@@ -38679,7 +49419,12 @@ var WORDS = [
     "英文例句": "This is workbook.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "worker",
@@ -38697,7 +49442,12 @@ var WORDS = [
     "英文例句": "This is worker.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "world",
@@ -38715,7 +49465,12 @@ var WORDS = [
     "英文例句": "This is world.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "worm",
@@ -38733,7 +49488,12 @@ var WORDS = [
     "英文例句": "Earthworms enrich garden soil.",
     "例句中文": "小蚯蚓在花園土壤裡鑽動鬆土。",
     "表情符號": "🪱",
-    "圖片": ""
+    "圖片": "",
+    "em": "🪱",
+    "icon": "🪱",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "worry",
@@ -38751,7 +49511,12 @@ var WORDS = [
     "英文例句": "Don't worry about minor mistakes.",
     "例句中文": "別為小小的失誤過度擔心。",
     "表情符號": "🙂",
-    "圖片": ""
+    "圖片": "",
+    "em": "🙂",
+    "icon": "🙂",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "would",
@@ -38769,7 +49534,12 @@ var WORDS = [
     "英文例句": "Would you like some juice?",
     "例句中文": "你想喝點果汁嗎？",
     "表情符號": "🧃",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧃",
+    "icon": "🧃",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wound",
@@ -38787,7 +49557,12 @@ var WORDS = [
     "英文例句": "This is wound.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wrap",
@@ -38805,7 +49580,12 @@ var WORDS = [
     "英文例句": "Wrap the gift in pretty paper.",
     "例句中文": "用漂亮的包裝紙把禮物包好。",
     "表情符號": "🎁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎁",
+    "icon": "🎁",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wrist",
@@ -38823,7 +49603,12 @@ var WORDS = [
     "英文例句": "This is wrist.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "write",
@@ -38841,7 +49626,12 @@ var WORDS = [
     "英文例句": "Write your name on this paper.",
     "例句中文": "在這張紙上寫下你的名字。",
     "表情符號": "✍️",
-    "圖片": ""
+    "圖片": "",
+    "em": "✍️",
+    "icon": "✍️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "writer",
@@ -38859,7 +49649,12 @@ var WORDS = [
     "英文例句": "This is writer.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "wrong",
@@ -38877,7 +49672,12 @@ var WORDS = [
     "英文例句": "Erase wrong letters on test.",
     "例句中文": "用橡皮擦把測驗紙上的錯字擦掉。",
     "表情符號": "❌",
-    "圖片": ""
+    "圖片": "",
+    "em": "❌",
+    "icon": "❌",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "yacht",
@@ -38895,7 +49695,12 @@ var WORDS = [
     "英文例句": "A white yacht floats on the water.",
     "例句中文": "一艘白色遊艇漂浮在水面上。",
     "表情符號": "🛥️",
-    "圖片": ""
+    "圖片": "",
+    "em": "🛥️",
+    "icon": "🛥️",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "yard",
@@ -38913,7 +49718,12 @@ var WORDS = [
     "英文例句": "Play ball games in the yard.",
     "例句中文": "在院子裡玩球類遊戲。",
     "表情符號": "🏡",
-    "圖片": ""
+    "圖片": "",
+    "em": "🏡",
+    "icon": "🏡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "year",
@@ -38931,7 +49741,12 @@ var WORDS = [
     "英文例句": "Happy New Year!",
     "例句中文": "新年快樂！",
     "表情符號": "🎉",
-    "圖片": ""
+    "圖片": "",
+    "em": "🎉",
+    "icon": "🎉",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "yell",
@@ -38949,7 +49764,12 @@ var WORDS = [
     "英文例句": "Do not yell inside quiet rooms.",
     "例句中文": "不要在安靜的房間裡大聲嚷嚷。",
     "表情符號": "📢",
-    "圖片": ""
+    "圖片": "",
+    "em": "📢",
+    "icon": "📢",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "yellow",
@@ -38967,7 +49787,12 @@ var WORDS = [
     "英文例句": "Bananas are yellow.",
     "例句中文": "香蕉是黃色的。",
     "表情符號": "🟡",
-    "圖片": ""
+    "圖片": "",
+    "em": "🟡",
+    "icon": "🟡",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "yes",
@@ -38985,7 +49810,12 @@ var WORDS = [
     "英文例句": "This is yes.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "yesterday",
@@ -39003,7 +49833,12 @@ var WORDS = [
     "英文例句": "Yesterday was Sunday.",
     "例句中文": "昨天是星期日。",
     "表情符號": "📅",
-    "圖片": ""
+    "圖片": "",
+    "em": "📅",
+    "icon": "📅",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "yet",
@@ -39021,7 +49856,12 @@ var WORDS = [
     "英文例句": "This is yet.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "you",
@@ -39039,7 +49879,12 @@ var WORDS = [
     "英文例句": "You have a bright smile.",
     "例句中文": "你有燦爛的笑容。",
     "表情符號": "😊",
-    "圖片": ""
+    "圖片": "",
+    "em": "😊",
+    "icon": "😊",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "young",
@@ -39057,7 +49902,12 @@ var WORDS = [
     "英文例句": "The young puppy learns new tricks.",
     "例句中文": "年幼的小狗狗學習著新才藝技巧。",
     "表情符號": "🐕",
-    "圖片": ""
+    "圖片": "",
+    "em": "🐕",
+    "icon": "🐕",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "your",
@@ -39075,7 +49925,12 @@ var WORDS = [
     "英文例句": "Wash your hands first.",
     "例句中文": "先洗洗你的手。",
     "表情符號": "🧼",
-    "圖片": ""
+    "圖片": "",
+    "em": "🧼",
+    "icon": "🧼",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "youth",
@@ -39093,7 +49948,12 @@ var WORDS = [
     "英文例句": "This is youth.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "yummy",
@@ -39111,7 +49971,12 @@ var WORDS = [
     "英文例句": "This is yummy.",
     "例句中文": "",
     "表情符號": "📓",
-    "圖片": ""
+    "圖片": "",
+    "em": "📓",
+    "icon": "📓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "zebra",
@@ -39129,7 +49994,12 @@ var WORDS = [
     "英文例句": "Zebras have black stripes.",
     "例句中文": "斑馬有黑色的條紋。",
     "表情符號": "🦓",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦓",
+    "icon": "🦓",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "zero",
@@ -39147,7 +50017,12 @@ var WORDS = [
     "英文例句": "Zero comes before number one.",
     "例句中文": "數字零排在數字一前面。",
     "表情符號": "0️⃣",
-    "圖片": ""
+    "圖片": "",
+    "em": "0️⃣",
+    "icon": "0️⃣",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "zipper",
@@ -39165,7 +50040,12 @@ var WORDS = [
     "英文例句": "The backpack zipper is stuck.",
     "例句中文": "後背包的拉鍊卡住了。",
     "表情符號": "🤐",
-    "圖片": ""
+    "圖片": "",
+    "em": "🤐",
+    "icon": "🤐",
+    "img": "",
+    "photo": "",
+    "image": ""
   },
   {
     "w": "zoo",
@@ -39183,7 +50063,12 @@ var WORDS = [
     "英文例句": "We see monkeys at the zoo.",
     "例句中文": "我們在動物園看到猴子。",
     "表情符號": "🦁",
-    "圖片": ""
+    "圖片": "",
+    "em": "🦁",
+    "icon": "🦁",
+    "img": "",
+    "photo": "",
+    "image": ""
   }
 ];
 
@@ -39191,12 +50076,55 @@ var DB = WORDS;
 var imported = WORDS;
 var wordsData = WORDS;
 
-// 頁面載入完成時，確保 DB 與 imported 完整對齊並更新顯示數量
+// ==========================================
+// 圖片與圖示自動防錯補丁 (徹底解決 undefined 問題)
+// ==========================================
+(function() {
+  function getSafeEmojiHtml(d) {
+    var emo = (d && (d.emoji || d.em || d.icon || d['表情符號'])) || '📓';
+    return '<div class="pic emoji">' + emo + '</div>';
+  }
+
+  // 攔截並包裝全域 pic 函式
+  if (typeof window.pic === 'function') {
+    var _originalPic = window.pic;
+    window.pic = function(d) {
+      try {
+        var res = _originalPic(d);
+        if (!res || res === 'undefined' || typeof res === 'undefined' || res.indexOf('undefined') !== -1) {
+          return getSafeEmojiHtml(d);
+        }
+        return res;
+      } catch(e) {
+        return getSafeEmojiHtml(d);
+      }
+    };
+  } else {
+    window.pic = function(d) {
+      if (d && d.pic) return '<div class="pic"><img src="' + d.pic + '"></div>';
+      return getSafeEmojiHtml(d);
+    };
+  }
+
+  // 攔截 showWord 確保 stage.innerHTML 裡絕不出現 undefined
+  if (typeof window.showWord === 'function') {
+    var _originalShowWord = window.showWord;
+    window.showWord = function(d) {
+      _originalShowWord(d);
+      var stage = document.getElementById('stage') || document.querySelector('.stage') || document.querySelector('article.card')?.parentElement;
+      if (stage && stage.innerHTML.indexOf('undefined') !== -1) {
+        stage.innerHTML = stage.innerHTML.replace(/>\s*undefined\s*</g, '>' + getSafeEmojiHtml(d) + '<');
+      }
+    };
+  }
+})();
+
+// 頁面載入完成時，確保資料庫對齊、更新顯示數量與消除殘留的 undefined
 window.addEventListener('DOMContentLoaded', function() {
   if (typeof DB !== 'undefined') DB = WORDS;
   if (typeof imported !== 'undefined') imported = WORDS;
-  
-  // 更新介面上的單字統計數量
+
+  // 更新計數
   var countSpans = document.querySelectorAll('.word-count, span, div');
   countSpans.forEach(function(el) {
     if (el.children.length === 0 && el.textContent.indexOf('個單字') !== -1) {
