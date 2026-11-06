@@ -4,99 +4,97 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>MiniDict</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&display=swap" rel="stylesheet">
+
+<!-- iPad / iPhone 加入主畫面桌面圖示設定 -->
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="MiniDict">
+
 <style>
-:root{
-  --bg:#F8F4EC;--ink:#0F6F6B;--soft:#3F7F7B;--card:#FFFFFF;--rim:#FFFFFF;--red:#3F42C8;--redink:#FFFFFF;--butter:#EE7650;--mint:#BFE2D3;--pink:#F0D3CB;--lav:#DADBF6;--field:#FFFFFF;
-  box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:light;
-}
-@media (prefers-color-scheme: dark){
-  :root:not([data-theme="light"]){--bg:#10282A;--ink:#E6F4EF;--soft:#A9CFC6;--card:#1B3E3D;--rim:#1B3E3D;--red:#8C8FFF;--redink:#10282A;--butter:#F08A66;--mint:#2E6B5D;--pink:#6B4A45;--lav:#3A3F8F;--field:#163534;color-scheme:dark}
-}
-:root[data-theme="dark"]{--bg:#10282A;--ink:#E6F4EF;--soft:#A9CFC6;--card:#1B3E3D;--rim:#1B3E3D;--red:#8C8FFF;--redink:#10282A;--butter:#F08A66;--mint:#2E6B5D;--pink:#6B4A45;--lav:#3A3F8F;--field:#163534;color-scheme:dark}
 *{box-sizing:border-box}
 html{height:100%}
-body{margin:0;min-height:100%;background:var(--bg);color:var(--ink);
-  font-family:"Baloo 2","jf-openhuninn","Hiragino Maru Gothic ProN","PingFang TC","Microsoft JhengHei","Noto Sans TC",system-ui,sans-serif}
-  .l0{color:#E8504A}.l1{color:#3FA46A}.l2{color:#4B7BE0}.l3{color:#F2A22E}.l4{color:#8E6FD8}
+body{margin:0;min-height:100%;background:#F8F4EC;color:#0F6F6B;
+  font-family:"Hiragino Maru Gothic ProN","PingFang TC","Microsoft JhengHei","Noto Sans TC",Helvetica,Arial,sans-serif}
 main{max-width:640px;margin:0 auto;padding:20px 16px 40px}
 .logo{display:block;margin:4px auto 0;width:112px;height:auto}
-h1{margin:0 auto 20px;text-align:center;font-size:2.8rem;font-weight:800;letter-spacing:.01em;line-height:1.1;color:var(--ink)}
-.search{display:flex;gap:8px}
-.search input{flex:1;min-width:0;font:inherit;font-size:1.25rem;padding:12px 20px;border:4px solid var(--rim);border-radius:999px;background:var(--field);color:var(--ink)}
-.search input::placeholder{color:var(--soft)}
-button{font:inherit;cursor:pointer;color:var(--ink);border:0}
-button:focus-visible,input:focus-visible{outline:4px solid var(--red);outline-offset:2px}
-.go{background:var(--red);color:var(--redink);border-radius:999px;padding:0 22px;font-size:1.1rem;font-weight:800}
-.go:active,.say:active{transform:scale(.95)}
-.tools{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:center;margin:14px auto 0;background:var(--card);border-radius:999px;padding:6px 12px;width:fit-content;max-width:100%}
-.tbtn{border-radius:999px;background:var(--lav);padding:5px 14px;font-size:.95rem;font-weight:800}
-.tbtn:active{transform:scale(.95)}
-.tbtn[hidden]{display:none}
-#status{color:var(--soft);font-size:.9rem}
+h1{margin:0 auto 20px;text-align:center;font-size:2.8rem;font-weight:bold;line-height:1.1;color:#0F6F6B}
+
+/* 搜尋列與清除按鈕排版 */
+.search-wrapper{display:flex;gap:8px;position:relative}
+.input-box{position:relative;flex:1;display:flex;align-items:center}
+.search input{width:100%;font:inherit;font-size:1.25rem;padding:12px 42px 12px 20px;border:4px solid #FFFFFF;border-radius:999px;background:#FFFFFF;color:#0F6F6B;-webkit-appearance:none}
+.clear-q{position:absolute;right:12px;width:28px;height:28px;border-radius:50%;background:#DADBF6;color:#0F6F6B;font-size:14px;font-weight:bold;line-height:28px;text-align:center;padding:0;cursor:pointer;display:none}
+.clear-q:active{transform:scale(0.9)}
+
+button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:none}
+.go{background:#3F42C8;color:#FFFFFF;border-radius:999px;padding:10px 22px;font-size:1.1rem;font-weight:bold;flex:none}
+.tools{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:center;margin:14px auto 0;background:#FFFFFF;border-radius:999px;padding:6px 12px;width:fit-content;max-width:100%}
+.tbtn{border-radius:999px;background:#DADBF6;padding:5px 14px;font-size:.95rem;font-weight:bold}
+#status{color:#3F7F7B;font-size:.9rem}
 .stage{margin-top:22px;min-height:260px}
-.card{background:var(--card);border-radius:32px;padding:22px 20px}
-.emoji{font-size:4.5rem;line-height:1;text-align:center;display:block;animation:pop .35s ease-out}
-@keyframes pop{from{transform:scale(.6) rotate(-10deg)}to{transform:scale(1) rotate(0)}}
-.emoji[hidden],.pic[hidden]{display:none}
-.pic{display:block;margin:0 auto;width:120px;height:120px;object-fit:contain;animation:pop .35s ease-out}
+.card{background:#FFFFFF;border-radius:32px;padding:22px 20px}
+.emoji{font-size:4.5rem;line-height:1;text-align:center;display:block}
+.pic{display:block;margin:0 auto;width:120px;height:120px;object-fit:contain}
 .wordrow{display:flex;align-items:center;justify-content:center;gap:12px;margin-top:10px;flex-wrap:wrap}
-.word{font-size:2.6rem;font-weight:900;margin:0;word-break:break-word;text-align:center}
-.say{background:var(--butter);border-radius:50%;width:52px;height:52px;font-size:1.5rem;flex:none}
+.word{font-size:2.6rem;font-weight:bold;margin:0;word-break:break-word;text-align:center}
+.say{background:#EE7650;border-radius:50%;width:52px;height:52px;font-size:1.5rem;flex:none}
 .say.small{width:42px;height:42px;font-size:1.15rem}
-.meta{font-family:system-ui,"Segoe UI","Noto Sans",sans-serif;text-align:center;margin-top:6px;color:var(--soft);font-size:1.15rem}
-.pos{display:inline-block;background:var(--mint);border-radius:999px;padding:1px 12px;margin-left:8px;font-size:1rem;color:var(--ink)}
-.zh{text-align:center;font-size:2rem;font-weight:800;margin:14px 0 4px}
-.ex{margin-top:16px;background:var(--pink);border-radius:20px;padding:12px 14px;display:flex;gap:10px;align-items:center}
+.meta{font-family:Helvetica,Arial,sans-serif;text-align:center;margin-top:6px;color:#3F7F7B;font-size:1.15rem}
+.pos{display:inline-block;background:#BFE2D3;border-radius:999px;padding:1px 12px;margin-left:8px;font-size:1rem;color:#0F6F6B}
+.zh{text-align:center;font-size:2rem;font-weight:bold;margin:14px 0 4px}
+.ex{margin-top:16px;background:#F0D3CB;border-radius:20px;padding:12px 14px;display:flex;gap:10px;align-items:center}
 .ex p{margin:0}
-.ex .en{font-size:1.2rem;font-weight:800}
+.ex .en{font-size:1.2rem;font-weight:bold}
 .ex .cn{opacity:.8;margin-top:2px}
 .msg{text-align:center;padding:26px 12px}
-.msg .emoji{animation:none}
-.msg p{font-size:1.2rem;margin:10px 0 0}
 .sugs{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-top:14px}
-.near{margin-top:24px;background:var(--card);border-radius:28px;padding:14px 14px 18px}
-.near[hidden]{display:none}
+.near{margin-top:24px;background:#FFFFFF;border-radius:28px;padding:14px 14px 18px}
 .near h2{margin:0 0 10px;font-size:1.05rem;text-align:center}
 .chips{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
-.chip{border-radius:999px;padding:7px 14px;font-size:1.05rem;font-weight:800;background:var(--lav)}
-.chip:nth-child(3n+1){background:var(--pink)}.chip:nth-child(3n+2){background:var(--mint)}.chip:nth-child(3n){background:var(--lav)}
-.chip.now{background:var(--red);color:var(--redink)}
-.chip:active{transform:scale(.95)}
-@media (prefers-reduced-motion:reduce){.emoji,.pic{animation:none}}
-@media (max-width:420px){.word{font-size:2.2rem}.zh{font-size:1.7rem}h1{font-size:2.4rem}}
+.chip{border-radius:999px;padding:7px 14px;font-size:1.05rem;font-weight:bold;background:#DADBF6}
+.chip:nth-child(3n+1){background:#F0D3CB}.chip:nth-child(3n+2){background:#BFE2D3}.chip:nth-child(3n){background:#DADBF6}
+.chip.now{background:#3F42C8;color:#FFFFFF}
 </style>
 </head>
 <body>
 <main>
   <svg class="logo" viewBox="0 0 120 94" aria-hidden="true"><path d="M18 64A40 40 0 0 1 92 42" fill="none" stroke="#3F42C8" stroke-width="9" stroke-linecap="round"/><rect x="38" y="34" width="32" height="34" rx="14" fill="#E3B3A8" transform="rotate(-18 54 51)"/><circle cx="90" cy="64" r="8" fill="#EE7650"/><rect x="30" y="77" width="62" height="9" rx="4.5" fill="#BFE2D3"/></svg>
   <h1>MiniDict</h1>
-  <div class="search">
-    <input id="q" type="search" placeholder="輸入英文單字，例如 apple" autocomplete="off" autocapitalize="none" spellcheck="false" aria-label="輸入英文單字">
+  
+  <div class="search search-wrapper">
+    <div class="input-box">
+      <input id="q" type="search" placeholder="輸入英文單字，例如 apple" autocomplete="off" autocapitalize="none" spellcheck="false">
+      <button class="clear-q" id="clear_q" type="button" aria-label="清除輸入">✕</button>
+    </div>
     <button class="go" id="go">查詢</button>
   </div>
+
   <div class="tools">
     <button class="tbtn" id="imp" type="button">📂 匯入單字</button>
-    <button class="tbtn" id="clear" type="button" hidden>🧹 清除匯入</button>
-    <input id="file" type="file" accept=".csv,.json,.txt,text/csv,application/json" hidden>
+    <button class="tbtn" id="clear" type="button" style="display:none">🧹 清除匯入</button>
+    <input id="file" type="file" accept=".csv,.json,.txt" style="display:none">
     <span id="status"></span>
   </div>
-  <section class="stage" id="stage" aria-live="polite"></section>
-  <section class="near" id="near" hidden>
+  
+  <section class="stage" id="stage"></section>
+  <section class="near" id="near" style="display:none">
     <h2>附近的單字</h2>
     <div class="chips" id="chips"></div>
   </section>
 </main>
 
 <script>
-/* ===== 單字資料開始：要增加單字，只要替換這一整段 =====
-   每一行格式（順序就是下方「附近的單字」的前後順序）：
-   ["單字", "音標", "詞性", "中文意思", "英文例句", "例句中文", "表情符號", "圖片"],
-   「表情符號」留空會依詞性給預設圖示；「圖片」可省略，可填檔名（放在 IMG_BASE 資料夾）、網址或 data: 圖片資料。
-   注意：每行最後要有逗號，文字要用英文雙引號包起來。 */
-const WORDS = [
+if (!Array.prototype.find) {
+  Array.prototype.find = function(predicate) {
+    for (var i = 0; i < this.length; i++) {
+      if (predicate(this[i], i, this)) return this[i];
+    }
+    return undefined;
+  };
+}
+
+var WORDS = [
 ["grape", "/ɡrep/", "n.", "葡萄", "I like grapes.", "我喜歡葡萄。", "🍇"],
 ["because", "/bɪˈkɔz/", "conj.", "因為", "I am happy because it is Friday.", "因為今天是星期五，所以我很快樂。", ""],
 ["walk", "/wɔk/", "v.", "走路", "We walk to school.", "我們走路去學校。", ""],
@@ -396,157 +394,220 @@ const WORDS = [
 ["kind", "/kaɪnd/", "adj.", "善良親切的", "Our teacher is very kind.", "我們的老師為人非常親切。", "😇"],
 ["smart", "/smɑːrt/", "adj.", "聰明的", "Dolphins are smart animals.", "海豚是聰明的動物。", "🐬"],
 ["in", "/ɪn/", "prep.", "在...裡面", "The pencil is in the box.", "鉛筆在盒子裡面。", "📥"],
-["on", "/ɑːn/", "prep.", "在...上面", "The book is on the desk.", "書本在桌子上。", "🔛"],
+["on", "/ɑːn/", "prep.", "在...上面", "The book is on the desk.", "書本在桌子上。", "🔛"]
 ];
-/* ===== 單字資料結束 ===== */
 
-const $ = id => document.getElementById(id);
-const stage = $('stage'), q = $('q');
-/* 圖片資料夾：自己部署時，把圖片放在這個資料夾，單字資料的「圖片」欄只填檔名，例如 "apple.png" */
-const IMG_BASE = 'img/';
-/* 沒有專屬表情符號時，依詞性使用的預設圖示，可自行修改 */
-const POS_ICON = {'n.':'📝','v.':'🏃','adj.':'✨','adv.':'🎈','prep.':'📍','pron.':'👤','conj.':'🔗','num.':'🔢'};
-const STORE_KEY = 'kidsdict-imported-v1';
+function $(id){ return document.getElementById(id); }
+var stage = $('stage'), q = $('q'), clearQ = $('clear_q');
+var IMG_BASE = 'img/';
+var POS_ICON = {'n.':'📝','v.':'🏃','adj.':'✨','adv.':'🎈','prep.':'📍','pron.':'👤','conj.':'🔗','num.':'🔢'};
+var STORE_KEY = 'kidsdict-imported-v1';
+
 function toEntry(r){
-  const s = i => String(r[i] == null ? '' : r[i]).trim();
+  var s = function(i){ return String(r[i] == null ? '' : r[i]).trim(); };
   return {w:s(0), ph:s(1), pos:s(2), zh:s(3), ex:s(4), exzh:s(5), em:s(6) || POS_ICON[s(2).split('/')[0]] || '📝', img:s(7)};
 }
-let DB = [];
-let imported = [];
-try{ imported = JSON.parse(localStorage.getItem(STORE_KEY) || '[]'); if(!Array.isArray(imported)) imported = []; }catch(e){ imported = []; }
-function rebuild(){
-  const map = new Map();
-  WORDS.concat(imported).forEach(r => { const e = toEntry(r); if(e.w) map.set(e.w.toLowerCase(), e); });
-  DB = Array.from(map.values());
-  $('near').hidden = true;
-  $('clear').hidden = !imported.length;
-  $('status').textContent = imported.length ? `共 ${DB.length} 個單字（匯入 ${imported.length} 個）` : `共 ${DB.length} 個單字`;
+
+var DB = [];
+var imported = [];
+try {
+  imported = JSON.parse(localStorage.getItem(STORE_KEY) || '[]');
+  if (!Array.isArray(imported)) imported = [];
+} catch(e) {
+  imported = [];
 }
+
+function rebuild(){
+  var dict = {};
+  var all = WORDS.concat(imported);
+  DB = [];
+  for (var i = 0; i < all.length; i++) {
+    var e = toEntry(all[i]);
+    if (e.w && !dict[e.w.toLowerCase()]) {
+      dict[e.w.toLowerCase()] = true;
+      DB.push(e);
+    }
+  }
+  $('near').style.display = 'none';
+  $('clear').style.display = imported.length ? 'inline-block' : 'none';
+  $('status').textContent = imported.length ? ('共 ' + DB.length + ' 個單字（匯入 ' + imported.length + ' 個）') : ('共 ' + DB.length + ' 個單字');
+}
+
 function parseCSV(t){
   t = t.replace(/^\uFEFF/, '');
-  const rows = []; let row = [], cur = '', q = false;
-  for(let i = 0; i < t.length; i++){
-    const ch = t[i];
-    if(q){ if(ch === '"'){ if(t[i+1] === '"'){ cur += '"'; i++; } else q = false; } else cur += ch; }
-    else if(ch === '"') q = true;
-    else if(ch === ','){ row.push(cur); cur = ''; }
-    else if(ch === '\n' || ch === '\r'){ if(ch === '\r' && t[i+1] === '\n') i++; row.push(cur); cur = ''; rows.push(row); row = []; }
-    else cur += ch;
+  var rows = []; var row = [], cur = '', inQuote = false;
+  for(var i = 0; i < t.length; i++){
+    var ch = t[i];
+    if(inQuote){
+      if(ch === '"'){
+        if(t[i+1] === '"'){ cur += '"'; i++; } else inQuote = false;
+      } else cur += ch;
+    } else if(ch === '"'){
+      inQuote = true;
+    } else if(ch === ','){
+      row.push(cur); cur = '';
+    } else if(ch === '\n' || ch === '\r'){
+      if(ch === '\r' && t[i+1] === '\n') i++;
+      row.push(cur); cur = ''; rows.push(row); row = [];
+    } else {
+      cur += ch;
+    }
   }
   if(cur !== '' || row.length){ row.push(cur); rows.push(row); }
   return rows;
 }
-const KEYS = [['w','word','單字'],['ph','phonetic','音標'],['pos','詞性'],['zh','meaning','中文意思'],['ex','example','英文例句'],['exzh','例句中文'],['em','emoji','表情符號'],['img','image','圖片']];
-const objRow = o => KEYS.map(ks => { const k = ks.find(k => o[k] !== undefined); return k ? o[k] : ''; });
+
+function esc(t){
+  return String(t).replace(/[&<>"]/g, function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];
+  });
+}
+
 function pic(d){
-  const emo = `<span class="emoji" aria-hidden="true"${d.img ? ' hidden' : ''}>${esc(d.em)}</span>`;
+  var emo = '<span class="emoji" aria-hidden="true"' + (d.img ? ' style="display:none"' : '') + '>' + esc(d.em) + '</span>';
   if(!d.img) return emo;
-  const src = /^(data:|https?:|\/)/.test(d.img) ? d.img : IMG_BASE + d.img;
-  return `<img class="pic" src="${esc(src)}" alt="" onerror="this.hidden=true;this.nextElementSibling.hidden=false">` + emo;
+  var src = /^(data:|https?:|\/)/.test(d.img) ? d.img : (IMG_BASE + d.img);
+  return '<img class="pic" src="' + esc(src) + '" alt="" onerror="this.style.display=\'none\';this.nextSibling.style.display=\'block\'">' + emo;
 }
 
 function speak(text){
-  try{
-    const s = window.speechSynthesis; if(!s) return;
+  try {
+    var s = window.speechSynthesis;
+    if(!s) return;
     s.cancel();
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = 'en-US'; u.rate = 0.8; u.pitch = 1.1;
-    const v = s.getVoices().find(v => /^en[-_]US/i.test(v.lang));
-    if(v) u.voice = v;
+    var u = new SpeechSynthesisUtterance(text);
+    u.lang = 'en-US';
+    u.rate = 0.8;
     s.speak(u);
-  }catch(e){}
+  } catch(e) {}
 }
-function esc(t){ return String(t).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
 
 function showWord(d){
   q.value = d.w;
-  stage.innerHTML = `<article class="card">
-    ${pic(d)}
-    <div class="wordrow"><h3 class="word">${esc(d.w)}</h3>
-      <button class="say" id="sayw" aria-label="聽發音">🔊</button></div>
-    <div class="meta">${esc(d.ph)}<span class="pos">${esc(d.pos)}</span></div>
-    <div class="zh">${esc(d.zh)}</div>
-    <div class="ex"><button class="say small" id="saye" aria-label="聽例句">🔊</button>
-      <div><p class="en">${esc(d.ex)}</p><p class="cn">${esc(d.exzh)}</p></div></div>
-  </article>`;
-  $('sayw').onclick = () => speak(d.w);
-  $('saye').onclick = () => speak(d.ex);
+  updateClearBtn();
+  stage.innerHTML = '<article class="card">' +
+    pic(d) +
+    '<div class="wordrow"><h3 class="word">' + esc(d.w) + '</h3>' +
+      '<button class="say" id="sayw" aria-label="聽發音">🔊</button></div>' +
+    '<div class="meta">' + esc(d.ph) + '<span class="pos">' + esc(d.pos) + '</span></div>' +
+    '<div class="zh">' + esc(d.zh) + '</div>' +
+    '<div class="ex"><button class="say small" id="saye" aria-label="聽例句">🔊</button>' +
+      '<div><p class="en">' + esc(d.ex) + '</p><p class="cn">' + esc(d.exzh) + '</p></div></div>' +
+  '</article>';
+  $('sayw').onclick = function(){ speak(d.w); };
+  $('saye').onclick = function(){ speak(d.ex); };
   renderNear(d);
-  try{ stage.scrollIntoView({block:'nearest'}); }catch(e){}
   speak(d.w);
 }
+
 function renderNear(d){
-  const i = DB.indexOf(d);
-  if(i < 0) return;
-  const box = $('chips'); box.innerHTML = '';
-  DB.slice(Math.max(0, i - 10), i + 11).forEach(x => {
-    const b = chip(x);
-    if(x === d) b.classList.add('now');
+  var idx = -1;
+  for(var i = 0; i < DB.length; i++){ if(DB[i] === d){ idx = i; break; } }
+  if(idx < 0) return;
+  var box = $('chips'); box.innerHTML = '';
+  var start = Math.max(0, idx - 10);
+  var end = Math.min(DB.length, idx + 11);
+  for(var j = start; j < end; j++){
+    var item = DB[j];
+    var b = chip(item);
+    if(item === d) b.className += ' now';
     box.appendChild(b);
-  });
-  $('near').hidden = false;
+  }
+  $('near').style.display = 'block';
 }
+
 function showMsg(emoji, text, list){
-  $('near').hidden = true;
-  stage.innerHTML = `<div class="card msg"><span class="emoji">${emoji}</span><p>${text}</p>
-    ${list && list.length ? '<div class="sugs"></div>' : ''}</div>`;
+  $('near').style.display = 'none';
+  var sugHtml = (list && list.length) ? '<div class="sugs"></div>' : '';
+  stage.innerHTML = '<div class="card msg"><span class="emoji">' + emoji + '</span><p>' + text + '</p>' + sugHtml + '</div>';
   if(list && list.length){
-    const box = stage.querySelector('.sugs');
-    list.forEach(d => box.appendChild(chip(d)));
+    var box = stage.querySelector('.sugs');
+    for(var i = 0; i < list.length; i++) box.appendChild(chip(list[i]));
   }
 }
+
 function chip(d){
-  const b = document.createElement('button');
-  b.className = 'chip'; b.textContent = d.w;
-  b.onclick = () => showWord(d);
+  var b = document.createElement('button');
+  b.className = 'chip';
+  b.textContent = d.w;
+  b.onclick = function(){ showWord(d); };
   return b;
 }
+
 function search(){
-  const t = q.value.trim().toLowerCase();
+  var t = q.value.trim().toLowerCase();
   if(!t){ showMsg('🔍','先輸入一個英文單字吧！'); return; }
-  const hit = DB.find(d => d.w === t);
+  var hit = DB.find(function(d){ return d.w === t; });
   if(hit){ showWord(hit); return; }
-  const near = DB.filter(d => d.w.startsWith(t) || d.zh.includes(t)).slice(0,8);
+  
+  var near = [];
+  for(var i = 0; i < DB.length; i++){
+    if(DB[i].w.indexOf(t) === 0 || DB[i].zh.indexOf(t) !== -1){
+      near.push(DB[i]);
+      if(near.length >= 8) break;
+    }
+  }
   if(near.length === 1){ showWord(near[0]); return; }
   if(near.length){ showMsg('🤔','你是想找這些字嗎？', near); return; }
   showMsg('🐣','這個字還沒有收進來，試試下面的單字，或檢查拼字。');
 }
+
+/* 控制清除按鈕的顯示/隱藏 */
+function updateClearBtn(){
+  clearQ.style.display = q.value.length > 0 ? 'block' : 'none';
+}
+
+q.addEventListener('input', updateClearBtn);
+q.addEventListener('keyup', updateClearBtn);
+
+/* 點擊清除按鈕：清空文字、隱藏按鈕、重設畫面並聚焦輸入框 */
+clearQ.onclick = function(){
+  q.value = '';
+  updateClearBtn();
+  showMsg('🐣','你好！輸入英文單字，我來告訴你意思和怎麼唸。');
+  q.focus();
+};
+
 $('go').onclick = search;
-q.addEventListener('keydown', e => { if(e.key === 'Enter') search(); });
-$('imp').onclick = () => $('file').click();
-$('file').addEventListener('change', async e => {
-  const f = e.target.files[0]; e.target.value = '';
+q.addEventListener('keydown', function(e){ if(e.keyCode === 13 || e.key === 'Enter') search(); });
+$('imp').onclick = function(){ $('file').click(); };
+
+$('file').addEventListener('change', function(e){
+  var f = e.target.files[0]; e.target.value = '';
   if(!f) return;
-  try{
-    const text = await f.text();
-    let rows;
-    if(/\.json$/i.test(f.name) || /^\s*[\[{]/.test(text)){
-      let data = JSON.parse(text);
-      if(!Array.isArray(data)) data = data.words || [];
-      rows = data.map(o => Array.isArray(o) ? o : objRow(o));
-    } else {
-      rows = parseCSV(text);
+  var reader = new FileReader();
+  reader.onload = function(evt){
+    try {
+      var text = evt.target.result;
+      var rows = parseCSV(text);
+      var validRows = [];
+      for(var i = 0; i < rows.length; i++){
+        var r = rows[i];
+        if(r[0] && !/^(單字|word)$/i.test(r[0].trim())){
+          validRows.push(r);
+        }
+      }
+      if(!validRows.length){ showMsg('😵','檔案裡沒有找到單字，請確認格式。'); return; }
+      imported = validRows.slice(0, 5000);
+      try { localStorage.setItem(STORE_KEY, JSON.stringify(imported)); } catch(err){}
+      rebuild();
+      showMsg('🎉', '匯入完成，共 ' + imported.length + ' 個單字！');
+    } catch(err) {
+      showMsg('😵','讀取失敗，請確認檔案格式。');
     }
-    rows = rows.map(r => r.map(x => String(x == null ? '' : x).trim())).filter(r => r[0] && !/^(單字|word)$/i.test(r[0])).slice(0, 5000);
-    if(!rows.length){ showMsg('😵','檔案裡沒有找到單字，請確認格式。'); return; }
-    imported = rows;
-    let saved = true;
-    try{ localStorage.setItem(STORE_KEY, JSON.stringify(imported)); }catch(err){ saved = false; }
-    rebuild();
-    showMsg('🎉', `匯入完成，共 ${rows.length} 個單字！` + (saved ? '' : '（這個瀏覽器無法保存，關掉頁面後要重新匯入）'));
-  }catch(err){
-    showMsg('😵','讀取失敗，請確認檔案是 CSV 或 JSON 格式。');
-  }
+  };
+  reader.readAsText(f);
 });
-$('clear').onclick = () => {
+
+$('clear').onclick = function(){
   imported = [];
   try{ localStorage.removeItem(STORE_KEY); }catch(err){}
   rebuild();
   showMsg('🧹','已清除匯入的單字，回到內建單字。');
 };
+
 rebuild();
 showMsg('🐣','你好！輸入英文單字，我來告訴你意思和怎麼唸。');
-if(window.speechSynthesis) window.speechSynthesis.getVoices();
 </script>
 </body>
 </html>
