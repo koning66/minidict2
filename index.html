@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>MiniDict</title>
+<style>
+/* 針對舊版 iOS 9 退回固定色值，避免 CSS 變數失效導致白屏 */
+*{box-sizing:border-box}
+html{height:100%}
+body{margin:0;min-height:100%;background:#F8F4EC;color:#0F6F6B;
+  font-family:"Hiragino Maru Gothic ProN","PingFang TC","Microsoft JhengHei","Noto Sans TC",Helvetica,Arial,sans-serif}
+main{max-width:640px;margin:0 auto;padding:20px 16px 40px}
+.logo{display:block;margin:4px auto 0;width:112px;height:auto}
+h1{margin:0 auto 20px;text-align:center;font-size:2.8rem;font-weight:bold;line-height:1.1;color:#0F6F6B}
+.search{display:flex;gap:8px}
+.search input{flex:1;min-width:0;font:inherit;font-size:1.25rem;padding:12px 20px;border:4px solid #FFFFFF;border-radius:999px;background:#FFFFFF;color:#0F6F6B;-webkit-appearance:none}
+button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:none}
+.go{background:#3F42C8;color:#FFFFFF;border-radius:999px;padding:10px 22px;font-size:1.1rem;font-weight:bold}
+.tools{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:center;margin:14px auto 0;background:#FFFFFF;border-radius:999px;padding:6px 12px;width:fit-content;max-width:100%}
+.tbtn{border-radius:999px;background:#DADBF6;padding:5px 14px;font-size:.95rem;font-weight:bold}
+#status{color:#3F7F7B;font-size:.9rem}
+.stage{margin-top:22px;min-height:260px}
+.card{background:#FFFFFF;border-radius:32px;padding:22px 20px}
+.emoji{font-size:4.5rem;line-height:1;text-align:center;display:block}
+.pic{display:block;margin:0 auto;width:120px;height:120px;object-fit:contain}
+.wordrow{display:flex;align-items:center;justify-content:center;gap:12px;margin-top:10px;flex-wrap:wrap}
+.word{font-size:2.6rem;font-weight:bold;margin:0;word-break:break-word;text-align:center}
+.say{background:#EE7650;border-radius:50%;width:52px;height:52px;font-size:1.5rem;flex:none}
+.say.small{width:42px;height:42px;font-size:1.15rem}
+.meta{font-family:Helvetica,Arial,sans-serif;text-align:center;margin-top:6px;color:#3F7F7B;font-size:1.15rem}
+.pos{display:inline-block;background:#BFE2D3;border-radius:999px;padding:1px 12px;margin-left:8px;font-size:1rem;color:#0F6F6B}
+.zh{text-align:center;font-size:2rem;font-weight:bold;margin:14px 0 4px}
+.ex{margin-top:16px;background:#F0D3CB;border-radius:20px;padding:12px 14px;display:flex;gap:10px;align-items:center}
+.ex p{margin:0}
+.ex .en{font-size:1.2rem;font-weight:bold}
+.ex .cn{opacity:.8;margin-top:2px}
+.msg{text-align:center;padding:26px 12px}
+.sugs{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-top:14px}
+.near{margin-top:24px;background:#FFFFFF;border-radius:28px;padding:14px 14px 18px}
+.near h2{margin:0 0 10px;font-size:1.05rem;text-align:center}
+.chips{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
+.chip{border-radius:999px;padding:7px 14px;font-size:1.05rem;font-weight:bold;background:#DADBF6}
+.chip:nth-child(3n+1){background:#F0D3CB}.chip:nth-child(3n+2){background:#BFE2D3}.chip:nth-child(3n){background:#DADBF6}
+.chip.now{background:#3F42C8;color:#FFFFFF}
+</style>
+</head>
+<body>
+<main>
+  <svg class="logo" viewBox="0 0 120 94" aria-hidden="true"><path d="M18 64A40 40 0 0 1 92 42" fill="none" stroke="#3F42C8" stroke-width="9" stroke-linecap="round"/><rect x="38" y="34" width="32" height="34" rx="14" fill="#E3B3A8" transform="rotate(-18 54 51)"/><circle cx="90" cy="64" r="8" fill="#EE7650"/><rect x="30" y="77" width="62" height="9" rx="4.5" fill="#BFE2D3"/></svg>
+  <h1>MiniDict</h1>
+  <div class="search">
+    <input id="q" type="search" placeholder="輸入英文單字，例如 apple" autocomplete="off" autocapitalize="none" spellcheck="false">
+    <button class="go" id="go">查詢</button>
+  </div>
+  <div class="tools">
+    <button class="tbtn" id="imp" type="button">📂 匯入單字</button>
+    <button class="tbtn" id="clear" type="button" style="display:none">🧹 清除匯入</button>
+    <input id="file" type="file" accept=".csv,.json,.txt" style="display:none">
+    <span id="status"></span>
+  </div>
+  <section class="stage" id="stage"></section>
+  <section class="near" id="near" style="display:none">
+    <h2>附近的單字</h2>
+    <div class="chips" id="chips"></div>
+  </section>
+</main>
+
+<script>
+/* 相容性 Polyfill：補足舊版 Safari 缺乏的方法 */
+if (!Array.prototype.find) {
+  Array.prototype.find = function(predicate) {
+    for (var i = 0; i < this.length; i++) {
+      if (predicate(this[i], i, this)) return this[i];
+    }
+    return undefined;
+  };
+}
+
+var WORDS = [
+["grape", "/ɡrep/", "n.", "葡萄", "I like grapes.", "我喜歡葡萄。", "🍇"],
+["because", "/bɪˈkɔz/", "conj.", "因為", "I am happy because it is Friday.", "因為今天是星期五，所以我很快樂。", ""],
+["walk", "/wɔk/", "v.", "走路", "We walk to school.", "我們走路去學校。", ""],
+["hello", "/həˈlo/", "interj.", "哈囉，你好", "Hello, Amy!", "哈囉，艾咪！", "👋"],
+["key", "/kiː/", "n.", "鑰匙", "I have a key in my pocket.", "我口袋裡有一把鑰匙。", "🔑"],
+["candy bar", "/ˈkæn.di bɑːr/", "n.", "糖果棒，巧克力棒", "Do you want a candy bar?", "你想要一根糖果棒嗎？", "🍫"],
+["comic book", "/ˈkɑː.mɪk bʊk/", "n.", "漫畫書", "He is reading an interesting comic book.", "他正在讀一本有趣的漫畫書。", "📚"],
+["comb", "/koʊm/", "n.", "扁梳", "She uses a comb to fix her hair.", "她用扁梳整理頭髮。", "🪮"],
+["coin", "/kɔɪn/", "n.", "硬幣", "There is a shiny coin on the table.", "桌上有一枚閃亮的硬幣。", "🪙"],
+["brush", "/brʌʃ/", "n.", "毛刷，髮刷", "I need a hair brush.", "我需要一把髮刷。", "🖌️"],
+["tissue", "/ˈtɪʃ.uː/", "n.", "面紙，紙巾", "Can I have a tissue, please?", "可以給我一張面紙嗎？", "🧻"],
+["watch", "/wɑːtʃ/", "n.", "手錶", "Look at my new watch.", "看我的新手錶。", "⌚"],
+["camera", "/ˈkæm.rə/", "n.", "相機", "This is a small digital camera.", "這是一台小型數位相機。", "📷"],
+["umbrella", "/ʌmˈbrel.ə/", "n.", "雨傘", "Take an umbrella on a rainy day.", "下雨天要帶傘。", "☂️"],
+["wallet", "/ˈwɑː.lɪt/", "n.", "皮夾，錢包", "My wallet is in the backpack.", "我的皮夾在背包裡。", "👛"],
+["music player", "/ˈmjuː.zɪk ˈpleɪ.ɚ/", "n.", "音樂播放器", "She listens to songs on her music player.", "她用音樂播放器聽歌。", "🎵"],
+["calculator", "/ˈkæl.kjə.leɪ.t̬ɚ/", "n.", "計算機", "We use a calculator in math class.", "我們在數學課上使用計算機。", "🔢"],
+["train pass", "/treɪn pæs/", "n.", "火車月票，車票", "Don't forget your train pass.", "別忘了你的火車月票。", "🎫"],
+["lunch box", "/ˈlʌntʃ bɑːks/", "n.", "便當盒，餐盒", "My lunch box has rice and fruit.", "我的便當盒裡有飯和水果。", "🍱"],
+["father", "/ˈfɑː.ðɚ/", "n.", "父親，爸爸", "My father is very kind.", "我的父親很親切。", "👨"],
+["mother", "/ˈmʌð.ɚ/", "n.", "母親，媽媽", "She helps her mother cook.", "她幫媽媽煮飯。", "👩"],
+["brother", "/ˈbrʌð.ɚ/", "n.", "兄弟，哥哥，弟弟", "I have an older brother.", "我有一個哥哥。", "👦"],
+["sister", "/ˈsɪs.tɚ/", "n.", "姊妹，姊姊，妹妹", "My sister likes music.", "我妹妹喜歡音樂。", "👧"],
+["baby", "/ˈbeɪ.bi/", "n.", "嬰兒", "The baby is sleeping.", "小嬰兒正在睡覺。", "👶"],
+["boy", "/bɔɪ/", "n.", "男孩", "The boy is playing soccer.", "那個男孩在踢足球。", "👦"],
+["girl", "/ɡɝːl/", "n.", "女孩", "The girl has long hair.", "那個女孩有一頭長髮。", "👧"],
+["man", "/mæn/", "n.", "男人", "He is a tall man.", "他是一位高大的男人。", "👨"],
+["woman", "/ˈwʊm.ən/", "n.", "女人", "The woman is reading a book.", "那位女士正在看書。", "👩"],
+["teacher", "/ˈtiː.tʃɚ/", "n.", "老師", "Our teacher is very nice.", "我們的老師很好。", "🧑‍🏫"],
+["student", "/ˈstuː.dənt/", "n.", "學生", "She is a good student.", "她是一個好學生。", "🧑‍🎓"],
+["friend", "/frend/", "n.", "朋友", "Tom is my best friend.", "湯姆是我最好的朋友。", "🧑‍🤝‍🧑"],
+["doctor", "/ˈdɑːk.tɚ/", "n.", "醫生", "The doctor helps sick people.", "醫生幫助生病的人。", "👨‍⚕️"],
+["nurse", "/nɝːs/", "n.", "護理師", "The nurse is kind and gentle.", "這位護理師溫柔又親切。", "👩‍⚕️"],
+["cook", "/kʊk/", "n.", "廚師", "My uncle is a great cook.", "我叔叔是一位很棒的廚師。", "🧑‍🍳"],
+["police officer", "/pəˈliːs ˌɑː.fɪ.sɚ/", "n.", "警察", "The police officer stopped the car.", "警察攔下了那輛車。", "👮"],
+["head", "/hed/", "n.", "頭", "Touch your head.", "摸摸你的頭。", "👤"],
+["eye", "/aɪ/", "n.", "眼睛", "She has big brown eyes.", "她有一雙大大的棕色眼睛。", "👁️"],
+["nose", "/noʊz/", "n.", "鼻子", "He pointed to his nose.", "他指著他的鼻子。", "👃"],
+["mouth", "/maʊθ/", "n.", "嘴巴", "Open your mouth, please.", "請張開嘴巴。", "👄"],
+["ear", "/ɪr/", "n.", "耳朵", "Rabbits have long ears.", "兔子有長長的耳朵。", "👂"],
+["hair", "/her/", "n.", "頭髮", "She brushes her hair every day.", "她每天梳頭髮。", "💇"],
+["face", "/feɪs/", "n.", "臉", "Wash your face in the morning.", "早上洗洗你的臉。", "🙂"],
+["hand", "/hænd/", "n.", "手", "Clap your hands.", "拍拍你的雙手。", "✋"],
+["arm", "/ɑːrm/", "n.", "手臂", "Raise your right arm.", "舉起你的右手。", "💪"],
+["leg", "/leɡ/", "n.", "腿", "Flamingos stand on one leg.", "紅鶴用一隻腳站立。", "🦵"],
+["foot", "/fʊt/", "n.", "腳", "My left foot hurts.", "我的左腳會痛。", "🦶"],
+["finger", "/ˈfɪŋ.ɡɚ/", "n.", "手指", "She has ten fingers.", "她有十隻手指頭。", "👆"],
+["toe", "/toʊ/", "n.", "腳趾", "Can you touch your toes?", "你能碰得到腳趾嗎？", "🦶"],
+["tooth", "/tuːθ/", "n.", "牙齒", "Brush your teeth every day.", "每天都要刷牙。", "🦷"],
+["body", "/ˈbɑː.di/", "n.", "身體", "Exercise keeps your body healthy.", "運動能讓身體保持健康。", "🧍"],
+["red", "/red/", "adj./n.", "紅色的；紅色", "Apples are red.", "蘋果是紅色的。", "🔴"],
+["blue", "/bluː/", "adj./n.", "藍色的；藍色", "The sky is blue today.", "今天的天空很藍。", "🔵"],
+["yellow", "/ˈjel.oʊ/", "adj./n.", "黃色的；黃色", "Bananas are yellow.", "香蕉是黃色的。", "🟡"],
+["green", "/ɡriːn/", "adj./n.", "綠色的；綠色", "The grass is green.", "草地是綠色的。", "🟢"],
+["orange", "/ˈɔːr.ɪndʒ/", "adj./n.", "橘色的；柳橙", "I like sweet oranges.", "我喜歡甜甜的柳橙。", "🍊"],
+["pink", "/pɪŋk/", "adj./n.", "粉紅色的；粉紅色", "She wears a pink dress.", "她穿著一件粉紅色洋裝。", "🌸"],
+["purple", "/ˈpɝː.pəl/", "adj./n.", "紫色的；紫色", "Grapes are purple.", "葡萄是紫色的。", "🟣"],
+["black", "/blæk/", "adj./n.", "黑色的；黑色", "The cat is black.", "那隻貓是黑色的。", "⬛"],
+["white", "/waɪt/", "adj./n.", "白色的；白色", "Snow is cold and white.", "雪很冷而且是白色的。", "⬜"],
+["brown", "/braʊn/", "adj./n.", "棕色的；棕色", "Bears have brown fur.", "熊有棕色的毛皮。", "🟫"],
+["gray", "/ɡreɪ/", "adj./n.", "灰色的；灰色", "Elephants are gray.", "大象是灰色的。", "🩶"],
+["cat", "/kæt/", "n.", "貓", "The cat is sleeping on the sofa.", "貓咪在沙發上睡覺。", "🐱"],
+["dog", "/dɑːɡ/", "n.", "狗", "The dog barks happily.", "小狗開心地吠叫。", "🐶"],
+["bird", "/bɝːd/", "n.", "鳥", "A small bird sings in the tree.", "一隻小鳥在樹上唱歌。", "🐦"],
+["fish", "/fɪʃ/", "n.", "魚", "Goldfish swim in the pond.", "金魚在池塘裡游泳。", "🐟"],
+["rabbit", "/ˈræb.ɪt/", "n.", "兔子", "The rabbit hops on the grass.", "兔子在草地上跳躍。", "🐰"],
+["duck", "/dʌk/", "n.", "鴨子", "The yellow duck swims in water.", "黃色小鴨在水裡游泳。", "🦆"],
+["pig", "/pɪɡ/", "n.", "豬", "The pig likes mud.", "小豬喜歡泥巴。", "🐷"],
+["cow", "/kaʊ/", "n.", "乳牛", "Cows give us fresh milk.", "乳牛給我們新鮮的牛奶。", "🐮"],
+["horse", "/hɔːrs/", "n.", "馬", "He can ride a horse.", "他會騎馬。", "🐴"],
+["sheep", "/ʃiːp/", "n.", "綿羊", "The sheep has warm white wool.", "綿羊有溫暖白皙的羊毛。", "🐑"],
+["bear", "/ber/", "n.", "熊", "A big brown bear catches fish.", "一隻大棕熊在抓魚。", "🐻"],
+["lion", "/ˈlaɪ.ən/", "n.", "獅子", "The lion is the king of beasts.", "獅子是萬獸之王。", "🦁"],
+["tiger", "/ˈtaɪ.ɡɚ/", "n.", "老虎", "The tiger has orange stripes.", "老虎有橘色的條紋。", "🐯"],
+["monkey", "/ˈmʌŋ.ki/", "n.", "猴子", "Monkeys climb trees quickly.", "猴子爬樹爬得很快。", "🐵"],
+["elephant", "/ˈel.ə.fənt/", "n.", "大象", "An elephant has a long nose.", "大象有長長的鼻子。", "🐘"],
+["frog", "/frɑːɡ/", "n.", "青蛙", "The green frog jumps high.", "綠色的青蛙跳得很高。", "🐸"],
+["mouse", "/maʊs/", "n.", "老鼠", "A tiny mouse eats cheese.", "一隻小老鼠在吃起司。", "🐭"],
+["chicken", "/ˈtʃɪk.ɪn/", "n.", "雞；雞肉", "The chicken lays eggs.", "母雞會下蛋。", "🐔"],
+["panda", "/ˈpæn.də/", "n.", "熊貓", "Pandas love bamboo.", "大熊貓喜歡吃竹子。", "🐼"],
+["snake", "/sneɪk/", "n.", "蛇", "The snake moves quietly.", "蛇悄悄地移動。", "🐍"],
+["turtle", "/ˈtɝː.t̬əl/", "n.", "烏龜", "The turtle walks slowly.", "烏龜走得很慢。", "🐢"],
+["apple", "/ˈæp.əl/", "n.", "蘋果", "An apple a day keeps the doctor away.", "一天一蘋果，醫生遠離我。", "🍎"],
+["banana", "/bəˈnæn.ə/", "n.", "香蕉", "Monkeys love bananas.", "猴子喜愛香蕉。", "🍌"],
+["cake", "/keɪk/", "n.", "蛋糕", "We have a birthday cake.", "我們有一個生日蛋糕。", "🎂"],
+["bread", "/bred/", "n.", "麵包", "I eat bread for breakfast.", "我早餐吃麵包。", "🍞"],
+["egg", "/eɡ/", "n.", "蛋", "She cooks an egg every morning.", "她每天早上煎一顆蛋。", "🥚"],
+["milk", "/mɪlk/", "n.", "牛奶", "Drink a glass of warm milk.", "喝一杯溫牛奶吧。", "🥛"],
+["water", "/ˈwɑː.t̬ɚ/", "n.", "水", "Please drink enough water.", "請多喝足夠的水。", "💧"],
+["juice", "/dʒuːs/", "n.", "果汁", "I want a cup of orange juice.", "我想要一杯柳橙汁。", "🧃"],
+["tea", "/tiː/", "n.", "茶", "Grandpa likes hot tea.", "爺爺喜歡喝熱茶。", "🍵"],
+["rice", "/raɪs/", "n.", "米飯", "We eat rice every day.", "我們每天吃米飯。", "🍚"],
+["noodle", "/ˈnuː.dəl/", "n.", "麵條", "Hot noodles are delicious.", "熱騰騰的麵條很好吃。", "🍜"],
+["pizza", "/ˈpiːt.sə/", "n.", "披薩", "Let's share a cheese pizza.", "我們來分享起司披薩吧。", "🍕"],
+["hot dog", "/ˈhɑːt ˌdɑːɡ/", "n.", "熱狗", "He buys a hot dog at the park.", "他在公園買了一根熱狗。", "🌭"],
+["ice cream", "/ˌaɪs ˈkriːm/", "n.", "冰淇淋", "Vanilla ice cream is sweet.", "香草冰淇淋很甜。", "🍨"],
+["cookie", "/ˈkʊk.i/", "n.", "餅乾", "Mom bakes chocolate cookies.", "媽媽烤了巧克力餅乾。", "🍪"],
+["cheese", "/tʃiːz/", "n.", "起司", "Mice love yellow cheese.", "老鼠喜歡黃色起司。", "🧀"],
+["sandwich", "/ˈsæn.wɪtʃ/", "n.", "三明治", "I pack a sandwich for lunch.", "我準備了三明治當午餐。", "🥪"],
+["soup", "/suːp/", "n.", "湯", "Corn soup smells good.", "玉米濃湯聞起來好香。", "🥣"],
+["fruit", "/fruːt/", "n.", "水果", "Eating fruit is healthy.", "吃水果很健康。", "🍎"],
+["meat", "/miːt/", "n.", "肉類", "He eats meat and vegetables.", "他吃肉類與蔬菜。", "🥩"],
+["pen", "/pen/", "n.", "原子筆，鋼筆", "Write your name with a pen.", "用原子筆寫下你的名字。", "🖊️"],
+["pencil", "/ˈpen.səl/", "n.", "鉛筆", "Sharpen your pencil.", "削削你的鉛筆。", "✏️"],
+["eraser", "/ɪˈreɪ.sɚ/", "n.", "橡皮擦", "Borrow me your eraser, please.", "請借我你的橡皮擦。", "🧼"],
+["ruler", "/ˈruː.lɚ/", "n.", "直尺", "Use a ruler to draw a line.", "用尺畫一條直線。", "📏"],
+["book", "/bʊk/", "n.", "書本", "Open your English book.", "翻開你的英文書。", "📖"],
+["bag", "/bæɡ/", "n.", "書包，袋子", "Put your books in the bag.", "把書放進書包裡。", "🎒"],
+["desk", "/desk/", "n.", "書桌", "Keep your desk tidy.", "保持你的書桌整潔。", "🪑"],
+["chair", "/tʃer/", "n.", "椅子", "Please sit on the chair.", "請坐在椅子上。", "🪑"],
+["notebook", "/ˈnoʊt.bʊk/", "n.", "筆記本", "Write notes in your notebook.", "在筆記本上記筆記。", "📓"],
+["crayon", "/ˈkreɪ.ɑːn/", "n.", "蠟筆", "Color the picture with crayons.", "用蠟筆為圖畫著色。", "🖍️"],
+["marker", "/ˈmɑːr.kɚ/", "n.", "彩色筆，馬克筆", "Draw circles with a black marker.", "用黑色彩色筆畫圈圈。", "🖊️"],
+["scissors", "/ˈsɪz.ɚz/", "n.", "剪刀", "Be careful with scissors.", "用剪刀時要小心。", "✂️"],
+["glue", "/ɡluː/", "n.", "膠水", "Use glue to stick the paper.", "用膠水黏貼紙張。", "🧴"],
+["paper", "/ˈpeɪ.pɚ/", "n.", "紙張", "Fold the paper in half.", "把這張紙對摺。", "📄"],
+["school", "/skuːl/", "n.", "學校", "I go to school by bus.", "我搭公車去上學。", "🏫"],
+["classroom", "/ˈklæs.ruːm/", "n.", "教室", "Our classroom is bright and clean.", "我們的教室既明亮又乾淨。", "🏫"],
+["playground", "/ˈpleɪ.ɡraʊnd/", "n.", "操場，遊樂場", "Kids run on the playground.", "小朋友在操場上奔跑。", "🛝"],
+["homework", "/ˈhoʊm.wɝːk/", "n.", "功課，家庭作業", "Finish your homework before dinner.", "晚餐前把功課寫完。", "📝"],
+["shirt", "/ʃɝːt/", "n.", "襯衫", "He wears a white shirt.", "他穿著一件白襯衫。", "👔"],
+["T-shirt", "/ˈtiː.ʃɝːt/", "n.", "T恤", "I like this blue T-shirt.", "我喜歡這件藍色T恤。", "👕"],
+["dress", "/dres/", "n.", "洋裝", "She wears a pretty dress.", "她穿著漂亮的洋裝。", "👗"],
+["skirt", "/skɝːt/", "n.", "裙子", "Her skirt is red.", "她的裙子是紅色的。", "👗"],
+["pants", "/pænts/", "n.", "長褲", "These pants are too long.", "這條褲子太長了。", "👖"],
+["shorts", "/ʃɔːrts/", "n.", "短褲", "Boys wear shorts in summer.", "男孩夏天穿短褲。", "🩳"],
+["shoes", "/ʃuːz/", "n.", "鞋子", "Put on your sports shoes.", "穿上你的運動鞋。", "👟"],
+["socks", "/sɑːks/", "n.", "襪子", "My warm socks are soft.", "我保暖的襪子很柔軟。", "🧦"],
+["hat", "/hæt/", "n.", "帽子（有帽簷）", "Wear a sun hat outdoors.", "在戶外戴頂遮陽帽吧。", "👒"],
+["cap", "/kæp/", "n.", "棒球帽，鴨舌帽", "He puts on his baseball cap.", "他戴上他的棒球帽。", "🧢"],
+["coat", "/koʊt/", "n.", "大衣，外套", "Put on your heavy coat.", "穿上你的厚大衣。", "🧥"],
+["jacket", "/ˈdʒæk.ɪt/", "n.", "夾克", "Zip up your jacket.", "拉上你的夾克拉鍊。", "🧥"],
+["house", "/haʊs/", "n.", "房子", "They live in a big house.", "他們住在一棟大房子裡。", "🏠"],
+["home", "/hoʊm/", "n.", "家", "Welcome to my sweet home.", "歡迎來到我溫馨的家。", "🏡"],
+["door", "/dɔːr/", "n.", "門", "Please close the door.", "請關上門。", "🚪"],
+["window", "/ˈwɪn.doʊ/", "n.", "窗戶", "Look out the window.", "看看窗外。", "🪟"],
+["bed", "/bed/", "n.", "床", "Go to bed early tonight.", "今晚早點上床睡覺。", "🛏️"],
+["table", "/ˈteɪ.bəl/", "n.", "桌子", "Put plates on the dinner table.", "把餐盤擺在餐桌上。", "🪵"],
+["box", "/bɑːks/", "n.", "盒子，箱子", "What is inside the gift box?", "禮物盒裡面裝了什麼？", "📦"],
+["clock", "/klɑːk/", "n.", "時鐘", "The wall clock says three o'clock.", "牆上的時鐘指著三點鐘。", "🕒"],
+["telephone", "/ˈtel.ə.foʊn/", "n.", "電話", "The telephone is ringing.", "電話響了。", "☎️"],
+["sofa", "/ˈsoʊ.fə/", "n.", "沙發", "Dad is resting on the sofa.", "爸爸在沙發上休息。", "🛋️"],
+["kitchen", "/ˈkɪtʃ.ən/", "n.", "廚房", "Mom is cooking in the kitchen.", "媽媽在廚房煮飯。", "🍳"],
+["bedroom", "/ˈbed.ruːm/", "n.", "臥室", "My bedroom is cozy.", "我的臥室很舒適。", "🛏️"],
+["bathroom", "/ˈbæθ.ruːm/", "n.", "浴室，廁所", "Wash hands in the bathroom.", "去浴室洗洗手。", "🛁"],
+["living room", "/ˈlɪv.ɪŋ ˌruːm/", "n.", "客廳", "We watch TV in the living room.", "我們在客廳看電視。", "🛋️"],
+["room", "/ruːm/", "n.", "房間", "Clean your room today.", "今天把房間整理乾淨。", "🚪"],
+["sun", "/sʌn/", "n.", "太陽", "The bright sun warms the earth.", "明亮的太陽溫暖大地。", "☀️"],
+["moon", "/muːn/", "n.", "月亮", "The moon shines at night.", "月亮在夜晚發光。", "🌙"],
+["star", "/stɑːr/", "n.", "星星", "Look at the stars in the dark sky.", "看夜空中閃爍的星星。", "⭐"],
+["sky", "/skaɪ/", "n.", "天空", "Birds fly across the blue sky.", "鳥兒飛過藍天。", "🌤️"],
+["cloud", "/klaʊd/", "n.", "雲朵", "White clouds float peacefully.", "白雲平靜地漂浮著。", "☁️"],
+["rain", "/reɪn/", "n./v.", "雨；下雨", "It will rain this afternoon.", "今天下午會下雨。", "🌧️"],
+["snow", "/snoʊ/", "n./v.", "雪；下雪", "Children make a snowman in the snow.", "孩子們在雪地裡堆雪人。", "❄️"],
+["wind", "/wɪnd/", "n.", "風", "The cool autumn wind blows softly.", "涼爽的秋風輕輕吹拂。", "💨"],
+["tree", "/triː/", "n.", "樹木", "Birds build nests in tall trees.", "鳥兒在高高的樹上築巢。", "🌳"],
+["flower", "/ˈflaʊ.ɚ/", "n.", "花朵", "Spring brings colorful flowers.", "春天帶來繽紛的花朵。", "🌸"],
+["grass", "/ɡræs/", "n.", "草地", "Keep off the green grass.", "請勿踐踏綠色草皮。", "🌱"],
+["park", "/pɑːrk/", "n.", "公園", "We play tag in the park.", "我們在公園裡玩抓人遊戲。", "🏞️"],
+["sea", "/siː/", "n.", "大海", "Ships sail on the deep sea.", "輪船在深邃的大海上航行。", "🌊"],
+["beach", "/biːtʃ/", "n.", "海灘", "Let's collect seashells on the beach.", "我們去海灘撿貝殼吧。", "🏖️"],
+["river", "/ˈrɪv.ɚ/", "n.", "河流", "The river flows to the ocean.", "這條河川流向海洋。", "🏞️"],
+["hill", "/hɪl/", "n.", "山丘", "They climbed up the green hill.", "他們爬上了綠意盎然的山丘。", "⛰️"],
+["one", "/wʌn/", "num.", "一", "I have one apple.", "我有一顆蘋果。", "1️⃣"],
+["two", "/tuː/", "num.", "二", "She has two cats.", "她有兩隻貓。", "2️⃣"],
+["three", "/θriː/", "num.", "三", "There are three birds in the tree.", "樹上有三隻鳥。", "3️⃣"],
+["four", "/fɔːr/", "num.", "四", "A dog has four legs.", "狗有四條腿。", "4️⃣"],
+["five", "/faɪv/", "num.", "五", "Give me a high five!", "跟我擊掌一下！", "5️⃣"],
+["six", "/sɪks/", "num.", "六", "Six eggs are in the basket.", "籃子裡有六顆蛋。", "6️⃣"],
+["seven",
