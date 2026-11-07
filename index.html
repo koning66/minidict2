@@ -27,12 +27,45 @@ body{margin:0;min-height:100%;background:#F8F4EC;color:#0F6F6B;
   font-family:"Baloo 2","Hiragino Maru Gothic ProN","PingFang TC","Microsoft JhengHei","Noto Sans TC",Helvetica,Arial,sans-serif}
 main{max-width:640px;margin:0 auto;padding:20px 16px 40px}
 
-/* 圖案維持最新版 108px 與置中排版 */
+/* 圖案縮小 20%（108px），維持等比例與置中 */
 .logo{display:block;margin:12px auto 6px;width:108px;height:auto}
 h1{margin:0 auto 20px;text-align:center;font-size:2.8rem;font-weight:800;line-height:1.1;color:#0F6F6B}
 
-.search{display:flex;gap:8px}
-.search input{flex:1;min-width:0;font:inherit;font-size:1.25rem;padding:12px 20px;border:4px solid #FFFFFF;border-radius:999px;background:#FFFFFF;color:#0F6F6B}
+/* 搜尋框與唯一清除按鈕排版 */
+.search{display:flex;gap:8px;align-items:center}
+.input-box{position:relative;flex:1;display:flex;align-items:center}
+.search input{width:100%;min-width:0;font:inherit;font-size:1.25rem;padding:12px 46px 12px 20px;border:4px solid #FFFFFF;border-radius:999px;background:#FFFFFF;color:#0F6F6B;outline:none;-webkit-appearance:none}
+
+/* 徹底隱藏瀏覽器原生取消鍵，保證不會出現兩個 ✖ */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration{
+  -webkit-appearance:none;
+  display:none;
+}
+
+/* 專屬自訂清除按鈕 */
+.clear-btn{
+  position:absolute;
+  right:12px;
+  top:50%;
+  margin-top:-14px;
+  width:28px;
+  height:28px;
+  border-radius:50%;
+  background:#DADBF6;
+  color:#3F42C8;
+  font-size:14px;
+  font-weight:bold;
+  line-height:28px;
+  text-align:center;
+  padding:0;
+  cursor:pointer;
+  display:none;
+}
+.clear-btn:active{
+  transform:scale(0.9);
+}
+
 button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:none}
 .go{background:#3F42C8;color:#FFFFFF;border-radius:999px;padding:10px 22px;font-size:1.1rem;font-weight:800;flex:none}
 .tools{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:center;margin:14px auto 0;background:#FFFFFF;border-radius:999px;padding:6px 12px;width:fit-content;max-width:100%}
@@ -91,7 +124,7 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
   text-decoration:none;
   font-size:1.05rem;
   font-weight:800;
-  padding:10px 24px;
+  padding:10px 26px;
   border-radius:999px;
   transition:opacity .2s;
   box-shadow:0 2px 6px rgba(0,0,0,0.08);
@@ -103,7 +136,7 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
 </head>
 <body>
 <main>
-  <!-- 最新自訂向量圖示（維持原比例） -->
+  <!-- 自訂向量圖示（已縮小 20%：108px） -->
   <svg class="logo" viewBox="0 0 9785.9 9840.58" aria-hidden="true">
     <g>
       <path fill="#B9E1D0" d="M936.05 6065.68c-420.58,245.34 -794.42,23.38 -922.94,759.38 -128.51,736.01 724.33,560.77 969.66,560.77 245.34,0 619.18,-93.46 619.18,-93.46 0,0 917.8,2840.91 1705.67,2523.46 787.88,-317.45 642.55,-1051.45 572.45,-1191.64 -70.09,-140.19 -654.22,-1957.86 -654.22,-1957.86l560.77 -308.58c482.96,-265.77 248.45,-927.82 -210.28,-934.62 -647.84,-9.63 -1320.15,103.72 -1320.15,-782.74 0,-175.24 -93.46,-712.65 303.75,-981.35 397.21,-268.7 665.91,-198.61 759.37,-852.83 91.92,-643.49 -422.74,-1104.8 -1102.22,-953.79 -487.19,108.28 -1238.37,166.13 -1427.27,1533.56 -112.72,816.01 477.53,2486.44 146.22,2679.7z"/>
@@ -114,8 +147,10 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
   <h1>MiniDict</h1>
   
   <div class="search">
-    <!-- 原生搜尋框自帶清除按鈕，不再疊加次級按鈕 -->
-    <input id="q" type="search" placeholder="輸入英文單字，例如 apple" autocomplete="off" autocapitalize="none" spellcheck="false">
+    <div class="input-box">
+      <input id="q" type="search" placeholder="輸入英文單字，例如 apple" autocomplete="off" autocapitalize="none" spellcheck="false">
+      <button class="clear-btn" id="bclear" type="button" aria-label="清除輸入">✕</button>
+    </div>
     <button class="go" id="go">查詢</button>
   </div>
 
@@ -151,10 +186,22 @@ if (typeof WORDS === 'undefined') {
 }
 
 function $(id){ return document.getElementById(id); }
-var stage = $('stage'), q = $('q');
+var stage = $('stage'), q = $('q'), bclear = $('bclear');
 var IMG_BASE = 'img/';
 var POS_ICON = {'n.':'📝','v.':'🏃','adj.':'✨','adv.':'🎈','prep.':'📍','pron.':'👤','conj.':'🔗','num.':'🔢'};
 var STORE_KEY = 'kidsdict-imported-v1';
+
+/* 克服 iPad 桌面 App (WebClip) 無法另開分頁的轉址函式 */
+function openExt(e, url){
+  var isStandalone = (window.navigator && window.navigator.standalone) || 
+                     (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches);
+  if (isStandalone) {
+    if (e && e.preventDefault) e.preventDefault();
+    window.location.href = url;
+    return false;
+  }
+  return true;
+}
 
 function toEntry(r){
   var s = function(i){ return String(r[i] == null ? '' : r[i]).trim(); };
@@ -184,6 +231,7 @@ function rebuild(){
   $('near').style.display = 'none';
   $('clear').style.display = imported.length ? 'inline-block' : 'none';
   $('status').textContent = imported.length ? ('共 ' + DB.length + ' 個單字（匯入 ' + imported.length + ' 個）') : ('共 ' + DB.length + ' 個單字');
+  updateClearBtn();
 }
 
 function parseCSV(t){
@@ -235,9 +283,11 @@ function speak(text){
   } catch(e) {}
 }
 
-/* 查到單字時：例句卡片下方獨立帶有 Yahoo 字典捷徑按鈕 */
+/* 查到單字時呈現：單字卡片 + 下方獨立的 Yahoo 延伸查詢捷徑 */
 function showWord(d){
   q.value = d.w;
+  updateClearBtn();
+  
   var encodedWord = encodeURIComponent(d.w);
   var yahooUrl = 'https://tw.dictionary.search.yahoo.com/search?p=' + encodedWord;
 
@@ -252,7 +302,7 @@ function showWord(d){
         '<div><p class="en">' + esc(d.ex) + '</p><p class="cn">' + esc(d.exzh) + '</p></div></div>' +
     '</article>' +
     '<div class="ext-dict-card">' +
-      '<a class="ext-dict-btn" href="' + yahooUrl + '" target="_blank" rel="noopener noreferrer">' +
+      '<a class="ext-dict-btn" href="' + yahooUrl + '" target="_blank" rel="noopener noreferrer" onclick="return openExt(event, \'' + yahooUrl + '\')">' +
         '🔍 Yahoo 字典' +
       '</a>' +
     '</div>';
@@ -289,7 +339,7 @@ function showMsg(emoji, text, list){
   }
 }
 
-/* 查無收錄時：跳出放大鏡詢問卡片，提供 Yahoo 字典捷徑按鈕 */
+/* 查無收錄時呈現：跳出放大鏡卡片，提供 Yahoo 字典捷徑 */
 function showNotFound(word){
   $('near').style.display = 'none';
   var encodedWord = encodeURIComponent(word);
@@ -301,7 +351,7 @@ function showNotFound(word){
       '<h3 style="margin:10px 0 6px; font-size:1.4rem; color:#0F6F6B;">這個字尚未收錄</h3>' +
       '<p style="margin:0 0 14px; opacity:0.85; font-size:1.1rem;">是否連接網路字典查詢「<b>' + esc(word) + '</b>」？</p>' +
       '<div class="ext-dict-box-vertical">' +
-        '<a class="ext-dict-btn" href="' + yahooUrl + '" target="_blank" rel="noopener noreferrer">' +
+        '<a class="ext-dict-btn" href="' + yahooUrl + '" target="_blank" rel="noopener noreferrer" onclick="return openExt(event, \'' + yahooUrl + '\')">' +
           '🔍 Yahoo 字典' +
         '</a>' +
       '</div>' +
@@ -335,12 +385,24 @@ function search(){
   showNotFound(t);
 }
 
-/* 點選原生 ✖ 清除輸入框時自動重設首頁 */
-q.addEventListener('search', function(){
-  if(!q.value){
-    showMsg('🐣','你好！輸入英文單字，我來告訴你意思和怎麼唸。');
+/* 判斷並切換清除按鈕的顯示/隱藏 */
+function updateClearBtn(){
+  if (bclear) {
+    bclear.style.display = q.value.trim().length ? 'block' : 'none';
   }
-});
+}
+
+q.addEventListener('input', updateClearBtn);
+q.addEventListener('keyup', updateClearBtn);
+q.addEventListener('change', updateClearBtn);
+
+/* 點擊自訂清除按鈕：清空文字、隱藏按鈕、重設畫面並聚焦輸入框 */
+bclear.onclick = function(){
+  q.value = '';
+  updateClearBtn();
+  showMsg('🐣','你好！輸入英文單字，我來告訴你意思和怎麼唸。');
+  q.focus();
+};
 
 $('go').onclick = search;
 q.addEventListener('keydown', function(e){ if(e.keyCode === 13 || e.key === 'Enter') search(); });
