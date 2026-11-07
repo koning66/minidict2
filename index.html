@@ -36,7 +36,7 @@ h1{margin:0 auto 20px;text-align:center;font-size:2.8rem;font-weight:800;line-he
 .input-box{position:relative;flex:1;display:flex;align-items:center}
 .search input{width:100%;min-width:0;font:inherit;font-size:1.25rem;padding:12px 46px 12px 20px;border:4px solid #FFFFFF;border-radius:999px;background:#FFFFFF;color:#0F6F6B;outline:none;-webkit-appearance:none}
 
-/* 徹底隱藏瀏覽器原生取消鍵，保證不會出現兩個 ✖ */
+/* 徹底隱藏瀏覽器原生取消鍵，保證不出現雙重叉叉 */
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration{
   -webkit-appearance:none;
@@ -148,7 +148,8 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
   
   <div class="search">
     <div class="input-box">
-      <input id="q" type="search" placeholder="輸入英文單字，例如 apple" autocomplete="off" autocapitalize="none" spellcheck="false">
+      <!-- 關閉自動校正 autocorrect="off" -->
+      <input id="q" type="search" placeholder="輸入英文單字，例如 apple" autocomplete="off" autocorrect="off" autocapitalize="none" spellcheck="false">
       <button class="clear-btn" id="bclear" type="button" aria-label="清除輸入">✕</button>
     </div>
     <button class="go" id="go">查詢</button>
@@ -283,7 +284,7 @@ function speak(text){
   } catch(e) {}
 }
 
-/* 查到單字時呈現：單字卡片 + 下方獨立的 Yahoo 延伸查詢捷徑 */
+/* 查到單字時：例句卡片下方獨立帶有 Yahoo 字典捷徑按鈕 */
 function showWord(d){
   q.value = d.w;
   updateClearBtn();
@@ -329,17 +330,12 @@ function renderNear(d){
   $('near').style.display = 'block';
 }
 
-function showMsg(emoji, text, list){
+function showMsg(emoji, text){
   $('near').style.display = 'none';
-  var sugHtml = (list && list.length) ? '<div class="sugs"></div>' : '';
-  stage.innerHTML = '<div class="card msg"><span class="emoji">' + emoji + '</span><p>' + text + '</p>' + sugHtml + '</div>';
-  if(list && list.length){
-    var box = stage.querySelector('.sugs');
-    for(var i = 0; i < list.length; i++) box.appendChild(chip(list[i]));
-  }
+  stage.innerHTML = '<div class="card msg"><span class="emoji">' + emoji + '</span><p>' + text + '</p></div>';
 }
 
-/* 查無收錄時呈現：跳出放大鏡卡片，提供 Yahoo 字典捷徑 */
+/* 查無收錄時：跳出放大鏡詢問卡片，提供 Yahoo 字典捷徑按鈕 */
 function showNotFound(word){
   $('near').style.display = 'none';
   var encodedWord = encodeURIComponent(word);
@@ -366,22 +362,18 @@ function chip(d){
   return b;
 }
 
+/* 移除所有自動猜字與模糊比對，改為嚴格精確查詢 */
 function search(){
   var t = q.value.trim().toLowerCase();
   if(!t){ showMsg('🔍','先輸入一個英文單字吧！'); return; }
+  
   var hit = DB.find(function(d){ return d.w === t; });
-  if(hit){ showWord(hit); return; }
-  
-  var near = [];
-  for(var i = 0; i < DB.length; i++){
-    if(DB[i].w.indexOf(t) === 0 || DB[i].zh.indexOf(t) !== -1){
-      near.push(DB[i]);
-      if(near.length >= 8) break;
-    }
+  if(hit){ 
+    showWord(hit); 
+    return; 
   }
-  if(near.length === 1){ showWord(near[0]); return; }
-  if(near.length){ showMsg('🤔','你是想找這些字嗎？', near); return; }
   
+  // 只要查無完全符合的單字，直接進入 Yahoo 字典捷徑畫面
   showNotFound(t);
 }
 
