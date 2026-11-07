@@ -2177,3 +2177,82 @@ var WORDS = [
   {"w": "zipper", "ph": "/ˈzɪp.ɚ/", "pos": "n.", "zh": "拉鍊", "ex": "The backpack zipper is stuck.", "exzh": "背包拉鍊卡住了。", "emoji": "🤐", "pic": "", "單字": "zipper", "音標": "/ˈzɪp.ɚ/", "詞性": "n.", "中文意思": "拉鍊", "英文例句": "The backpack zipper is stuck.", "例句中文": "背包拉鍊卡住了。", "表情符號": "🤐", "圖片": "", "em": "🤐", "icon": "🤐", "img": "", "photo": "", "image": ""},
   {"w": "zoo", "ph": "/zuː/", "pos": "n.", "zh": "動物園", "ex": "We see monkeys at the zoo.", "exzh": "我們在動物園裡看到猴子。", "emoji": "🦁", "pic": "", "單字": "zoo", "音標": "/zuː/", "詞性": "n.", "中文意思": "動物園", "英文例句": "We see monkeys at the zoo.", "例句中文": "我們在動物園裡看到猴子。", "表情符號": "🦁", "圖片": "", "em": "🦁", "icon": "🦁", "img": "", "photo": "", "image": ""},
 ];
+var DB = WORDS;
+var imported = WORDS;
+var wordsData = WORDS;
+
+// ==========================================
+// 圖片與圖示自動防錯補丁 (徹底解決 undefined 問題 - 舊版 iPad 相容版)
+// ==========================================
+(function() {
+  function getSafeEmojiHtml(d) {
+    var emo = (d && (d.emoji || d.em || d.icon || d['表情符號'])) || '📓';
+    return '<div class="pic emoji">' + emo + '</div>';
+  }
+
+  // 攔截並包裝全域 pic 函式
+  if (typeof window.pic === 'function') {
+    var _originalPic = window.pic;
+    window.pic = function(d) {
+      try {
+        var res = _originalPic(d);
+        if (!res || res === 'undefined' || typeof res === 'undefined' || res.indexOf('undefined') !== -1) {
+          return getSafeEmojiHtml(d);
+        }
+        return res;
+      } catch(e) {
+        return getSafeEmojiHtml(d);
+      }
+    };
+  } else {
+    window.pic = function(d) {
+      if (d && d.pic) return '<div class="pic"><img src="' + d.pic + '"></div>';
+      return getSafeEmojiHtml(d);
+    };
+  }
+
+  // 攔截 showWord 確保 stage.innerHTML 裡絕不出現 undefined (移除 ?. 語法)
+  if (typeof window.showWord === 'function') {
+    var _originalShowWord = window.showWord;
+    window.showWord = function(d) {
+      _originalShowWord(d);
+      var stage = document.getElementById('stage') || document.querySelector('.stage');
+      if (!stage) {
+        var card = document.querySelector('article.card');
+        if (card && card.parentElement) {
+          stage = card.parentElement;
+        }
+      }
+      if (stage && stage.innerHTML.indexOf('undefined') !== -1) {
+        stage.innerHTML = stage.innerHTML.replace(/>\s*undefined\s*</g, '>' + getSafeEmojiHtml(d) + '<');
+      }
+    };
+  }
+})();
+
+// 同步資料並更新畫面單字數量 (使用傳統 for 迴圈相容舊版 NodeList)
+function syncOldIpadWords() {
+  if (typeof DB !== 'undefined') DB = WORDS;
+  if (typeof imported !== 'undefined') imported = WORDS;
+
+  // 更新計數 (改用所有瀏覽器都相容的 for 迴圈)
+  var countSpans = document.querySelectorAll('.word-count, span, div');
+  for (var i = 0; i < countSpans.length; i++) {
+    var el = countSpans[i];
+    if (el.children.length === 0 && el.textContent.indexOf('個單字') !== -1) {
+      el.textContent = '共 ' + WORDS.length + ' 個單字';
+    }
+  }
+
+  if (typeof updateStats === 'function') updateStats();
+  if (typeof updateWordCount === 'function') updateWordCount();
+  if (typeof renderList === 'function') renderList();
+}
+
+// 支援舊版事件綁定
+if (window.addEventListener) {
+  window.addEventListener('DOMContentLoaded', syncOldIpadWords, false);
+  window.addEventListener('load', syncOldIpadWords, false);
+} else if (window.attachEvent) {
+  window.attachEvent('onload', syncOldIpadWords);
+}
