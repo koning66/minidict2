@@ -5,17 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>MiniDict</title>
 
-<!-- 胖胖字體 Baloo 2 -->
+<!-- 胖胖字體 -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&display=swap" rel="stylesheet">
 
 <!-- iPad / iPhone 加入主畫面桌面圖示設定 -->
-<link rel="apple-touch-icon" href="https://koning66.github.io/minidict2/apple-touch-icon.png?v=2">
-<link rel="apple-touch-icon-precomposed" href="https://koning66.github.io/minidict2/apple-touch-icon.png?v=2">
-<link rel="apple-touch-icon" sizes="152x152" href="https://koning66.github.io/minidict2/apple-touch-icon.png?v=2">
-<link rel="apple-touch-icon" sizes="76x76" href="https://koning66.github.io/minidict2/apple-touch-icon.png?v=2">
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://koning66.github.io/minidict2/apple-touch-icon.png?v=2">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="MiniDict">
@@ -26,9 +22,7 @@ html{height:100%}
 body{margin:0;min-height:100%;background:#F8F4EC;color:#0F6F6B;
   font-family:"Baloo 2","Hiragino Maru Gothic ProN","PingFang TC","Microsoft JhengHei","Noto Sans TC",Helvetica,Arial,sans-serif}
 main{max-width:640px;margin:0 auto;padding:20px 16px 40px}
-
-/* 圖案縮小 20%（108px），維持等比例與置中 */
-.logo{display:block;margin:12px auto 6px;width:108px;height:auto}
+.logo{display:block;margin:4px auto 0;width:112px;height:auto}
 h1{margin:0 auto 20px;text-align:center;font-size:2.8rem;font-weight:800;line-height:1.1;color:#0F6F6B}
 
 .search{display:flex;gap:8px}
@@ -39,6 +33,7 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
 .tbtn{border-radius:999px;background:#DADBF6;padding:5px 14px;font-size:.95rem;font-weight:800}
 #status{color:#3F7F7B;font-size:.9rem}
 
+/* 隱形但不阻礙觸發的檔案輸入框 */
 #file{position:fixed;top:-1000px;left:-1000px;opacity:0}
 
 .stage{margin-top:22px;min-height:260px}
@@ -64,18 +59,41 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
 .chip{border-radius:999px;padding:7px 14px;font-size:1.05rem;font-weight:800;background:#DADBF6}
 .chip:nth-child(3n+1){background:#F0D3CB}.chip:nth-child(3n+2){background:#BFE2D3}.chip:nth-child(3n){background:#DADBF6}
 .chip.now{background:#3F42C8;color:#FFFFFF}
+
+/* 網路字典捷徑按鈕樣式 */
+.ext-dict-box{
+  margin-top:18px;
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+  align-items:center;
+}
+.ext-dict-btn{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  gap:6px;
+  background:#3F42C8;
+  color:#FFFFFF !important;
+  text-decoration:none;
+  font-size:1.05rem;
+  font-weight:800;
+  padding:10px 24px;
+  border-radius:999px;
+  transition:opacity .2s;
+  box-shadow:0 2px 6px rgba(0,0,0,0.1);
+}
+.ext-dict-btn.yahoo{
+  background:#7B1FA2;
+}
+.ext-dict-btn:active{
+  opacity:0.8;
+}
 </style>
 </head>
 <body>
 <main>
-  <!-- 自訂向量圖示（已依需求縮小 20%） -->
-  <svg class="logo" viewBox="0 0 9785.9 9840.58" aria-hidden="true">
-    <g>
-      <path fill="#B9E1D0" d="M936.05 6065.68c-420.58,245.34 -794.42,23.38 -922.94,759.38 -128.51,736.01 724.33,560.77 969.66,560.77 245.34,0 619.18,-93.46 619.18,-93.46 0,0 917.8,2840.91 1705.67,2523.46 787.88,-317.45 642.55,-1051.45 572.45,-1191.64 -70.09,-140.19 -654.22,-1957.86 -654.22,-1957.86l560.77 -308.58c482.96,-265.77 248.45,-927.82 -210.28,-934.62 -647.84,-9.63 -1320.15,103.72 -1320.15,-782.74 0,-175.24 -93.46,-712.65 303.75,-981.35 397.21,-268.7 665.91,-198.61 759.37,-852.83 91.92,-643.49 -422.74,-1104.8 -1102.22,-953.79 -487.19,108.28 -1238.37,166.13 -1427.27,1533.56 -112.72,816.01 477.53,2486.44 146.22,2679.7z"/>
-      <path fill="#413CCC" d="M4473.54 3688.39c33.73,305.82 702.42,622.79 955.56,451.28 309.72,-209.8 719.68,-1304.84 1179.27,-1215.55 326.13,130.59 -45.72,976.72 409.47,1143.61 195.18,71.59 884.47,227.79 1055.99,85.48 595.91,-494.54 151.52,-3174.91 -263.81,-3727.96 -313.73,-265.4 -550.1,-527.92 -1014.89,-384.81 -868.19,267.31 -2408.58,2859.3 -2321.59,3647.95z"/>
-      <path fill="#E1B4A6" d="M8865.13 7125.74c241.46,-56.73 367.57,-226.62 450.3,-446.26 601.35,-1597.05 -2201.72,-2167.92 -3472.92,-603.08 -2568.19,3161.37 3785.65,4303.58 3937.47,2237.84 60.37,-821.54 -348.32,-956 -914.85,-1188.5z"/>
-    </g>
-  </svg>
+  <svg class="logo" viewBox="0 0 120 94" aria-hidden="true"><path d="M18 64A40 40 0 0 1 92 42" fill="none" stroke="#3F42C8" stroke-width="9" stroke-linecap="round"/><rect x="38" y="34" width="32" height="34" rx="14" fill="#E3B3A8" transform="rotate(-18 54 51)"/><circle cx="90" cy="64" r="8" fill="#EE7650"/><rect x="30" y="77" width="62" height="9" rx="4.5" fill="#BFE2D3"/></svg>
   <h1>MiniDict</h1>
   
   <div class="search">
@@ -97,7 +115,7 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
   </section>
 </main>
 
-<!-- 外連獨立單字檔 -->
+<!-- 引入外部單字檔 -->
 <script src="words.js"></script>
 
 <script>
@@ -110,6 +128,7 @@ if (!Array.prototype.find) {
   };
 }
 
+/* 防呆機制：若外部 words.js 尚未加載完成，安全預設為空陣列 */
 if (typeof WORDS === 'undefined') {
   var WORDS = [];
 }
@@ -242,6 +261,29 @@ function showMsg(emoji, text, list){
   }
 }
 
+/* 顯示未收錄與外部字典捷徑卡片 */
+function showNotFound(word){
+  $('near').style.display = 'none';
+  var encodedWord = encodeURIComponent(word);
+  var googleUrl = 'https://www.google.com/search?q=' + encodedWord + '+%E7%BF%BB%E8%AD%AF';
+  var yahooUrl = 'https://tw.dictionary.search.yahoo.com/search?p=' + encodedWord;
+
+  stage.innerHTML = 
+    '<article class="card msg">' +
+      '<span class="emoji">🔍</span>' +
+      '<h3 style="margin:10px 0 6px; font-size:1.4rem; color:#0F6F6B;">這個字尚未收錄</h3>' +
+      '<p style="margin:0 0 14px; opacity:0.85; font-size:1.1rem;">是否連接網路字典查詢「<b>' + esc(word) + '</b>」？</p>' +
+      '<div class="ext-dict-box">' +
+        '<a class="ext-dict-btn" href="' + googleUrl + '" target="_blank" rel="noopener noreferrer">' +
+          '🔍 Google 字典' +
+        '</a>' +
+        '<a class="ext-dict-btn yahoo" href="' + yahooUrl + '" target="_blank" rel="noopener noreferrer">' +
+          '🔍 Yahoo 字典' +
+        '</a>' +
+      '</div>' +
+    '</article>';
+}
+
 function chip(d){
   var b = document.createElement('button');
   b.className = 'chip';
@@ -265,7 +307,9 @@ function search(){
   }
   if(near.length === 1){ showWord(near[0]); return; }
   if(near.length){ showMsg('🤔','你是想找這些字嗎？', near); return; }
-  showMsg('🐣','這個字還沒有收進來，試試下面的單字，或檢查拼字。');
+  
+  /* 查無單字時，改跳出網路字典捷徑 */
+  showNotFound(t);
 }
 
 q.addEventListener('search', function(){
