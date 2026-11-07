@@ -16,9 +16,27 @@
 <link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon.png">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="MiniDict">
+
+<!-- 新舊設備分流判斷腳本：老舊 iOS 不開啟全螢幕以保留上一頁鍵，新設備與手機維持獨立 App -->
+<script>
+(function() {
+  var ua = navigator.userAgent;
+  // 檢測是否為老舊 iOS (iOS 9 ~ 10)
+  var isOldIOS = /iPad|iPhone|iPod/.test(ua) && /OS [1-9]_\d|OS 10_\d/.test(ua);
+  if (!isOldIOS) {
+    var metaCapable = document.createElement('meta');
+    metaCapable.name = 'apple-mobile-web-app-capable';
+    metaCapable.content = 'yes';
+    document.getElementsByTagName('head')[0].appendChild(metaCapable);
+
+    var metaStatus = document.createElement('meta');
+    metaStatus.name = 'apple-mobile-web-app-status-bar-style';
+    metaStatus.content = 'default';
+    document.getElementsByTagName('head')[0].appendChild(metaStatus);
+  }
+})();
+</script>
 
 <style>
 *{box-sizing:border-box}
@@ -148,7 +166,7 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
   
   <div class="search">
     <div class="input-box">
-      <!-- 關閉自動校正 autocorrect="off" -->
+      <!-- 關閉自動校正與鍵盤自動選字 -->
       <input id="q" type="search" placeholder="輸入英文單字，例如 apple" autocomplete="off" autocorrect="off" autocapitalize="none" spellcheck="false">
       <button class="clear-btn" id="bclear" type="button" aria-label="清除輸入">✕</button>
     </div>
@@ -191,18 +209,6 @@ var stage = $('stage'), q = $('q'), bclear = $('bclear');
 var IMG_BASE = 'img/';
 var POS_ICON = {'n.':'📝','v.':'🏃','adj.':'✨','adv.':'🎈','prep.':'📍','pron.':'👤','conj.':'🔗','num.':'🔢'};
 var STORE_KEY = 'kidsdict-imported-v1';
-
-/* 克服 iPad 桌面 App (WebClip) 無法另開分頁的轉址函式 */
-function openExt(e, url){
-  var isStandalone = (window.navigator && window.navigator.standalone) || 
-                     (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches);
-  if (isStandalone) {
-    if (e && e.preventDefault) e.preventDefault();
-    window.location.href = url;
-    return false;
-  }
-  return true;
-}
 
 function toEntry(r){
   var s = function(i){ return String(r[i] == null ? '' : r[i]).trim(); };
@@ -284,7 +290,7 @@ function speak(text){
   } catch(e) {}
 }
 
-/* 查到單字時：例句卡片下方獨立帶有 Yahoo 字典捷徑按鈕 */
+/* 查到單字時：例句卡片下方提供 Yahoo 字典捷徑按鈕 */
 function showWord(d){
   q.value = d.w;
   updateClearBtn();
@@ -303,7 +309,7 @@ function showWord(d){
         '<div><p class="en">' + esc(d.ex) + '</p><p class="cn">' + esc(d.exzh) + '</p></div></div>' +
     '</article>' +
     '<div class="ext-dict-card">' +
-      '<a class="ext-dict-btn" href="' + yahooUrl + '" target="_blank" rel="noopener noreferrer" onclick="return openExt(event, \'' + yahooUrl + '\')">' +
+      '<a class="ext-dict-btn" href="' + yahooUrl + '" target="_blank" rel="noopener noreferrer">' +
         '🔍 Yahoo 字典' +
       '</a>' +
     '</div>';
@@ -347,7 +353,7 @@ function showNotFound(word){
       '<h3 style="margin:10px 0 6px; font-size:1.4rem; color:#0F6F6B;">這個字尚未收錄</h3>' +
       '<p style="margin:0 0 14px; opacity:0.85; font-size:1.1rem;">是否連接網路字典查詢「<b>' + esc(word) + '</b>」？</p>' +
       '<div class="ext-dict-box-vertical">' +
-        '<a class="ext-dict-btn" href="' + yahooUrl + '" target="_blank" rel="noopener noreferrer" onclick="return openExt(event, \'' + yahooUrl + '\')">' +
+        '<a class="ext-dict-btn" href="' + yahooUrl + '" target="_blank" rel="noopener noreferrer">' +
           '🔍 Yahoo 字典' +
         '</a>' +
       '</div>' +
@@ -362,7 +368,7 @@ function chip(d){
   return b;
 }
 
-/* 移除所有自動猜字與模糊比對，改為嚴格精確查詢 */
+/* 精確比對查詢：移除所有自動猜字與模糊跳轉 */
 function search(){
   var t = q.value.trim().toLowerCase();
   if(!t){ showMsg('🔍','先輸入一個英文單字吧！'); return; }
@@ -373,11 +379,10 @@ function search(){
     return; 
   }
   
-  // 只要查無完全符合的單字，直接進入 Yahoo 字典捷徑畫面
   showNotFound(t);
 }
 
-/* 判斷並切換清除按鈕的顯示/隱藏 */
+/* 控制唯一清除按鈕的顯示/隱藏 */
 function updateClearBtn(){
   if (bclear) {
     bclear.style.display = q.value.trim().length ? 'block' : 'none';
