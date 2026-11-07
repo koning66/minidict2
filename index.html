@@ -10,7 +10,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&display=swap" rel="stylesheet">
 
-<!-- iPad / iPhone 桌面圖示設定 -->
+<!-- iPad / iPhone 加入主畫面桌面圖示設定 -->
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="apple-touch-icon-precomposed" href="apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon.png">
@@ -26,7 +26,9 @@ html{height:100%}
 body{margin:0;min-height:100%;background:#F8F4EC;color:#0F6F6B;
   font-family:"Baloo 2","Hiragino Maru Gothic ProN","PingFang TC","Microsoft JhengHei","Noto Sans TC",Helvetica,Arial,sans-serif}
 main{max-width:640px;margin:0 auto;padding:20px 16px 40px}
-.logo{display:block;margin:4px auto 0;width:112px;height:auto}
+
+/* Logo 圖案與 MiniDict 標題比例調整 */
+.logo{display:block;margin:12px auto 8px;width:135px;height:auto}
 h1{margin:0 auto 20px;text-align:center;font-size:2.8rem;font-weight:800;line-height:1.1;color:#0F6F6B}
 
 .search{display:flex;gap:8px}
@@ -66,7 +68,14 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
 </head>
 <body>
 <main>
-  <svg class="logo" viewBox="0 0 120 94" aria-hidden="true"><path d="M18 64A40 40 0 0 1 92 42" fill="none" stroke="#3F42C8" stroke-width="9" stroke-linecap="round"/><rect x="38" y="34" width="32" height="34" rx="14" fill="#E3B3A8" transform="rotate(-18 54 51)"/><circle cx="90" cy="64" r="8" fill="#EE7650"/><rect x="30" y="77" width="62" height="9" rx="4.5" fill="#BFE2D3"/></svg>
+  <!-- 自訂向量圖示（已校正比例與視圖） -->
+  <svg class="logo" viewBox="0 0 9785.9 9840.58" aria-hidden="true">
+    <g>
+      <path fill="#B9E1D0" d="M936.05 6065.68c-420.58,245.34 -794.42,23.38 -922.94,759.38 -128.51,736.01 724.33,560.77 969.66,560.77 245.34,0 619.18,-93.46 619.18,-93.46 0,0 917.8,2840.91 1705.67,2523.46 787.88,-317.45 642.55,-1051.45 572.45,-1191.64 -70.09,-140.19 -654.22,-1957.86 -654.22,-1957.86l560.77 -308.58c482.96,-265.77 248.45,-927.82 -210.28,-934.62 -647.84,-9.63 -1320.15,103.72 -1320.15,-782.74 0,-175.24 -93.46,-712.65 303.75,-981.35 397.21,-268.7 665.91,-198.61 759.37,-852.83 91.92,-643.49 -422.74,-1104.8 -1102.22,-953.79 -487.19,108.28 -1238.37,166.13 -1427.27,1533.56 -112.72,816.01 477.53,2486.44 146.22,2679.7z"/>
+      <path fill="#413CCC" d="M4473.54 3688.39c33.73,305.82 702.42,622.79 955.56,451.28 309.72,-209.8 719.68,-1304.84 1179.27,-1215.55 326.13,130.59 -45.72,976.72 409.47,1143.61 195.18,71.59 884.47,227.79 1055.99,85.48 595.91,-494.54 151.52,-3174.91 -263.81,-3727.96 -313.73,-265.4 -550.1,-527.92 -1014.89,-384.81 -868.19,267.31 -2408.58,2859.3 -2321.59,3647.95z"/>
+      <path fill="#E1B4A6" d="M8865.13 7125.74c241.46,-56.73 367.57,-226.62 450.3,-446.26 601.35,-1597.05 -2201.72,-2167.92 -3472.92,-603.08 -2568.19,3161.37 3785.65,4303.58 3937.47,2237.84 60.37,-821.54 -348.32,-956 -914.85,-1188.5z"/>
+    </g>
+  </svg>
   <h1>MiniDict</h1>
   
   <div class="search">
