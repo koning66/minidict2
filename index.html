@@ -86,7 +86,9 @@ input[type="search"]::-webkit-search-decoration{
 
 button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:none}
 .go{background:#3F42C8;color:#FFFFFF;border-radius:999px;padding:10px 22px;font-size:1.1rem;font-weight:800;flex:none}
-.tools{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:center;margin:14px auto 0;background:#FFFFFF;border-radius:999px;padding:6px 12px;width:fit-content;max-width:100%}
+
+/* 移至最底部的工具列樣式微調 */
+.tools{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:center;margin:28px auto 0;background:#FFFFFF;border-radius:999px;padding:6px 12px;width:fit-content;max-width:100%}
 .tbtn{border-radius:999px;background:#DADBF6;padding:5px 14px;font-size:.95rem;font-weight:800}
 #status{color:#3F7F7B;font-size:.9rem}
 
@@ -167,17 +169,10 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
   <div class="search">
     <div class="input-box">
       <!-- 關閉自動校正與鍵盤自動選字 -->
-      <input id="q" type="search" placeholder="輸入英文單字" autocomplete="off" autocorrect="off" autocapitalize="none" spellcheck="false">
+      <input id="q" type="search" placeholder="想查什麼單字？" autocomplete="off" autocorrect="off" autocapitalize="none" spellcheck="false">
       <button class="clear-btn" id="bclear" type="button" aria-label="清除輸入">✕</button>
     </div>
     <button class="go" id="go">查詢</button>
-  </div>
-
-  <div class="tools">
-    <button class="tbtn" id="imp" type="button">📂 匯入單字</button>
-    <button class="tbtn" id="clear" type="button" style="display:none">🧹 清除匯入</button>
-    <input id="file" type="file" accept=".csv,.json,.txt">
-    <span id="status"></span>
   </div>
   
   <section class="stage" id="stage"></section>
@@ -185,6 +180,14 @@ button{font:inherit;cursor:pointer;color:#0F6F6B;border:0;-webkit-appearance:non
     <h2>附近的單字</h2>
     <div class="chips" id="chips"></div>
   </section>
+
+  <!-- 移至畫面最下方的匯入工具列（平時與查詢後皆在最底端） -->
+  <div class="tools">
+    <button class="tbtn" id="imp" type="button">📂 匯入單字</button>
+    <button class="tbtn" id="clear" type="button" style="display:none">🧹 清除匯入</button>
+    <input id="file" type="file" accept=".csv,.json,.txt">
+    <span id="status"></span>
+  </div>
 </main>
 
 <!-- 外連獨立單字檔 -->
@@ -209,6 +212,18 @@ var stage = $('stage'), q = $('q'), bclear = $('bclear');
 var IMG_BASE = 'img/';
 var POS_ICON = {'n.':'📝','v.':'🏃','adj.':'✨','adv.':'🎈','prep.':'📍','pron.':'👤','conj.':'🔗','num.':'🔢'};
 var STORE_KEY = 'kidsdict-imported-v1';
+
+/* 克服 iPad 桌面 App (WebClip) 無法另開分頁的轉址函式 */
+function openExt(e, url){
+  var isStandalone = (window.navigator && window.navigator.standalone) || 
+                     (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches);
+  if (isStandalone) {
+    if (e && e.preventDefault) e.preventDefault();
+    window.location.href = url;
+    return false;
+  }
+  return true;
+}
 
 function toEntry(r){
   var s = function(i){ return String(r[i] == null ? '' : r[i]).trim(); };
@@ -309,7 +324,7 @@ function showWord(d){
         '<div><p class="en">' + esc(d.ex) + '</p><p class="cn">' + esc(d.exzh) + '</p></div></div>' +
     '</article>' +
     '<div class="ext-dict-card">' +
-      '<a class="ext-dict-btn" href="' + yahooUrl + '" target="_blank" rel="noopener noreferrer">' +
+      '<a class="ext-dict-btn" href="' + yahooUrl + '" target="_blank" rel="noopener noreferrer" onclick="return openExt(event, \'' + yahooUrl + '\')">' +
         '🔍 Yahoo 字典' +
       '</a>' +
     '</div>';
@@ -353,7 +368,7 @@ function showNotFound(word){
       '<h3 style="margin:10px 0 6px; font-size:1.4rem; color:#0F6F6B;">這個字尚未收錄</h3>' +
       '<p style="margin:0 0 14px; opacity:0.85; font-size:1.1rem;">是否連接網路字典查詢「<b>' + esc(word) + '</b>」？</p>' +
       '<div class="ext-dict-box-vertical">' +
-        '<a class="ext-dict-btn" href="' + yahooUrl + '" target="_blank" rel="noopener noreferrer">' +
+        '<a class="ext-dict-btn" href="' + yahooUrl + '" target="_blank" rel="noopener noreferrer" onclick="return openExt(event, \'' + yahooUrl + '\')">' +
           '🔍 Yahoo 字典' +
         '</a>' +
       '</div>' +
@@ -397,7 +412,7 @@ q.addEventListener('change', updateClearBtn);
 bclear.onclick = function(){
   q.value = '';
   updateClearBtn();
-  showMsg('🐣','你好！輸入英文單字，我來告訴你意思和怎麼唸。');
+  showMsg('🤖','Hello!我是你的小助手！');
   q.focus();
 };
 
@@ -443,7 +458,7 @@ $('clear').onclick = function(){
 };
 
 rebuild();
-showMsg('🐣','你好！輸入英文單字，我來告訴你意思和怎麼唸。');
+showMsg('🤖','Hello!我是你的小助手！');
 </script>
 </body>
 </html>
