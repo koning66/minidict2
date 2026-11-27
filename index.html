@@ -310,12 +310,13 @@ function esc(t){
 }
 
 function pic(d){
-  var emo = '<span class="emoji" aria-hidden="true"' + (d.img ? ' style="display:none"' : '') + '>' + esc(d.em) + '</span>';
+  var safeEmo = (d && (d.em || d.emoji || d.icon || d['表情符號'])) || '📓';
+  var emo = '<span class="emoji" aria-hidden="true"' + (d.img ? ' style="display:none"' : '') + '>' + esc(safeEmo) + '</span>';
   if(!d.img) return emo;
   var src = /^(data:|https?:|\/)/.test(d.img) ? d.img : (IMG_BASE + d.img);
   return '<img class="pic" src="' + esc(src) + '" alt="" onerror="this.style.display=\'none\';this.nextSibling.style.display=\'block\'">' + emo;
 }
-
+  
 function speak(text){
   try {
     var s = window.speechSynthesis;
