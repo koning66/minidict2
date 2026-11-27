@@ -52244,6 +52244,79 @@ var WORDS = [
     "image": ""
   }
 ];
+
 var DB = WORDS;
 var imported = WORDS;
 var wordsData = WORDS;
+
+// ==========================================
+// 圖片與圖示自動防錯補丁 (徹底解決 undefined 問題 - 舊版 iPad 相容版)
+// ==========================================
+(function() {
+  function getSafeEmojiHtml(d) {
+    var emo = (d && (d.emoji || d.em || d.icon || d['表情符號'])) || '📓';
+    return '<div class="pic emoji">' + emo + '</div>';
+  }
+
+  if (typeof window.pic === 'function') {
+    var _originalPic = window.pic;
+    window.pic = function(d) {
+      try {
+        var res = _originalPic(d);
+        if (!res || res === 'undefined' || typeof res === 'undefined' || res.indexOf('undefined') !== -1) {
+          return getSafeEmojiHtml(d);
+        }
+        return res;
+      } catch(e) {
+        return getSafeEmojiHtml(d);
+      }
+    };
+  } else {
+    window.pic = function(d) {
+      if (d && d.pic) return '<div class="pic"><img src="' + d.pic + '"></div>';
+      return getSafeEmojiHtml(d);
+    };
+  }
+
+  if (typeof window.showWord === 'function') {
+    var _originalShowWord = window.showWord;
+    window.showWord = function(d) {
+      _originalShowWord(d);
+      var stage = document.getElementById('stage') || document.querySelector('.stage');
+      if (!stage) {
+        var card = document.querySelector('article.card');
+        if (card && card.parentElement) {
+          stage = card.parentElement;
+        }
+      }
+      if (stage && stage.innerHTML.indexOf('undefined') !== -1) {
+        stage.innerHTML = stage.innerHTML.replace(/>\s*undefined\s*</g, '>' + getSafeEmojiHtml(d) + '<');
+      }
+    };
+  }
+})();
+
+// 同步資料並更新畫面單字數量 (使用傳統 for 迴圈相容舊版 NodeList)
+function syncOldIpadWords() {
+  if (typeof DB !== 'undefined') DB = WORDS;
+  if (typeof imported !== 'undefined') imported = WORDS;
+
+  var countSpans = document.querySelectorAll('.word-count, span, div, #status');
+  for (var i = 0; i < countSpans.length; i++) {
+    var el = countSpans[i];
+    if (el.children.length === 0 && (el.textContent.indexOf('個單字') !== -1 || el.id === 'status')) {
+      el.textContent = '共 ' + WORDS.length + ' 個單字';
+    }
+  }
+
+  if (typeof updateStats === 'function') updateStats();
+  if (typeof updateWordCount === 'function') updateWordCount();
+  if (typeof renderList === 'function') renderList();
+}
+
+if (window.addEventListener) {
+  window.addEventListener('DOMContentLoaded', syncOldIpadWords, false);
+  window.addEventListener('load', syncOldIpadWords, false);
+} else if (window.attachEvent) {
+  window.attachEvent('onload', syncOldIpadWords);
+}
